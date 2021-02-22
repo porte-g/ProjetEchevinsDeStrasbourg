@@ -1,0 +1,30 @@
+Une Source mentionne (1,n) Personne.
+Une Personne est mentionnée dans (1,n) Source.
+
+Une Personne occupe (0,n) Fonction au sein de (0,n) Institution.
+Une Institution a (1,n) Fonction occupée par (1,n) Personne.
+Une Fonction est occupée par (1,n) Personne au sein de (1,n) Institution.
+
+Une Personne est échevin de (1) Corporation au sein de (0,n) Poêle.
+Une Corporation compte (n) Personne en tant qu'échevin réparti entre (0,n) Poêle.
+
+Une Corporation est constituée de (1,n) Poêle.
+Un Poêle appartient à (1) Corporation.
+
+
+###
+Liens que je souhaite mettre en place.
+###
+
+Dans un premier temps j'ai reproduit le schéma auquel nous étions arrivé sur votre éditeur mysql sur yedlive.
+
+Modifier le lien "cite" entre Source et Personne pour exprimer qu'un individu peut apparaître dans tel lieu dans une source (exemple : [Hanns Manigolt] possède un bien (qu'il habite ou loue) sis [rue de l'Homme de Pierre] dans le [livre des communaux de 1566]).
+
+Je souhaiterais également attribuer une géolocalisation précise (c'est possible dans la majorité des cas) aux entités Poêle. La relation que j'ai schématisée devient donc dans un schéma de base relationnelle une clé étrangère dans l'entité Poêle qui fait référence à une entité Lieu ?
+
+J'ai également transformé la relation binaire 'est-echevin' entre les entité 'Personne' et 'Corporation' en relation ternaire qui lie la relation à l'entité 'Poêle'. Qu'en pensez-vous ? cela doit se lire comme ci-dessus (cf. l. 4-6). Ainsi on peut spécifier le poêle si on sait duquel il s'agit.
+
+J'ai également rajouté le lien métier pour pouvoir exploiter cette donnée lorsque celle-ci est connue :
+Une Personne exerce (0,n) Métier.
+Un Métier est exercé par (1,n) Personne.
+
