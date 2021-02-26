@@ -17,43 +17,56 @@
    </teiHeader>
    <text>
       <body>
-         <div1 n="1">
-            <head>Échevins de la corporation à l'Ancre (bateliers)</head>
-            <p>
-               <lb/>Die schöffele zum Encker
-               <lb/>Item <abbr><roleName>her</roleName> <forename>Obrecht</forename> <surname>Schalck</surname> <roleName>der Ammeister</roleName></abbr>
-               <lb/>Item <persName><forename>Conrat</forename> <surname>Armbruster in Brantgasse</surname></persName>
-               <lb/>Item <persName><forename>Hanns</forename> <surname>Ammelung</surname></persName>
-               <lb/>Item <persName><forename>Reimbolt</forename> <surname>Phige</surname></persName>
-               <lb/>Item <persName><forename>Hanns</forename> <surname>Lumbart</surname></persName>
-               <lb/>Item <persName><forename>Stefan</forename> <surname>Lumbart</surname></persName>
-               <lb/>Item <persName><forename>Reimbolt</forename> Museler</persName>
-               <lb/>Item <persName><forename>Hanns</forename> <surname>Armbruster</surname> <roleName>der Ratsherr</roleName></persName>
-               <lb/>Item <persName><forename>Heinrich</forename> <surname>Kibitz</surname></persName>
-               <lb/>Item <persName><forename>Heinrich</forename> <surname>Bisinger</surname></persName>
-               <lb/>Item <persName><forename>Hanns</forename> <surname>Wissenburg</surname></persName>
-               <lb/>Item <persName><forename>Hanns</forename> <surname>von Leutesheim</surname></persName>
-               <lb/>Item <persName><forename>Jacob</forename> <surname>Hage</surname></persName>
-               <lb/>Item <persName><forename>Cüntzel</forename> <surname>Merckel</surname></persName>
-               <lb/>Item <persName><forename>Frantz</forename> <surname>Berner</surname></persName>
-               <lb/>Item <persName><forename>Heinz</forename> <surname>Jude</surname></persName>
-               <lb/>Item <persName><forename>Jacob</forename> <surname>Ammelung</surname></persName>
-               <lb/>Item <persName><roleName>der Zinsmeister</roleName></persName>
-               <lb/>Die schöffele zum Schiff
-               <lb/>Item <persName><forename>Laulin</forename> <surname>Rebe</surname></persName>
-               <lb/>Item <persName><forename>Hanns</forename> <surname>Schaffener</surname></persName>
-               <lb/>Item <persName><forename>Pantheleon</forename> <surname>Schultheiss</surname></persName>
-               <lb/>Item <persName><forename>Laulin</forename> <surname>Erbe</surname></persName> 
-               <lb/>Item <persName><forename>Hensel</forename> <surname>Rebe</surname></persName>
-               <lb/>Item <persName><surname>Cüne</surname></persName>
-               <lb/>Item <persName><forename>Hensel</forename> <surname>Cüne</surname></persName>
-               <lb/>Item <persName><forename>Heinrich</forename> <surname>Lisen</surname></persName>
-               <lb/>Item <persName><forename>Peter</forename> <surname>Wiss</surname></persName>
-               <lb/>Item <persName><forename>Diebolt</forename> <surname>Dietherich</surname></persName>
-               <lb/>Item <persName><forename>Hanseman</forename> <surname>Jeger</surname></persName>
-               <lb/>Der schöffel zum Holtz Appfel
-               <lb/>Item <persName><forename>Heinz</forename> <surname>Hirse</surname> zum Holtz Appfel</persName>
+         <div1 n="1" type="batelier">
+            <div2 n="1" type="Ancre">
+               <head>Die schöffele zum Encker</head>
+               <p>
+                  <lb/>Item <persName><roleName>her</roleName> <forename>Obrecht</forename> <surname>Schalck</surname> <roleName>der Ammeister</roleName></persName>
+                  <lb/>Item <persName><forename>Conrat</forename> <surname>Armbruster in Brantgasse</surname></persName>
+                  <lb/>Item <persName><forename>Hanns</forename> <surname>Ammelung</surname></persName>
+                  <lb/>Item <persName><forename>Reimbolt</forename> <surname>Phige</surname></persName>
+                  <lb/>Item <persName><forename>Hanns</forename> <surname>Lumbart</surname></persName>
+                  <lb/>Item <persName><forename>Stefan</forename> <surname>Lumbart</surname></persName>
+                  <lb/>Item <persName><forename>Reimbolt</forename> Museler</persName>
+                  <lb/>Item <persName><forename>Hanns</forename> <surname>Armbruster</surname> <roleName>der Ratsherr</roleName></persName>
+                  <lb/>Item <persName><forename>Heinrich</forename> <surname>Kibitz</surname></persName>
+                  <lb/>Item <persName><forename>Heinrich</forename> <surname>Bisinger</surname></persName>
+                  <lb/>Item <persName><forename>Hanns</forename> <surname>Wissenburg</surname></persName>
+                  <lb/>Item <persName><forename>Hanns</forename> <surname>von Leutesheim</surname></persName>
+                  <lb/>Item <persName><forename>Jacob</forename> <surname>Hage</surname></persName>
+                  <lb/>Item <persName><forename>Cüntzel</forename> <surname>Merckel</surname></persName>
+                  <lb/>Item <persName><forename>Frantz</forename> <surname>Berner</surname></persName>
+                  <lb/>Item <persName><forename>Heinz</forename> <surname>Jude</surname></persName>
+                  <lb/>Item <persName><forename>Jacob</forename> <surname>Ammelung</surname></persName>
+                  <lb/>Item <persName><roleName>der Zinsmeister</roleName></persName>
                </p>
+            </div2>
+            <div2 n ="2" type="Bateau">
+            <head>Die schöffele zum Schiff</head>
+               <p>
+                  <lb/>Item <persName><forename>Laulin</forename> <surname>Rebe</surname></persName>
+                  <lb/>Item <persName><forename>Hanns</forename> <surname>Schaffener</surname></persName>
+                  <lb/>Item <persName><forename>Pantheleon</forename> <surname>Schultheiss</surname></persName>
+                  <lb/>Item <persName><forename>Laulin</forename> <surname>Erbe</surname></persName> 
+                  <lb/>Item <persName><forename>Hensel</forename> <surname>Rebe</surname></persName>
+                  <lb/>Item <persName><surname>Cüne</surname></persName>
+                  <lb/>Item <persName><forename>Hensel</forename> <surname>Cüne</surname></persName>
+                  <lb/>Item <persName><forename>Heinrich</forename> <surname>Lisen</surname></persName>
+               </p>
+            </div2>
+            <div2 n="3" type="Cerf">
+               <p>
+                  <lb/>Item <persName><forename>Peter</forename> <surname>Wiss</surname></persName>
+                  <lb/>Item <persName><forename>Diebolt</forename> <surname>Dietherich</surname></persName>
+                  <lb/>Item <persName><forename>Hanseman</forename> <surname>Jeger</surname></persName>
+               </p>
+            </div2>
+            <div2 n="4" type="PommeSauvage">
+               <head>Der schöffel zum Holtz Appfel</head>
+               <p>
+                  <lb/>Item <persName><forename>Heinz</forename> <surname>Hirse</surname> zum Holtz Appfel</persName>
+               </p>
+            </div2>
          </div1>
          <div1 n="2">
             <head>Échevins de la corporation au Miroir (marchands)</head>
