@@ -5,18 +5,8 @@
       <fileDesc>
          <titleStmt>
             <title>Liste d'armement de 1444 : liste de l'échevinat</title>
-            <author>Chancellerie du grand Sénat strasbourgeois</author>
+            <author><orgName>Chancellerie du grand Sénat strasbourgeois</orgName></author>
          </titleStmt>
-         <editionStmt>
-           <p>Première édition électronique, Paris, <date>2021</date> du projet de mémoire</p>
-         </editionStmt>
-         <publicationStmt>
-            <distributor>Hippolyte Souvay</distributor>
-            <p>Publication Information</p>
-            <availability status="free">
-               <p>Dans un cadre de recherche ou d'enseignement</p>
-            </availability>
-         </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
@@ -47,12 +37,561 @@
                </physDesc>
             </msDesc>
          </sourceDesc>
+         <publicationStmt>
+            <distributor>Hippolyte Souvay</distributor>
+            <availability status="free">
+               <p>Dans un cadre de recherche ou d'enseignement</p>
+            </availability>
+         </publicationStmt>
       </fileDesc>
-      <profileDes>
-         <creation>
-            <date>1444</date>
-         </creation>
-      </profileDes>
+      <profileDesc>
+         <langUsage>
+            <language ident="gmh">moyen haut allemand</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>
+         <div1 type="échevins">
+            <div2 type="Corporation_à_l_Ancre">
+               <div3 type="Zum_Encker">
+                  <p>Die schöffele Zum encker<lb/>
+                  Item <persName><roleName>her</roleName> <forename>Obreht</forename> <surname>Schalck</surname></surname> der <roleName>ammeister</roleName></persName><lb/>
+                  Item <persName><forename>Cünrat</forename> <surname>Armbruster In Brantgasse</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Amlung</surname></persName><lb/>
+                  Item <persName><forename>Reimbolt</forename> <surname>Phige</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Lumbart</surname></persName><lb/>
+                  Item <persName><forename>Steffan</forename> <surname>Lumbart</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Armbruster</surname> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Heinrich</forename> <surname>Bisinger</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Wissenburg</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Lutesheim</persName><lb/>
+                  Item <persName><forename>Jacop</forename> <surname>Hage</surname></persName><lb/>
+                  Item <persName><forename>Cüntzel</forename> <surname>Merckel</surname></persName><lb/>
+                  Item <persName><forename>Frantz</forename> <surname>Berner</surname></persName><lb/>
+                  Item <persName><forename>Heintz</forename> <surname>Jude</surname></persName><lb/>
+                  Item <persName><forename>Jacob</forename> <surname>Amlung</surname></persName><lb/>
+                  Item <persName><forename>der</forename> <surname>Zinsmeister</surname></persName></p>
+               </div3>
+               <div3 type="Zum_Schiff">
+                  <p>Züm schiff<lb/>
+                  Item <persName><forename>Laulin</forename> <surname>Rebe</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Schaffener</surname></persName><lb/>
+                  Item <persName><forename>Panteleon</forename> <surname>Schultheiss</surname></persName><lb/>
+                  Item <persName><forename>Lawelin</forename> <surname>Erbe</surname></persName><lb/>
+                  Item <persName><forename>Hensel</forename> <surname>Reb</surname></persName><lb/>
+                  Item <persName><forename>Cüne</forename></persName><lb/>
+                  Item <persName><forename>Hensel</forename> <surname>Cüne</surname></persName><lb/>
+                  Item <persName><forename>Heinrich</forename> <surname>Lise</surname></persName></p>
+               </div3>
+               <div3 type="Zum_Hirtzhorn">
+                  <p>Züm hirtzhorn<lb/>
+                  Item <persName><forename>Peter</forename> <surname>Wiss</surname></persName><lb/>
+                  Item <persName><forename>Diebolt</forename> <surname>Diether</surname></persName><lb/>
+                  Item <persName><forename>Hanseman</forename> <surname>Jeger</surname></persName></p>
+               </div3>
+               <div3 type="Zum_Holtzapfel">
+                  <p>Züm holtzappfel<lb/>
+                  Item <persName><forename>Heintz</forename> <surname>Hirse</surname></persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_au_Miroir">
+               <div3 type="Zum_Spiegel">
+                  <p>Die schöffele Züm Spiegel<lb/>
+                  Item <persName><forename><roleName>her</roleName> Adam Riffe <roleName>altammeister</roleName> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Voltz</surname> <genName>der alte</genName></persName><lb/>
+                  Item <persName><forename>Marx</forename> <surname>Barpfennig</surname></persName><lb/>
+                  Item <persName><forename>Rüdolff</forename> <surname>Barpfennig</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Brucker</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Riffe</surname></persName><lb/>
+                  Item <persName><forename>Andres</forename> <surname>Hapmacher</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Böschwiller</surname></persName><lb/>
+                  Item <persName><forename>Heinrich</forename> <surname>Slempe</surname></persName><lb/>
+                  Item <persName><forename>Bernhart</forename> <surname>Scholle</surname></persName><lb/>
+                  Item <persName><forename>Fridel</forename> <surname>von</surname> Seckingen</persName><lb/>
+                  Item <persName><forename>Jacop</forename> <surname>Wormsser</surname></persName><lb/>
+                  Item <persName><forename>Erhart</forename> <surname>Stange</surname></persName><lb/>
+                  Item <persName><forename>Gilge</forename> <surname>Stange</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Würant</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Menser</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>von</surname> Cölne</persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Northus</persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Arge</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Ofentürer</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Dundenheim</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Dundenheim</surname></persName><lb/>
+                  Item <persName><forename>Steffan</forename> <surname>Sahsse</surname></persName><lb/>
+                  Item <persName><forename>Diebolt</forename> <surname>von</surname> Marle</persName><lb/>
+                  Item <persName><forename>Erhart</forename> <surname>Vilinger</surname></persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_à_la_Fleur">
+               <div3 type="Zur_Blume">
+                  <p>Die Schöffele Zür Blümen<lb/>
+                  Item <persName><forename><roleName>her</roleName> Hanns Meistersheim <roleName>altammeister</roleName> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Wilhelm</forename> <surname>Rotschilt</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Berse</persName><lb/>
+                  Item <persName><forename>Conrat</forename> <surname>von</surname> Berse</persName><lb/>
+                  Item <persName><forename>Wilhelm</forename> <surname>Betscholt</surname></persName><lb/>
+                  Item <persName><forename>Mathis</forename> <surname>von</surname> Hasela</persName><lb/>
+                  Item <persName><forename>Voltz</forename> <surname>Wormsser</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Kalt</surname></persName><lb/>
+                  Item <persName><forename>Jacob</forename> <surname>Volmar</surname></persName><lb/>
+                  Item <persName><forename>Heinrich</forename> <surname>Museler</surname></persName><lb/>
+                  Item <persName><forename>Götze</forename> <surname>Offenburg</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Behtolt</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Lügerlin</surname></persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_au_Fribourgeois">
+               <div3 type="Zum_Freiburger">
+                  <p>Die schöffele züm friburg<lb/>
+                  Item <persName><forename><roleName>her</roleName> Hug Dossenheim <roleName>altammeister</roleName></persName><lb/>
+                  Item <persName><forename>Andres</forename> <surname>Mesener</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Ackenfüs</surname></persName><lb/>
+                  Item <persName><forename>Eberhart</forename> <surname>von</surname> Truhtersheim</persName><lb/>
+                  Item <persName><forename>Erhart</forename> <surname>Bömgarter</surname></persName><lb/>
+                  Item <persName><forename>Stoffelus</forename> <surname>Brüder</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Dossenheim</surname></persName><lb/>
+                  Item <persName><forename>Heinrich</forename> <surname>Stocker</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Bömgarter</surname> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Wilhelm</forename> <surname>von</surname> Schaffoltzheim</persName><lb/>
+                  Item <persName><forename>Fritsch</forename> <surname>von</surname> Hirtingheim</persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_drapiers">
+               <p>Die dücher schöffele<lb/>
+               Item <persName><forename><roleName>her</roleName> Conrat Armbruster <roleName>altammeister</roleName> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Lymer</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Renner</surname> <genName>der alte</genName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Renner</surname> <genName>der junge</genName></persName><lb/>
+               Item <persName><forename>Jacob</forename> <surname>von</surname> Belheim</persName><lb/>
+               Item <persName><forename>Cüne</forename> <surname>Düringer</surname> <genName>der alte</genName></persName><lb/>
+               Item <persName><forename>Cüne</forename> <surname>Düringer</surname> <genName>der junge</genName></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Biderman</surname></persName><lb/>
+               Item <persName><forename>Jacob</forename> <surname>von</surname> Wantzen</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Odertzheim</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Steinbach</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Weber</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>von</surname> Rore</persName></p>
+            </div2>
+            <div2 type="Corporation_des_marchands_de_grain">
+               <p>Die kornlüte schöffel<lb/>
+               Item <persName><forename>Ottman</forename> <surname>Franckenheim</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Kesselring</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Melbrüge</surname></persName><lb/>
+               Item <persName><forename>Berman</forename> <surname>von</surname> Nüfer</persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Kriegesheim</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Stumpff</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>von</surname> Rore</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Günter</surname></persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Birböm</surname></persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Griffe</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Vendenheim</surname></persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>Metziger</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_à_la_Mauresse">
+               <p>Die schöffel Zür Mörlin<lb/>
+               Item <persName><forename><roleName>her</roleName> Lienhart Trachenfeils <roleName>altammeister</roleName></persName><lb/>
+               Item <persName><forename>Andres</forename> <surname>Smerwer</surname></persName><lb/>
+               Item <persName><forename>Dietherman</forename> <surname>Saltzmütter</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Trachenfeils</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Hitzvelder</surname></persName><lb/>
+               Item <persName><forename>Diebolt</forename> <surname>Trachenfeils</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Florentz</forename> <surname>Willekin</surname></persName><lb/>
+               Item <persName><forename>Burkhart</forename> <surname>Siferman</surname></persName><lb/>
+               Item <persName><forename>Veltin</forename> <surname>Helle</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Crützenach</persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Leheman</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>von</surname> Ernoltzheim</persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Kannengiesser</surname></persName><lb/>
+               Item <persName><forename>Mertz</forename> <surname>in</surname> Krutenouwe</persName></p>
+            </div2>
+            <div2 type="Corporation_des_Orfèvres_et_peintres_de_boucliers">
+               <p>Der schilter und goltsmyde schöffel</p>
+               <div3 type="orfèvre">
+                  <p>Goltsmid<lb/>
+                  Item <persName><forename>Jerge</forename> <surname>Anshelm</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Missebach</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Newiller</surname></persName><lb/>
+                  Item <persName><forename>Jacob</forename> <surname>Friburger</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Sletstat</persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Arige</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Vegersheim</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Clein</surname> müntzmeister</persName><lb/>
+                  Item <persName><forename>Jacop</forename> <surname>Lowe</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Berner</surname></persName></p>
+               </div3>
+               <div3 type="peintres_de_boucliers">
+                  <p>Schilter<lb/>
+                  Item <persName><forename>Andres</forename> <surname>Smalriem</surname></persName><lb/>
+                  Item <persName><forename>Hirtz</forename> <surname>Meister</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Ott</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Sletstat der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Heinrich</forename> <surname>Snewel</surname></persName><lb/>
+                  Item <persName><forename>Adolff</forename> <surname>Smalriem</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>von</surname> Mentz</persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Molsheim armbruster</persName><lb/>
+                  Item <persName><forename>Ülrich</forename> <surname>Glaser</surname></persName><lb/>
+                  Item <persName><forename>Martin</forename> <surname>Ernst</surname></persName><lb/>
+                  Item <persName><forename>Hertzog</forename> <surname>Glaser</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Altzheim</persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_boulangers">
+               <p>Der brotbecker schöffele<lb/>
+               Item <persName><forename><roleName>her</roleName> Jacob von geistpoltzheim <roleName>altammeister</roleName></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Linser</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Mathis</forename> <surname>von</surname> Ettenheim</persName><lb/>
+               Item <persName><forename>Fritsch</forename> <surname>Hapmacher</surname></persName><lb/>
+               Item <persName><forename>Adam</forename> <surname>von</surname> Molsheim</persName><lb/>
+               Item <persName><forename>Walther</forename> <surname>Dür</surname></persName><lb/>
+               Item <persName><forename>Jacop</forename> <surname>Sporer</surname></persName><lb/>
+               Item <persName><forename>Cüntz</forename> <surname>zü</surname> dem Tröschen</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Sporer</surname></persName><lb/>
+               Item <persName><forename>Jacob</forename> <surname>Waldener</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Franck</surname></persName><lb/>
+               Item <persName><forename>Gilge</forename></persName></p>
+            </div2>
+            <div2 type="Corporation_des_pelletiers">
+               <p>Der kürsener schöffeler<lb/>
+               Item <persName><forename><forename>Claus</forename></forename> <surname>Zür</surname> Hellen</surname> der <roleName><roleName>rotherre</roleName></roleName></persName><lb/>
+               Item <persName><forename>Götze</forename> <surname>von</surname> Hagenowe</persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Wissensel</surname></persName><lb/>
+               Item <persName><forename>Diebolt</forename> <surname>Spirer</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Spirer</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Jenff</persName><lb/>
+               Item <persName><forename>Niclaus</forename> <surname>von</surname> Erffürt</persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Rosegart</surname></persName><lb/>
+               Item <persName><forename>Symont</forename> <surname>von</surname> Ehenheim</persName><lb/>
+               Item <persName><forename>Andres</forename>, Martin Hensels sün</persName><lb/>
+               Item <persName><forename>Veltin</forename> <surname>von</surname> Ehenheim</persName><lb/>
+               Item <persName><forename>Martin</forename> <surname>Westerman</surname></persName><lb/>
+               Item <persName><forename>Dolden</forename> <surname>Lauwelin</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_des_tonneliers">
+               <p>Der küffer schöffele<lb/>
+               Item <persName><forename><roleName>her</roleName> Claus Schanlit <roleName>altammeister</roleName></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Vetter</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Bretteler</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Dingesheim</surname></persName><lb/>
+               Item <persName><forename>Heintzeman</forename> <surname>Holtzhüser</surname></persName><lb/>
+               Item <persName><forename>Wernlin</forename> <surname>an</surname> Steinstrosse</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Güngesheim</surname> uff Sant Elizabet gasse</persName><lb/>
+               Item <persName><forename>Hans</forename> <surname>Dalheim</surname> under Kürsener</persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>von</surname> Barre</persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>Selig</surname></persName><lb/>
+               Item <persName><forename>Martzolff</forename></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Nefe</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_des_tanneurs">
+               <p>Der gerwer schöffele<lb/>
+               Item <persName><forename>Claus</forename> <surname>Duntzenheim</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Bitsch</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Lore</surname></persName><lb/>
+               Item <persName><forename>Erhart</forename> <surname>von</surname> Isenhusen</persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Lange</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Kücheler</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Mynner</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Vendenheim</surname></persName><lb/>
+               Item <persName><forename>Diebolt</forename> <surname>von</surname> Sant</persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>von</surname> Molsheim</persName></p>
+            </div2>
+            <div2 type="Corporation_des_gourmets">
+               <p>Der Winsticher schöffele<lb/>
+               Item <persName><forename>Hanns</forename> <surname>Schenck</surname> <genName>der alte</r</persName><lb/>
+               Item <persName><forename>Sitze</forename> <surname>der</surname> stallmeister</persName><lb/>
+               Item <persName><forename>Jacob</forename> <surname>Hafener</surname> kouffhusherre</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Seger</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Diebolt</forename> <surname>Brant</surname></persName><lb/>
+               Item <persName><forename>Wilhelm</forename> <surname>von</surname> Schuttern</persName><lb/>
+               Item <persName><forename>Fridel</forename> <surname>Sidenfaden</surname></persName><lb/>
+               Item <persName><forename>Bernhart</forename> <surname>züm</surname> Rade</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Ütenheim</persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>zür</surname> Kronen</persName><lb/>
+               Item <persName><forename>Alhelm</forename> <surname>von</surname> Worms</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Kipkorn</surname> schaffener</persName></p>
+            </div2>
+            <div2 type="Corporation_des_tailleurs">
+               <p>Der snyder schöffele<lb/>
+               Item <persName><forename>Sifrit</forename> <surname>Zerig</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Jacob</forename> <surname>Rotgebe</surname></persName><lb/>
+               Item <persName><forename>Monschin</forename></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Zoller</surname></persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Eckendorff</surname></persName><lb/>
+               Item <persName><forename>Conrat</forename> <surname>Arnolt</surname></persName><lb/>
+               Item <persName><forename>Conrat</forename> <surname>Schrotbanck</surname></persName><lb/>
+               Item <persName><forename>Dietrich</forename> <surname>Leistman</surname></persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>von</surname> Dürnyngen</persName><lb/>
+               Item <persName><forename>Ortliep</forename> <surname>Schrotbanck</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Lutern</persName><lb/>
+               Item <persName><forename>Krafft</forename> <surname>von</surname> Mentz</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Hüsz</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Sungouwe</persName></p>
+            </div2>
+            <div2 type="Corporation_des_forgerons">
+               <p>Der smyde schöffele<lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Meiger</surname></persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>Vilinger</surname></persName><lb/>
+               Item <persName><forename>Rüle</forename> <surname>von</surname> Truhtersheim</persName><lb/>
+               Item <persName><forename>Lienhart</forename> <surname>Welsh</surname></persName><lb/>
+               Item <persName><forename>Cüntz</forename> <surname>Rosenberg</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Lembelin</surname></persName><lb/>
+               Item <persName><forename>Götze</forename> <surname>Omeder</surname></persName><lb/>
+               Item <persName><forename>Heinrich</forename> <surname>Erstenberg</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Wideman</surname> dder <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Glockengiesser</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Wiszysen</surname></persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>Adam</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Allewelt</surname></persName><lb/>
+               Item <persName><forename>Ludeman</forename> <surname>am</surname> vischmercket</persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>von</surname> Belheim</persName><lb/>
+               Item <persName><forename>Behtolt</forename> <surname>Stückgarter</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_des_crieurs_et_mesureurs_de_vin">
+               <p>Der winmesser und winrüffer schöffele</p>
+               <div3 type="Mesureurs_de_vin">
+                  <p>Winmesser<lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Hechede</surname></persName><lb/>
+                  Item <persName><forename>Richart</forename> <surname>von</surname> Heiligenstein</persName><lb/>
+                  Item <persName><forename>Hanseman</forename> <surname>Stalle</surname></persName><lb/>
+                  Item <persName><forename>Jost</forename> <surname>Lötysen</surname></persName></p>
+               </div3>
+               <div3 type="Crieurs_de_vin">
+                  <p>Winrüffer<lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Stüdel</surname> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Bintzel</surname></persName><lb/>
+                  Item <persName><forename>Jeckel</forename> <surname>Swartz</surname></persName><lb/>
+                  Item <persName><forename>Veltin</forename></persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_barbiers_et_baigneurs">
+               <div3>
+                  <p>Der scherer schöffele<lb/>
+                  Item <persName><forename>Rüdolff</forename></persName><lb/>
+                  Item <persName><forename>Walther</forename> <surname>zü</surname> Sant Thoman der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>von</surname> Brümat</persName><lb/>
+                  Item <persName><forename>Wurtzgart</forename></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>züm</surname> Sluch</persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Molsheim</persName><lb/>
+                  Item <persName><forename>Richart</forename></persName><lb/>
+                  Item <persName><forename>Michel</forename> <surname>zü</surname> Sant Steffan</persName><lb/>
+                  Item <persName><forename>Jörge</forename> <surname>Wolff</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Müsung</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>by</surname> der Metzigen</persName><lb/>
+                  Item <persName><forename>Heinrich</forename> <surname>by</surname> Sant Martin</persName></p>
+               </div3>
+               <div3>
+                  <p>Der Bader schöffele<lb/>
+                  Item <persName><forename>Andres</forename> <surname>am</surname> Pfennigturn</persName><lb/>
+                  Item <persName><forename>Ohswalt</forename> <surname>Flach</surname></persName><lb/>
+                  Item <persName><forename>Marx</forename> <surname>Rorer</surname></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Rorer</surname></persName><lb/>
+                  Item <persName><forename>Hanseman</forename> <surname>Wolff</surname></persName><lb/>
+                  Item <persName><forename>Üntzel</forename> <surname>uff</surname> dem Graben</persName><lb/>
+                  Item <persName><forename>Andres</forename> <surname>under</surname> Kürsenern</persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_huiliers_tondeurs_de_draps_et_meuniers">
+               <p>Ollute düchscherer un müller schöffel</p>
+               <div3 type="Huiliers">
+                  <p>Olelüte<lb/>
+                  Item <persName><forename>Peter</forename> <surname>von</surname> Lampertheim</persName><lb/>
+                  Item <persName><forename>Ülrich</forename> <surname>von</surname> Lampertheim</persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>von</surname> Lampertheim</persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Kempff</surname></persName><lb/>
+                  Item <persName><forename>Lentzel</forename> <surname>am</surname> Vischmercket</persName></p>
+               </div3>
+               <div3 type="Tondeurs_de_draps">
+                  <p>Düchscherer<lb/>
+                  Item <persName><forename>Cüntz</forename> <surname>von</surname> Mentze</persName><lb/>
+                  Item <persName><forename>Gabehert</forename></persName><lb/>
+                  Item <persName><forename>Jerge</forename> <surname>Schaffener</surname></persName></p>
+               </div3>
+               <div3 type="Meuniers">
+                  <p>Müller<lb/>
+                  Item <persName><forename>Behtolt</forename> <surname>Hügeler</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Fründe</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Knapp</surname></persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_cordonniers">
+               <p>Der schühemacher schöffel<lb/>
+               Item <persName><forename>Hanns</forename> <surname>Pfowe</surname></persName><lb/>
+               Item <persName><forename>Cüntze</forename> <surname>Heiden</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Bernhart</forename> <surname>Hasenore</surname></persName><lb/>
+               Item <persName><forename>Obreht</forename> <surname>Bender</surname></persName><lb/>
+               Item <persName><forename>Reimbolt</forename> <surname>von</surname> Wile</persName><lb/>
+               Item <persName><forename>Heintz</forename> <surname>Üsenberg</surname></persName><lb/>
+               Item <persName><forename>der</forename> <surname>schultheiss</surname> von Molsheim</persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Smyt</surname></persName><lb/>
+               Item <persName><forename>Adolff</forename> <surname>Stumpf</surname></persName><lb/>
+               Item <persName><forename>Burckart</forename> <surname>Lehel</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Günther</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Kum</surname> noch Hint</persName><lb/>
+               Item <persName><forename>Erhart</forename> <surname>von</surname> Wangen</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Hennenberg</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Götze</surname></persName><lb/>
+               Item <persName><forename>meister</forename> <surname>Flösz</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_des_pêcheurs">
+               <p>Der vischer schöffele</p>
+               <div3 type="Am_Oberstaden">
+                  <p>Oberstaden<lb/>
+                  Item <persName><forename>Claus</forename> <surname>Pfaffe</surname></persName><lb/>
+                  Item <persName><forename>Laulin</forename> <surname>Butte</surname></persName><lb/>
+                  Item <persName><forename>Mathis</forename> <surname>Ülrich</surname></persName><lb/>
+                  Item <persName><forename>Hensel</forename> <surname>Röttel</surname></persName></p>
+               </div3>
+               <div3 type="Hinter_Sankt-Kathrinen">
+                  <p>Hinder Sant Katerinen<lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Diebolt</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Leheman</surname></persName><lb/>
+                  Item <persName><forename>Michel</forename> <surname>Suntheim</surname></persName></p>
+               </div3>
+               <div3 type="Am_Teich">
+                  <p>Am Dich<lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Lamb</surname> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Jerge</forename> <surname>Schertzheim</surname></persName><lb/>
+                  Item <persName><forename>Behtolt</forename> <surname>Lamb</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Vachman</surname></persName><lb/>
+                  Item <persName><forename>Dietrich</forename> <surname>Münich</surname></persName></p>
+               </div3>
+               <div3 type="Zur_Wasenecke">
+                  <p>Zü Waseneck<lb/>
+                  Item <persName><forename>Claus</forename> <surname>Lusche</surname></persName><lb/>
+                  Item <persName><forename>Anshelm</forename> <surname>Grave</surname></persName><lb/>
+                  Item <persName><forename>Laulin</forename> <surname>Bentze</surname></persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_constructeurs_de_bateaux">
+               <p>Der schiffzimberlüte schöffel<lb/>
+               Item <persName><forename>Hanns</forename> <surname>Klige</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Hetteman</surname></persName><lb/>
+               Item <persName><forename>Cüntz</forename> <surname>Klie</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_des_charrons">
+               <p>Der wagener schöffele<lb/>
+               Item <persName><forename>Jerge</forename> <surname>Dritzehen</surname> der schultheisse</persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>Gerbott</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Fritsch</forename> <surname>Rinstett</surname></persName><lb/>
+               Item <persName><forename>Oberlin</forename> <surname>Treger</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Treger</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Reinhart</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>zür</surname> Nuwenbürge</persName><lb/>
+               Item <persName><forename>Oberlin</forename> <surname>Liebekint</surname></persName><lb/>
+               Item <persName><forename>Conrat</forename> <surname>Sahsbach</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Claus</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Spilman</surname></persName><lb/>
+               Item <persName><forename>Jacob</forename> <surname>Fursenbach</surname></persName><lb/>
+               Item <persName><forename>Hanseman</forename> <surname>Kiebel</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_des_jardiniers">
+               <p>Der gartener schöffele</p>
+               <div3 type="Unter_Wagener">
+                  <p>Under wagener<lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Spete</surname> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Jacob</forename> <surname>Clowe</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Duntzenheim</surname></persName><lb/>
+                  Item <persName><forename>Cüntzel</forename> <surname>Fleisch</surname> <genName>der alte</genName></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Henckin</surname></persName><lb/>
+                  Item <persName><forename>Henselin</forename> <surname>Drens</surname></persName></p>
+               </div3>
+               <div3 type="An_der_Steinstraße">
+                  <p>An steinstrosse<lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Peter</surname></persName><lb/>
+                  Item <persName><forename>Kürin</forename></persName></p>
+               </div3>
+               <div3 type="In_der_Krutenau">
+                  <p>Crutenouwe<lb/>
+                  Item <persName><forename>Peter</forename> <surname>Lampreht</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Hirte</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Ersam</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Kilwart</surname> <genName>der junge</genName></persName></p>
+               </div3>
+               <div3 type="In_der_Ruprechtsau">
+                  <p>Rüprehtzowe<lb/>
+                  Item <persName><forename>Mennel</forename></persName><lb/>
+                  Item <persName><forename>Hensel</forename> <surname>Mynne</surname></persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_tisserands">
+               <p>Die wöber schöffele<lb/>
+               Item <persName><forename>Claus</forename> <surname>Künig</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Spiegel</surname></persName><lb/>
+               Item <persName><forename>Diebolt</forename> <surname>Renner</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Koch</surname> <genName>der alte</genName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Koch</surname> <genName>der junge</genName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Girbaden</surname></persName><lb/>
+               Item <persName><forename>Hanseman</forename> <surname>Morung</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Wile</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Wyldersynn</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Hebenagel</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Than</persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>von</surname> Korck</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Sletstat</persName><lb/>
+               Item <persName><forename>Lütoltz</forename> <surname>Michel</surname></persName></p>
+            </div2>
+            <div2 type="Corporation_des_cordiers_fruitiers_et_regrattiers">
+               <p>Der seiler obsser und altgewender schöffele</p>
+               <div3 type="Cordiers">
+                  <p>Seiler<lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Wipolt</surname> der <roleName>rotherre</roleName></persName><lb/>
+                  Item <persName><forename>Fritsch</forename> <surname>Volmar</surname></persName><lb/>
+                  Item <persName><forename>Claus</forename> <surname>Volmar</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Swencker</surname></persName></p>
+               </div3>
+               <div3 type="Fruitiers">
+                  <p>Obesser<lb/>
+                  Item <persName><forename>Fritsch</forename> <surname>Götfrit</surname></persName><lb/>
+                  Item <persName><forename>Six</forename></persName><lb/>
+                  Item <persName><forename>Peter</forename> <surname>Herbest</surname></persName><lb/>
+                  Item <persName><forename>Veltin</forename> <surname>Mittelhus</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Butze</surname></persName><lb/>
+                  Item <persName><forename>Ülrich</forename> <surname>Kiebel</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>Porte</surname></persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Bergheim</persName></p>
+               </div3>
+               <div3 type="Regrattiers">
+                  <p>Altgewender<lb/>
+                  Item <persName><forename>Ülrich</forename> <surname>Weidelich</surname> der schreiber</persName><lb/>
+                  Item <persName><forename>Andres</forename> <surname>von</surname> Gemer</persName><lb/>
+                  Item <persName><forename>Hanns</forename> <surname>von</surname> Molsheim</persName></p>
+               </div3>
+            </div2>
+            <div2 type="Corporation_des_charpentiers">
+               <p>Der zimberlüte schöffele<lb/>
+               Item <persName><forename>Michel</forename> <surname>Ripel</surname> <genName>der alte</genName></persName><lb/>
+               Item <persName><forename>Michel</forename> <surname>Ripel</surname> <genName>der junge</genName> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Fritsch</forename> <surname>uff</surname> dem Werde</persName><lb/>
+               Item <persName><forename>Bernhart</forename> <surname>Ripel</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Graseck</surname></persName><lb/>
+               Item <persName><forename>Erhart</forename> <surname>Winsticher</surname></persName><lb/>
+               Item <persName><forename>Wilhelm</forename> <surname>von</surname> Geispoltzheim</persName><lb/>
+               Item <persName><forename>Conrat</forename> <surname>Swartz</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>von</surname> Berckheim</persName></p>
+            </div2>
+            <div2 type="Corporation_des_maçons">
+               <p>Der murer schöffele<lb/>
+               Item <persName><forename>Hanns</forename> <surname>Walt</surname> der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>meister</forename> <surname>Ammeister</surname></persName><lb/>
+               Item <persName><forename>Claus</forename> <surname>Estericher</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Clein</surname> der kacheler</persName><lb/>
+               Item <persName><forename>Peter</forename> <surname>Estericher</surname></persName><lb/>
+               Item <persName><forename>Michel</forename> <surname>Ganser</surname> der kacheler</persName><lb/>
+               Item <persName><forename>Sifrit</forename> <surname>von</surname> Zabern</persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Smyde</surname></persName><lb/>
+               Item <persName><forename>Friderich</forename> <surname>Bösch</surname></persName><lb/>
+               Item <persName><forename>Stoffelus</forename> <surname>Wernlin</surname></persName><lb/>
+               Item <persName><forename>Friderich</forename> <surname>der</surname> kacheler</persName></p>
+            </div2>
+            <div2 type="Corporation_des_coltineurs_de_tonneaux">
+               <p>Der vassezieher schöffele<lb/>
+               Item <persName><forename>Sigel</forename> <surname>von</surname> Dürnyngen der <roleName>rotherre</roleName></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Paulus</surname></persName><lb/>
+               Item <persName><forename>Hanns</forename> <surname>Hirt</surname> <genName>der alte</genName></persName><lb/>
+               Item <persName><forename>Symont</forename> <surname>Förster</surname></persName></p>
+            </div2>
+         </div1>
+      </body>
+   </text>

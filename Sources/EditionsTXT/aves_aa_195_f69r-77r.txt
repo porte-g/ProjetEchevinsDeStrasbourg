@@ -168,7 +168,7 @@ Item Hanns von Sletstat der rotherre
 Item Heinrich Snewel
 Item Adolff Smalriem
 Item Claus von Mentz
-Item Hans von Molsheim armbruster
+Item Hanns von Molsheim armbruster
 Item Ülrich Glaser
 Item Martin Ernst
 Item Hertzog Glaser
@@ -217,10 +217,11 @@ Item Hanns Güngesheim uff Sant Elizabet gasse
 Item Hans Dalheim under Kürsener
 Item Claus von Barre
 Item Peter Selig
-Item Marcolff
+Item Martzolff
 Item Hanns Nefe
 
 Der gerwer schöffele
+
 Item Claus Duntzenheim der rotherre
 Item Hanns Bitsch
 Item Hanns Lore
@@ -269,7 +270,7 @@ Der smyde schöffele
 Item Heinrich Meiger
 Item Peter Vilinger
 Item Rüle von Truhtersheim
-Item Lienhart welsh
+Item Lienhart Welsh
 Item Cüntz Rosenberg
 Item Claus Lembelin
 Item Götze Omeder
