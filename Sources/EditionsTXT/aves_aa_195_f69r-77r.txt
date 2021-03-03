@@ -176,7 +176,7 @@ Item Hanns von Altzheim
 
 Der brotbecker schöffele
 
-Item her Jacob von geistpoltzheim altammeister
+Item her Jacob von Geistpoltzheim altammeister
 Item Claus Linser der rotherre
 Item Mathis von Ettenheim
 Item Fritsch Hapmacher
@@ -203,7 +203,7 @@ Item Symont von Ehenheim
 Item Andres, Martin Hensels sün
 Item Veltin von Ehenheim
 Item Martin Westerman
-Item Dolden Lauwelin
+Item Lauwelin Dolde
 
 Der küffer schöffele
 
@@ -275,7 +275,7 @@ Item Cüntz Rosenberg
 Item Claus Lembelin
 Item Götze Omeder
 Item Heinrich Erstenberg
-Item Hanns Wideman dder rotherre
+Item Hanns Wideman der rotherre
 Item Hanns Glockengiesser
 Item Hanns Wiszysen
 Item Peter Adam
