@@ -1,19 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Recensement 1444 : échevins</title>
+            <title>Liste d'armement de 1444 : liste de l'échevinat</title>
+            <author>Chancellerie du grand Sénat strasbourgeois</author>
          </titleStmt>
+         <editionStmt>
+           <p>Première édition électronique, Paris, <date>2021</date> du projet de mémoire</p>
+         </editionStmt>
          <publicationStmt>
+            <distributor>Hippolyte Souvay</distributor>
             <p>Publication Information</p>
+            <availability status="free">
+               <p>Dans un cadre de recherche ou d'enseignement</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>
+                  <settlement>Strasbourg</settlement>
+                  <repositiory>Archives de la Ville et de l'Eurométropole de Strasbourg</repositiory>
+                  <idno>AA 195</idno>
+               </msIdentifier>
+               <msContents>
+                  <p>Liste des échevins de Strasbourg par corporation</p>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="feuillet">
+                     <supportDesc material="paper">
+                        <support>Papier</support>
+                        <extent>i + 17 pages
+                           <dimensions scope="all" type="leaf" unit="cm">
+                              <height>31</height>
+                              <width>13</width>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">En colonne unique</layout>
+                     </layoutDesc>
+                     <handDesc>Écrit par une main unique</handDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDes>
+         <creation>
+            <date>1444</date>
+         </creation>
+      </profileDes>
    </teiHeader>
    <text>
       <body>
