@@ -9,7 +9,7 @@ Bechtolt,Bertold,"['masc', 'germanique']","['Behtolt', 'Bechtolt']"
 Bernhart,Bernard,"['masc', 'germanique']","['Bernhart', 'Bernhard']"
 Burkhart,,"['masc', 'germanique']","['Burkhart', 'Burkhard', 'Burckhart', 'Burckhard', 'Burchart', 'Burchard', 'Burckart']"
 Claus,Nicolas,"['masc', 'grec']","['Claus', 'Clauwes', 'Claws', 'Niclaus']"
-Diebolt,Thiebault,"['masc', 'germanique']","['Diebolt', 'Diebold', 'Tiebold', 'Tiebold']"
+Diebolt,Thiebault,"['masc', 'germanique']","['Diebolt', 'Diebold', 'Tiebolt', 'Tiebold']"
 Dietrich,Thierry,"['masc', 'franc']","['Dietrich', 'Diethermann', 'Dietherman', 'Dietherich']"
 Eberhart,Éberhard,"['masc', 'germanique']","['Eberhart', 'Eberhard']"
 Erhart,,"['masc', 'germanique']","['Erhart', 'Erhard']"
@@ -36,10 +36,10 @@ Kraft,,"['masc', 'germanique']","['Kraft', 'Krafft', 'Craft']"
 Kühne,,"['masc', 'germanique']","['Kühne', 'Küne', 'Cüne']"
 Küntz,Konrad,"['masc', 'germanique', 'diminutif']","['Küntz', 'Cüntz', 'Cüntzel', 'Cuentz', 'Cuentzel', 'Cüntze', 'Cuentze']"
 Kürin,,"['masc', 'germanique']",['Kürin']
-Lauwel,Nicolas,"['masc', 'latin', 'diminutif']","['Lauwel', 'Lauwelin', 'Lawel', 'Lawelin', 'Lawelin', 'Laulin']"
+Lauwel,Nicolas,"['masc', 'latin', 'diminutif']","['Lauwel', 'Lauwelin', 'Lawel', 'Lawelin', 'Laulin']"
 Lentz,Laurent,"['masc', 'latin']",['Lentzel']
 Lienhart,Léonard,"['masc', 'germanique']","['Lienhart', 'Lienhard', 'Leonhart', 'Leonhard']"
-Ludwig,Louis,"['masc', 'germanique']","['Ludwig', 'Ludeman', 'Craft']"
+Ludwig,Louis,"['masc', 'germanique']","['Ludwig', 'Ludeman']"
 Lütholt,Léopold,"['masc', 'germanique']","['Lütholt', 'Lüthold', 'Lütolt', 'Lütold', 'Lütoltz']"
 Martin,Martin,"['masc', 'latin']",['Martin']
 Martzolf,Marcel,"['masc', 'latin']","['Martzolf', 'Martzolff', 'Marzolf', 'Marzolff']"
@@ -51,7 +51,7 @@ Michel,Michel,"['masc', 'hébraïque']",['Michel']
 Monschein,,"['masc', 'germanique']","['Monschein', 'Monschin']"
 Oberlin,,"['masc', 'germanique']",['Oberlin']
 Obrecht,Albert,"['masc', 'germanique']","['Obrecht', 'Obreht']"
-Oswalt,Oswald,"['masc', 'germanique']",['Ohswalt']
+Oswalt,Oswald,"['masc', 'germanique']","['Ohswalt', 'Oswalt']"
 Ortlieb,,"['masc', 'germanique']","['Ortlieb', 'Ortliep', 'Örtel', 'Oertel']"
 Ottman,Ottfried,"['masc', 'germanique']","['Ottman', 'Ottfried', 'Otman', 'Otfried']"
 Pantheleon,Pantéléon,"['masc', 'grec']","['Pantheleon', 'Panteleon']"
