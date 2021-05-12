@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/aves_aa_195_f69r-77r-v2_ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -48,7 +48,7 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="gmh">moyen haut allemand</language>
+            <language ident="gmh">moyen haut allemand tardif 1350-1650</language>
          </langUsage>
       </profileDesc>
    </teiHeader>
@@ -56,7 +56,7 @@
       <body>
          <div type="date" n="1444">
             <div type="Ordre" n="Échevinat">
-               <div type="Corporation" n="à_l_Ancre">
+               <div type="Corporation" n="a_l_Ancre">
                   <div type="Poele" n="Zum_Encker">
                      <p>Die schöffele Zum encker<lb/> Item <persName><roleName type="honorifique"
                               >her</roleName>
@@ -183,7 +183,7 @@
                            <surname>Vilinger</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="à_la_Fleur">
+               <div type="Corporation" n="a_la_Fleur">
                   <div type="Poele" n="Zur_Blume">
                      <p>Die Schöffele Zür Blümen<lb/> Item <persName><roleName type="honorifique"
                               >her</roleName>
@@ -311,7 +311,7 @@
                            type="masc">Peter</forename>
                         <surname>Metziger</surname></persName></p>
                </div>
-               <div type="Corporation" n="à_la_Mauresse">
+               <div type="Corporation" n="a_la_Mauresse">
                   <p>Die schöffel Zür Mörlin<lb/> Item <persName><roleName type="honorifique"
                            >her</roleName>
                         <forename type="masc">Lienhart</forename>
@@ -345,9 +345,9 @@
                            type="masc">Mertz</forename>
                         <placeName>in Krutenouwe</placeName>></persName></p>
                </div>
-               <div type="Corporation" n="orfèvres_et_peintres_de_boucliers">
+               <div type="Corporation" n="orfevres_et_peintres_de_boucliers">
                   <p>Der schilter und goltsmyde schöffel</p>
-                  <div type="Poele" n="orfèvre">
+                  <div type="Poele" n="orfevre">
                      <p>Goltsmid<lb/> Item <persName><forename type="masc">Jerge</forename>
                            <surname>Anshelm</surname></persName><lb/> Item <persName><forename
                               type="masc">Peter</forename>
@@ -742,7 +742,7 @@
                            type="titre_professionnel">meister</roleName>
                         <surname>Flösz</surname></persName></p>
                </div>
-               <div type="Corporation" n="pêcheurs">
+               <div type="Corporation" n="pecheurs">
                   <p>Der vischer schöffele</p>
                   <div type="Poele" n="Am_Oberstaden">
                      <p>Oberstaden<lb/> Item <persName><forename type="masc">Claus</forename>
