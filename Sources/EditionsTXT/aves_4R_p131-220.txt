@@ -3889,7 +3889,7 @@ Von den brotbeckern : Diebolt Otteman +
 Von den kürsenern : Hans Meiger
 Von den küffern : Anthonie Sansselman
 Von den gerwern : Hans Vendenheim
-Von den winruffern und winmessern : Hans von Odertzheim +
+Von den winstichern und underkoüffern : Hans von Odertzheim +
 Von den snydern : Symmont von Duntzenheim
 Von den smyden : Buckart Hug an Holnyets seligen stat
 Von den scherern und badern : Hans Schedeler +
@@ -3941,7 +3941,7 @@ Von den brotbeckern : Uͣlrich Birrer
 Von den kürsenern : Hans Meiger
 Von den küffern : her Jacob Ammelung altammeister
 Von den gerwern : Hans Vendenheim
-Von den winruffern und winmessern : Uͣlrich von Zabern
+Von den winstichern und underkoüffern : Uͣlrich von Zabern
 Von den snydern : Symmont von Duntzenheim
 Von den smyden : Lienhart Ammeister
 Von den scherern und badern : Bernhart Scherer
@@ -3988,7 +3988,7 @@ Von den brotbeckern : Uͦlrich Bùrer
 Von den kürsenern : Walther Vogt
 Von den küffern : her Jacob Ammelung altammeister
 Von den gerwern : Claus Westhofen
-Von den winruffern und winmessern : Uͦlrich von Zabern
+Von den winstichern und underkoüffern : Uͦlrich von Zabern
 Von den snydern : Michel Grewalt
 Von den smyden : Lienhart Ammeister
 Von den scherern und badern : Bernhart Scherer
@@ -4034,7 +4034,7 @@ Von den brotbeckern : Diebolt Ottman
 Von den kürsenern : Hans Slapp an Walther Vogts stat
 Von den küffern : Anthonye Sansselman
 Von den gerwern : Claus Westhoffen
-Von den winruffern und winmessern : Erhart Kochersberg
+Von den winstichern und underkoüffern : Erhart Kochersberg
 Von den snydern : Diebolt Reck an Michel Gerwaltz stat
 Von den smyden : Burckart Hug
 Von den scherern und badern : Hans Schedeler
@@ -4080,7 +4080,7 @@ Von den brotbeckern : Diebolt Otteman
 Von den kürsenern : Hans Meÿger
 Von den küffern : Anthenÿe Sansselman
 Von den gerwern : Claus Duntzenheim
-Von den winruffern und winmessern : Conrat Hungerstein
+Von den winstichern und underkoüffern : Conrat Hungerstein
 Von den snydern : Behtolt Vogelsberg
 Von den smyden : Claus Bure an Burckart Huges stat
 Von den scherern und badern : Hans Scheͣdeler
@@ -4126,7 +4126,7 @@ Von den brotbeckern : Uͦlrich Bùrer
 Von den kürsenern : Hans Meyger
 Von den küffern : Andres Selig
 Von den gerwern : Claus Duntzenheim
-Von den winruffern und winmessern : Heinrich Egel
+Von den winstichern und underkoüffern : Heinrich Egel
 Von den snydern : Behtolt Vogelsberg
 Von den smyden : Lienhart Ammeister
 Von den scherern und badern : Hans Meyger
@@ -4172,7 +4172,7 @@ Von den brotbeckern : Ùlrich Bùrer
 Von den kürsenern : Heinrich Schott
 Von den küffern : Andres Selig
 Von den gerwern : Oberlin von Bùre
-Von den winruffern und winmessern : Heinrich Egel
+Von den winstichern und underkoüffern : Heinrich Egel
 Von den snydern : Andres Volck
 Von den smyden : Lienhart Ammeister
 Von den scherern und badern : Hans Meiger
@@ -4218,7 +4218,7 @@ Von den brotbeckern : Diebolt Otteman
 Von den kürsenern : Heinrich Schott
 Von den küffern : her Jacob Ammelung altammeister
 Von den gerwern : Oberlin von Bùre
-Von den winruffern und winmessern : Hans von Odratzheim
+Von den winstichern und underkoüffern : Hans von Odratzheim
 Von den snydern : Andres Volck
 Von den smyden : Hans von Druhtersheim
 Von den scherern und badern : Peter Wachenheymer
@@ -4264,7 +4264,7 @@ Von den brotbeckern : Diebolt Otteman
 Von den kürsenern : Hans Slapp
 Von den küffern : her Jacob Amlung altammeister
 Von den gerwern : Hans Vendenheim
-Von den winruffern und winmessern : Hans Odratzheim
+Von den winstichern und underkoüffern : Hans Odratzheim
 Von den snydern : Heinrich Mùller
 Von den smyden : Hans Wehel an Druhtersheim stat
 Von den scherern und badern : Peter Wachenheimer
@@ -4310,7 +4310,7 @@ Von den brotbeckern : Hans Waldener
 Von den kürsenern : Hans Slapp
 Von den küffern : Anthenÿe Dalheim
 Von den gerwern : Hans Vendenheim
-Von den winruffern und winmessern : Hans Bëger
+Von den winstichern und underkoüffern : Hans Bëger
 Von den snydern : Heinrich Mùller
 Von den smyden : Lienhart Ammeister
 Von den scherern und badern : Hans Schëdeler
@@ -4356,7 +4356,7 @@ Von den brotbeckern : Hans Waldener
 Von den kürsenern : Hans Meiger
 Von den küffern : Anthonÿe Dalheim
 Von den gerwern : Hans Vendenheim zwùscher brucken
-Von den winruffern und winmessern : Hans Beger
+Von den winstichern und underkoüffern : Hans Beger
 Von den snydern : Bechtolt Vogelsberg
 Von den smyden : Lienhart Ammeister
 Von den scherern und badern : Hans Schedeler
@@ -4401,7 +4401,7 @@ Von den brotbeckern : Diebolt Otteman
 Von den kürsenern : Hans Meiger
 Von den küffern : Andres Selig
 Von den gerwern : Hans Vendenheim zwùschent Brucken
-Von den winruffern und winmessern : Hans von Odratzheim
+Von den winstichern und underkoüffern : Hans von Odratzheim
 Von den snydern : Behtolt Vogelsberg
 Von den smyden : Rùlin von Druhtersheim
 Von den scherern und badern : Jacob Meiger
@@ -4457,7 +4457,7 @@ Von den brotbeckern : Diebolt Otteman
 Von den kürsenern : Heinrich Schott
 Von den küffern : Andres Selig
 Von den gerwern : Lorentz Vendenheim
-Von den winruffern und winmessern : Hans von Odratzheim
+Von den winstichern und underkoüffern : Hans von Odratzheim
 Von den snydern : Matheus Esselinger
 Von den smyden : Rülin von Truchterßheim
 Von den schümachern : Hans Flösse
@@ -4504,7 +4504,7 @@ Von den brotbeckern : Hans Waldener
 Von den kürsenern : Heinrich Schott
 Von den küffern : Jacob Amelung altammeister
 Von den gerwern : Lorentz Vendenheim
-Von den winruffern und winmessern : Conrat Storck
+Von den winstichern und underkoüffern : Conrat Storck
 Von den snydern : Matheus Esselinger
 Von den smyden : Hans Wurtemberg
 Von den schümachern : Claus Weỳdelich
@@ -4544,7 +4544,7 @@ Von den brotbeckern : Hans Waldener
 Von den kürsenern : Claus Pfutzer
 Von den küffern : Jacob Amlung altammeister
 Von den gerwern : Hans Vendenheim
-Von den winruffern und winmessern : Conrat Storck
+Von den winstichern und underkoüffern : Conrat Storck
 Von den snydern : Peter Hug
 Von den smyden : Hans Wurtemberg
 Von den schümachern : Claus Weỳdelich
@@ -4556,25 +4556,557 @@ Von den murern : Conrat Valwehenne
 
 Anno domini 1486
 
+die vier meistere
+
+her Hans Sturm von Sturmecke
+her Friderich Bock ritter
+her Hans Spender ritter
+her Peter Völtsche ritter
+
+her Marx Kerling der ammeister
+
+her Hanswilhelm züm Riet ritter
+her Hans von Seckingen ritter
+Jörge Berer
+Jacob Elhart
+Ludwig von Mùlnheym
+Jacob Wormßer
+
+Von den schifflüten : Blesin Dolde
+Von den kremern : Jacob Müge
+Von den metzigern : Claus Behtolt
+Von den würten : Hans Meÿger
+Von den düchern : Peter Renner
+Von den kornlüten : her Peter Schott altammeister
+Von den saltzmüttern : her Matern Trachenfelß altammeister
+Von den goltschmiden molern und schiltern : Andres Happmacher
+Von den brotbeckern : Hans Gùnther
+Von den kürsenern : Claus Pfùtzer
+Von den küffern : Claus Vetter
+Von den gerwern : Hans Vendenheym
+Von den winstichern und underkoüffern : Hans Rörich
+Von den snydern : Peter Hug
+Von den smyden : Hans von Dachstein
+Von den schümachern : Erhart Gisebreht
+Von den vischern : Hans Bùlle
+Von den wagenern kistenern und dreschelern : Hans Claus
+Von den gartenern : Hans Rorbosch
+Von den murern : Claus Lötschel
 
 
-Von den schifflüten : 
-Von den kremern : 
-Von den metzigern : 
-Von den würten : 
-Von den düchern : 
-Von den kornlüten : 
-Von den saltzmüttern : 
-Von den goltschmiden molern und schiltern : 
-Von den brotbeckern : 
-Von den kürsenern : 
-Von den küffern : 
-Von den gerwern : 
-Von den winruffern und winmessern : 
-Von den snydern : 
-Von den smyden : 
-Von den schümachern : 
-Von den vischern : 
-Von den wagenern kistenern und dreschelern : 
-Von den gartenern : 
-Von den murern : 
+Anno domini 1487
+
+die vier meistere
+
+her Wilhelm Böcklin ritter
+her Friderich Bock ritter
+her Otte Sturm ritter
+her Peter Völtsche ritter
+
+her Jacob Ammelung der ammeister
+
+Peter Rebestock
+Hans Völtsche
+Jörge Berer
+Caspar Clobelouch
+Ludwig von Mùlnheim
+Jacob Wormßer
+
+Von den schifflüten : Blesin Dolde
+Von den kremern : Hans Erhart von Rotwil
+Von den metzigern : Claus Behtolt
+Von den würten : Adam Mesener
+Von den düchern : Obreht Armbroster
+Von den kornlüten : Claus Jorger
+Von den saltzmüttern : her Matern Trachenfelß altammeister
+Von den goltschmiden molern und schiltern : Steffan Rotschilt
+Von den brotbeckern : Hans Gùnther
+Von den kürsenern : Arbgast Burnherre
+Von den küffern : Claus Vetter
+Von den gerwern : Oberlin von Bùre
+Von den winstichern und underkoüffern : Hans Rörich
+Von den snydern : Behtolt Vogelsberg
+Von den smyden : Hans von Dachstein
+Von den schümachern : Erhart Gisebreht
+Von den vischern : Diebolt Volck
+Von den wagenern kistenern und dreschelern : Marx Rebestock
+Von den gartenern : Hans Rorbosch
+Von den murern : Claus Loͤtschel
+
+
+Anno domini 1488
+
+die vier meistere
+
+her Wilhelm Boͤcklin ritter
+her Ott Sturm ritter
+her Claus Wormsser ritter
+her Hans von Seckingen ritter
+
+her Peter Schott der ammeister
+
+her Hans Wilhelm zum Riette ritter
+Peter Rebestock
+Hans Völtsch
+Caspar Klobeloch
+Balthazar Böcklin
+Hansludwig von Endingen
+
+Von den schifflüten : Götz von Hohemburg
+Von den kremern : Hans Erhart von Rotwil
+Von den metzigern : her Marx Kerling altammeister
+Von den würten : Adam Mesener
+Von den düchern : Obreht Armbroster
+Von den kornlüten : Claus Jorger
+Von den saltzmüttern : Lienhart Trachenfelß
+Von den goltschmiden molern und schiltern : Steffan Rotschilt
+Von den brotbeckern : Hans Waldener
+Von den kürsenern : Arbgast Burnherre
+Von den küffern : Florentz Müge
+Von den gerwern : Oberlin von Bùre
+Von den winstichern und underkoüffern : Conrat Hungerstein
+Von den snydern : Hans Franck, an Behtolt Vogelsbergs stat
+Von den smyden : Rülin von Truhtersheim
+Von den schümachern : Hans Burckart
+Von den vischern : Diebolt Volck, ertranck secunda post petri et pauli
+Von den wagenern kistenern und dreschelern : Marx Rebestock
+Von den gartenern : Andres Trense
+Von den murern : Blesin Friderich
+
+
+Anno domini 1489
+
+die vier meistere
+
+her Claus Wormsser ritter
+her Friderich Bock ritter
+her Hans von Seckingen ritter
+her Peter Völtsche ritter
+
+her Matern Trachenfelß der ammeister
+
+her Hanswilhelm züm Riet ritter
+Jörge Berer
+acob Elhart
+Jacob Wormsser
+Sigel Völtsch, an Hansludwigs von Endingen stat
+Balthazar Böcklin
+
+Von den schifflüten : Götz von Hohemburg
+Von den kremern : Andres Hapmacher
+Von den metzigern : her Marx Kerling altammeister
+Von den würten : her Claus Bömgarter altammeister
+Von den düchern : Hans von Brümat
+Von den kornlüten : Florentz Rummeler
+Von den saltzmüttern : Lienhart Trachenfels
+Von den goltschmiden molern und schiltern : Ülrich Sebott
+Von den brotbeckern : Hans Waldener
+Von den kürsenern : Matern Pfùtzer
+Von den küffern : Florentz Müge
+Von den gerwern : Hans Mißbach
+Von den winstichern und underkoüffern : Cünrat Hungerstein
+Von den snydern : Michel Dietrich
+Von den smyden : Rülin von Druhtersheim
+Von den schümachern : Hans Burckart
+Von den vischern : Claus Ulrich
+Von den wagenern kistenern und dreschelern : Peter Krebs
+Von den gartenern : Andres Trense
+Von den murern : Veltin Mynner, an Blesin Friderichs statt
+
+
+Anno domini 1490
+
+die vier meistere
+
+Item her Wilhelm Böcklin ritter
+Item her Friderich Bock ritter
+Item her Ott Sturm ritter
+Item her Peter Voltsch ritter
+
+Item her Claus Bömgarter der ammeister
+
+Item her Caspar von Urendorff ritter
+Item Peter Rebestock
+Item Jörge Berer
+Item Jacob Elhart
+Item Jacob Wormsser
+Item Ludwig von Mùlnheim
+
+Von den schifflüten : Hans Berlin
+Von den kremern : Andres Hapmacher
+Von den metzigern : Behtolt Offemburg
+Von den würten : Jacob Gerbott
+Von den düchern : Hans von Brümat
+Von den kornlüten : Florentz Rummeler
+Von den saltzmüttern : Andres Trachenfelß
+Von den goltschmiden molern und schiltern : Ülrich Sebott
+Von den brotbeckern : Diebolt Otteman
+Von den kürsenern : Matern Pfùtzer
+Von den küffern : her Jacob Ammelung altammeister
+Von den gerwern : Hans Misbach
+Von den winstichern und underkoüffern : Hans Hanneman sexta post Mathei
+Von den snydern : Michel Dietrich
+Von den smyden : Hans von Druhtersheim
+Von den schümachern : Hans Heinrich
+Von den vischern : Claus Ulrich
+Von den wagenern kistenern und dreschelern : Peter Krebs
+Von den gartenern : Hans Bilger
+Von den murern : Gangolff von Morsmùnster
+
+
+Anno domini 1491
+
+die vier meistere
+
+Item her Wilhelm Böcklin ritter
+Item her Ott Sturm ritter
+Item her Hanns von Seckingen ritter
+Item her Hans Voltsch
+
+Item her Andres Hapmacher der ammeister
+
+Item her Hanswilhelm züm Ryet ritter
+Item her Caspar von Urendorff ritter
+Item Peter Rebestock
+Item Caspar Clobeloch
+Item Ludwig von Mùlnheim
+Item Walther von Mùlnheim
+
+Von den schifflüten : Hans Berlin
+Von den kremern : Heinrich Ingolt
+Von den metzigern : Behtolt Offemburg
+Von den würten : Conrat Armbroster
+Von den düchern : Jörge von Hohemburg
+Von den kornlüten : Claus Jörger
+Von den saltzmüttern : Andres Trachenfelß
+Von den goltschmiden molern und schiltern : Steffan Rotschilt
+Von den brotbeckern : Diebolt Ottemman
+Von den kürsenern : Heinrich Schott
+Von den küffern : her Jacob Ammelung altammeister
+Von den gerwern : Claus Krügk
+Von den winstichern und underkoüffern : Lecius Meiger
+Von den snydern : Matheus Esselinger
+Von den smyden : Hans von Druhtersheim
+Von den schümachern : Hans Heinrich
+Von den vischern : Jörge Ebel
+Von den wagenern kistenern und dreschelern : Conrat von Wangen
+Von den gartenern : Hans Bilger
+Von den murern : Gangolff von Morßmùnster
+
+
+Anno domini 1492
+
+die vier meistere
+
+Item her Peter Völtsch ritter
+Item her Friderich Bock ritter
+Item her Hans von Seckingen ritter
+Item her Hans Völtsche
+
+Item her Marx Kerling der ammeister
+
+Item Hanswilhelm züm Riet ritter
+Item Jörge Berer
+Item Caspar Clobeloch
+Item Walther von Mùlnheim
+Item Balthazar Böcklin
+Item Wendeling zuͦm Trùbel
+
+Von den schifflüten : Peter Museler
+Von den kremern : Heinrich Ingolt
+Von den metzigern : Jacob Wysebach
+Von den würten : Jacob Wurm, an Conrat Armbrosters seligen stat
+Von den düchern : Jörge Hohemburg
+Von den kornlüten : Claus Jörger
+Von den saltzmüttern : Lienhart Trachenfelß
+Von den goltschmiden molern und schiltern : Steffan Rotschilt
+Von den brotbeckern : Lienhart Wolff
+Von den kürsenern : Heinrich Schott
+Von den küffern : Hans Franck
+Von den gerwern : Claus Krügk
+Von den winstichern und underkoüffern : Conrat Storck
+Von den snydern : Matheus Esselinger
+Von den smyden : Jost von Friburg
+Von den schümachern : Martin Win und Brot
+Von den vischern : Jörge Ebel
+Von den wagenern kistenern und dreschelern : Conrat von Wangen
+Von den gartenern : Cüne Grymmel
+Von den murern : Peter Heỳl
+
+
+Anno domini 1493
+
+die vier meistere
+
+Item her wilhelm Böcklin ritter
+Item her Friderich Bock ritter
+Item her Ott Sturm ritter
+Item her Peter Voltsch ritter
+
+Item her Jacob Amlung der ammeister
+
+Item Jörge Berer
+Item Jacob Wormsser
+Item Sigel Völtsch
+Item Balthazar Böcklin
+Item Ludwig von Mùlnheim
+Item Wendeling zùm Trùbel
+
+Von den schifflüten : Peter Museler
+Von den kremern : Hans Wilhelm von Rotwil
+Von den metzigern : Jacob Wysebach
+Von den würten : Jacob Gerbott
+Von den düchern : Abreht Armbroster
+Von den kornlüten : Florentz Rummeler
+Von den saltzmüttern : Hans von Hochstett, an Lienhart Trachenfelß stat
+Von den goltschmiden molern und schiltern : Conrat Lowe
+Von den brotbeckern : Lienhart Wolff
+Von den kürsenern : Matern Pfùtzer
+Von den küffern : Hans Franck
+Von den gerwern : Hans Vendenheim
+Von den winstichern und underkoüffern : Conrat Storck
+Von den snydern : Hans Franck
+Von den smyden : Jost von Friburg
+Von den schümachern : Martin Win und Brot
+Von den vischern : Hans Rùser
+Von den wagenern kistenern und dreschelern : Symont Strùbel
+Von den gartenern : Cüne Grymmel
+Von den murern : Peter Heỳl
+
+
+Anno domini 1494
+
+die vier meistere
+
+Wilhelm Böcklin ritter
+Ott Sturm ritter
+Hans von Seckingen ritter
+Hans Völtsche
+
+Götze von Hohembrug der ammeister
+
+Caspar von Urendorff ritter
+Peter Rebestock
+Jacob Wormsser
+Sigel Völtsche
+Ludwig von Mùlnheim
+Peter Elhart
+
+Von den schifflüten : Blesin Dolde
+Von den kremern : Hanswilhelm von Rotwil
+Von den metzigern : Behtolt Offemburg
+Von den würten : Jacob Gerbott
+Von den düchern : Obreht Armbroster
+Von den kornlüten : Florentz Rummeler
+Von den saltzmüttern : Andres Trachenfelß
+Von den goltschmiden molern und schiltern : Conrat Lowe
+Von den brotbeckern : Hans Waldener
+Von den kürsenern : Matern Pfùtzer
+Von den küffern : Hans Conrat
+Von den gerwern : Hans Vendenheim
+Von den winstichern und underkoüffern : Conrat Stösser
+Von den snydern : Hans Franck
+Von den smyden : Hans von Druhtersheim
+Von den schümachern : Jost Merckel
+Von den vischern : Hans Rùser
+Von den wagenern kistenern und dreschelern : Symont Strùbel
+Von den gartenern : Claus Wolff
+Von den murern : Claus Lötschel
+
+
+Anno domini 1495
+
+die vier meistere
+
+her Peter Völtsch ritter
+Friderich Bock ritter
+Hans von Seckingen ritter
+Hans Völtsch
+
+Claus Weydelich der ammeister
+
+Caspar von Urendorff ritter
+Jörge Berer
+Caspar Klobeloch
+Eucharius Völtsch
+Diebolt von Mùlnheim
+Peter Elnhart
+
+Von den schifflüten : Blesin Dolde
+Von den kremern : Hans Ingolt
+Von den metzigern : Behtolt Offemburg
+Von den würten : Claus Werlin
+Von den düchern : Diebolt Wingersheim
+Von den kornlüten : Claus Jörger
+Von den saltzmüttern : Andres Trachenfelß
+Von den goltschmiden molern und schiltern : Steffan Rotschilt
+Von den brotbeckern : Hans Waldener
+Von den kürsenern : Bernhart Slapp
+Von den küffern : Hans Conrat
+Von den gerwern : Lorentz Vendenheim
+Von den winstichern und underkoüffern : Conrat Stösser
+Von den snydern : Michel Dietrich
+Von den smyden : Hans von Druhtersheim
+Von den schümachern : Jost Merckel
+Von den vischern : Claus Ülrich
+Von den wagenern kistenern und dreschelern : Hans Dùheler
+Von den gartenern : Claus Wolff
+Von den murern : Claus Lötschel
+
+
+Anno domini 1496
+
+her Wilhelm Böcklin ritter
+her Friderich Bock ritter
+her Ott Sturm ritter
+her Peter Völtsch ritter
+
+her Jacob Wisebach der ammeister
+
+Jörge Berer
+Caspar Clobeloch
+Jacob Wormsser
+Ludwig von Mùlnheim
+Eucharius Völtsch
+Wendeling zùm Trùbel
+
+Von den schifflüten : Peter Museler
+Von den kremern : Hans Ingolt
+Von den metzigern : Diebolt Betscholt
+Von den würten : Claus Werlin
+Von den düchern : Diebolt Wingersheim
+Von den kornlüten : Claus Jörger
+Von den saltzmüttern : Lienhart Trachenfelß
+Von den goltschmiden molern und schiltern : Lampreht Sebolt, an Steffan Rotschilts stat
+Von den brotbeckern : Hans Gùnther
+Von den kürsenern : Bernhart Slapp
+Von den küffern : Hans Franck
+Von den gerwern : Lorentz Vendenheim
+Von den winstichern und underkoüffern : Hans Hungerstein
+Von den snydern : Michel Dietrich
+Von den smyden : Jost von Friburg
+Von den schümachern : Rùdolff Hüseler
+Von den vischern : Claus Ülrich
+Von den wagenern kistenern und dreschelern : Hans Claus, an Hans Dùhelers stat
+Von den gartenern : Andres Trense
+Von den murern : Hans Kupffer
+
+
+Anno domini 1497
+
+die vier meistere
+
+her Wilhelm Böcklin ritter
+her Ott Sturm ritter
+her Hans Spender ritter
+her Wyrich Böcklin ritter
+
+her Andres Trachenfeils der ammeister
+
+her Hans von Seckingen ritter
+her Hanswilhelm züm Riet ritter
+Jacob Wormsser
+Sigel Völtsch
+Ludwig von Mùlnheim
+Wendeling zùm Trùbel
+
+Von den schifflüten : Peter Museler
+Von den kremern : Jeronimus Riff
+Von den metzigern : Diebolt Betscholt
+Von den würten : Jacob Worm
+Von den düchern : Jacob Küller
+Von den kornlüten : Jacob von Molsheim
+Von den saltzmüttern : Lienhart Trachenfelß
+Von den goltschmiden molern und schiltern : Oberlin von Bùre
+Von den brotbeckern : Hans Gùnther
+Von den kürsenern : Thomann Kornman
+Von den küffern : Hans Franck
+Von den gerwern : Hans Misbach
+Von den winstichern und underkoüffern : Hans Hungerstein
+Von den snydern : Conrat Lume
+Von den smyden : Jost von Friburg
+Von den schümachern : Rùdolff Hüseler
+Von den vischern : Hans Swende der junge
+Von den wagenern kistenern und dreschelern : Jörge Rùttel
+Von den gartenern : Andres Trense
+Von den murern : Hans Kupffer
+
+
+Anno domini 1998
+
+die vier meistere
+
+her Wirich Böcklin ritter
+her Friderich Bock ritter
+her Hans Spender ritter
+her Jörge Berer
+
+her Jacob Worm der ammeister
+
+her Hans von Seckingen ritter
+her Hanswilhelm züm Riet ritter
+her Ludwig Böcklin ritter
+Sigelin Völtsch
+Diebolt von Mùlnheim
+Jörge Zorn von Buͦlach
+
+Von den schifflüten : Peter Arge
+Von den kremern : Jeronimus Riff
+Von den metzigern : her Jacob Wysebach altammeister
+Von den würten : Jacob Gerbott
+Von den düchern : Jacob Küller
+Von den kornlüten : Jacob von Molsheim
+Von den saltzmüttern : Jörge Riff
+Von den goltschmiden molern und schiltern : Oberlin von Bùre
+Von den brotbeckern : Hans Waldener
+Von den kürsenern : Thomann Kornman
+Von den küffern : Hans Conrat
+Von den gerwern : Hans Mißbach
+Von den winstichern und underkoüffern :Lecius Meÿger
+Von den snydern : Conrat Lume
+Von den smyden : Hans von Druhtersheim
+Von den schümachern : Martin Schultheiss genant Win und Brot
+Von den vischern : Hans Swende der junge
+Von den wagenern kistenern und dreschelern : Hansclaus Arbgast, an Jörge Rùttels statt
+Von den gartenern : Hans Bilger
+Von den murern : Veltin Mynner
+
+
+Anno domini 1499
+
+die vier meistere
+
+her Wilhelm Böckelin ritter
+her Friderich Bock ritter
+her Ott Sturm ritter
+her Jörge Berer
+
+her Obreht Armbroster der ammeister
+
+her Caspar von Urendorff ritter
+her Wendeling zùm Trùbel ritter
+her Ludwig Böcklin ritter
+Walther von Mùlnheim
+Diebolt von Mùlnheim
+Jörge Zorn von Buͦlach
+
+Von den schifflüten : Peter Arge
+Von den kremern : Jacob Müge
+Von den metzigern : her Jacob Wysebach altammeister
+Von den würten : Bartholomeus Barpfennig
+Von den düchern : Diebolt Wingersheim
+Von den kornlüten : Florentz Rummeler
+Von den saltzmüttern : Jörge Riff
+Von den goltschmiden molern und schiltern : Conrat Lowe
+Von den brotbeckern : Hans Waldener
+Von den kürsenern : Heinrich Schott
+Von den küffern : Hans Conrat
+Von den gerwern : Claus Krügk
+Von den winstichern und underkoüffern :Lecius Meiger
+Von den snydern : Hans Franck
+Von den smyden : Hans von Druhtersheim
+Von den schümachern : Martin Schultheiss genant Win und Brot
+Von den vischern : Hans Rùser
+Von den wagenern kistenern und dreschelern : Marx Rebestock
+Von den gartenern : Hans Bilger
+Von den murern : Veltin Mynner
