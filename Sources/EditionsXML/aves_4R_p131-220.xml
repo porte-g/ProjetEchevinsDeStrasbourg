@@ -163,7 +163,7 @@
                <div type="corporation" n="corporation_des_jardiniers"><div type="magistrature" n="conseiller_des_jardiniers"><p>Von den gartenern : <persName><forename>Johanns</forename> <surname>Staheler</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_pêcheurs"><div type="magistrature" n="conseiller_des_pêcheurs"><p>Von den vischern : <persName><forename>Stöffelin</forename> der <roleName>vischer</roleName></persName></p></div></div>
                <div type="corporation" n="corporation_des_barbiers_et_baigneurs"><div type="magistrature" n="conseiller_des_barbiers_et_baigneurs"><p>Von den scherern und badern : <persName><forename>Johanns</forename> <surname>Pfennigman</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_sauniers"><div type="magistrature" n="conseiller_des_sauniers"><p>Von den saltzmüttern : <persName><forename>Johanns</forename> <surname><surname>Saltzmütter</surname> <genName>der jung</genName></surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_sauniers"><div type="magistrature" n="conseiller_des_sauniers"><p>Von den saltzmüttern : <persName><forename>Johanns</forename> <surname>Saltzmütter</surname> <genName>der jung</genName></persName></p></div></div>
                <div type="corporation" n="corporation_des_tisserands"><div type="magistrature" n="conseiller_des_tisserands"><p>Von den wöbern : <persName><forename>Johanns</forename> <surname>Tölde</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_gourmets_et_courtiers"><div type="magistrature" n="conseiller_des_gourmets_et_courtiers"><p>Von den winstichern und underkoüffern : <persName><forename>Walther</forename> <surname>Schrotbanck</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_charrons"><div type="magistrature" n="conseiller_des_charrons"><p>Von den wagenern kistenern und drescherlern : <persName><surname>Wigang</surname> der <roleName>kistener</roleName></persName></p></div></div>
@@ -475,7 +475,7 @@
                <div type="corporation" n="corporation_des_barbiers_et_baigneurs"><div type="magistrature" n="conseiller_des_barbiers_et_baigneurs"><p>Von den scherern und badern : <persName><forename>Marx</forename> <surname>Rorer</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_sauniers"><div type="magistrature" n="conseiller_des_sauniers"><p>Von den saltzmüttern : <persName><forename>Claus</forename> <surname>Messerer</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_tisserands"><div type="magistrature" n="conseiller_des_tisserands"><p>Von den wöbern : <persName><forename>Üllin</forename> <surname>Frye</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_gourmets_et_courtiers"><div type="magistrature" n="conseiller_des_gourmets_et_courtiers"><p>Von den winstichern und underkoüffern : <persName><forename>Diether</forename> <surname>Hanns</surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_gourmets_et_courtiers"><div type="magistrature" n="conseiller_des_gourmets_et_courtiers"><p>Von den winstichern und underkoüffern : <persName><forename>Hanns</forename> <surname>Diether</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_charrons"><div type="magistrature" n="conseiller_des_charrons"><p>Von den wagenern kistenern und drescherlern : <persName><forename>Claus</forename> <surname>Dingesheim</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_regrattiers_cordiers_et_fruitiers"><div type="magistrature" n="conseiller_des_regrattiers_cordiers_et_fruitiers"><p>Von den grempern seilern und obssern : <persName><forename>Hug</forename> <surname>Fritschman</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_coltineurs_de_tonneaux"><div type="magistrature" n="conseiller_des_coltineurs_de_tonneaux"><p>Von den vasziehern : <persName><forename>Cüntz</forename> <surname>Stahel</surname></persName></p></div></div>
@@ -1090,7 +1090,7 @@
                      <lb/><persName><forename>Uͦlrich</forename> <surname>Bock</surname>, Uͦlrich Bocks seligen sun Inn Brantgasse</persName>
                      <lb/><persName><forename>Friderich</forename> <surname>Zorn</surname> <addName>von Epffich</addName></persName>
                      <lb/><persName><forename>Johanns</forename> <surname>Peterlin</surname></persName>
-                     <lb/><persName><forename>Johanns</forename> <surname>Rebstock Inn mùnstergasse</surname></persName>
+                     <lb/><persName><forename>Johanns</forename> <surname>Rebstock</surname> <addName>Inn mùnstergasse<addName></persName>
                      <lb/><persName><forename>Hanman</forename> <surname>von Goͤndertheim</surname></persName>
                      <lb/><persName><forename>Claus</forename> <surname>von Heiligenstein</surname></persName>
                      <lb/><persName><forename>Hanns</forename> <surname>von Wintertur</surname></persName>
@@ -1170,10 +1170,10 @@
                      <lb/><persName><forename>Johanns</forename> <surname>Elnhart</surname></persName>
                      <lb/><persName><forename>Hanns</forename> <surname>Voltscheͤ</surname></persName>
                      <lb/><persName><forename>Erhart</forename> <surname>Mansse</surname></persName>
-                     <lb/><persName><forename>Uͦlrich</forename> <surname>Bock Peter Box sun</surname></persName>
+                     <lb/><persName><forename>Uͦlrich</forename> <surname>Bock</surname>, Peter Box sun</persName>
                      <lb/><persName><forename>Hesseman</forename> <surname>von Göudertheim</surname></persName>
                      <lb/><persName><forename>Hanns</forename> <surname>Mùrsel</surname></persName>
-                     <lb/><persName><forename>Hanns</forename> <surname>zͦuͦr Megde</surname></persName>
+                     <lb/><persName><forename>Hanns</forename> <surname>zuͦr Megde</surname></persName>
                      <lb/><persName><forename>Peter</forename> <surname>Bërer</surname></persName>
                   </p>
                </div>
@@ -1238,7 +1238,7 @@
                      <lb/><persName><forename>Reimbolt</forename> <surname>Cloͤblouch</surname> <genName>der eilter</genName></persName>
                      <lb/><persName><forename>Otteman</forename> <surname>von Mùlnheim</surname></persName>
                      <lb/><persName><forename>Rullin</forename> <surname>von Berstette</surname></persName>
-                     <lb/><persName><forename>Behtolt</forename> <surname>zuͦm Ret</surname></persName>
+                     <lb/><persName><forename>Behtolt</forename> <addName>zuͦm Ret</addName></persName>
                      <lb/><persName><forename>Claus</forename> <surname>von Mùlnheim</surname></persName>
                      <lb/><persName><forename>Johanns</forename> <surname>Bock</surname></persName>
                      <lb/><persName><forename>Claus</forename> <surname>Merswin</surname></persName>
@@ -1250,7 +1250,7 @@
                      <lb/><persName><forename>Peter</forename> <surname>Mosung</surname></persName>
                      <lb/><persName><forename>Thoman</forename> <surname>Lentzlin</surname></persName>
                      <lb/><persName><forename>Hanns</forename> <surname>Humbreht</surname></persName>
-                     <lb/><persName><forename>Walther</forename> <surname>Spiegel der jung</surname></persName>
+                     <lb/><persName><forename>Walther</forename> <surname>Spiegel</surname> <genName>der jung<genName></persName>
                      <lb/><persName><forename>Claus Fridrich</forename> <surname>Büchssener</surname></persName>
                      <lb/><persName><forename>Peter</forename> <surname>Rebstock</surname></persName>
                      <lb/><persName><forename>Ludwig</forename> <surname>von Rosheim</surname></persName>
@@ -1276,7 +1276,7 @@
                <div type="corporation" n="corporation_des_orfevres"><div type="magistrature" n="conseiller_des_orfevres"><p>Von den goltschmiden und schiltern : <persName><forename>Johanns</forename> <surname>von Kriegesheim</surname> genant <addName>Staheler</addName></persName></p></div></div>
                <div type="corporation" n="corporation_des_marchands_de_grains"><div type="magistrature" n="conseiller_des_marchands_de_grains"><p>Von den kornlüten : <persName><roleName>her</roleName> <forename>Michel</forename> <surname>Melbrù</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_jardiniers"><div type="magistrature" n="conseiller_des_jardiniers"><p>Von den gartenern : <persName><forename>Hanns</forename> <surname>Spete</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_pêcheurs"><div type="magistrature" n="conseiller_des_pêcheurs"><p>Von den vischern : <persName><forename>Swicker</forename> <surname>der eilter</surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_pêcheurs"><div type="magistrature" n="conseiller_des_pêcheurs"><p>Von den vischern : <persName><forename>Swicker</forename> <genName>der eilter</genName></persName></p></div></div>
                <div type="corporation" n="corporation_des_barbiers_et_baigneurs"><div type="magistrature" n="conseiller_des_barbiers_et_baigneurs"><p>Von den scherern und badern : <persName><forename>Hanns</forename> <surname>am Sluch</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_sauniers"><div type="magistrature" n="conseiller_des_sauniers"><p>Von den saltzmüttern : <persName><roleName>her</roleName> <forename>Uͦlrich</forename> <surname>Gosse</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_tisserands"><div type="magistrature" n="conseiller_des_tisserands"><p>Von den wöbern : <persName><forename>Claus</forename> <surname>Ingenheim</surname></persName></p></div></div>
@@ -1308,7 +1308,7 @@
             </div>
             <div type="ordre" n="constoffeler">
                <div type="magistrature" n="conseiller_des_constaffel">
-                  <p><persName><roleName>her</roleName> <surname>Johanns</surname> <surname>Eckerich</surname> <roleName>ritter</roleName></persName>
+                  <p><persName><roleName>her</roleName> <forname>Johanns</forname> <surname>Eckerich</surname> <roleName>ritter</roleName></persName>
                      <lb/><persName><roleName>her</roleName> <forename>Heinrich</forename> <surname>von Mùlnheim</surname> <addName>von Landsperg</addName> <roleName>ritter</roleName></persName>
                      <lb/><persName><roleName>her</roleName> <forename>Gosse</forename> <surname>Burggraf</surname> <roleName>ritter</roleName></persName>
                      <lb/>
@@ -1408,7 +1408,7 @@
                      <lb/><persName><forename>Eberlin</forename> <surname>von Schoͤneck</surname></persName>
                      <lb/><persName><forename>Thoman</forename> <surname>Lentzlin</surname></persName>
                      <lb/><persName><forename>Hanns</forename> <surname>zͦuͦr Megde</surname></persName>
-                     <lb/><persName><forename>Claus</forename> <surname>Fridrich Bùhssener</surname></persName>
+                     <lb/><persName><forename>Claus Fridrich</forename> <surname>Bùhssener</surname></persName>
                      <lb/><persName><forename>Jorg</forename> <surname>Bock</surname></persName>
                      <lb/><persName><forename>Ludwig</forename> <surname>von Rosheim</surname></persName>
                      <lb/><persName><forename>Fridrich</forename> <surname>Mansse</surname></persName>
@@ -1554,7 +1554,7 @@
                      <lb/><persName><roleName>her</roleName> <forename>Hug</forename> <surname>Voͤltsch</surname></persName>
                      <lb/><persName><forename>Fridrich</forename> <surname>von Hochvelden</surname></persName>
                      <lb/><persName><forename>Claus</forename> <surname>Buman</surname></persName>
-                     <lb/><persName><forename>Hanns</forename> <surname>von Heiligenstein der jung</surname></persName>
+                     <lb/><persName><forename>Hanns</forename> <surname>von Heiligenstein</surname> <genName>der jung</genName></persName>
                      <lb/><persName><forename>Jacob</forename> <surname>Wintertur</surname></persName>
                   </p>
                </div>
@@ -1562,7 +1562,7 @@
             <div type="ordre" n="echevinat">
                <div type="corporation" n="corporation_des_marchands"><div type="magistrature" n="conseiller_des_marchands"><p>Von den cremern : <persName><roleName>her</roleName> <forename>Rullin</forename> <surname>Barpfennig</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_boulangers"><div type="magistrature" n="conseiller_des_boulangers"><p>Von den brotbeckern : <persName><forename>Hanns</forename> <surname>Swab</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_bouchers"><div type="magistrature" n="conseiller_des_bouchers"><p>Von den metzigern : <persName><forename>Claus</forename> <surname>Voltz von Hagenowe</surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_bouchers"><div type="magistrature" n="conseiller_des_bouchers"><p>Von den metzigern : <persName><forename>Claus</forename> <surname>Voltz</surname> <addName>von Hagenowe</addName></persName></p></div></div>
                <div type="corporation" n="corporation_des_drapiers"><div type="magistrature" n="conseiller_des_drapiers"><p>Von den düchern : <persName><forename>Claus</forename> <surname>Meyger</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_tonneliers"><div type="magistrature" n="conseiller_des_tonneliers"><p>Von den küffern : <persName><forename>Claus</forename> <surname>Vetter</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_tanneurs"><div type="magistrature" n="conseiller_des_tanneurs"><p>Von den gerwern : <persName><forename>Hanns</forename> <surname>Gerbott</surname></persName></p></div></div>
@@ -1582,7 +1582,7 @@
                <div type="corporation" n="corporation_des_barbiers_et_baigneurs"><div type="magistrature" n="conseiller_des_barbiers_et_baigneurs"><p>Von den scherern und badern : <persName><forename>Walther</forename> der scherer Sant Thoman</persName></p></div></div>
                <div type="corporation" n="corporation_des_sauniers"><div type="magistrature" n="conseiller_des_sauniers"><p>Von den saltzmüttern : <persName><roleName>her</roleName> <forename>Uͦlrich</forename> <surname>Gosse</surname> <roleName>altammeister</roleName></persName></p></div></div>
                <div type="corporation" n="corporation_des_tisserands"><div type="magistrature" n="conseiller_des_tisserands"><p>Von den wöbern : <persName><forename>Diebolt</forename> <surname>von Basel</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_gourmets_et_courtiers"><div type="magistrature" n="conseiller_des_gourmets_et_courtiers"><p>Von den winstichern und underkoüffern : <persName><forename>Diebolt</forename> <surname>der wurt</surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_gourmets_et_courtiers"><div type="magistrature" n="conseiller_des_gourmets_et_courtiers"><p>Von den winstichern und underkoüffern : <persName><forename>Diebolt</forename> der <roleName>wurt</roleName></persName></p></div></div>
                <div type="corporation" n="corporation_des_charrons"><div type="magistrature" n="conseiller_des_charrons"><p>Von den wagenern kistenern und trescherlern : <persName><forename>Oberlin</forename> <surname>Treger</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_regrattiers_cordiers_et_fruitiers"><div type="magistrature" n="conseiller_des_regrattiers_cordiers_et_fruitiers"><p>Von den seylern grempern und obssern : <persName><forename>Laulin</forename> <surname>Huͤnrer</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_coltineurs_de_tonneaux"><div type="magistrature" n="conseiller_des_coltineurs_de_tonneaux"><p>Von den vasziehern : <persName><forename>Claus</forename> <surname>Duͤrre</surname></persName></p></div></div>
@@ -1740,7 +1740,7 @@
             </div>
             <div type="ordre" n="constoffeler">
                <div type="magistrature" n="conseiller_des_constaffel">
-                  <p><persName><surname>her</surname> <forename>Walther</forename> <surname>von Mùlnheim</surname></persName>
+                  <p><persName><roleName>her</roleName> <forename>Walther</forename> <surname>von Mùlnheim</surname></persName>
                      <lb/><persName><roleName>her</roleName> <forename>Bere</forename> <surname>von Heiligenstein</surname></persName>
                      <lb/><persName><roleName>her</roleName> <forename>Johanns</forename> <surname>Rebestock</surname></persName>
                      <lb/><persName><roleName>her</roleName> <forename>Peter</forename> <surname>Bluͤmelin</surname></persName>
@@ -2212,7 +2212,7 @@
                <div type="corporation" n="corporation_des_drapiers"><div type="magistrature" n="conseiller_des_drapiers"><p>Von den düchern : <persName><forename>Conrat</forename> <surname>Armbruster</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_tanneurs"><div type="magistrature" n="conseiller_des_tanneurs"><p>Von den gerwern : <persName><forename>Hanns</forename> <surname>Bitsch</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_cabarretiers"><div type="magistrature" n="conseiller_des_cabarretiers"><p>Von den würten : <persName><forename>Anshelm</forename> <surname>Spirer</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_maçons"><div type="magistrature" n="conseiller_des_maçons"><p>Von den murern : <persName><roleName>meister</roleName> <surname>Hanns Clein</surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_maçons"><div type="magistrature" n="conseiller_des_maçons"><p>Von den murern : <persName><roleName>meister</roleName> <forename>Hanns</forename> <surname>Clein</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_forgerons"><div type="magistrature" n="conseiller_des_forgerons"><p>Von den schmiden : <persName><forename>Eberlin</forename> <surname>von Truhterßheim</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_tailleurs"><div type="magistrature" n="conseiller_des_tailleurs"><p>Von den snydern : <persName><forename>Heinrich</forename> <surname>Winbeck</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_bateliers"><div type="magistrature" n="conseiller_des_bateliers"><p>Von den schifflüten : <persName><forename>Heinrich</forename> <surname>Desche</surname></persName></p></div></div>
@@ -3092,8 +3092,8 @@
                <div type="magistrature" n="stettmeister">
                   <p>vier meistere
                      <lb/>
-                     <lb/><persName><roleName>her</roleName> <forename>Ruͦdolff</forename> <surname>Zorn von Buͦlach</surname> <roleName>ritter</roleName></persName>
-                     <lb/><persName><roleName>her</roleName> <forename>Burckart</forename> <surname>von Mùlnheim <roleName>ritter</roleName> <genName>der eilter</genName></surname></persName>
+                     <lb/><persName><roleName>her</roleName> <forename>Ruͦdolff</forename> <surname>Zorn</surname> <addName>von Buͦlach</addName> <roleName>ritter</roleName></persName>
+                     <lb/><persName><roleName>her</roleName> <forename>Burckart</forename> <surname>von Mùlnheim</surname> <roleName>ritter</roleName> <genName>der eilter</genName></persName>
                      <lb/><persName><roleName>her</roleName> <forename>Reimbolt</forename> <surname>Spender</surname></persName>
                      <lb/><persName><roleName>her</roleName> <forename>Reimbolt</forename> <surname>Wetzel</surname></persName>
                   </p>
@@ -3525,7 +3525,7 @@
                <div type="corporation" n="corporation_des_sauniers"><div type="magistrature" n="conseiller_des_sauniers"><p>Von den saltzmüttern : <persName><forename>Volmar</forename> <surname>Ostertag</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_tisserands"><div type="magistrature" n="conseiller_des_tisserands"><p>Von den wöbern : <persName><forename>Hanns</forename> <surname>Spiegel</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_gourmets_et_courtiers"><div type="magistrature" n="conseiller_des_gourmets_et_courtiers"><p>Von den winstichern und underkoüffern : <persName><forename>Diebolt</forename> <surname>Brant</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_charrons"><div type="magistrature" n="conseiller_des_charrons"><p>Von den wagenern kistenern und trescherlern : <persName><roleName>her</roleName> <surname>Hanns</surname> <surname>von der Nuwenburge</surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_charrons"><div type="magistrature" n="conseiller_des_charrons"><p>Von den wagenern kistenern und trescherlern : <persName><roleName>her</roleName> <forname>Hanns</forname> <surname>von der Nuwenburge</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_regrattiers_cordiers_et_fruitiers"><div type="magistrature" n="conseiller_des_regrattiers_cordiers_et_fruitiers"><p>Von den grempern seilern und obssern : <persName><forename>Uͦlrich</forename> <surname>Kiebel</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_coltineurs_de_tonneaux"><div type="magistrature" n="conseiller_des_coltineurs_de_tonneaux"><p>Von den vasziehern : <persName><forename>Symont</forename> <surname>Voͦrster</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_constructeurs_de_bateaux"><div type="magistrature" n="conseiller_des_constructeurs_de_bateaux"><p>Von den schiffzymberlüten : <persName><forename>Diebolt</forename> <surname>Hetteman</surname></persName></p></div></div>
@@ -5396,7 +5396,7 @@
             </div>
             <div type="ordre" n="echevinat">
                <div type="corporation" n="corporation_des_bateliers"><div type="magistrature" n="conseiller_des_bateliers"><p>Von den schifflüten : <persName><forename>Götz</forename> <surname>von Hohenburg</surname></persName></p></div></div>
-               <div type="corporation" n="corporation_des_marchands"><div type="magistrature" n="conseiller_des_marchands"><p>Von den kremern : <persName><roleName>her</roleName> <forename>Conrat</forename> <surname>Riffe altameister</surname></persName></p></div></div>
+               <div type="corporation" n="corporation_des_marchands"><div type="magistrature" n="conseiller_des_marchands"><p>Von den kremern : <persName><roleName>her</roleName> <forename>Conrat</forename> <surname>Riffe</surname> <roleName>altameister</roleName></persName></p></div></div>
                <div type="corporation" n="corporation_des_bouchers"><div type="magistrature" n="conseiller_des_bouchers"><p>Von den metzigern : <persName><roleName>her</roleName> <forename>Marx</forename> <surname>Kerling</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_cabarretiers"><div type="magistrature" n="conseiller_des_cabarretiers"><p>Von den würten : <persName><forename>Walther</forename> <surname>von Rore</surname></persName></p></div></div>
                <div type="corporation" n="corporation_des_drapiers"><div type="magistrature" n="conseiller_des_drapiers"><p>Von den düchern : <persName><forename>Conrat</forename> <surname>Armbroster</surname></persName></p></div></div>
