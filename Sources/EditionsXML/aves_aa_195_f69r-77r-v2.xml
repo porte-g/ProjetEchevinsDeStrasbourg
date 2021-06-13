@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="out/aves_aa_195_f69r-77r-v2_ODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 TEI" xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +56,7 @@
       <body>
          <div type="date" n="1444">
             <div type="Ordre" n="Échevinat">
-               <div type="Corporation" n="a_l_Ancre">
+               <div type="corporation" n="corporation_des_bateliers">
                   <div type="Poele" n="Zum_Encker">
                      <p>Die schöffele Zum encker<lb/> Item <persName><roleName type="honorifique"
                               >her</roleName>
@@ -124,7 +124,7 @@
                            <surname>Hirse</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="au_Miroir">
+               <div type="corporation" n="corporation_des_marchands">
                   <div type="Poele" n="Zum_Spiegel">
                      <p>Die schöffele Züm Spiegel<lb/> Item <persName><roleName type="honorifique"
                               >her</roleName>
@@ -183,7 +183,7 @@
                            <surname>Vilinger</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="a_la_Fleur">
+               <div type="corporation" n="corporation_des_bouchers">
                   <div type="Poele" n="Zur_Blume">
                      <p>Die Schöffele Zür Blümen<lb/> Item <persName><roleName type="honorifique"
                               >her</roleName>
@@ -217,7 +217,7 @@
                            <surname>Lügerlin</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="au_Fribourgeois">
+               <div type="corporation" n="corporation_des_cabarretiers">
                   <div type="Poele" n="Zum_Freiburger">
                      <p>Die schöffele züm friburg<lb/> Item <persName><roleName type="honorifique"
                               >her</roleName>
@@ -247,7 +247,7 @@
                            <surname><nameLink>von</nameLink> Hirtingheim</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="drapiers">
+               <div type="corporation" n="corporation_des_drapiers">
                   <p>Die dücher schöffele<lb/> Item <persName><roleName type="honorifique"
                            >her</roleName>
                         <forename>Conrat</forename>
@@ -283,7 +283,7 @@
                            <persName><forename>Claus</forename>
                         <surname><nameLink>von</nameLink> Rore</surname></persName></p>
                </div>
-               <div type="Corporation" n="marchands_de_grain">
+               <div type="corporation" n="corporation_des_marchands_de_grains">
                   <p>Die kornlüte schöffel<lb/> Item <persName><forename>Ottman</forename>
                         <surname>Franckenheim</surname></persName><lb/> Item
                            <persName><forename>Hanns</forename>
@@ -310,7 +310,7 @@
                            <persName><forename>Peter</forename>
                         <surname>Metziger</surname></persName></p>
                </div>
-               <div type="Corporation" n="a_la_Mauresse">
+               <div type="corporation" n="corporation_des_sauniers">
                   <p>Die schöffel Zür Mörlin<lb/> Item <persName><roleName type="honorifique"
                            >her</roleName>
                         <forename>Lienhart</forename>
@@ -344,7 +344,7 @@
                            <persName><forename>Mertz</forename>
                         <placeName>in Krutenouwe</placeName>></persName></p>
                </div>
-               <div type="Corporation" n="orfevres_et_peintres_de_boucliers">
+               <div type="corporation" n="corporation_des_orfevres">
                   <p>Der schilter und goltsmyde schöffel</p>
                   <div type="Poele" n="orfevre">
                      <p>Goltsmid<lb/> Item <persName><forename>Jerge</forename>
@@ -398,7 +398,7 @@
                            <surname><nameLink>von</nameLink> Altzheim</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="boulangers">
+               <div type="corporation" n="corporation_des_boulangers">
                   <p>Der brotbecker schöffele<lb/> Item <persName><roleName type="titre_honorifique"
                            >her</roleName>
                         <forename>Jacob</forename>
@@ -427,7 +427,7 @@
                         <surname>Franck</surname></persName><lb/> Item
                            <persName><forename>Gilge</forename></persName></p>
                </div>
-               <div type="Corporation" n="pelletiers">
+               <div type="corporation" n="corporation_des_pelletiers">
                   <p>Der kürsener schöffeler<lb/> Item <persName><forename>Claus</forename>
                         <surname>Zür Hellen</surname> der <roleName type="magistrature"
                            >rotherre</roleName></persName><lb/> Item
@@ -455,7 +455,7 @@
                            <persName><forename>Lauwelin</forename>
                         <surname>Dolde</surname></persName></p>
                </div>
-               <div type="Corporation" n="tonneliers">
+               <div type="corporation" n="corporation_des_tonneliers">
                   <p>Der küffer schöffele<lb/> Item <persName><roleName type="honorifique"
                            >her</roleName>
                         <forename>Claus</forename>
@@ -485,7 +485,7 @@
                            <persName><forename>Hanns</forename>
                         <surname>Nefe</surname></persName></p>
                </div>
-               <div type="Corporation" n="tanneurs">
+               <div type="corporation" n="corporation_des_tanneurs">
                   <p>Der gerwer schöffele<lb/> Item <persName><forename>Claus</forename>
                         <surname>Duntzenheim</surname> der <roleName type="magistrature"
                            >rotherre</roleName></persName><lb/> Item
@@ -508,7 +508,7 @@
                            <persName><forename>Peter</forename>
                         <surname><nameLink>von</nameLink> Molsheim</surname></persName></p>
                </div>
-               <div type="Corporation" n="gourmets">
+               <div type="corporation" n="corporation_des_gourmets_et_courtiers">
                   <p>Der Winsticher schöffele<lb/> Item <persName><forename>Hanns</forename>
                         <surname>Schenck</surname>
                         <genName>der alte</genName></persName><lb/> Item
@@ -538,7 +538,7 @@
                         <surname>Kipkorn</surname>
                         <roleName type="office">schaffener</roleName></persName></p>
                </div>
-               <div type="Corporation" n="tailleurs">
+               <div type="corporation" n="corporation_des_tailleurs">
                   <p>Der snyder schöffele<lb/> Item <persName><forename>Sifrit</forename>
                         <surname>Zerig</surname> der <roleName type="magistrature"
                            >rotherre</roleName></persName><lb/> Item
@@ -568,7 +568,7 @@
                            <persName><forename>Hanns</forename>
                         <surname><nameLink>von</nameLink> Sungouwe</surname></persName></p>
                </div>
-               <div type="Corporation" n="forgerons">
+               <div type="corporation" n="corporation_des_forgerons">
                   <p>Der smyde schöffele<lb/> Item <persName><forename>Heinrich</forename>
                         <surname>Meiger</surname></persName><lb/> Item
                            <persName><forename>Peter</forename>
@@ -603,7 +603,7 @@
                            <persName><forename>Behtolt</forename>
                         <surname>Stückgarter</surname></persName></p>
                </div>
-               <div type="Corporation" n="crieurs_et_mesureurs_de_vin">
+               <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <p>Der winmesser und winrüffer schöffele</p>
                   <div type="Poele" n="Mesureurs_de_vin">
                      <p>Winmesser<lb/> Item <persName><forename>Hanns</forename>
@@ -626,7 +626,7 @@
                               <persName><forename>Veltin</forename></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="barbiers_et_baigneurs">
+               <div type="corporation" n="corporation_des_barbiers_et_baigneurs">
                   <div type="Poele" n="Barbiers">
                      <p>Der scherer schöffele<lb/> Item
                            <persName><forename>Rüdolff</forename></persName><lb/> Item
@@ -669,7 +669,7 @@
                            <placeName>under Kürsenern</placeName></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="huiliers_tondeurs_de_draps_et_meuniers">
+               <div type="corporation" n="corporation_des_huiliers_meuniers_et_tondeurs_de_draps">
                   <p>Ollute düchscherer un müller schöffel</p>
                   <div type="Poele" n="Huiliers">
                      <p>Olelüte<lb/> Item <persName><forename>Peter</forename>
@@ -699,7 +699,7 @@
                            <surname>Knapp</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="cordonniers">
+               <div type="corporation" n="corporation_des_cordonniers">
                   <p>Der schühemacher schöffel<lb/> Item <persName><forename>Hanns</forename>
                         <surname>Pfowe</surname></persName><lb/> Item
                            <persName><forename>Cüntze</forename>
@@ -735,7 +735,7 @@
                            type="titre_professionnel">meister</roleName>
                         <surname>Flösz</surname></persName></p>
                </div>
-               <div type="Corporation" n="pecheurs">
+               <div type="corporation" n="corporation_des_pêcheurs">
                   <p>Der vischer schöffele</p>
                   <div type="Poele" n="Am_Oberstaden">
                      <p>Oberstaden<lb/> Item <persName><forename>Claus</forename>
@@ -777,7 +777,7 @@
                            <surname>Bentze</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="constructeurs_de_bateaux">
+               <div type="corporation" n="constructeurs_de_bateaux">
                   <p>Der schiffzimberlüte schöffel<lb/> Item <persName><forename>Hanns</forename>
                         <surname>Klige</surname> der <roleName type="magistrature"
                            >rotherre</roleName></persName><lb/> Item
@@ -786,7 +786,7 @@
                            <persName><forename>Cüntz</forename>
                         <surname>Klie</surname></persName></p>
                </div>
-               <div type="Corporation" n="charrons">
+               <div type="corporation" n="corporation_des_charrons">
                   <p>Der wagener schöffele<lb/> Item <persName><forename>Jerge</forename>
                         <surname>Dritzehen</surname> der <roleName type="office"
                            >schultheisse</roleName></persName><lb/> Item
@@ -816,7 +816,7 @@
                            <persName><forename>Hanseman</forename>
                         <surname>Kiebel</surname></persName></p>
                </div>
-               <div type="Corporation" n="jardiniers">
+               <div type="corporation" n="corporation_des_jardiniers">
                   <p>Der gartener schöffele</p>
                   <div type="Poele" n="Unter_Wagener">
                      <p>Under wagener<lb/> Item <persName><forename>Hanns</forename>
@@ -856,7 +856,7 @@
                            <surname>Mynne</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="tisserands">
+               <div type="corporation" n="corporation_des_tisserands">
                   <p>Die wöber schöffele<lb/> Item <persName><forename>Claus</forename>
                         <surname>Künig</surname> der <roleName type="magistrature"
                            >rotherre</roleName></persName><lb/> Item
@@ -889,7 +889,7 @@
                            <persName><forename>Lütoltz</forename>
                         <surname>Michel</surname></persName></p>
                </div>
-               <div type="Corporation" n="cordiers_fruitiers_et_regrattiers">
+               <div type="corporation" n="corporation_des_regrattiers_cordiers_et_fruitiers">
                   <p>Der seiler obsser und altgewender schöffele</p>
                   <div type="Poele" n="Cordiers">
                      <p>Seiler<lb/> Item <persName><forename>Hanns</forename>
@@ -929,7 +929,7 @@
                            <surname><nameLink>von</nameLink> Molsheim</surname></persName></p>
                   </div>
                </div>
-               <div type="Corporation" n="charpentiers">
+               <div type="corporation" n="corporation_des_charpentiers">
                   <p>Der zimberlüte schöffele<lb/> Item <persName><forename>Michel</forename>
                         <surname>Ripel</surname>
                         <genName>der alte</genName></persName><lb/> Item
@@ -952,7 +952,7 @@
                            <persName><forename>Hanns</forename>
                         <surname><nameLink>von</nameLink> Berckheim</surname></persName></p>
                </div>
-               <div type="Corporation" n="maçons">
+               <div type="corporation" n="corporation_des_maçons">
                   <p>Der murer schöffele<lb/> Item <persName><forename>Hanns</forename>
                         <surname>Walt</surname> der <roleName type="magistrature"
                            >rotherre</roleName></persName><lb/> Item <persName><roleName
@@ -979,7 +979,7 @@
                            <persName><forename>Friderich</forename> der <roleName type="métier"
                            >kacheler</roleName></persName></p>
                </div>
-               <div type="Corporation" n="coltineurs_de_tonneaux">
+               <div type="corporation" n="corporation_des_coltineurs_de_tonneaux">
                   <p>Der vassezieher schöffele<lb/> Item <persName><forename>Sigel</forename>
                         <surname><nameLink>von</nameLink> Dürnyngen</surname> der <roleName
                            type="magistrature">rotherre</roleName></persName><lb/> Item
