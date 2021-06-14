@@ -1,0 +1,37 @@
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
+0,stettmeister,1482,Johanns,Sturm,von Sturmeck,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmeck
+1,stettmeister,1482,Johanns,Böckel,,,constoffeler,,Hans,Böckel,her Hans Böckel ritter
+2,stettmeister,1482,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,her Diebolt von Mùlnheim ritter
+3,ammeister,1482,Peter,Schott,,,echevinat,,Peter,Schott,her Peter Schott der ammeister
+4,conseiller_des_constaffel,1482,Claus,Wormser,,,constoffeler,,Claus,Wormßer,her Claus Wormßer ritter
+5,conseiller_des_constaffel,1482,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,her Hans von Seckingen ritter
+6,conseiller_des_constaffel,1482,Caspar,Bauman,,,constoffeler,,Caspar,Buman,her Caspar Buman ritter
+7,conseiller_des_constaffel,1482,Caspar,"Urendorf, von",,,constoffeler,,Caspar,von Urendorf,her Caspar von Urendorf ritter
+8,conseiller_des_constaffel,1482,Johanns,Spender,,,constoffeler,,Hans,Spender,her Hans Spender ritter
+9,conseiller_des_constaffel,1482,Peter,Rebestock,,,constoffeler,,Peter,Rebstock,Peter Rebstock
+10,conseiller_des_constaffel,1482,Johanns,Völtsch,,,constoffeler,,Hans,Völtsch,Hans Völtsch
+11,conseiller_des_constaffel,1482,Paulus,Hüffelin,,,constoffeler,,Paulus,Huffel,Paulus Huffel
+12,conseiller_des_bateliers,1482,Götze,"Hohenburg, von",,,echevinat,corporation_des_bateliers,Götz,von Hohenburg,Götz von Hohenburg
+13,conseiller_des_marchands,1482,Konrat,Riffe,,,echevinat,corporation_des_marchands,Conrat,Riffe,her Conrat Riffe altameister
+14,conseiller_des_bouchers,1482,Marx,Kerling,,,echevinat,corporation_des_bouchers,Marx,Kerling,her Marx Kerling
+15,conseiller_des_cabarretiers,1482,Walther,"Rohr, von",,,echevinat,corporation_des_cabarretiers,Walther,von Rore,Walther von Rore
+16,conseiller_des_drapiers,1482,Konrat,Armbruster,,,echevinat,corporation_des_drapiers,Conrat,Armbroster,Conrat Armbroster
+17,conseiller_des_marchands_de_grains,1482,Sifrit,Bietenheim,,,echevinat,corporation_des_marchands_de_grains,Sifrit,Bietenheim,Sifrit Bietenheim
+18,conseiller_des_sauniers,1482,Claus,Renner,,,echevinat,corporation_des_sauniers,Claus,Renner,Claus Renner
+19,conseiller_des_orfevres,1482,Andres,Happmacher,,,echevinat,corporation_des_orfevres,Andres,Happmacher,Andres Happmacher
+20,conseiller_des_boulangers,1482,Diebolt,Ottemann,,,echevinat,corporation_des_boulangers,Diebolt,Otteman,Diebolt Otteman
+21,conseiller_des_pelletiers,1482,Johanns,Meiger,,,echevinat,corporation_des_pelletiers,Hans,Meiger,Hans Meiger
+22,conseiller_des_tonneliers,1482,Andres,Seelig,,,echevinat,corporation_des_tonneliers,Andres,Selig,Andres Selig
+23,conseiller_des_tanneurs,1482,Johanns,Vendenheim,zwùschent Brucken,,echevinat,corporation_des_tanneurs,Hans,Vendenheim,Hans Vendenheim zwùschent Brucken
+24,conseiller_des_gourmets_et_courtiers,1482,Johanns,"Odratzheim, von",,,echevinat,corporation_des_gourmets_et_courtiers,Hans,von Odratzheim,Hans von Odratzheim
+25,conseiller_des_tailleurs,1482,Bechtolt,Vogelsberg,,,echevinat,corporation_des_tailleurs,Behtolt,Vogelsberg,Behtolt Vogelsberg
+26,conseiller_des_forgerons,1482,Ruhlemann,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Rùlin,von Druhtersheim,Rùlin von Druhtersheim
+27,conseiller_des_barbiers_et_baigneurs,1482,Jacob,Meiger,,,echevinat,corporation_des_barbiers_et_baigneurs,Jacob,Meiger,Jacob Meiger
+28,conseiller_des_cordonniers,1482,Johanns,Flöss,,,echevinat,corporation_des_cordonniers,Hans,Floße,Hans Floße
+29,conseiller_des_pêcheurs,1482,Wirich,Burggraf,,,echevinat,corporation_des_pêcheurs,Wirich,Burggrafe,Wirich Burggrafe
+30,conseiller_des_charrons,1482,Marx,Rebestock,,,echevinat,corporation_des_charrons,Marx,Rebestock,Marx Rebestock
+31,conseiller_des_jardiniers,1482,Andres,Trense,,,echevinat,corporation_des_jardiniers,Andres,Trense,Andres Trense
+32,conseiller_des_tisserands,1482,Johanns,Mornhinweg,,,echevinat,corporation_des_tisserands,Hans,Mornhinweg,Hans Mornhinweg
+33,conseiller_des_regrattiers_cordiers_et_fruitiers,1482,Laurentz,"Gemersheim, von",,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Lorentz,von Gemar,Lorentz von Gemar
+34,conseiller_des_charpentiers,1482,Bernhart,Scholle,,,echevinat,corporation_des_charpentiers,Bernhart,Scholle,Bernhart Scholle
+35,conseiller_des_maçons,1482,Johanns,Leitgast,,,echevinat,corporation_des_maçons,Hans,Leytgast,Hans Leytgast

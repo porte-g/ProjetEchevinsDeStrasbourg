@@ -1,0 +1,32 @@
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
+0,stettmeister,1486,Johanns,Sturm,von Sturmecke,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmecke
+1,stettmeister,1486,Friedrich,Bock,,,constoffeler,,Friderich,Bock,her Friderich Bock ritter
+2,stettmeister,1486,Johanns,Spender,,,constoffeler,,Hans,Spender,her Hans Spender ritter
+3,stettmeister,1486,Peter,Völtsch,,,constoffeler,,Peter,Völtsche,her Peter Völtsche ritter
+4,ammeister,1486,Marx,Kerling,,,echevinat,,Marx,Kerling,her Marx Kerling der ammeister
+5,conseiller_des_constaffel,1486,Johanns-Wilhelm,,züm Riet,,constoffeler,,Hanswilhelm,,her Hanswilhelm züm Riet ritter
+6,conseiller_des_constaffel,1486,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,her Hans von Seckingen ritter
+7,conseiller_des_constaffel,1486,Jerge,Berer,,,constoffeler,,Jörge,Berer,Jörge Berer
+8,conseiller_des_constaffel,1486,Jacob,Ellenhart,,,constoffeler,,Jacob,Elhart,Jacob Elhart
+9,conseiller_des_constaffel,1486,Ludwig,"Müllenheim, von",,,constoffeler,,Ludwig,von Mùlnheym,Ludwig von Mùlnheym
+10,conseiller_des_constaffel,1486,Jacob,Wormser,,,constoffeler,,Jacob,Wormßer,Jacob Wormßer
+11,conseiller_des_bateliers,1486,Blesin,Dolde,,,echevinat,corporation_des_bateliers,Blesin,Dolde,Blesin Dolde
+12,conseiller_des_marchands,1486,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,Jacob Müge
+13,conseiller_des_bouchers,1486,Claus,Bechtolt,,,echevinat,corporation_des_bouchers,Claus,Behtolt,Claus Behtolt
+14,conseiller_des_cabarretiers,1486,Johanns,Meiger,,,echevinat,corporation_des_cabarretiers,Hans,Meÿger,Hans Meÿger
+15,conseiller_des_drapiers,1486,Peter,Renner,,,echevinat,corporation_des_drapiers,Peter,Renner,Peter Renner
+16,conseiller_des_marchands_de_grains,1486,Peter,Schott,,,echevinat,corporation_des_marchands_de_grains,Peter,Schott,her Peter Schott altammeister
+17,conseiller_des_sauniers,1486,Mattern,Trachenfeils,,,echevinat,corporation_des_sauniers,Matern,Trachenfelß,her Matern Trachenfelß
+18,conseiller_des_orfevres,1486,Andres,Happmacher,,,echevinat,corporation_des_orfevres,Andres,Happmacher,Andres Happmacher
+19,conseiller_des_boulangers,1486,Johanns,Gunther,,,echevinat,corporation_des_boulangers,Hans,Gùnther,Hans Gùnther
+20,conseiller_des_pelletiers,1486,Claus,Pfutzer,,,echevinat,corporation_des_pelletiers,Claus,Pfùtzer,Claus Pfùtzer
+21,conseiller_des_tonneliers,1486,Claus,Vetter,,,echevinat,corporation_des_tonneliers,Claus,Vetter,Claus Vetter
+22,conseiller_des_tanneurs,1486,Johanns,Vendenheim,,,echevinat,corporation_des_tanneurs,Hans,Vendenheym,Hans Vendenheym
+23,conseiller_des_gourmets_et_courtiers,1486,Johanns,Rörich,,,echevinat,corporation_des_gourmets_et_courtiers,Hans,Rörich,Hans Rörich
+24,conseiller_des_tailleurs,1486,Peter,Hug,,,echevinat,corporation_des_tailleurs,Peter,Hug,Peter Hug
+25,conseiller_des_forgerons,1486,Johanns,"Dachstein, von",,,echevinat,corporation_des_forgerons,Hans,von Dachstein,Hans von Dachstein
+26,conseiller_des_cordonniers,1486,Erhart,Gisebrecht,,,echevinat,corporation_des_cordonniers,Erhart,Gisebreht,Erhart Gisebreht
+27,conseiller_des_pêcheurs,1486,Johanns,Bülle,,,echevinat,corporation_des_pêcheurs,Hans,Bùlle,Hans Bùlle
+28,conseiller_des_charrons,1486,Johanns,Claus,,,echevinat,corporation_des_charrons,Hans,Claus,Hans Claus
+29,conseiller_des_jardiniers,1486,Johanns,Rohrbosch,,,echevinat,corporation_des_jardiniers,Hans,Rorbosch,Hans Rorbosch
+30,conseiller_des_maçons,1486,Claus,Lötschel,,,echevinat,corporation_des_maçons,Claus,Lötschel,Claus Lötschel

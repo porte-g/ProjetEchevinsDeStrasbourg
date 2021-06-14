@@ -1,0 +1,44 @@
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
+0,stettmeister,1448,Johanns,Hüffelin,,,constoffeler,,Hanns,Hùffel,her Hanns Hùffel
+1,stettmeister,1448,Heintz,"Müllenheim, von",,,constoffeler,,Heintz,von Mùlnheim,her Heintz von Mùlnheim ritter
+2,stettmeister,1448,Ulrich,Bock,,der eilter,constoffeler,,Uͦlrich,Bock,her Uͦlrich Bock der eilter
+3,stettmeister,1448,Friedrich,"Rust, zum",,,constoffeler,,Fridrich,zuͦm Ruͦst,her Fridrich zuͦm Ruͦst
+4,ammeister,1448,Jacob,Wormser,,,echevinat,,Jacob,Wurmsser,her Jacob Wurmsser der ammeister
+5,conseiller_des_constaffel,1448,Thoman,"Kageneck, von",,,constoffeler,,Thoman,von Kageneck,her Thoman von Kageneck
+6,conseiller_des_constaffel,1448,Johanns,"Müllenheim, von",,,constoffeler,,Hanns,von Mùlnheim,"her Hanns von Mùlnheim, ottemans sun"
+7,conseiller_des_constaffel,1448,Konrat,Bock,,,constoffeler,,Conrat,Bock,her Conrat Bock
+8,conseiller_des_constaffel,1448,Jerge,Zorn,,,constoffeler,,Joͤrg,Zorn,Joͤrg Zorn
+9,conseiller_des_constaffel,1448,Bechtolt,Zorn,zuͦm Riet,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
+10,conseiller_des_constaffel,1448,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,Diebolt von Mùlnheim
+11,conseiller_des_constaffel,1448,Johanns,"Winterthur, von",,,constoffeler,,Hanns,von Wintertur,Hanns von Wintertur
+12,conseiller_des_constaffel,1448,Jacob,Lentzelin,,,constoffeler,,Jacob,Lentzel,Jacob Lentzel
+13,conseiller_des_constaffel,1448,Walther,Bauman,,,constoffeler,,Walther,Buman,Walther Buman
+14,conseiller_des_constaffel,1448,Johanns,Merswin,,,constoffeler,,Hanns,Merswin,Hanns Merswin
+15,conseiller_des_marchands,1448,Konrat,Riffe,,,echevinat,corporation_des_marchands,Conrat,Riffe,Conrat Riffe
+16,conseiller_des_boulangers,1448,Claus,Linzer,,,echevinat,corporation_des_boulangers,Claus,Linser,Claus Linser
+17,conseiller_des_bouchers,1448,Wilhelm,Bechtolt,,,echevinat,corporation_des_bouchers,Wilhelm,Betscholt,Wilhelm Betscholt
+18,conseiller_des_tonneliers,1448,Johanns,Brettler,,,echevinat,corporation_des_tonneliers,Hanns,Bretteler,Hanns Bretteler
+19,conseiller_des_drapiers,1448,Johanns,Renner,,,echevinat,corporation_des_drapiers,Hanns,Renner,Hanns Renner
+20,conseiller_des_tanneurs,1448,Diebolt,Reimbolt,,,echevinat,corporation_des_tanneurs,Diebolt,Reimbolt,Diebolt Reimbolt
+21,conseiller_des_cabarretiers,1448,Erhart,Baumgarter,,,echevinat,corporation_des_cabarretiers,Erhart,Boͧmgarter,Erhart Boͧmgarter
+22,conseiller_des_maçons,1448,Johanns,Walt,,,echevinat,corporation_des_maçons,Hanns,Walt,Hanns Walt
+23,conseiller_des_forgerons,1448,Johanns,Weidemann,,,echevinat,corporation_des_forgerons,Hanns,Wideman,Hanns Wideman
+24,conseiller_des_tailleurs,1448,Sifrit,Zerig,,,echevinat,corporation_des_tailleurs,Syfrit,Zerig,Syfrit Zerig
+25,conseiller_des_bateliers,1448,Obrecht,Schalk,,,echevinat,corporation_des_bateliers,Obreht,Schalck,her Obreht Schalck altammeister
+26,conseiller_des_pelletiers,1448,Claus,"Erfurt, von",,,echevinat,corporation_des_pelletiers,Claus,von Erffurt,Claus von Erffurt
+27,conseiller_des_charpentiers,1448,Wilhelm,"Geispoltzheim, von",,,echevinat,corporation_des_charpentiers,Wilhelm,von Geispoltzheim,Wilhelm von Geispoltzheim
+28,conseiller_des_crieurs_et_mesureurs_de_vin,1448,Johanns,Studel,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Hanns,Stùdel,Hanns Stùdel
+29,conseiller_des_cordonniers,1448,Johanns,"Zweibrücken, von",,,echevinat,corporation_des_cordonniers,Hanns,von Zweibrùcken,Hanns von Zweibrùcken
+30,conseiller_des_orfevres,1448,Martin,Ernst,,,echevinat,corporation_des_orfevres,Martin,Ernst,Martin Ernst
+31,conseiller_des_marchands_de_grains,1448,Johanns,Melbrühe,,,echevinat,corporation_des_marchands_de_grains,Hanns,Melbruͤ,Hanns Melbruͤ
+32,conseiller_des_jardiniers,1448,Johanns,Trense,,,echevinat,corporation_des_jardiniers,Hanns,Trense,Hanns Trense
+33,conseiller_des_pêcheurs,1448,Michel,Sundheim,,,echevinat,corporation_des_pêcheurs,Michel,Suntheim,Michel Suntheim
+34,conseiller_des_barbiers_et_baigneurs,1448,Johanns,,im sluch,,echevinat,corporation_des_barbiers_et_baigneurs,Hanns,,Hanns im sluch
+35,conseiller_des_sauniers,1448,Johanns,Trachenfeils,,,echevinat,corporation_des_sauniers,Hanns,Trachenfeils,Hanns Trachenfeils
+36,conseiller_des_tisserands,1448,Johanns,Spiegel,,,echevinat,corporation_des_tisserands,Hanns,Spiegel,Hanns Spiegel
+37,conseiller_des_gourmets_et_courtiers,1448,Diebolt,Brant,,,echevinat,corporation_des_gourmets_et_courtiers,Diebolt,Brant,Diebolt Brant
+38,conseiller_des_charrons,1448,Johanns,Träger,,,echevinat,corporation_des_charrons,Hanns,Treger,Hanns Treger
+39,conseiller_des_regrattiers_cordiers_et_fruitiers,1448,Johanns,Schwencker,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Hanns,Swencker,Hanns Swencker
+40,conseiller_des_coltineurs_de_tonneaux,1448,Johanns,Paulus,,,echevinat,corporation_des_coltineurs_de_tonneaux,Hanns,Paulus,Hanns Paulus
+41,conseiller_des_constructeurs_de_bateaux,1448,Diebolt,Hettemann,,,echevinat,corporation_des_constructeurs_de_bateaux,Diebolt,Hetteman,Diebolt Hetteman
+42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1448,Claus,Freund,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Claus,Frùnd,Claus Frùnd der mùller

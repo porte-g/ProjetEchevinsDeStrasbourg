@@ -1,0 +1,41 @@
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
+0,stettmeister,1469,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggrafe,her Dietrich Burggrafe
+1,stettmeister,1469,Johanns,Böckel,,,constoffeler,,Hanns,Boͤckel,her Hanns Boͤckel ritter
+2,stettmeister,1469,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,her Diebolt von Mùlnheim ritter
+3,stettmeister,1469,Johanns,Hüffelin,,,constoffeler,,Hanns,Huffel,her Hanns Huffel
+4,ammeister,1469,Jacob,Ammelung,,,echevinat,,Jocob,Ammlung,her Jocob Ammlung der ammeister
+5,conseiller_des_constaffel,1469,Johanns-Konrat,Bock,,,constoffeler,,Hannsconrat,Bock,her Hannsconrat Bock
+6,conseiller_des_constaffel,1469,Johanns,Sturm,,,constoffeler,,Hanns,Sturm,Hanns Sturm
+7,conseiller_des_constaffel,1469,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,Peter Rebestock
+8,conseiller_des_constaffel,1469,Johanns-Adolff,Ellenhart,,,constoffeler,,Hannsadolff,Elnhart,Hannsadolff Elnhart
+9,conseiller_des_constaffel,1469,Johanns,Völtsch,,,constoffeler,,Hanns,Voͤltsche,Hanns Voͤltsche
+10,conseiller_des_constaffel,1469,Johanns-Erhart,"Winterthur, von",,,constoffeler,,Hanns Erhart,von Wintertùr,Hanns Erhart von Wintertùr
+11,conseiller_des_constaffel,1469,Ulrich,Bock,,,constoffeler,,Ulrich,Bock,Ulrich Bock
+12,conseiller_des_constaffel,1469,Wilhelm,Böckel,,,constoffeler,,Wilhelm,Boͤckel,Wilhelm Boͤckel
+13,conseiller_des_constaffel,1469,Bernhart,Vener,,,constoffeler,,Bernhart,Vener,Bernhart Vener
+14,conseiller_des_marchands,1469,Konrat,Riffe,,,echevinat,corporation_des_marchands,Conrat,Riff,her Conrat Riff altammeister
+15,conseiller_des_boulangers,1469,Ulrich,Burer,,,echevinat,corporation_des_boulangers,Ulrich,Bùrer,Ulrich Bùrer
+16,conseiller_des_bouchers,1469,Marx,Kerling,,,echevinat,corporation_des_bouchers,Marx,Kerling,Marx Kerling
+17,conseiller_des_tonneliers,1469,Andres,Seelig,,,echevinat,corporation_des_tonneliers,Andres,Selig,Andres Selig
+18,conseiller_des_drapiers,1469,Stefan,Wingersheim,,,echevinat,corporation_des_drapiers,Steffan,Wingersheim,Steffan Wingersheim
+19,conseiller_des_tanneurs,1469,Claus,Bitsch,,,echevinat,corporation_des_tanneurs,Claus,Bitsche,Claus Bitsche
+20,conseiller_des_cabarretiers,1469,Claus,Baumgarter,,,echevinat,corporation_des_cabarretiers,Claus,Boͧmgarter,her Claus Boͧmgarter altammeister
+21,conseiller_des_maçons,1469,Michel,"Molsheim, von",,,echevinat,corporation_des_maçons,Michel,von Molsheim,Michel von Molsheim
+22,conseiller_des_forgerons,1469,Claus,Birre,,,echevinat,corporation_des_forgerons,Claus,Birre,Claus Birre
+23,conseiller_des_tailleurs,1469,Andres,Volk,,,echevinat,corporation_des_tailleurs,Andres,Volck,Andres Volck
+24,conseiller_des_bateliers,1469,Frantz,Hage,,,echevinat,corporation_des_bateliers,Frantz,Hage,Frantz Hage
+25,conseiller_des_pelletiers,1469,Peter,"Sarburg, von",,,echevinat,corporation_des_pelletiers,Peter,von Sarburg,Peter von Sarburg
+26,conseiller_des_charpentiers,1469,Claus,Bösch,,,echevinat,corporation_des_charpentiers,Claus,Boͤsche,Claus Boͤsche
+27,conseiller_des_crieurs_et_mesureurs_de_vin,1469,Claus,Beingewant,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Claus,Beingewant,Claus Beingewant
+28,conseiller_des_cordonniers,1469,Konrat,"Bitsch, von",,,echevinat,corporation_des_cordonniers,Conrat,von Bitsche,Conrat von Bitsche
+29,conseiller_des_orfevres,1469,Heinrich,Bisinger,,,echevinat,corporation_des_orfevres,Heinrich,Bisinger,Heinrich Bisinger
+30,conseiller_des_marchands_de_grains,1469,Sifrit,Bietenheim,,,echevinat,corporation_des_marchands_de_grains,Syfrit,Bietenheim,Syfrit Bietenheim
+31,conseiller_des_jardiniers,1469,Andres,Ersame,,,echevinat,corporation_des_jardiniers,Andres,Ersamm,Andres Ersamm
+32,conseiller_des_pêcheurs,1469,Martin,Lehmann,,,echevinat,corporation_des_pêcheurs,Martin,Leheman,Martin Leheman
+33,conseiller_des_barbiers_et_baigneurs,1469,Peter,"Brachenheim, von",,,echevinat,corporation_des_barbiers_et_baigneurs,Peter,von Brachenheim,Peter von Brachenheim
+34,conseiller_des_sauniers,1469,Johanns,Bisinger,,,echevinat,corporation_des_sauniers,Hans,Bisinger,Hans Bisinger
+35,conseiller_des_tisserands,1469,Johanns,Umb und Umb,,,echevinat,corporation_des_tisserands,Hans,Umb und Umb,Hans Umb und Umb
+36,conseiller_des_gourmets_et_courtiers,1469,Heinrich,Hegel,,,echevinat,corporation_des_gourmets_et_courtiers,Heinrich,Egel,Heinrich Egel
+37,conseiller_des_charrons,1469,Johanns,Voltz,,,echevinat,corporation_des_charrons,Hanns,Voltz,Hanns Voltz
+38,conseiller_des_regrattiers_cordiers_et_fruitiers,1469,Claus,Herbst,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Claus,Herbst,Claus Herbst
+39,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1469,Hilarius,Spiess,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Hylarius,Spieß,Hylarius Spieß
