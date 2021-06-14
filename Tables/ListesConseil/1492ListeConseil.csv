@@ -1,32 +1,32 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1492,Peter,Völtsch,,,constoffeler,,Peter,Völtsch,,her Peter Völtsch ritter
-1,stettmeister,1492,Friedrich,Bock,,,constoffeler,,Friderich,Bock,,her Friderich Bock ritter
-2,stettmeister,1492,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,,her Hans von Seckingen ritter
-3,stettmeister,1492,Johanns,Völtsch,,,constoffeler,,Hans,Völtsche,,her Hans Völtsche
-4,ammeister,1492,Marx,Kerling,,,echevinat,,Marx,Kerling,,her Marx Kerling der ammeister
-5,conseiller_des_constaffel,1492,Johanns-Wilhelm,,"Riet, zum",,constoffeler,,Hanswilhelm,,züm Riet,Hanswilhelm züm Riet ritter
-6,conseiller_des_constaffel,1492,Jerge,Berer,,,constoffeler,,Jörge,Berer,,Jörge Berer
-7,conseiller_des_constaffel,1492,Caspar,Klobelouch,,,constoffeler,,Caspar,Clobeloch,,Caspar Clobeloch
-8,conseiller_des_constaffel,1492,Walther,"Müllenheim, von",,,constoffeler,,Walther,von Mùlnheim,,Walther von Mùlnheim
-9,conseiller_des_constaffel,1492,Balthazar,Böckel,,,constoffeler,,Balthazar,Böcklin,,Balthazar Böcklin
-10,conseiller_des_constaffel,1492,Wendeling,"Trübel, zum",,,constoffeler,,Wendeling,zuͦm Trùbel,,Wendeling zuͦm Trùbel
-11,conseiller_des_bateliers,1492,Peter,Müseler,,,echevinat,corporation_des_bateliers,Peter,Museler,,Peter Museler
-12,conseiller_des_marchands,1492,Heinrich,Ingolt,,,echevinat,corporation_des_marchands,Heinrich,Ingolt,,Heinrich Ingolt
-13,conseiller_des_bouchers,1492,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wysebach,,Jacob Wysebach
-14,conseiller_des_cabaretiers,1492,Jacob,Wurm,,,echevinat,corporation_des_cabaretiers,Jacob,Wurm,,Jacob Wurm
-15,conseiller_des_drapiers,1492,Jerge,Hohenburg,,,echevinat,corporation_des_drapiers,Jörge,Hohemburg,,Jörge Hohemburg
-16,conseiller_des_marchands_de_grains,1492,Claus,Jörger,,,echevinat,corporation_des_marchands_de_grains,Claus,Jörger,,Claus Jörger
-17,conseiller_des_sauniers,1492,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Lienhart,Trachenfelß,,Lienhart Trachenfelß
-18,conseiller_des_orfevres,1492,Stefan,Rotschilt,,,echevinat,corporation_des_orfevres,Steffan,Rotschilt,,Steffan Rotschilt
-19,conseiller_des_boulangers,1492,Lienhart,Wolff,,,echevinat,corporation_des_boulangers,Lienhart,Wolff,,Lienhart Wolff
-20,conseiller_des_pelletiers,1492,Heinrich,Schott,,,echevinat,corporation_des_pelletiers,Heinrich,Schott,,Heinrich Schott
-21,conseiller_des_tonneliers,1492,Johanns,Frank,,,echevinat,corporation_des_tonneliers,Hans,Franck,,Hans Franck
-22,conseiller_des_tanneurs,1492,Claus,Krug,,,echevinat,corporation_des_tanneurs,Claus,Krügk,,Claus Krügk
-23,conseiller_des_gourmets_et_courtiers,1492,Konrat,Storck,,,echevinat,corporation_des_gourmets_et_courtiers,Conrat,Storck,,Conrat Storck
-24,conseiller_des_tailleurs,1492,Matheus,Esslinger,,,echevinat,corporation_des_tailleurs,Matheus,Esselinger,,Matheus Esselinger
-25,conseiller_des_forgerons,1492,Jost,"Freiburg, von",,,echevinat,corporation_des_forgerons,Jost,von Friburg,,Jost von Friburg
-26,conseiller_des_cordonniers,1492,Martin,,Wein und Brot,,echevinat,corporation_des_cordonniers,Martin,,Win und Brot,Martin Win und Brot
-27,conseiller_des_pêcheurs,1492,Jerge,Ebel,,,echevinat,corporation_des_pêcheurs,Jörge,Ebel,,Jörge Ebel
-28,conseiller_des_charrons,1492,Konrat,"Wangen, von",,,echevinat,corporation_des_charrons,Conrat,von Wangen,,Conrat von Wangen
-29,conseiller_des_jardiniers,1492,Kühne,Grimmel,,,echevinat,corporation_des_jardiniers,Cüne,Grymmel,,Cüne Grymmel
-30,conseiller_des_maçons,1492,Peter,Heil,,,echevinat,corporation_des_maçons,Peter,Heỳl,,Peter Heỳl
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1492,Peter,Völtsch,,,"['her', 'ritter']",constoffeler,,,Peter,Völtsch,,her Peter Völtsch ritter
+1,stettmeister,1492,Friedrich,Bock,,,"['her', 'ritter']",constoffeler,,,Friderich,Bock,,her Friderich Bock ritter
+2,stettmeister,1492,Johanns,"Säckingen, von",,,"['her', 'ritter']",constoffeler,,,Hans,von Seckingen,,her Hans von Seckingen ritter
+3,stettmeister,1492,Johanns,Völtsch,,,['her'],constoffeler,,,Hans,Völtsche,,her Hans Völtsche
+4,ammeister,1492,Marx,Kerling,,,"['her', 'ammeister']",echevinat,,,Marx,Kerling,,her Marx Kerling der ammeister
+5,conseiller_des_constaffel,1492,Johanns-Wilhelm,,"Riet, zum",,['ritter'],constoffeler,,,Hanswilhelm,,züm Riet,Hanswilhelm züm Riet ritter
+6,conseiller_des_constaffel,1492,Jerge,Berer,,,,constoffeler,,,Jörge,Berer,,Jörge Berer
+7,conseiller_des_constaffel,1492,Caspar,Klobelouch,,,,constoffeler,,,Caspar,Clobeloch,,Caspar Clobeloch
+8,conseiller_des_constaffel,1492,Walther,"Müllenheim, von",,,,constoffeler,,,Walther,von Mùlnheim,,Walther von Mùlnheim
+9,conseiller_des_constaffel,1492,Balthazar,Böckel,,,,constoffeler,,,Balthazar,Böcklin,,Balthazar Böcklin
+10,conseiller_des_constaffel,1492,Wendeling,"Trübel, zum",,,,constoffeler,,,Wendeling,zuͦm Trùbel,,Wendeling zuͦm Trùbel
+11,conseiller_des_bateliers,1492,Peter,Müseler,,,,echevinat,corporation_des_bateliers,,Peter,Museler,,Peter Museler
+12,conseiller_des_marchands,1492,Heinrich,Ingolt,,,,echevinat,corporation_des_marchands,,Heinrich,Ingolt,,Heinrich Ingolt
+13,conseiller_des_bouchers,1492,Jacob,Wisebach,,,,echevinat,corporation_des_bouchers,,Jacob,Wysebach,,Jacob Wysebach
+14,conseiller_des_cabaretiers,1492,Jacob,Wurm,,,,echevinat,corporation_des_cabaretiers,,Jacob,Wurm,,Jacob Wurm
+15,conseiller_des_drapiers,1492,Jerge,Hohenburg,,,,echevinat,corporation_des_drapiers,,Jörge,Hohemburg,,Jörge Hohemburg
+16,conseiller_des_marchands_de_grains,1492,Claus,Jörger,,,,echevinat,corporation_des_marchands_de_grains,,Claus,Jörger,,Claus Jörger
+17,conseiller_des_sauniers,1492,Lienhart,Trachenfeils,,,,echevinat,corporation_des_sauniers,,Lienhart,Trachenfelß,,Lienhart Trachenfelß
+18,conseiller_des_orfevres,1492,Stefan,Rotschilt,,,,echevinat,corporation_des_orfevres,,Steffan,Rotschilt,,Steffan Rotschilt
+19,conseiller_des_boulangers,1492,Lienhart,Wolff,,,,echevinat,corporation_des_boulangers,,Lienhart,Wolff,,Lienhart Wolff
+20,conseiller_des_pelletiers,1492,Heinrich,Schott,,,,echevinat,corporation_des_pelletiers,,Heinrich,Schott,,Heinrich Schott
+21,conseiller_des_tonneliers,1492,Johanns,Frank,,,,echevinat,corporation_des_tonneliers,,Hans,Franck,,Hans Franck
+22,conseiller_des_tanneurs,1492,Claus,Krug,,,,echevinat,corporation_des_tanneurs,,Claus,Krügk,,Claus Krügk
+23,conseiller_des_gourmets_et_courtiers,1492,Konrat,Storck,,,,echevinat,corporation_des_gourmets_et_courtiers,,Conrat,Storck,,Conrat Storck
+24,conseiller_des_tailleurs,1492,Matheus,Esslinger,,,,echevinat,corporation_des_tailleurs,,Matheus,Esselinger,,Matheus Esselinger
+25,conseiller_des_forgerons,1492,Jost,"Freiburg, von",,,,echevinat,corporation_des_forgerons,,Jost,von Friburg,,Jost von Friburg
+26,conseiller_des_cordonniers,1492,Martin,,Wein und Brot,,,echevinat,corporation_des_cordonniers,,Martin,,Win und Brot,Martin Win und Brot
+27,conseiller_des_pêcheurs,1492,Jerge,Ebel,,,,echevinat,corporation_des_pêcheurs,,Jörge,Ebel,,Jörge Ebel
+28,conseiller_des_charrons,1492,Konrat,"Wangen, von",,,,echevinat,corporation_des_charrons,,Conrat,von Wangen,,Conrat von Wangen
+29,conseiller_des_jardiniers,1492,Kühne,Grimmel,,,,echevinat,corporation_des_jardiniers,,Cüne,Grymmel,,Cüne Grymmel
+30,conseiller_des_maçons,1492,Peter,Heil,,,,echevinat,corporation_des_maçons,,Peter,Heỳl,,Peter Heỳl

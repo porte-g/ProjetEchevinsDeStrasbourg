@@ -1,32 +1,32 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1489,Claus,Wormser,,,constoffeler,,Claus,Wormsser,,her Claus Wormsser ritter
-1,stettmeister,1489,Friedrich,Bock,,,constoffeler,,Friderich,Bock,,her Friderich Bock ritter
-2,stettmeister,1489,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,,her Hans von Seckingen ritter
-3,stettmeister,1489,Peter,Völtsch,,,constoffeler,,Peter,Völtsche,,her Peter Völtsche ritter
-4,ammeister,1489,Mattern,Trachenfeils,,,echevinat,,Matern,Trachenfelß,,her Matern Trachenfelß der ammeister
-5,conseiller_des_constaffel,1489,Johanns-Wilhelm,,"Riet, zum",,constoffeler,,Hanswilhelm,,züm Riet,her Hanswilhelm züm Riet ritter
-6,conseiller_des_constaffel,1489,Jerge,Berer,,,constoffeler,,Jörge,Berer,,Jörge Berer
-7,conseiller_des_constaffel,1489,Jacob,Ellenhart,,,constoffeler,,Jacob,Elhart,,Jacob Elhart
-8,conseiller_des_constaffel,1489,Jacob,Wormser,,,constoffeler,,Jacob,Wormsser,,Jacob Wormsser
-9,conseiller_des_constaffel,1489,Sigel,Völtsch,,,constoffeler,,Sigel,Völtsch,,Sigel Völtsch
-10,conseiller_des_constaffel,1489,Balthazar,Böckel,,,constoffeler,,Balthazar,Böcklin,,Balthazar Böcklin
-11,conseiller_des_bateliers,1489,Götze,"Hohenburg, von",,,echevinat,corporation_des_bateliers,Götz,von Hohemburg,,Götz von Hohemburg
-12,conseiller_des_marchands,1489,Andres,Happmacher,,,echevinat,corporation_des_marchands,Andres,Hapmacher,,Andres Hapmacher
-13,conseiller_des_bouchers,1489,Marx,Kerling,,,echevinat,corporation_des_bouchers,Marx,Kerling,,her Marx Kerling altammeister
-14,conseiller_des_cabaretiers,1489,Claus,Baumgarter,,,echevinat,corporation_des_cabaretiers,Claus,Bömgarter,,her Claus Bömgarter altammeister
-15,conseiller_des_drapiers,1489,Johanns,"Brümath, von",,,echevinat,corporation_des_drapiers,Hans,von Brümat,,Hans von Brümat
-16,conseiller_des_marchands_de_grains,1489,Florentz,Rummeler,,,echevinat,corporation_des_marchands_de_grains,Florentz,Rummeler,,Florentz Rummeler
-17,conseiller_des_sauniers,1489,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Lienhart,Trachenfels,,Lienhart Trachenfels
-18,conseiller_des_orfevres,1489,Ulrich,Seebott,,,echevinat,corporation_des_orfevres,Ülrich,Sebott,,Ülrich Sebott
-19,conseiller_des_boulangers,1489,Johanns,Waldener,,,echevinat,corporation_des_boulangers,Hans,Waldener,,Hans Waldener
-20,conseiller_des_pelletiers,1489,Mattern,Pfutzer,,,echevinat,corporation_des_pelletiers,Matern,Pfùtzer,,Matern Pfùtzer
-21,conseiller_des_tonneliers,1489,Florentz,Müge,,,echevinat,corporation_des_tonneliers,Florentz,Müge,,Florentz Müge
-22,conseiller_des_tanneurs,1489,Johanns,Missbach,,,echevinat,corporation_des_tanneurs,Hans,Mißbach,,Hans Mißbach
-23,conseiller_des_gourmets_et_courtiers,1489,Konrat,Hungerstein,,,echevinat,corporation_des_gourmets_et_courtiers,Cünrat,Hungerstein,,Cünrat Hungerstein
-24,conseiller_des_tailleurs,1489,Michel,Dietrich,,,echevinat,corporation_des_tailleurs,Michel,Dietrich,,Michel Dietrich
-25,conseiller_des_forgerons,1489,Ruhlemann,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Rülin,von Druhtersheim,,Rülin von Druhtersheim
-26,conseiller_des_cordonniers,1489,Johanns,Burkhart,,,echevinat,corporation_des_cordonniers,Hans,Burckart,,Hans Burckart
-27,conseiller_des_pêcheurs,1489,Claus,Ulrich,,,echevinat,corporation_des_pêcheurs,Claus,Ulrich,,Claus Ulrich
-28,conseiller_des_charrons,1489,Peter,Krebs,,,echevinat,corporation_des_charrons,Peter,Krebs,,Peter Krebs
-29,conseiller_des_jardiniers,1489,Andres,Trense,,,echevinat,corporation_des_jardiniers,Andres,Trense,,Andres Trense
-30,conseiller_des_maçons,1489,Veltin,Minner,,,echevinat,corporation_des_maçons,Veltin,Mynner,,Veltin Mynner
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1489,Claus,Wormser,,,"['her', 'ritter']",constoffeler,,,Claus,Wormsser,,her Claus Wormsser ritter
+1,stettmeister,1489,Friedrich,Bock,,,"['her', 'ritter']",constoffeler,,,Friderich,Bock,,her Friderich Bock ritter
+2,stettmeister,1489,Johanns,"Säckingen, von",,,"['her', 'ritter']",constoffeler,,,Hans,von Seckingen,,her Hans von Seckingen ritter
+3,stettmeister,1489,Peter,Völtsch,,,"['her', 'ritter']",constoffeler,,,Peter,Völtsche,,her Peter Völtsche ritter
+4,ammeister,1489,Mattern,Trachenfeils,,,"['her', 'ammeister']",echevinat,,,Matern,Trachenfelß,,her Matern Trachenfelß der ammeister
+5,conseiller_des_constaffel,1489,Johanns-Wilhelm,,"Riet, zum",,"['her', 'ritter']",constoffeler,,,Hanswilhelm,,züm Riet,her Hanswilhelm züm Riet ritter
+6,conseiller_des_constaffel,1489,Jerge,Berer,,,,constoffeler,,,Jörge,Berer,,Jörge Berer
+7,conseiller_des_constaffel,1489,Jacob,Ellenhart,,,,constoffeler,,,Jacob,Elhart,,Jacob Elhart
+8,conseiller_des_constaffel,1489,Jacob,Wormser,,,,constoffeler,,,Jacob,Wormsser,,Jacob Wormsser
+9,conseiller_des_constaffel,1489,Sigel,Völtsch,,,,constoffeler,,,Sigel,Völtsch,,Sigel Völtsch
+10,conseiller_des_constaffel,1489,Balthazar,Böckel,,,,constoffeler,,,Balthazar,Böcklin,,Balthazar Böcklin
+11,conseiller_des_bateliers,1489,Götze,"Hohenburg, von",,,,echevinat,corporation_des_bateliers,,Götz,von Hohemburg,,Götz von Hohemburg
+12,conseiller_des_marchands,1489,Andres,Happmacher,,,,echevinat,corporation_des_marchands,,Andres,Hapmacher,,Andres Hapmacher
+13,conseiller_des_bouchers,1489,Marx,Kerling,,,"['her', 'altammeister']",echevinat,corporation_des_bouchers,,Marx,Kerling,,her Marx Kerling altammeister
+14,conseiller_des_cabaretiers,1489,Claus,Baumgarter,,,"['her', 'altammeister']",echevinat,corporation_des_cabaretiers,,Claus,Bömgarter,,her Claus Bömgarter altammeister
+15,conseiller_des_drapiers,1489,Johanns,"Brümath, von",,,,echevinat,corporation_des_drapiers,,Hans,von Brümat,,Hans von Brümat
+16,conseiller_des_marchands_de_grains,1489,Florentz,Rummeler,,,,echevinat,corporation_des_marchands_de_grains,,Florentz,Rummeler,,Florentz Rummeler
+17,conseiller_des_sauniers,1489,Lienhart,Trachenfeils,,,,echevinat,corporation_des_sauniers,,Lienhart,Trachenfels,,Lienhart Trachenfels
+18,conseiller_des_orfevres,1489,Ulrich,Seebott,,,,echevinat,corporation_des_orfevres,,Ülrich,Sebott,,Ülrich Sebott
+19,conseiller_des_boulangers,1489,Johanns,Waldener,,,,echevinat,corporation_des_boulangers,,Hans,Waldener,,Hans Waldener
+20,conseiller_des_pelletiers,1489,Mattern,Pfutzer,,,,echevinat,corporation_des_pelletiers,,Matern,Pfùtzer,,Matern Pfùtzer
+21,conseiller_des_tonneliers,1489,Florentz,Müge,,,,echevinat,corporation_des_tonneliers,,Florentz,Müge,,Florentz Müge
+22,conseiller_des_tanneurs,1489,Johanns,Missbach,,,,echevinat,corporation_des_tanneurs,,Hans,Mißbach,,Hans Mißbach
+23,conseiller_des_gourmets_et_courtiers,1489,Konrat,Hungerstein,,,,echevinat,corporation_des_gourmets_et_courtiers,,Cünrat,Hungerstein,,Cünrat Hungerstein
+24,conseiller_des_tailleurs,1489,Michel,Dietrich,,,,echevinat,corporation_des_tailleurs,,Michel,Dietrich,,Michel Dietrich
+25,conseiller_des_forgerons,1489,Ruhlemann,"Truchtersheim, von",,,,echevinat,corporation_des_forgerons,,Rülin,von Druhtersheim,,Rülin von Druhtersheim
+26,conseiller_des_cordonniers,1489,Johanns,Burkhart,,,,echevinat,corporation_des_cordonniers,,Hans,Burckart,,Hans Burckart
+27,conseiller_des_pêcheurs,1489,Claus,Ulrich,,,,echevinat,corporation_des_pêcheurs,,Claus,Ulrich,,Claus Ulrich
+28,conseiller_des_charrons,1489,Peter,Krebs,,,,echevinat,corporation_des_charrons,,Peter,Krebs,,Peter Krebs
+29,conseiller_des_jardiniers,1489,Andres,Trense,,,,echevinat,corporation_des_jardiniers,,Andres,Trense,,Andres Trense
+30,conseiller_des_maçons,1489,Veltin,Minner,,,,echevinat,corporation_des_maçons,,Veltin,Mynner,,Veltin Mynner

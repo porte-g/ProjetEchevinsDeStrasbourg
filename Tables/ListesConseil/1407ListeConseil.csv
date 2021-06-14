@@ -1,6 +1,6 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1407,Reimbolt,Hüffelin,,,constoffeler,,Reimbolt,Hüffel,,her Reimbolt Hüffel
-1,stettmeister,1407,Heinrich,"Müllenheim, von",,,constoffeler,,Heinrich,von Mülnheim,,her Heinrich von Mülnheim
-2,stettmeister,1407,Johanns-Rudolff,"Endingen, von",,,constoffeler,,Hanns Rüdolff,von Endingen,,her Hanns Rüdolff von Endingen ritter
-3,stettmeister,1407,Bechtolt,"Rosheim, von",,,constoffeler,,Behtolt,von Rosheim,,her Behtolt von Rosheim
-4,ammeister,1407,Johanns,Heilmann,,,echevinat,,Johanns,Heilman,,her Johanns Heilman der ammeister
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1407,Reimbolt,Hüffelin,,,['her'],constoffeler,,,Reimbolt,Hüffel,,her Reimbolt Hüffel
+1,stettmeister,1407,Heinrich,"Müllenheim, von",,,['her'],constoffeler,,,Heinrich,von Mülnheim,,her Heinrich von Mülnheim
+2,stettmeister,1407,Johanns-Rudolff,"Endingen, von",,,"['her', 'ritter']",constoffeler,,,Hanns Rüdolff,von Endingen,,her Hanns Rüdolff von Endingen ritter
+3,stettmeister,1407,Bechtolt,"Rosheim, von",,,['her'],constoffeler,,,Behtolt,von Rosheim,,her Behtolt von Rosheim
+4,ammeister,1407,Johanns,Heilmann,,,"['her', 'ammeister']",echevinat,,,Johanns,Heilman,,her Johanns Heilman der ammeister

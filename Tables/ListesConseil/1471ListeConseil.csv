@@ -1,38 +1,38 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1471,Johanns-Rudolff,"Endingen, von",,,constoffeler,,Hanns Rüdolff,von Endingen,,her Hanns Rüdolff von Endingen ritter
-1,stettmeister,1471,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,,her Diebolt von Mùlnheim ritter
-2,stettmeister,1471,Philipp,"Müllenheim, von",,,constoffeler,,Philips,von Mùlnheim,,her Philips von Mùlnheim ritter
-3,stettmeister,1471,Johanns,Hüffelin,,,constoffeler,,Hanns,Hùffel,,her Hanns Hùffel
-4,ammeister,1471,Heinrich,Arge,,,echevinat,,Heinrich,Arge,,her Heinrich Arge der ammeister
-5,conseiller_des_constaffel,1471,Friedrich,Bock,,,constoffeler,,Friderich,Bock,,her Friderich Bock ritter
-6,conseiller_des_constaffel,1471,Johanns,Merswin,,,constoffeler,,Hans,Merswin,,her Hans Merswin
-7,conseiller_des_constaffel,1471,Claus,Spender,,,constoffeler,,Claus,Spender,,Claus Spender
-8,conseiller_des_constaffel,1471,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,,Peter Rebestock
-9,conseiller_des_constaffel,1471,Bernhart,Bock,,,constoffeler,,Bernhart,Bock,,Bernhart Bock
-10,conseiller_des_constaffel,1471,Caspar,"Müllenheim, von",Hiltebrant,,constoffeler,,Caspar,von Mùlnheim,Hiltebrant,Caspar von Mùlnheim genant Hiltebrant
-11,conseiller_des_constaffel,1471,Friedrich,Böckel,,,constoffeler,,Friderich,Böckel,,Friderich Böckel
-12,conseiller_des_constaffel,1471,Bartholomeus,Büchsener,,,constoffeler,,Bartholomeus,Bùhssener,,Bartholomeus Bùhssener
-13,conseiller_des_bateliers,1471,Johanns,"Berse, von",,,echevinat,corporation_des_bateliers,Hans,von Berse,,her Hans von Berse altammeister
-14,conseiller_des_marchands,1471,Erhart,Villinger,,,echevinat,corporation_des_marchands,Erhart,Vilinger,,Erhart Vilinger
-15,conseiller_des_bouchers,1471,Bechtolt,Offenburg,,,echevinat,corporation_des_bouchers,Bechtolt,Offemburg,,Bechtolt Offemburg
-16,conseiller_des_cabaretiers,1471,Adam,Messner,,,echevinat,corporation_des_cabaretiers,Adam,Mesener,,Adam Mesener
-17,conseiller_des_drapiers,1471,Johanns,"Säckingen, von",,,echevinat,corporation_des_drapiers,Hans,von Seckingen,,Hans von Seckingen
-18,conseiller_des_marchands_de_grains,1471,Peter,"Rohr, von",,,echevinat,corporation_des_marchands_de_grains,Peter,von Rore,,Peter von Rore
-19,conseiller_des_sauniers,1471,Mattern,Trachenfeils,,,echevinat,corporation_des_sauniers,Mattern,Trachenfeilß,,Mattern Trachenfeilß
-20,conseiller_des_orfevres,1471,Johanns,Ross,,,echevinat,corporation_des_orfevres,Hans,Roß,,Hans Roß
-21,conseiller_des_boulangers,1471,Diebolt,Ottemann,,,echevinat,corporation_des_boulangers,Diebolt,Otteman,,Diebolt Otteman
-22,conseiller_des_pelletiers,1471,Johanns,Meiger,,,echevinat,corporation_des_pelletiers,Hans,Meiger,,Hans Meiger
-23,conseiller_des_tonneliers,1471,Anthenie,Sansselmann,,,echevinat,corporation_des_tonneliers,Anthonie,Sansselman,,Anthonie Sansselman
-24,conseiller_des_tanneurs,1471,Johanns,Vendenheim,,,echevinat,corporation_des_tanneurs,Hans,Vendenheim,,Hans Vendenheim
-25,conseiller_des_gourmets_et_courtiers,1471,Johanns,"Odratzheim, von",,,echevinat,corporation_des_gourmets_et_courtiers,Hans,von Odertzheim,,Hans von Odertzheim
-26,conseiller_des_tailleurs,1471,Symont,"Duntzenheim, von",,,echevinat,corporation_des_tailleurs,Symmont,von Duntzenheim,,Symmont von Duntzenheim
-27,conseiller_des_forgerons,1471,Burkhart,Hug,,,echevinat,corporation_des_forgerons,Buckart,Hug,,"Buckart Hug, an Holnyets seligen stat"
-28,conseiller_des_barbiers_et_baigneurs,1471,Johanns,Schedeler,,,echevinat,corporation_des_barbiers_et_baigneurs,Hans,Schedeler,,Hans Schedeler
-29,conseiller_des_cordonniers,1471,Claus,Weidlich,,,echevinat,corporation_des_cordonniers,Claus,Weidelich,,Claus Weidelich
-30,conseiller_des_pêcheurs,1471,Johanns,Weldel,,,echevinat,corporation_des_pêcheurs,Hans,Weldel,,Hans Weldel
-31,conseiller_des_charrons,1471,Johanns,Meiger,,,echevinat,corporation_des_charrons,Hans,Meiger,,Hans Meiger
-32,conseiller_des_jardiniers,1471,Friedrich,Wolff,,,echevinat,corporation_des_jardiniers,Friderich,Wolff,,Friderich Wolff
-33,conseiller_des_tisserands,1471,Peter,"Korck, von",,,echevinat,corporation_des_tisserands,Peter,von Korgk,,Peter von Korgk
-34,conseiller_des_regrattiers_cordiers_et_fruitiers,1471,Laurentz,"Gemersheim, von",,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Lorentz,von Gemer,,Lorentz von Gemer
-35,conseiller_des_charpentiers,1471,Diebolt,Hettemann,,,echevinat,corporation_des_charpentiers,Diebolt,Hetteman,,Diebolt Hetteman
-36,conseiller_des_maçons,1471,Johanns,Kacheler,,,echevinat,corporation_des_maçons,Hans,Kacheler,,Hans Kacheler
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1471,Johanns-Rudolff,"Endingen, von",,,"['her', 'ritter']",constoffeler,,,Hanns Rüdolff,von Endingen,,her Hanns Rüdolff von Endingen ritter
+1,stettmeister,1471,Diebolt,"Müllenheim, von",,,"['her', 'ritter']",constoffeler,,,Diebolt,von Mùlnheim,,her Diebolt von Mùlnheim ritter
+2,stettmeister,1471,Philipp,"Müllenheim, von",,,"['her', 'ritter']",constoffeler,,,Philips,von Mùlnheim,,her Philips von Mùlnheim ritter
+3,stettmeister,1471,Johanns,Hüffelin,,,['her'],constoffeler,,,Hanns,Hùffel,,her Hanns Hùffel
+4,ammeister,1471,Heinrich,Arge,,,"['her', 'ammeister']",echevinat,,,Heinrich,Arge,,her Heinrich Arge der ammeister
+5,conseiller_des_constaffel,1471,Friedrich,Bock,,,"['her', 'ritter']",constoffeler,,,Friderich,Bock,,her Friderich Bock ritter
+6,conseiller_des_constaffel,1471,Johanns,Merswin,,,['her'],constoffeler,,,Hans,Merswin,,her Hans Merswin
+7,conseiller_des_constaffel,1471,Claus,Spender,,,,constoffeler,,,Claus,Spender,,Claus Spender
+8,conseiller_des_constaffel,1471,Peter,Rebestock,,,,constoffeler,,,Peter,Rebestock,,Peter Rebestock
+9,conseiller_des_constaffel,1471,Bernhart,Bock,,,,constoffeler,,,Bernhart,Bock,,Bernhart Bock
+10,conseiller_des_constaffel,1471,Caspar,"Müllenheim, von",Hiltebrant,,,constoffeler,,,Caspar,von Mùlnheim,Hiltebrant,Caspar von Mùlnheim genant Hiltebrant
+11,conseiller_des_constaffel,1471,Friedrich,Böckel,,,,constoffeler,,,Friderich,Böckel,,Friderich Böckel
+12,conseiller_des_constaffel,1471,Bartholomeus,Büchsener,,,,constoffeler,,,Bartholomeus,Bùhssener,,Bartholomeus Bùhssener
+13,conseiller_des_bateliers,1471,Johanns,"Berse, von",,,"['her', 'altammeister']",echevinat,corporation_des_bateliers,,Hans,von Berse,,her Hans von Berse altammeister
+14,conseiller_des_marchands,1471,Erhart,Villinger,,,,echevinat,corporation_des_marchands,,Erhart,Vilinger,,Erhart Vilinger
+15,conseiller_des_bouchers,1471,Bechtolt,Offenburg,,,,echevinat,corporation_des_bouchers,,Bechtolt,Offemburg,,Bechtolt Offemburg
+16,conseiller_des_cabaretiers,1471,Adam,Messner,,,,echevinat,corporation_des_cabaretiers,,Adam,Mesener,,Adam Mesener
+17,conseiller_des_drapiers,1471,Johanns,"Säckingen, von",,,,echevinat,corporation_des_drapiers,,Hans,von Seckingen,,Hans von Seckingen
+18,conseiller_des_marchands_de_grains,1471,Peter,"Rohr, von",,,,echevinat,corporation_des_marchands_de_grains,,Peter,von Rore,,Peter von Rore
+19,conseiller_des_sauniers,1471,Mattern,Trachenfeils,,,,echevinat,corporation_des_sauniers,,Mattern,Trachenfeilß,,Mattern Trachenfeilß
+20,conseiller_des_orfevres,1471,Johanns,Ross,,,,echevinat,corporation_des_orfevres,,Hans,Roß,,Hans Roß
+21,conseiller_des_boulangers,1471,Diebolt,Ottemann,,,,echevinat,corporation_des_boulangers,,Diebolt,Otteman,,Diebolt Otteman
+22,conseiller_des_pelletiers,1471,Johanns,Meiger,,,,echevinat,corporation_des_pelletiers,,Hans,Meiger,,Hans Meiger
+23,conseiller_des_tonneliers,1471,Anthenie,Sansselmann,,,,echevinat,corporation_des_tonneliers,,Anthonie,Sansselman,,Anthonie Sansselman
+24,conseiller_des_tanneurs,1471,Johanns,Vendenheim,,,,echevinat,corporation_des_tanneurs,,Hans,Vendenheim,,Hans Vendenheim
+25,conseiller_des_gourmets_et_courtiers,1471,Johanns,"Odratzheim, von",,,,echevinat,corporation_des_gourmets_et_courtiers,,Hans,von Odertzheim,,Hans von Odertzheim
+26,conseiller_des_tailleurs,1471,Symont,"Duntzenheim, von",,,,echevinat,corporation_des_tailleurs,,Symmont,von Duntzenheim,,Symmont von Duntzenheim
+27,conseiller_des_forgerons,1471,Burkhart,Hug,,,,echevinat,corporation_des_forgerons,,Buckart,Hug,,"Buckart Hug, an Holnyets seligen stat"
+28,conseiller_des_barbiers_et_baigneurs,1471,Johanns,Schedeler,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Hans,Schedeler,,Hans Schedeler
+29,conseiller_des_cordonniers,1471,Claus,Weidlich,,,,echevinat,corporation_des_cordonniers,,Claus,Weidelich,,Claus Weidelich
+30,conseiller_des_pêcheurs,1471,Johanns,Weldel,,,,echevinat,corporation_des_pêcheurs,,Hans,Weldel,,Hans Weldel
+31,conseiller_des_charrons,1471,Johanns,Meiger,,,,echevinat,corporation_des_charrons,,Hans,Meiger,,Hans Meiger
+32,conseiller_des_jardiniers,1471,Friedrich,Wolff,,,,echevinat,corporation_des_jardiniers,,Friderich,Wolff,,Friderich Wolff
+33,conseiller_des_tisserands,1471,Peter,"Korck, von",,,,echevinat,corporation_des_tisserands,,Peter,von Korgk,,Peter von Korgk
+34,conseiller_des_regrattiers_cordiers_et_fruitiers,1471,Laurentz,"Gemersheim, von",,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Lorentz,von Gemer,,Lorentz von Gemer
+35,conseiller_des_charpentiers,1471,Diebolt,Hettemann,,,,echevinat,corporation_des_charpentiers,,Diebolt,Hetteman,,Diebolt Hetteman
+36,conseiller_des_maçons,1471,Johanns,Kacheler,,,,echevinat,corporation_des_maçons,,Hans,Kacheler,,Hans Kacheler

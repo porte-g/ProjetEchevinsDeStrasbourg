@@ -1,42 +1,42 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1468,Bechtolt,Zorn,"Riet, zum",,constoffeler,,Bechtolt,Zorn,zum Riet,her Bechtolt Zorn zum Riet
-1,stettmeister,1468,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,,her Diebolt von Mùlnheim ritter
-2,stettmeister,1468,Ludwig,"Müllenheim, von",,,constoffeler,,Ludwig,von Mùlnheim,,her Ludwig von Mùlnheim ritter
-3,stettmeister,1468,Johanns,Hüffelin,,,constoffeler,,Hanns,Hùffel,,her Hanns Hùffel
-4,ammeister,1468,Johanns,Lumbart,,,echevinat,,Hanns,Lumbart,,her Hanns Lumbart ammeister
-5,ammeister,1468,Johanns,"Berse, von",,,echevinat,,Hanns,von Berse,,her Hanns von Berse
-6,conseiller_des_constaffel,1468,Philipp,"Müllenheim, von",,,constoffeler,,Philips,von Mùlnheim,,her Philips von Mùlnheim ritter
-7,conseiller_des_constaffel,1468,Johanns,Merswin,,,constoffeler,,Hanns,Merswin,,her Hanns Merswin
-8,conseiller_des_constaffel,1468,Jacob,Lentzelin,,,constoffeler,,Jocob,Lentzel,,Jocob Lentzel
-9,conseiller_des_constaffel,1468,Johanns,Sturm,,,constoffeler,,Hanns,Sturm,,Hanns Sturm
-10,conseiller_des_constaffel,1468,Stefan,Sturm,,,constoffeler,,Steffan,Sturm,,Steffan Sturm
-11,conseiller_des_constaffel,1468,Ulrich,Bertsch,,,constoffeler,,Ulrich,Bertsche,,Ulrich Bertsche
-12,conseiller_des_constaffel,1468,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,,Peter Rebestock
-13,conseiller_des_constaffel,1468,Johanns-Erhart,"Winterthur, von",,,constoffeler,,Hanns Erhart,von Wintertur,,Hanns Erhart von Wintertur
-14,conseiller_des_constaffel,1468,Wilhelm,Böckel,,,constoffeler,,Wilhelm,Boͤckel,,Wilhelm Boͤckel
-15,conseiller_des_marchands,1468,Claus,Ingolt,,,echevinat,corporation_des_marchands,Claus,Ingolt,,Claus Ingolt
-16,conseiller_des_boulangers,1468,Ulrich,Burer,,,echevinat,corporation_des_boulangers,Uͦlrich,Bùrer,,Uͦlrich Bùrer
-17,conseiller_des_bouchers,1468,Marx,Kerling,,,echevinat,corporation_des_bouchers,Marx,Kerling,,Marx Kerling
-18,conseiller_des_tonneliers,1468,Andres,Seelig,,,echevinat,corporation_des_tonneliers,Andres,Selig,,Andres Selig
-19,conseiller_des_drapiers,1468,Stefan,Wingersheim,,,echevinat,corporation_des_drapiers,Steffan,Wingersheim,,Steffan Wingersheim
-20,conseiller_des_tanneurs,1468,Diebolt,Reimbolt,,,echevinat,corporation_des_tanneurs,Diebolt,Reimbolt,,Diebolt Reimbolt
-21,conseiller_des_cabaretiers,1468,Johanns,Brant,Spirer,,echevinat,corporation_des_cabaretiers,Hanns,Brant,Spirer,Hanns Brant genant Spirer
-22,conseiller_des_maçons,1468,Michel,"Molsheim, von",,,echevinat,corporation_des_maçons,Michel,von Molsheim,,Michel von Molsheim
-23,conseiller_des_forgerons,1468,Claus,Birre,,,echevinat,corporation_des_forgerons,Claus,Birre,,Claus Birre
-24,conseiller_des_tailleurs,1468,Johanns,Schlecht,,,echevinat,corporation_des_tailleurs,Hanns,Slecht,,Hanns Slecht
-25,conseiller_des_bateliers,1468,Frantz,Hage,,,echevinat,corporation_des_bateliers,Ffrantz,Hage,,Ffrantz Hage
-26,conseiller_des_pelletiers,1468,Walther,Vogt,,,echevinat,corporation_des_pelletiers,Walther,Vogt,,Walther Vogt
-27,conseiller_des_charpentiers,1468,Bernhart,Scholle,,,echevinat,corporation_des_charpentiers,Bernhart,Scholle,,Bernhart Scholle
-28,conseiller_des_crieurs_et_mesureurs_de_vin,1468,Johanns,Gosse,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Hanns,Gosse,,Hanns Gosse
-29,conseiller_des_cordonniers,1468,Konrat,"Bitsch, von",,,echevinat,corporation_des_cordonniers,Conrat,von Bitsche,,Conrat von Bitsche
-30,conseiller_des_orfevres,1468,Heinrich,Arge,,,echevinat,corporation_des_orfevres,Heinrich,Arge,,her Heinrich Arge altammeister
-31,conseiller_des_marchands_de_grains,1468,Jacob,Hage,,,echevinat,corporation_des_marchands_de_grains,Jacob,Hage,,Jacob Hage
-32,conseiller_des_jardiniers,1468,Andres,Ersame,,,echevinat,corporation_des_jardiniers,Andres,Ersamme,,Andres Ersamme
-33,conseiller_des_pêcheurs,1468,Kühne,Ruhlmann,,,echevinat,corporation_des_pêcheurs,Cuͦn,Ruͦlman,,Cuͦn Ruͦlman
-34,conseiller_des_barbiers_et_baigneurs,1468,Peter,"Brachenheim, von",,,echevinat,corporation_des_barbiers_et_baigneurs,Peter,von Brachenheim,,Peter von Brachenheim
-35,conseiller_des_sauniers,1468,Johanns,Bisinger,,,echevinat,corporation_des_sauniers,Hanns,Bysinger,,Hanns Bysinger
-36,conseiller_des_tisserands,1468,Peter,"Korck, von",,,echevinat,corporation_des_tisserands,Peter,von Korgk,,Peter von Korgk
-37,conseiller_des_gourmets_et_courtiers,1468,Heinrich,Hegel,,,echevinat,corporation_des_gourmets_et_courtiers,Heinrich,Egel,,Heinrich Egel
-38,conseiller_des_charrons,1468,Johanns,Spielmann,,,echevinat,corporation_des_charrons,Hanns,Spilman,,Hanns Spilman
-39,conseiller_des_regrattiers_cordiers_et_fruitiers,1468,Claus,Herbst,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Claus,Herbst,,Claus Herbst
-40,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1468,Johanns,Steinhart,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Hanns,Steinhart,,Hanns Steinhart
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1468,Bechtolt,Zorn,"Riet, zum",,['her'],constoffeler,,,Bechtolt,Zorn,zum Riet,her Bechtolt Zorn zum Riet
+1,stettmeister,1468,Diebolt,"Müllenheim, von",,,"['her', 'ritter']",constoffeler,,,Diebolt,von Mùlnheim,,her Diebolt von Mùlnheim ritter
+2,stettmeister,1468,Ludwig,"Müllenheim, von",,,"['her', 'ritter']",constoffeler,,,Ludwig,von Mùlnheim,,her Ludwig von Mùlnheim ritter
+3,stettmeister,1468,Johanns,Hüffelin,,,['her'],constoffeler,,,Hanns,Hùffel,,her Hanns Hùffel
+4,ammeister,1468,Johanns,Lumbart,,,"['her', 'ammeister']",echevinat,,,Hanns,Lumbart,,her Hanns Lumbart ammeister
+5,ammeister,1468,Johanns,"Berse, von",,,['her'],echevinat,,,Hanns,von Berse,,her Hanns von Berse
+6,conseiller_des_constaffel,1468,Philipp,"Müllenheim, von",,,"['her', 'ritter']",constoffeler,,,Philips,von Mùlnheim,,her Philips von Mùlnheim ritter
+7,conseiller_des_constaffel,1468,Johanns,Merswin,,,['her'],constoffeler,,,Hanns,Merswin,,her Hanns Merswin
+8,conseiller_des_constaffel,1468,Jacob,Lentzelin,,,,constoffeler,,,Jocob,Lentzel,,Jocob Lentzel
+9,conseiller_des_constaffel,1468,Johanns,Sturm,,,,constoffeler,,,Hanns,Sturm,,Hanns Sturm
+10,conseiller_des_constaffel,1468,Stefan,Sturm,,,,constoffeler,,,Steffan,Sturm,,Steffan Sturm
+11,conseiller_des_constaffel,1468,Ulrich,Bertsch,,,,constoffeler,,,Ulrich,Bertsche,,Ulrich Bertsche
+12,conseiller_des_constaffel,1468,Peter,Rebestock,,,,constoffeler,,,Peter,Rebestock,,Peter Rebestock
+13,conseiller_des_constaffel,1468,Johanns-Erhart,"Winterthur, von",,,,constoffeler,,,Hanns Erhart,von Wintertur,,Hanns Erhart von Wintertur
+14,conseiller_des_constaffel,1468,Wilhelm,Böckel,,,,constoffeler,,,Wilhelm,Boͤckel,,Wilhelm Boͤckel
+15,conseiller_des_marchands,1468,Claus,Ingolt,,,,echevinat,corporation_des_marchands,,Claus,Ingolt,,Claus Ingolt
+16,conseiller_des_boulangers,1468,Ulrich,Burer,,,,echevinat,corporation_des_boulangers,,Uͦlrich,Bùrer,,Uͦlrich Bùrer
+17,conseiller_des_bouchers,1468,Marx,Kerling,,,,echevinat,corporation_des_bouchers,,Marx,Kerling,,Marx Kerling
+18,conseiller_des_tonneliers,1468,Andres,Seelig,,,,echevinat,corporation_des_tonneliers,,Andres,Selig,,Andres Selig
+19,conseiller_des_drapiers,1468,Stefan,Wingersheim,,,,echevinat,corporation_des_drapiers,,Steffan,Wingersheim,,Steffan Wingersheim
+20,conseiller_des_tanneurs,1468,Diebolt,Reimbolt,,,,echevinat,corporation_des_tanneurs,,Diebolt,Reimbolt,,Diebolt Reimbolt
+21,conseiller_des_cabaretiers,1468,Johanns,Brant,Spirer,,,echevinat,corporation_des_cabaretiers,,Hanns,Brant,Spirer,Hanns Brant genant Spirer
+22,conseiller_des_maçons,1468,Michel,"Molsheim, von",,,,echevinat,corporation_des_maçons,,Michel,von Molsheim,,Michel von Molsheim
+23,conseiller_des_forgerons,1468,Claus,Birre,,,,echevinat,corporation_des_forgerons,,Claus,Birre,,Claus Birre
+24,conseiller_des_tailleurs,1468,Johanns,Schlecht,,,,echevinat,corporation_des_tailleurs,,Hanns,Slecht,,Hanns Slecht
+25,conseiller_des_bateliers,1468,Frantz,Hage,,,,echevinat,corporation_des_bateliers,,Ffrantz,Hage,,Ffrantz Hage
+26,conseiller_des_pelletiers,1468,Walther,Vogt,,,,echevinat,corporation_des_pelletiers,,Walther,Vogt,,Walther Vogt
+27,conseiller_des_charpentiers,1468,Bernhart,Scholle,,,,echevinat,corporation_des_charpentiers,,Bernhart,Scholle,,Bernhart Scholle
+28,conseiller_des_crieurs_et_mesureurs_de_vin,1468,Johanns,Gosse,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Hanns,Gosse,,Hanns Gosse
+29,conseiller_des_cordonniers,1468,Konrat,"Bitsch, von",,,,echevinat,corporation_des_cordonniers,,Conrat,von Bitsche,,Conrat von Bitsche
+30,conseiller_des_orfevres,1468,Heinrich,Arge,,,"['her', 'altammeister']",echevinat,corporation_des_orfevres,,Heinrich,Arge,,her Heinrich Arge altammeister
+31,conseiller_des_marchands_de_grains,1468,Jacob,Hage,,,,echevinat,corporation_des_marchands_de_grains,,Jacob,Hage,,Jacob Hage
+32,conseiller_des_jardiniers,1468,Andres,Ersame,,,,echevinat,corporation_des_jardiniers,,Andres,Ersamme,,Andres Ersamme
+33,conseiller_des_pêcheurs,1468,Kühne,Ruhlmann,,,,echevinat,corporation_des_pêcheurs,,Cuͦn,Ruͦlman,,Cuͦn Ruͦlman
+34,conseiller_des_barbiers_et_baigneurs,1468,Peter,"Brachenheim, von",,,,echevinat,corporation_des_barbiers_et_baigneurs,,Peter,von Brachenheim,,Peter von Brachenheim
+35,conseiller_des_sauniers,1468,Johanns,Bisinger,,,,echevinat,corporation_des_sauniers,,Hanns,Bysinger,,Hanns Bysinger
+36,conseiller_des_tisserands,1468,Peter,"Korck, von",,,,echevinat,corporation_des_tisserands,,Peter,von Korgk,,Peter von Korgk
+37,conseiller_des_gourmets_et_courtiers,1468,Heinrich,Hegel,,,,echevinat,corporation_des_gourmets_et_courtiers,,Heinrich,Egel,,Heinrich Egel
+38,conseiller_des_charrons,1468,Johanns,Spielmann,,,,echevinat,corporation_des_charrons,,Hanns,Spilman,,Hanns Spilman
+39,conseiller_des_regrattiers_cordiers_et_fruitiers,1468,Claus,Herbst,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Claus,Herbst,,Claus Herbst
+40,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1468,Johanns,Steinhart,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Hanns,Steinhart,,Hanns Steinhart

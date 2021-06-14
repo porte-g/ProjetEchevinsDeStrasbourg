@@ -1,6 +1,6 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1432,Burkhart,"Müllenheim, von",,,constoffeler,,Burckart,von Mùlnheim,,her Burckart von Mùlnheim
-1,stettmeister,1432,Johanns,Ellenhart,,,constoffeler,,Hanns,Elhart,,her Hanns Elhart
-2,stettmeister,1432,Kühne,"Trübel, zum",,,constoffeler,,Cuͦne,zuͦm Trùbel,,her Cuͦne zuͦm Trùbel
-3,stettmeister,1432,Hessemann,Hesse,,,constoffeler,,Hesseman,Hesse,,Hesseman Hesse
-4,ammeister,1432,Obrecht,Schalk,,,echevinat,,Obreht,Schalck,,her Obreht Schalck der ammeister
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1432,Burkhart,"Müllenheim, von",,,['her'],constoffeler,,,Burckart,von Mùlnheim,,her Burckart von Mùlnheim
+1,stettmeister,1432,Johanns,Ellenhart,,,['her'],constoffeler,,,Hanns,Elhart,,her Hanns Elhart
+2,stettmeister,1432,Kühne,"Trübel, zum",,,['her'],constoffeler,,,Cuͦne,zuͦm Trùbel,,her Cuͦne zuͦm Trùbel
+3,stettmeister,1432,Hessemann,Hesse,,,,constoffeler,,,Hesseman,Hesse,,Hesseman Hesse
+4,ammeister,1432,Obrecht,Schalk,,,"['her', 'ammeister']",echevinat,,,Obreht,Schalck,,her Obreht Schalck der ammeister

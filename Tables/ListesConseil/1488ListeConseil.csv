@@ -1,32 +1,32 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1488,Wilhelm,Böckel,,,constoffeler,,Wilhelm,Boͤcklin,,her Wilhelm Boͤcklin ritter
-1,stettmeister,1488,Ottemann,Sturm,,,constoffeler,,Ott,Sturm,,her Ott Sturm ritter
-2,stettmeister,1488,Claus,Wormser,,,constoffeler,,Claus,Wormsser,,her Claus Wormsser ritter
-3,stettmeister,1488,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,,her Hans von Seckingen ritter
-4,ammeister,1488,Peter,Schott,,,echevinat,,Peter,Schott,,her Peter Schott der ammeister
-5,conseiller_des_constaffel,1488,Johanns-Wilhelm,,"Riet, zum",,constoffeler,,Hans Wilhelm,,zum Riette,her Hans Wilhelm zum Riette ritter
-6,conseiller_des_constaffel,1488,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,,Peter Rebestock
-7,conseiller_des_constaffel,1488,Johanns,Völtsch,,,constoffeler,,Hans,Völtsch,,Hans Völtsch
-8,conseiller_des_constaffel,1488,Caspar,Klobelouch,,,constoffeler,,Caspar,Klobeloch,,Caspar Klobeloch
-9,conseiller_des_constaffel,1488,Balthazar,Böckel,,,constoffeler,,Balthazar,Böcklin,,Balthazar Böcklin
-10,conseiller_des_constaffel,1488,Johanns-Ludwig,"Endingen, von",,,constoffeler,,Hansludwig,von Endingen,,Hansludwig von Endingen
-11,conseiller_des_bateliers,1488,Götze,"Hohenburg, von",,,echevinat,corporation_des_bateliers,Götz,von Hohemburg,,Götz von Hohemburg
-12,conseiller_des_marchands,1488,Johanns-Erhart,"Rottweil, von",,,echevinat,corporation_des_marchands,Hans Erhart,von Rotwil,,Hans Erhart von Rotwil
-13,conseiller_des_bouchers,1488,Marx,Kerling,,,echevinat,corporation_des_bouchers,Marx,Kerling,,her Marx Kerling altammeister
-14,conseiller_des_cabaretiers,1488,Adam,Messner,,,echevinat,corporation_des_cabaretiers,Adam,Mesener,,Adam Mesener
-15,conseiller_des_drapiers,1488,Obrecht,Armbruster,,,echevinat,corporation_des_drapiers,Obreht,Armbroster,,Obreht Armbroster
-16,conseiller_des_marchands_de_grains,1488,Claus,Jörger,,,echevinat,corporation_des_marchands_de_grains,Claus,Jorger,,Claus Jorger
-17,conseiller_des_sauniers,1488,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Lienhart,Trachenfelß,,Lienhart Trachenfelß
-18,conseiller_des_orfevres,1488,Stefan,Rotschilt,,,echevinat,corporation_des_orfevres,Steffan,Rotschilt,,Steffan Rotschilt
-19,conseiller_des_boulangers,1488,Johanns,Waldener,,,echevinat,corporation_des_boulangers,Hans,Waldener,,Hans Waldener
-20,conseiller_des_pelletiers,1488,Arbogast,Burnherr,,,echevinat,corporation_des_pelletiers,Arbgast,Burnherre,,Arbgast Burnherre
-21,conseiller_des_tonneliers,1488,Florentz,Müge,,,echevinat,corporation_des_tonneliers,Florentz,Müge,,Florentz Müge
-22,conseiller_des_tanneurs,1488,Oberlin,"Büre, von",,,echevinat,corporation_des_tanneurs,Oberlin,von Bùre,,Oberlin von Bùre
-23,conseiller_des_gourmets_et_courtiers,1488,Konrat,Hungerstein,,,echevinat,corporation_des_gourmets_et_courtiers,Conrat,Hungerstein,,Conrat Hungerstein
-24,conseiller_des_tailleurs,1488,Johanns,Frank,,,echevinat,corporation_des_tailleurs,Hans,Franck,,Hans Franck
-25,conseiller_des_forgerons,1488,Ruhlemann,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Rülin,von Truhtersheim,,Rülin von Truhtersheim
-26,conseiller_des_cordonniers,1488,Johanns,Burkhart,,,echevinat,corporation_des_cordonniers,Hans,Burckart,,Hans Burckart
-27,conseiller_des_pêcheurs,1488,Diebolt,Volk,,,echevinat,corporation_des_pêcheurs,Diebolt,Volck,,"Diebolt Volck, ertranck secunda post petri et pauli"
-28,conseiller_des_charrons,1488,Marx,Rebestock,,,echevinat,corporation_des_charrons,Marx,Rebestock,,Marx Rebestock
-29,conseiller_des_jardiniers,1488,Andres,Trense,,,echevinat,corporation_des_jardiniers,Andres,Trense,,Andres Trense
-30,conseiller_des_maçons,1488,Blesin,Friedrich,,,echevinat,corporation_des_maçons,Blesin,Friderich,,Blesin Friderich
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1488,Wilhelm,Böckel,,,"['her', 'ritter']",constoffeler,,,Wilhelm,Boͤcklin,,her Wilhelm Boͤcklin ritter
+1,stettmeister,1488,Ottemann,Sturm,,,"['her', 'ritter']",constoffeler,,,Ott,Sturm,,her Ott Sturm ritter
+2,stettmeister,1488,Claus,Wormser,,,"['her', 'ritter']",constoffeler,,,Claus,Wormsser,,her Claus Wormsser ritter
+3,stettmeister,1488,Johanns,"Säckingen, von",,,"['her', 'ritter']",constoffeler,,,Hans,von Seckingen,,her Hans von Seckingen ritter
+4,ammeister,1488,Peter,Schott,,,"['her', 'ammeister']",echevinat,,,Peter,Schott,,her Peter Schott der ammeister
+5,conseiller_des_constaffel,1488,Johanns-Wilhelm,,"Riet, zum",,"['her', 'ritter']",constoffeler,,,Hans Wilhelm,,zum Riette,her Hans Wilhelm zum Riette ritter
+6,conseiller_des_constaffel,1488,Peter,Rebestock,,,,constoffeler,,,Peter,Rebestock,,Peter Rebestock
+7,conseiller_des_constaffel,1488,Johanns,Völtsch,,,,constoffeler,,,Hans,Völtsch,,Hans Völtsch
+8,conseiller_des_constaffel,1488,Caspar,Klobelouch,,,,constoffeler,,,Caspar,Klobeloch,,Caspar Klobeloch
+9,conseiller_des_constaffel,1488,Balthazar,Böckel,,,,constoffeler,,,Balthazar,Böcklin,,Balthazar Böcklin
+10,conseiller_des_constaffel,1488,Johanns-Ludwig,"Endingen, von",,,,constoffeler,,,Hansludwig,von Endingen,,Hansludwig von Endingen
+11,conseiller_des_bateliers,1488,Götze,"Hohenburg, von",,,,echevinat,corporation_des_bateliers,,Götz,von Hohemburg,,Götz von Hohemburg
+12,conseiller_des_marchands,1488,Johanns-Erhart,"Rottweil, von",,,,echevinat,corporation_des_marchands,,Hans Erhart,von Rotwil,,Hans Erhart von Rotwil
+13,conseiller_des_bouchers,1488,Marx,Kerling,,,"['her', 'altammeister']",echevinat,corporation_des_bouchers,,Marx,Kerling,,her Marx Kerling altammeister
+14,conseiller_des_cabaretiers,1488,Adam,Messner,,,,echevinat,corporation_des_cabaretiers,,Adam,Mesener,,Adam Mesener
+15,conseiller_des_drapiers,1488,Obrecht,Armbruster,,,,echevinat,corporation_des_drapiers,,Obreht,Armbroster,,Obreht Armbroster
+16,conseiller_des_marchands_de_grains,1488,Claus,Jörger,,,,echevinat,corporation_des_marchands_de_grains,,Claus,Jorger,,Claus Jorger
+17,conseiller_des_sauniers,1488,Lienhart,Trachenfeils,,,,echevinat,corporation_des_sauniers,,Lienhart,Trachenfelß,,Lienhart Trachenfelß
+18,conseiller_des_orfevres,1488,Stefan,Rotschilt,,,,echevinat,corporation_des_orfevres,,Steffan,Rotschilt,,Steffan Rotschilt
+19,conseiller_des_boulangers,1488,Johanns,Waldener,,,,echevinat,corporation_des_boulangers,,Hans,Waldener,,Hans Waldener
+20,conseiller_des_pelletiers,1488,Arbogast,Burnherr,,,,echevinat,corporation_des_pelletiers,,Arbgast,Burnherre,,Arbgast Burnherre
+21,conseiller_des_tonneliers,1488,Florentz,Müge,,,,echevinat,corporation_des_tonneliers,,Florentz,Müge,,Florentz Müge
+22,conseiller_des_tanneurs,1488,Oberlin,"Büre, von",,,,echevinat,corporation_des_tanneurs,,Oberlin,von Bùre,,Oberlin von Bùre
+23,conseiller_des_gourmets_et_courtiers,1488,Konrat,Hungerstein,,,,echevinat,corporation_des_gourmets_et_courtiers,,Conrat,Hungerstein,,Conrat Hungerstein
+24,conseiller_des_tailleurs,1488,Johanns,Frank,,,,echevinat,corporation_des_tailleurs,,Hans,Franck,,Hans Franck
+25,conseiller_des_forgerons,1488,Ruhlemann,"Truchtersheim, von",,,,echevinat,corporation_des_forgerons,,Rülin,von Truhtersheim,,Rülin von Truhtersheim
+26,conseiller_des_cordonniers,1488,Johanns,Burkhart,,,,echevinat,corporation_des_cordonniers,,Hans,Burckart,,Hans Burckart
+27,conseiller_des_pêcheurs,1488,Diebolt,Volk,,,,echevinat,corporation_des_pêcheurs,,Diebolt,Volck,,"Diebolt Volck, ertranck secunda post petri et pauli"
+28,conseiller_des_charrons,1488,Marx,Rebestock,,,,echevinat,corporation_des_charrons,,Marx,Rebestock,,Marx Rebestock
+29,conseiller_des_jardiniers,1488,Andres,Trense,,,,echevinat,corporation_des_jardiniers,,Andres,Trense,,Andres Trense
+30,conseiller_des_maçons,1488,Blesin,Friedrich,,,,echevinat,corporation_des_maçons,,Blesin,Friderich,,Blesin Friderich

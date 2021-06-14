@@ -1,41 +1,41 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1466,Dietrich,Burggraf,,,constoffeler,,Dietrich,Buggrafe,,her Dietrich Buggrafe
-1,stettmeister,1466,Johanns,Böckel,,,constoffeler,,Hanns,Boͤckel,,her Hanns Boͤckel ritter
-2,stettmeister,1466,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,,her Diebolt von Mùlnheim ritter
-3,stettmeister,1466,Johanns,Hüffelin,,,constoffeler,,Hanns,Hùffel,,her Hanns Hùffel
-4,ammeister,1466,Claus,Ammeister,,,echevinat,,Claus,ammeister,,her Claus Boͧmgarter der ammeister
-5,conseiller_des_constaffel,1466,Claus,Zorn,"Bülach, von",,constoffeler,,Claus,Zorn,von Buͦlach,her Claus Zorn von Buͦlach
-6,conseiller_des_constaffel,1466,Johanns-Konrat,Bock,,,constoffeler,,Hannsconrat,Bock,,her Hannsconrat Bock
-7,conseiller_des_constaffel,1466,Diebolt,Lentzelin,,,constoffeler,,Diebolt,Lentzel,,Diebolt Lentzel
-8,conseiller_des_constaffel,1466,Johanns,"Winterthur, von",,,constoffeler,,Hanns,von Wintertur,,Hanns von Wintertur
-9,conseiller_des_constaffel,1466,Claus,Spender,,,constoffeler,,Claus,Spender,,Claus Spender
-10,conseiller_des_constaffel,1466,Thoman,Ellenhart,,,constoffeler,,Thomman,Elnhart,,Thomman Elnhart
-11,conseiller_des_constaffel,1466,Reimbolt,"Trübel, zum",,,constoffeler,,Reymbolt,zuͦm Trùbel,,Reymbolt zuͦm Trùbel
-12,conseiller_des_constaffel,1466,Caspar,"Megde, zur",,,constoffeler,,Caspar,zͦuͦr Megde,,Caspar zͦuͦr Megde
-13,conseiller_des_constaffel,1466,Johanns-Adolff,Ellenhart,,,constoffeler,,Hannsadolff,Elnhart,,Hannsadolff Elnhart
-14,conseiller_des_marchands,1466,Claus,Renner,,,echevinat,corporation_des_marchands,Claus,Renner,,Claus Renner
-15,conseiller_des_boulangers,1466,Claus,Linzer,,,echevinat,corporation_des_boulangers,Claus,Linser,,Claus Linser
-16,conseiller_des_bouchers,1466,Wilhelm,Rotschilt,,,echevinat,corporation_des_bouchers,Wilhelm,Rotschilt,,Wilhelm Rotschilt
-17,conseiller_des_tonneliers,1466,Jacob,Ammelung,,,echevinat,corporation_des_tonneliers,Jacob,Ammelung,,her Jacob Ammelung altammeister
-18,conseiller_des_drapiers,1466,Johanns,Armbruster,,,echevinat,corporation_des_drapiers,Hanns,Armbroster,,Hanns Armbroster
-19,conseiller_des_tanneurs,1466,Johanns,Vendenheim,,der alt,echevinat,corporation_des_tanneurs,Hanns,Vendenheim,,Hanns Vendenheim der alt
-20,conseiller_des_cabaretiers,1466,Walther,"Rohr, von",,,echevinat,corporation_des_cabaretiers,Walther,von Rore,,Walther von Rore
-21,conseiller_des_maçons,1466,Friedrich,Kacheler,,,echevinat,corporation_des_maçons,Friderich,Kacheler,,Friderich Kacheler
-22,conseiller_des_forgerons,1466,Bernhart,Allewelt,,,echevinat,corporation_des_forgerons,Bernhart,Allewelt,,Bernhart Allewelt
-23,conseiller_des_tailleurs,1466,Marx,"Brümath, von",,,echevinat,corporation_des_tailleurs,Marx,von Brͦuͦmat,,Marx von Brͦuͦmat
-24,conseiller_des_bateliers,1466,Heinrich,Bisinger,,,echevinat,corporation_des_bateliers,Heinrich,Bysinger,,Heinrich Bysinger
-25,conseiller_des_pelletiers,1466,Johanns,Meiger,,,echevinat,corporation_des_pelletiers,Hanns,Meyger,,Hanns Meyger
-26,conseiller_des_charpentiers,1466,Johanns,Hüss,,,echevinat,corporation_des_charpentiers,Hanns,Hùse,,Hanns Hùse
-27,conseiller_des_crieurs_et_mesureurs_de_vin,1466,Claus,Beingewant,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Claus,Beingewant,,Claus Beingewant
-28,conseiller_des_cordonniers,1466,Jacob,Lamprecht,,,echevinat,corporation_des_cordonniers,Jocob,Lampreht,,Jocob Lampreht
-29,conseiller_des_orfevres,1466,Johanns,Ross,,,echevinat,corporation_des_orfevres,Hanns,Rosse,,Hanns Rosse
-30,conseiller_des_marchands_de_grains,1466,Peter,Schott,,,echevinat,corporation_des_marchands_de_grains,Peter,Schott,,Peter Schott
-31,conseiller_des_jardiniers,1466,Johanns,Spete,,,echevinat,corporation_des_jardiniers,Hanns,Spete,,Hanns Spete
-32,conseiller_des_pêcheurs,1466,Diebolt,Baltener,,,echevinat,corporation_des_pêcheurs,Diebolt,Baltener,,Diebolt Baltener
-33,conseiller_des_barbiers_et_baigneurs,1466,Ulrich,"Morsmünster, von",,,echevinat,corporation_des_barbiers_et_baigneurs,Uͦlrich,von Morßmùnster,,Uͦlrich von Morßmùnster
-34,conseiller_des_sauniers,1466,Johanns,"Trachenfeils, von",,,echevinat,corporation_des_sauniers,Hanns,von Trachenfeils,,her Hanns von Trachenfeils altammeister
-35,conseiller_des_tisserands,1466,Peter,"Olwisheim, von",,,echevinat,corporation_des_tisserands,Peter,von Olvisheim,,Peter von Olvisheim
-36,conseiller_des_gourmets_et_courtiers,1466,Claus,Rörich,,,echevinat,corporation_des_gourmets_et_courtiers,Claus,Roͤrich,,Claus Roͤrich
-37,conseiller_des_charrons,1466,Johanns,Voltz,,,echevinat,corporation_des_charrons,Hanns,Voltz,,Hanns Voltz
-38,conseiller_des_regrattiers_cordiers_et_fruitiers,1466,Claus,Riber,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Claus,Riber,,Claus Riber
-39,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1466,Marx,"Rastetten, von",,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Marx,von Rastett,,Marx von Rastett
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1466,Dietrich,Burggraf,,,['her'],constoffeler,,,Dietrich,Buggrafe,,her Dietrich Buggrafe
+1,stettmeister,1466,Johanns,Böckel,,,"['her', 'ritter']",constoffeler,,,Hanns,Boͤckel,,her Hanns Boͤckel ritter
+2,stettmeister,1466,Diebolt,"Müllenheim, von",,,"['her', 'ritter']",constoffeler,,,Diebolt,von Mùlnheim,,her Diebolt von Mùlnheim ritter
+3,stettmeister,1466,Johanns,Hüffelin,,,['her'],constoffeler,,,Hanns,Hùffel,,her Hanns Hùffel
+4,ammeister,1466,Claus,Ammeister,,,['her'],echevinat,,,Claus,ammeister,,her Claus Boͧmgarter der ammeister
+5,conseiller_des_constaffel,1466,Claus,Zorn,"Bülach, von",,['her'],constoffeler,,,Claus,Zorn,von Buͦlach,her Claus Zorn von Buͦlach
+6,conseiller_des_constaffel,1466,Johanns-Konrat,Bock,,,['her'],constoffeler,,,Hannsconrat,Bock,,her Hannsconrat Bock
+7,conseiller_des_constaffel,1466,Diebolt,Lentzelin,,,,constoffeler,,,Diebolt,Lentzel,,Diebolt Lentzel
+8,conseiller_des_constaffel,1466,Johanns,"Winterthur, von",,,,constoffeler,,,Hanns,von Wintertur,,Hanns von Wintertur
+9,conseiller_des_constaffel,1466,Claus,Spender,,,,constoffeler,,,Claus,Spender,,Claus Spender
+10,conseiller_des_constaffel,1466,Thoman,Ellenhart,,,,constoffeler,,,Thomman,Elnhart,,Thomman Elnhart
+11,conseiller_des_constaffel,1466,Reimbolt,"Trübel, zum",,,,constoffeler,,,Reymbolt,zuͦm Trùbel,,Reymbolt zuͦm Trùbel
+12,conseiller_des_constaffel,1466,Caspar,"Megde, zur",,,,constoffeler,,,Caspar,zͦuͦr Megde,,Caspar zͦuͦr Megde
+13,conseiller_des_constaffel,1466,Johanns-Adolff,Ellenhart,,,,constoffeler,,,Hannsadolff,Elnhart,,Hannsadolff Elnhart
+14,conseiller_des_marchands,1466,Claus,Renner,,,,echevinat,corporation_des_marchands,,Claus,Renner,,Claus Renner
+15,conseiller_des_boulangers,1466,Claus,Linzer,,,,echevinat,corporation_des_boulangers,,Claus,Linser,,Claus Linser
+16,conseiller_des_bouchers,1466,Wilhelm,Rotschilt,,,,echevinat,corporation_des_bouchers,,Wilhelm,Rotschilt,,Wilhelm Rotschilt
+17,conseiller_des_tonneliers,1466,Jacob,Ammelung,,,"['her', 'altammeister']",echevinat,corporation_des_tonneliers,,Jacob,Ammelung,,her Jacob Ammelung altammeister
+18,conseiller_des_drapiers,1466,Johanns,Armbruster,,,,echevinat,corporation_des_drapiers,,Hanns,Armbroster,,Hanns Armbroster
+19,conseiller_des_tanneurs,1466,Johanns,Vendenheim,,der alt,,echevinat,corporation_des_tanneurs,,Hanns,Vendenheim,,Hanns Vendenheim der alt
+20,conseiller_des_cabaretiers,1466,Walther,"Rohr, von",,,,echevinat,corporation_des_cabaretiers,,Walther,von Rore,,Walther von Rore
+21,conseiller_des_maçons,1466,Friedrich,Kacheler,,,,echevinat,corporation_des_maçons,,Friderich,Kacheler,,Friderich Kacheler
+22,conseiller_des_forgerons,1466,Bernhart,Allewelt,,,,echevinat,corporation_des_forgerons,,Bernhart,Allewelt,,Bernhart Allewelt
+23,conseiller_des_tailleurs,1466,Marx,"Brümath, von",,,,echevinat,corporation_des_tailleurs,,Marx,von Brͦuͦmat,,Marx von Brͦuͦmat
+24,conseiller_des_bateliers,1466,Heinrich,Bisinger,,,,echevinat,corporation_des_bateliers,,Heinrich,Bysinger,,Heinrich Bysinger
+25,conseiller_des_pelletiers,1466,Johanns,Meiger,,,,echevinat,corporation_des_pelletiers,,Hanns,Meyger,,Hanns Meyger
+26,conseiller_des_charpentiers,1466,Johanns,Hüss,,,,echevinat,corporation_des_charpentiers,,Hanns,Hùse,,Hanns Hùse
+27,conseiller_des_crieurs_et_mesureurs_de_vin,1466,Claus,Beingewant,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Claus,Beingewant,,Claus Beingewant
+28,conseiller_des_cordonniers,1466,Jacob,Lamprecht,,,,echevinat,corporation_des_cordonniers,,Jocob,Lampreht,,Jocob Lampreht
+29,conseiller_des_orfevres,1466,Johanns,Ross,,,,echevinat,corporation_des_orfevres,,Hanns,Rosse,,Hanns Rosse
+30,conseiller_des_marchands_de_grains,1466,Peter,Schott,,,,echevinat,corporation_des_marchands_de_grains,,Peter,Schott,,Peter Schott
+31,conseiller_des_jardiniers,1466,Johanns,Spete,,,,echevinat,corporation_des_jardiniers,,Hanns,Spete,,Hanns Spete
+32,conseiller_des_pêcheurs,1466,Diebolt,Baltener,,,,echevinat,corporation_des_pêcheurs,,Diebolt,Baltener,,Diebolt Baltener
+33,conseiller_des_barbiers_et_baigneurs,1466,Ulrich,"Morsmünster, von",,,,echevinat,corporation_des_barbiers_et_baigneurs,,Uͦlrich,von Morßmùnster,,Uͦlrich von Morßmùnster
+34,conseiller_des_sauniers,1466,Johanns,"Trachenfeils, von",,,"['her', 'altammeister']",echevinat,corporation_des_sauniers,,Hanns,von Trachenfeils,,her Hanns von Trachenfeils altammeister
+35,conseiller_des_tisserands,1466,Peter,"Olwisheim, von",,,,echevinat,corporation_des_tisserands,,Peter,von Olvisheim,,Peter von Olvisheim
+36,conseiller_des_gourmets_et_courtiers,1466,Claus,Rörich,,,,echevinat,corporation_des_gourmets_et_courtiers,,Claus,Roͤrich,,Claus Roͤrich
+37,conseiller_des_charrons,1466,Johanns,Voltz,,,,echevinat,corporation_des_charrons,,Hanns,Voltz,,Hanns Voltz
+38,conseiller_des_regrattiers_cordiers_et_fruitiers,1466,Claus,Riber,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Claus,Riber,,Claus Riber
+39,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1466,Marx,"Rastetten, von",,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Marx,von Rastett,,Marx von Rastett
