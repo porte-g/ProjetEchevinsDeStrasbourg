@@ -1,32 +1,32 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1499,Wilhelm,Böckel,,,constoffeler,,Wilhelm,Böckelin,her Wilhelm Böckelin ritter
-1,stettmeister,1499,Friedrich,Bock,,,constoffeler,,Friderich,Bock,her Friderich Bock ritter
-2,stettmeister,1499,Ottemann,Sturm,,,constoffeler,,Ott,Sturm,her Ott Sturm ritter
-3,stettmeister,1499,Jerge,Berer,,,constoffeler,,Jörge,Berer,her Jörge Berer
-4,ammeister,1499,Obrecht,Armbruster,,,echevinat,,Obreht,Armbroster,her Obreht Armbroster der ammeister
-5,conseiller_des_constaffel,1499,Caspar,"Urendorf, von",,,constoffeler,,Caspar,von Urendorff,her Caspar von Urendorff ritter
-6,conseiller_des_constaffel,1499,Wendeling,"Trübel, zum",,,constoffeler,,Wendeling,zùm Trùbel,her Wendeling zùm Trùbel ritter
-7,conseiller_des_constaffel,1499,Ludwig,Böckel,,,constoffeler,,Ludwig,Böcklin,her Ludwig Böcklin ritter
-8,conseiller_des_constaffel,1499,Walther,"Müllenheim, von",,,constoffeler,,Walther,von Mùlnheim,Walther von Mùlnheim
-9,conseiller_des_constaffel,1499,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,Diebolt von Mùlnheim
-10,conseiller_des_constaffel,1499,Jerge,"Bülach, von",von Bͦuͦlach,,constoffeler,,Jörge,Zorn,Jörge Zorn von Bͦuͦlach
-11,conseiller_des_bateliers,1499,Peter,Arge,,,echevinat,corporation_des_bateliers,Peter,Arge,Peter Arge
-12,conseiller_des_marchands,1499,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,Jacob Müge
-13,conseiller_des_bouchers,1499,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wysebach,her Jacob Wysebach altammeister
-14,conseiller_des_cabaretiers,1499,Bartholomeus,Barpfennig,,,echevinat,corporation_des_cabaretiers,Bartholomeus,Barpfennig,Bartholomeus Barpfennig
-15,conseiller_des_drapiers,1499,Diebolt,Wingersheim,,,echevinat,corporation_des_drapiers,Diebolt,Wingersheim,Diebolt Wingersheim
-16,conseiller_des_marchands_de_grains,1499,Florentz,Rummeler,,,echevinat,corporation_des_marchands_de_grains,Florentz,Rummeler,Florentz Rummeler
-17,conseiller_des_sauniers,1499,Jerge,Riffe,,,echevinat,corporation_des_sauniers,Jörge,Riff,Jörge Riff
-18,conseiller_des_orfevres,1499,Konrat,Löwe,,,echevinat,corporation_des_orfevres,Conrat,Lowe,Conrat Lowe
-19,conseiller_des_boulangers,1499,Johanns,Waldener,,,echevinat,corporation_des_boulangers,Hans,Waldener,Hans Waldener
-20,conseiller_des_pelletiers,1499,Heinrich,Schott,,,echevinat,corporation_des_pelletiers,Heinrich,Schott,Heinrich Schott
-21,conseiller_des_tonneliers,1499,Johanns,Konrat,,,echevinat,corporation_des_tonneliers,Hans,Conrat,Hans Conrat
-22,conseiller_des_tanneurs,1499,Claus,Krug,,,echevinat,corporation_des_tanneurs,Claus,Krügk,Claus Krügk
-23,conseiller_des_gourmets_et_courtiers,1499,Lexius,Meiger,,,echevinat,corporation_des_gourmets_et_courtiers,Lecius,Meiger,Lecius Meiger
-24,conseiller_des_tailleurs,1499,Johanns,Frank,,,echevinat,corporation_des_tailleurs,Hans,Franck,Hans Franck
-25,conseiller_des_forgerons,1499,Johanns,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Hans,von Druhtersheim,Hans von Druhtersheim
-26,conseiller_des_cordonniers,1499,Martin,Wein und Brot,Win und Brot,,echevinat,corporation_des_cordonniers,Martin,Schultheiss,Martin Schultheiss genant Win und Brot
-27,conseiller_des_pêcheurs,1499,Johanns,Ruser,,,echevinat,corporation_des_pêcheurs,Hans,Rùser,Hans Rùser
-28,conseiller_des_charrons,1499,Marx,Rebestock,,,echevinat,corporation_des_charrons,Marx,Rebestock,Marx Rebestock
-29,conseiller_des_jardiniers,1499,Johanns,Bilger,,,echevinat,corporation_des_jardiniers,Hans,Bilger,Hans Bilger
-30,conseiller_des_maçons,1499,Veltin,Minner,,,echevinat,corporation_des_maçons,Veltin,Mynner,Veltin Mynner
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1499,Wilhelm,Böckel,,,constoffeler,,Wilhelm,Böckelin,,her Wilhelm Böckelin ritter
+1,stettmeister,1499,Friedrich,Bock,,,constoffeler,,Friderich,Bock,,her Friderich Bock ritter
+2,stettmeister,1499,Ottemann,Sturm,,,constoffeler,,Ott,Sturm,,her Ott Sturm ritter
+3,stettmeister,1499,Jerge,Berer,,,constoffeler,,Jörge,Berer,,her Jörge Berer
+4,ammeister,1499,Obrecht,Armbruster,,,echevinat,,Obreht,Armbroster,,her Obreht Armbroster der ammeister
+5,conseiller_des_constaffel,1499,Caspar,"Urendorf, von",,,constoffeler,,Caspar,von Urendorff,,her Caspar von Urendorff ritter
+6,conseiller_des_constaffel,1499,Wendeling,"Trübel, zum",,,constoffeler,,Wendeling,zùm Trùbel,,her Wendeling zùm Trùbel ritter
+7,conseiller_des_constaffel,1499,Ludwig,Böckel,,,constoffeler,,Ludwig,Böcklin,,her Ludwig Böcklin ritter
+8,conseiller_des_constaffel,1499,Walther,"Müllenheim, von",,,constoffeler,,Walther,von Mùlnheim,,Walther von Mùlnheim
+9,conseiller_des_constaffel,1499,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,,Diebolt von Mùlnheim
+10,conseiller_des_constaffel,1499,Jerge,Zorn,"Bülach, von",,constoffeler,,Jörge,Zorn,von Bͦuͦlach,Jörge Zorn von Bͦuͦlach
+11,conseiller_des_bateliers,1499,Peter,Arge,,,echevinat,corporation_des_bateliers,Peter,Arge,,Peter Arge
+12,conseiller_des_marchands,1499,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,,Jacob Müge
+13,conseiller_des_bouchers,1499,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wysebach,,her Jacob Wysebach altammeister
+14,conseiller_des_cabaretiers,1499,Bartholomeus,Barpfennig,,,echevinat,corporation_des_cabaretiers,Bartholomeus,Barpfennig,,Bartholomeus Barpfennig
+15,conseiller_des_drapiers,1499,Diebolt,Wingersheim,,,echevinat,corporation_des_drapiers,Diebolt,Wingersheim,,Diebolt Wingersheim
+16,conseiller_des_marchands_de_grains,1499,Florentz,Rummeler,,,echevinat,corporation_des_marchands_de_grains,Florentz,Rummeler,,Florentz Rummeler
+17,conseiller_des_sauniers,1499,Jerge,Riffe,,,echevinat,corporation_des_sauniers,Jörge,Riff,,Jörge Riff
+18,conseiller_des_orfevres,1499,Konrat,Löwe,,,echevinat,corporation_des_orfevres,Conrat,Lowe,,Conrat Lowe
+19,conseiller_des_boulangers,1499,Johanns,Waldener,,,echevinat,corporation_des_boulangers,Hans,Waldener,,Hans Waldener
+20,conseiller_des_pelletiers,1499,Heinrich,Schott,,,echevinat,corporation_des_pelletiers,Heinrich,Schott,,Heinrich Schott
+21,conseiller_des_tonneliers,1499,Johanns,Konrat,,,echevinat,corporation_des_tonneliers,Hans,Conrat,,Hans Conrat
+22,conseiller_des_tanneurs,1499,Claus,Krug,,,echevinat,corporation_des_tanneurs,Claus,Krügk,,Claus Krügk
+23,conseiller_des_gourmets_et_courtiers,1499,Lexius,Meiger,,,echevinat,corporation_des_gourmets_et_courtiers,Lecius,Meiger,,Lecius Meiger
+24,conseiller_des_tailleurs,1499,Johanns,Frank,,,echevinat,corporation_des_tailleurs,Hans,Franck,,Hans Franck
+25,conseiller_des_forgerons,1499,Johanns,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Hans,von Druhtersheim,,Hans von Druhtersheim
+26,conseiller_des_cordonniers,1499,Martin,Schultheiss,Wein und Brot,,echevinat,corporation_des_cordonniers,Martin,Schultheiss,Win und Brot,Martin Schultheiss genant Win und Brot
+27,conseiller_des_pêcheurs,1499,Johanns,Ruser,,,echevinat,corporation_des_pêcheurs,Hans,Rùser,,Hans Rùser
+28,conseiller_des_charrons,1499,Marx,Rebestock,,,echevinat,corporation_des_charrons,Marx,Rebestock,,Marx Rebestock
+29,conseiller_des_jardiniers,1499,Johanns,Bilger,,,echevinat,corporation_des_jardiniers,Hans,Bilger,,Hans Bilger
+30,conseiller_des_maçons,1499,Veltin,Minner,,,echevinat,corporation_des_maçons,Veltin,Mynner,,Veltin Mynner

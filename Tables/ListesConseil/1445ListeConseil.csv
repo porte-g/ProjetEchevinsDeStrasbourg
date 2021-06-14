@@ -1,45 +1,45 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1445,Rudolff,"Bülach, von",von Buͦlach,,constoffeler,,Ruͦdolff,Zorn,her Ruͦdolff Zorn von Buͦlach ritter
-1,stettmeister,1445,Burkhart,"Müllenheim, von",,der eilter,constoffeler,,Burckart,von Mùlnheim,her Burckart von Mùlnheim ritter der eilter
-2,stettmeister,1445,Reimbolt,Spender,,,constoffeler,,Reimbolt,Spender,her Reimbolt Spender
-3,stettmeister,1445,Reimbolt,Wetzel,,,constoffeler,,Reimbolt,Wetzel,her Reimbolt Wetzel
-4,ammeister,1445,Adam,Riffe,,,echevinat,,Adam,Riff,her Adam Riff der ammeister starb umb martin
-5,ammeister,1445,Heinrich,Meiger,,,echevinat,,Heinrich,Meyer,her Heinrich Meyer an sin stat kosen
-6,conseiller_des_constaffel,1445,Johanns,Wirich,,,constoffeler,,Hanns,Wirich,her Hanns Wirich ritter
-7,conseiller_des_constaffel,1445,Bernhart,Böckel,,,constoffeler,,Bernhart,Boͤckel,her Bernhart Boͤckel
-8,conseiller_des_constaffel,1445,Johanns-Heinrich,Hüffelin,,,constoffeler,,Hanns Heinrich,Hùffel,her Hanns Heinrich Hùffel
-9,conseiller_des_constaffel,1445,Claus,Lentzelin,,,constoffeler,,Claus,Lentzel,her Claus Lentzel
-10,conseiller_des_constaffel,1445,Bernhart,Mürsel,,,constoffeler,,Bernhart,Mùrsel,her Bernhart Mùrsel
-11,conseiller_des_constaffel,1445,Kühne,Nope,,,constoffeler,,Cuͦne,Nope,her Cuͦne Nope
-12,conseiller_des_constaffel,1445,Claus,"Müllenheim, von",,,constoffeler,,Claus,von Mùlnheim,her Claus von Mùlnheim
-13,conseiller_des_constaffel,1445,Johanns-Konrat,Bock,,,constoffeler,,Hannßconrat,Bock,her Hannßconrat Bock
-14,conseiller_des_constaffel,1445,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggraf,her Dietrich Burggraf
-15,conseiller_des_constaffel,1445,Johanns,"Rust, zum",,,constoffeler,,Hanns,zuͦm Ruͦst,Hanns zuͦm Ruͦst
-16,conseiller_des_marchands,1445,Rudolff,Barpfennig,,,echevinat,corporation_des_marchands,Ruͦdolff,Barpfennig,Ruͦdolff Barpfennig
-17,conseiller_des_boulangers,1445,Jacob,"Geispoltzheim, von",,,echevinat,corporation_des_boulangers,Jacob,von Geispoltzheim,her Jacob von Geispoltzheim altammeister
-18,conseiller_des_bouchers,1445,Johanns,"Berse, von",,,echevinat,corporation_des_bouchers,Hanns,von Berse,Hanns von Berse
-19,conseiller_des_tonneliers,1445,Johanns,Brettler,,,echevinat,corporation_des_tonneliers,Hanns,Bretteler,Hanns Bretteler
-20,conseiller_des_drapiers,1445,Johanns,Renner,,der jung,echevinat,corporation_des_drapiers,Hanns,Renner,Hanns Renner der jung
-21,conseiller_des_tanneurs,1445,Diebolt,Reimbolt,,,echevinat,corporation_des_tanneurs,Diebolt,Reimbolt,Diebolt Reimbolt
-22,conseiller_des_cabaretiers,1445,Erhart,Baumgarter,,,echevinat,corporation_des_cabaretiers,Erhart,Boͧmgarter,Erhart Boͧmgarter
-23,conseiller_des_maçons,1445,Sifrit,"Zabern, von",,,echevinat,corporation_des_maçons,Syfrit,von Zabern,Syfrit von Zabern
-24,conseiller_des_forgerons,1445,Claus,"Bellheim, von",,,echevinat,corporation_des_forgerons,Claus,von Belheim,Claus von Belheim
-25,conseiller_des_tailleurs,1445,Jacob,Rotgebe,,,echevinat,corporation_des_tailleurs,Jacob,Rotgebe,Jacob Rotgebe
-26,conseiller_des_bateliers,1445,Heinrich,Brettler,,,echevinat,corporation_des_bateliers,Heinrich,Bretteler,Heinrich Bretteler
-27,conseiller_des_pelletiers,1445,Diebolt,Spirer,,,echevinat,corporation_des_pelletiers,Diebolt,Spirer,Diebolt Spirer
-28,conseiller_des_charpentiers,1445,Erhart,Winsticher,,,echevinat,corporation_des_charpentiers,Erhart,Winsticher,Erhart Winsticher
-29,conseiller_des_crieurs_et_mesureurs_de_vin,1445,Johanns,Hechde,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Hanns,Hechde,Hanns Hechde
-30,conseiller_des_cordonniers,1445,Reimbolt,"Judengasse, in",inn judengasse,,echevinat,corporation_des_cordonniers,Reimbolt,,Reimbolt inn judengasse
-31,conseiller_des_orfevres,1445,Peter,Missbach,,,echevinat,corporation_des_orfevres,Peter,Missebach,Peter Missebach
-32,conseiller_des_marchands_de_grains,1445,Claus,Kriegsheim,,,echevinat,corporation_des_marchands_de_grains,Claus,Kriegesheim,Claus Kriegesheim
-33,conseiller_des_jardiniers,1445,Jacob,Claue,,,echevinat,corporation_des_jardiniers,Jacob,Klowe,Jacob Klowe
-34,conseiller_des_pêcheurs,1445,Johanns,Pfaffe,,,echevinat,corporation_des_pêcheurs,Hanns,Pfaffe,Hanns Pfaffe
-35,conseiller_des_barbiers_et_baigneurs,1445,Marx,Rohrer,,,echevinat,corporation_des_barbiers_et_baigneurs,Marx,Rorer,Marx Rorer
-36,conseiller_des_sauniers,1445,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Leonhart,Trachenfeils,her Leonhart Trachenfeils altammeister
-37,conseiller_des_tisserands,1445,Johanns,"Wile, von",,,echevinat,corporation_des_tisserands,Hanns,von Wile,Hanns von Wile
-38,conseiller_des_gourmets_et_courtiers,1445,Diebolt,Brant,,,echevinat,corporation_des_gourmets_et_courtiers,Diebolt,Brant,Diebolt Brant
-39,conseiller_des_charrons,1445,Oberlin,Träger,,,echevinat,corporation_des_charrons,Oberlin,Treger,Oberlin Treger
-40,conseiller_des_regrattiers_cordiers_et_fruitiers,1445,Johanns,"Molsheim, von",,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Hanns,von Molsheim,Hanns von Molsheim
-41,conseiller_des_coltineurs_de_tonneaux,1445,Symont,Förster,,,echevinat,corporation_des_coltineurs_de_tonneaux,Symont,Voͤrster,Symont Voͤrster
-42,conseiller_des_constructeurs_de_bateaux,1445,Johanns,Hettemann,,,echevinat,corporation_des_constructeurs_de_bateaux,Hanns,Hetteman,Hanns Hetteman
-43,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1445,Bechtolt,Hügeler,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Berhtolt,Hùgeler,Berhtolt Hùgeler der mùller
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1445,Rudolff,Zorn,"Bülach, von",,constoffeler,,Ruͦdolff,Zorn,von Buͦlach,her Ruͦdolff Zorn von Buͦlach ritter
+1,stettmeister,1445,Burkhart,"Müllenheim, von",,der eilter,constoffeler,,Burckart,von Mùlnheim,,her Burckart von Mùlnheim ritter der eilter
+2,stettmeister,1445,Reimbolt,Spender,,,constoffeler,,Reimbolt,Spender,,her Reimbolt Spender
+3,stettmeister,1445,Reimbolt,Wetzel,,,constoffeler,,Reimbolt,Wetzel,,her Reimbolt Wetzel
+4,ammeister,1445,Adam,Riffe,,,echevinat,,Adam,Riff,,her Adam Riff der ammeister starb umb martin
+5,ammeister,1445,Heinrich,Meiger,,,echevinat,,Heinrich,Meyer,,her Heinrich Meyer an sin stat kosen
+6,conseiller_des_constaffel,1445,Johanns,Wirich,,,constoffeler,,Hanns,Wirich,,her Hanns Wirich ritter
+7,conseiller_des_constaffel,1445,Bernhart,Böckel,,,constoffeler,,Bernhart,Boͤckel,,her Bernhart Boͤckel
+8,conseiller_des_constaffel,1445,Johanns-Heinrich,Hüffelin,,,constoffeler,,Hanns Heinrich,Hùffel,,her Hanns Heinrich Hùffel
+9,conseiller_des_constaffel,1445,Claus,Lentzelin,,,constoffeler,,Claus,Lentzel,,her Claus Lentzel
+10,conseiller_des_constaffel,1445,Bernhart,Mürsel,,,constoffeler,,Bernhart,Mùrsel,,her Bernhart Mùrsel
+11,conseiller_des_constaffel,1445,Kühne,Nope,,,constoffeler,,Cuͦne,Nope,,her Cuͦne Nope
+12,conseiller_des_constaffel,1445,Claus,"Müllenheim, von",,,constoffeler,,Claus,von Mùlnheim,,her Claus von Mùlnheim
+13,conseiller_des_constaffel,1445,Johanns-Konrat,Bock,,,constoffeler,,Hannßconrat,Bock,,her Hannßconrat Bock
+14,conseiller_des_constaffel,1445,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggraf,,her Dietrich Burggraf
+15,conseiller_des_constaffel,1445,Johanns,"Rust, zum",,,constoffeler,,Hanns,zuͦm Ruͦst,,Hanns zuͦm Ruͦst
+16,conseiller_des_marchands,1445,Rudolff,Barpfennig,,,echevinat,corporation_des_marchands,Ruͦdolff,Barpfennig,,Ruͦdolff Barpfennig
+17,conseiller_des_boulangers,1445,Jacob,"Geispoltzheim, von",,,echevinat,corporation_des_boulangers,Jacob,von Geispoltzheim,,her Jacob von Geispoltzheim altammeister
+18,conseiller_des_bouchers,1445,Johanns,"Berse, von",,,echevinat,corporation_des_bouchers,Hanns,von Berse,,Hanns von Berse
+19,conseiller_des_tonneliers,1445,Johanns,Brettler,,,echevinat,corporation_des_tonneliers,Hanns,Bretteler,,Hanns Bretteler
+20,conseiller_des_drapiers,1445,Johanns,Renner,,der jung,echevinat,corporation_des_drapiers,Hanns,Renner,,Hanns Renner der jung
+21,conseiller_des_tanneurs,1445,Diebolt,Reimbolt,,,echevinat,corporation_des_tanneurs,Diebolt,Reimbolt,,Diebolt Reimbolt
+22,conseiller_des_cabaretiers,1445,Erhart,Baumgarter,,,echevinat,corporation_des_cabaretiers,Erhart,Boͧmgarter,,Erhart Boͧmgarter
+23,conseiller_des_maçons,1445,Sifrit,"Zabern, von",,,echevinat,corporation_des_maçons,Syfrit,von Zabern,,Syfrit von Zabern
+24,conseiller_des_forgerons,1445,Claus,"Bellheim, von",,,echevinat,corporation_des_forgerons,Claus,von Belheim,,Claus von Belheim
+25,conseiller_des_tailleurs,1445,Jacob,Rotgebe,,,echevinat,corporation_des_tailleurs,Jacob,Rotgebe,,Jacob Rotgebe
+26,conseiller_des_bateliers,1445,Heinrich,Brettler,,,echevinat,corporation_des_bateliers,Heinrich,Bretteler,,Heinrich Bretteler
+27,conseiller_des_pelletiers,1445,Diebolt,Spirer,,,echevinat,corporation_des_pelletiers,Diebolt,Spirer,,Diebolt Spirer
+28,conseiller_des_charpentiers,1445,Erhart,Winsticher,,,echevinat,corporation_des_charpentiers,Erhart,Winsticher,,Erhart Winsticher
+29,conseiller_des_crieurs_et_mesureurs_de_vin,1445,Johanns,Hechde,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Hanns,Hechde,,Hanns Hechde
+30,conseiller_des_cordonniers,1445,Reimbolt,,"Judengasse, in",,echevinat,corporation_des_cordonniers,Reimbolt,,inn judengasse,Reimbolt inn judengasse
+31,conseiller_des_orfevres,1445,Peter,Missbach,,,echevinat,corporation_des_orfevres,Peter,Missebach,,Peter Missebach
+32,conseiller_des_marchands_de_grains,1445,Claus,Kriegsheim,,,echevinat,corporation_des_marchands_de_grains,Claus,Kriegesheim,,Claus Kriegesheim
+33,conseiller_des_jardiniers,1445,Jacob,Claue,,,echevinat,corporation_des_jardiniers,Jacob,Klowe,,Jacob Klowe
+34,conseiller_des_pêcheurs,1445,Johanns,Pfaffe,,,echevinat,corporation_des_pêcheurs,Hanns,Pfaffe,,Hanns Pfaffe
+35,conseiller_des_barbiers_et_baigneurs,1445,Marx,Rohrer,,,echevinat,corporation_des_barbiers_et_baigneurs,Marx,Rorer,,Marx Rorer
+36,conseiller_des_sauniers,1445,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Leonhart,Trachenfeils,,her Leonhart Trachenfeils altammeister
+37,conseiller_des_tisserands,1445,Johanns,"Wile, von",,,echevinat,corporation_des_tisserands,Hanns,von Wile,,Hanns von Wile
+38,conseiller_des_gourmets_et_courtiers,1445,Diebolt,Brant,,,echevinat,corporation_des_gourmets_et_courtiers,Diebolt,Brant,,Diebolt Brant
+39,conseiller_des_charrons,1445,Oberlin,Träger,,,echevinat,corporation_des_charrons,Oberlin,Treger,,Oberlin Treger
+40,conseiller_des_regrattiers_cordiers_et_fruitiers,1445,Johanns,"Molsheim, von",,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Hanns,von Molsheim,,Hanns von Molsheim
+41,conseiller_des_coltineurs_de_tonneaux,1445,Symont,Förster,,,echevinat,corporation_des_coltineurs_de_tonneaux,Symont,Voͤrster,,Symont Voͤrster
+42,conseiller_des_constructeurs_de_bateaux,1445,Johanns,Hettemann,,,echevinat,corporation_des_constructeurs_de_bateaux,Hanns,Hetteman,,Hanns Hetteman
+43,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1445,Bechtolt,Hügeler,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Berhtolt,Hùgeler,,Berhtolt Hùgeler der mùller

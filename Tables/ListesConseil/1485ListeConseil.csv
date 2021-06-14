@@ -1,32 +1,32 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1485,Johanns,"Sturmeck, von",von Sturmeck,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmeck
-1,stettmeister,1485,Johanns,Spender,,,constoffeler,,Hans,Spender,her Hans Spender ritter
-2,stettmeister,1485,Claus,Wormser,,,constoffeler,,Claus,Wormsser,her Claus Wormsser ritter
-3,stettmeister,1485,Ottemann,Sturm,,,constoffeler,,Otte,Sturm,her Otte Sturm ritter
-4,ammeister,1485,Konrat,Riffe,,,echevinat,,Conrat,Rỳffe,her Conrat Rỳffe der ammeister
-5,conseiller_des_constaffel,1485,Johanns-Wilhelm,"Riet, zum",zum Riet,,constoffeler,,Hans Wilhelm,,her Hans Wilhelm zum Riet ritter
-6,conseiller_des_constaffel,1485,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,her Hans von Seckingen ritter
-7,conseiller_des_constaffel,1485,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,Peter Rebestock
-8,conseiller_des_constaffel,1485,Johanns,Völtsch,,,constoffeler,,Hans,Völtsche,Hans Völtsche
-9,conseiller_des_constaffel,1485,Wilhelm,Böckel,,,constoffeler,,Wilhelm,Böckel,Wilhelm Böckel
-10,conseiller_des_constaffel,1485,Jacob,Ellenhart,,,constoffeler,,Jacob,Elnhart,Jacob Elnhart
-11,conseiller_des_bateliers,1485,Johanns,Jörger,,,echevinat,corporation_des_bateliers,Hans,Jörger,Hans Jörger
-12,conseiller_des_marchands,1485,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,Jacob Müge
-13,conseiller_des_bouchers,1485,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wisebach,Jacob Wisebach
-14,conseiller_des_cabaretiers,1485,Johanns,Meiger,,,echevinat,corporation_des_cabaretiers,Hans,Meyger,Hans Meyger
-15,conseiller_des_drapiers,1485,Peter,Renner,,,echevinat,corporation_des_drapiers,Peter,Renner,Peter Renner
-16,conseiller_des_marchands_de_grains,1485,Peter,Schott,,,echevinat,corporation_des_marchands_de_grains,Peter,Schott,her Peter Schott altammeister
-17,conseiller_des_sauniers,1485,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Lienhart,Trachenfeils,Lienhart Trachenfeils
-18,conseiller_des_orfevres,1485,Andres,Happmacher,,,echevinat,corporation_des_orfevres,Andres,Hapmacher,Andres Hapmacher
-19,conseiller_des_boulangers,1485,Johanns,Waldener,,,echevinat,corporation_des_boulangers,Hans,Waldener,Hans Waldener
-20,conseiller_des_pelletiers,1485,Claus,Pfutzer,,,echevinat,corporation_des_pelletiers,Claus,Pfutzer,Claus Pfutzer
-21,conseiller_des_tonneliers,1485,Jacob,Ammelung,,,echevinat,corporation_des_tonneliers,Jacob,Amlung,Jacob Amlung altammeister
-22,conseiller_des_tanneurs,1485,Johanns,Vendenheim,,,echevinat,corporation_des_tanneurs,Hans,Vendenheim,Hans Vendenheim
-23,conseiller_des_gourmets_et_courtiers,1485,Konrat,Storck,,,echevinat,corporation_des_gourmets_et_courtiers,Conrat,Storck,Conrat Storck
-24,conseiller_des_tailleurs,1485,Peter,Hug,,,echevinat,corporation_des_tailleurs,Peter,Hug,Peter Hug
-25,conseiller_des_forgerons,1485,Johanns,Württemberg,,,echevinat,corporation_des_forgerons,Hans,Wurtemberg,Hans Wurtemberg
-26,conseiller_des_cordonniers,1485,Claus,Weidlich,,,echevinat,corporation_des_cordonniers,Claus,Weỳdelich,Claus Weỳdelich
-27,conseiller_des_pêcheurs,1485,Johanns,Bülle,,,echevinat,corporation_des_pêcheurs,Hans,Bùlle,Hans Bùlle
-28,conseiller_des_charrons,1485,Johanns,Claus,,,echevinat,corporation_des_charrons,Hans,Claus,Hans Claus
-29,conseiller_des_jardiniers,1485,Claus,Ersame,,,echevinat,corporation_des_jardiniers,Claus,Ersame,Claus Ersame
-30,conseiller_des_maçons,1485,Konrat,Fallwehenne,,,echevinat,corporation_des_maçons,Conrat,Valwehenne,Conrat Valwehenne
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1485,Johanns,Sturm,"Sturmeck, von",,constoffeler,,Hans,Sturm,von Sturmeck,her Hans Sturm von Sturmeck
+1,stettmeister,1485,Johanns,Spender,,,constoffeler,,Hans,Spender,,her Hans Spender ritter
+2,stettmeister,1485,Claus,Wormser,,,constoffeler,,Claus,Wormsser,,her Claus Wormsser ritter
+3,stettmeister,1485,Ottemann,Sturm,,,constoffeler,,Otte,Sturm,,her Otte Sturm ritter
+4,ammeister,1485,Konrat,Riffe,,,echevinat,,Conrat,Rỳffe,,her Conrat Rỳffe der ammeister
+5,conseiller_des_constaffel,1485,Johanns-Wilhelm,,"Riet, zum",,constoffeler,,Hans Wilhelm,,zum Riet,her Hans Wilhelm zum Riet ritter
+6,conseiller_des_constaffel,1485,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,,her Hans von Seckingen ritter
+7,conseiller_des_constaffel,1485,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,,Peter Rebestock
+8,conseiller_des_constaffel,1485,Johanns,Völtsch,,,constoffeler,,Hans,Völtsche,,Hans Völtsche
+9,conseiller_des_constaffel,1485,Wilhelm,Böckel,,,constoffeler,,Wilhelm,Böckel,,Wilhelm Böckel
+10,conseiller_des_constaffel,1485,Jacob,Ellenhart,,,constoffeler,,Jacob,Elnhart,,Jacob Elnhart
+11,conseiller_des_bateliers,1485,Johanns,Jörger,,,echevinat,corporation_des_bateliers,Hans,Jörger,,Hans Jörger
+12,conseiller_des_marchands,1485,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,,Jacob Müge
+13,conseiller_des_bouchers,1485,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wisebach,,Jacob Wisebach
+14,conseiller_des_cabaretiers,1485,Johanns,Meiger,,,echevinat,corporation_des_cabaretiers,Hans,Meyger,,Hans Meyger
+15,conseiller_des_drapiers,1485,Peter,Renner,,,echevinat,corporation_des_drapiers,Peter,Renner,,Peter Renner
+16,conseiller_des_marchands_de_grains,1485,Peter,Schott,,,echevinat,corporation_des_marchands_de_grains,Peter,Schott,,her Peter Schott altammeister
+17,conseiller_des_sauniers,1485,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Lienhart,Trachenfeils,,Lienhart Trachenfeils
+18,conseiller_des_orfevres,1485,Andres,Happmacher,,,echevinat,corporation_des_orfevres,Andres,Hapmacher,,Andres Hapmacher
+19,conseiller_des_boulangers,1485,Johanns,Waldener,,,echevinat,corporation_des_boulangers,Hans,Waldener,,Hans Waldener
+20,conseiller_des_pelletiers,1485,Claus,Pfutzer,,,echevinat,corporation_des_pelletiers,Claus,Pfutzer,,Claus Pfutzer
+21,conseiller_des_tonneliers,1485,Jacob,Ammelung,,,echevinat,corporation_des_tonneliers,Jacob,Amlung,,Jacob Amlung altammeister
+22,conseiller_des_tanneurs,1485,Johanns,Vendenheim,,,echevinat,corporation_des_tanneurs,Hans,Vendenheim,,Hans Vendenheim
+23,conseiller_des_gourmets_et_courtiers,1485,Konrat,Storck,,,echevinat,corporation_des_gourmets_et_courtiers,Conrat,Storck,,Conrat Storck
+24,conseiller_des_tailleurs,1485,Peter,Hug,,,echevinat,corporation_des_tailleurs,Peter,Hug,,Peter Hug
+25,conseiller_des_forgerons,1485,Johanns,Württemberg,,,echevinat,corporation_des_forgerons,Hans,Wurtemberg,,Hans Wurtemberg
+26,conseiller_des_cordonniers,1485,Claus,Weidlich,,,echevinat,corporation_des_cordonniers,Claus,Weỳdelich,,Claus Weỳdelich
+27,conseiller_des_pêcheurs,1485,Johanns,Bülle,,,echevinat,corporation_des_pêcheurs,Hans,Bùlle,,Hans Bùlle
+28,conseiller_des_charrons,1485,Johanns,Claus,,,echevinat,corporation_des_charrons,Hans,Claus,,Hans Claus
+29,conseiller_des_jardiniers,1485,Claus,Ersame,,,echevinat,corporation_des_jardiniers,Claus,Ersame,,Claus Ersame
+30,conseiller_des_maçons,1485,Konrat,Fallwehenne,,,echevinat,corporation_des_maçons,Conrat,Valwehenne,,Conrat Valwehenne

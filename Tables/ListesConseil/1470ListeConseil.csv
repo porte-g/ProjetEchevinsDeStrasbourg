@@ -1,41 +1,41 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1470,Johanns-Rudolff,"Endingen, von",,,constoffeler,,Hanns Rͦuͦdolff,von Endingen,her Hanns Rͦuͦdolff von Endingen ritter
-1,stettmeister,1470,Johanns,Böckel,,,constoffeler,,Hanns,Boͤckel,her Hanns Boͤckel ritter
-2,stettmeister,1470,Philipp,"Müllenheim, von",,,constoffeler,,Philips,von Mùlnheim,her Philips von Mùlnheim ritter
-3,stettmeister,1470,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggrafe,her Dietrich Burggrafe
-4,ammeister,1470,Peter,Schott,,,echevinat,,Peter,Schott,her Peter Schott der ammeister
-5,conseiller_des_constaffel,1470,Friedrich,Bock,,,constoffeler,,Ffriderich,Bock,her Ffriderich Bock ritter
-6,conseiller_des_constaffel,1470,Johanns-Konrat,Bock,,,constoffeler,,Hanns Conrat,Bock,her Hanns Conrat Bock
-7,conseiller_des_constaffel,1470,Claus,Spender,,,constoffeler,,Claus,Spender,Claus Spender
-8,conseiller_des_constaffel,1470,Johanns-Adolff,Ellenhart,,,constoffeler,,Hanns Adolff,Elnhart,Hanns Adolff Elnhart
-9,conseiller_des_constaffel,1470,Bernhart,Bock,,,constoffeler,,Bernhart,Bock,Bernhart Bock
-10,conseiller_des_constaffel,1470,Johanns,Völtsch,,,constoffeler,,Hanns,Voltsche,Hanns Voltsche
-11,conseiller_des_constaffel,1470,Caspar,Hiltebrant,Hiltebrant,,constoffeler,,Caspar,von Mùlnheim,Caspar von Mùlnheim genant Hiltebrant
-12,conseiller_des_constaffel,1470,Ulrich,Bock,,,constoffeler,,Ulrich,Bock,Ulrich Bock
-13,conseiller_des_constaffel,1470,Bernhart,Vener,,,constoffeler,,Bernhart,Vener,Bernhart Vener
-14,conseiller_des_marchands,1470,Konrat,Riffe,,,echevinat,corporation_des_marchands,Conrat,Riff,her Conrat Riff altammeister
-15,conseiller_des_boulangers,1470,Diebolt,Ottemann,,,echevinat,corporation_des_boulangers,Diebolt,Otman,Diebolt Otman
-16,conseiller_des_bouchers,1470,Bechtolt,Offenburg,,,echevinat,corporation_des_bouchers,Bechtolt,Offenburg,Bechtolt Offenburg
-17,conseiller_des_tonneliers,1470,Anthenie,Sansselmann,,,echevinat,corporation_des_tonneliers,Anthonie,Sansselman,Anthonie Sansselman
-18,conseiller_des_drapiers,1470,Johanns,"Säckingen, von",,,echevinat,corporation_des_drapiers,Hanns,von Seckingen,Hanns von Seckingen
-19,conseiller_des_tanneurs,1470,Claus,Bitsch,,,echevinat,corporation_des_tanneurs,Claus,Bitsche,Claus Bitsche
-20,conseiller_des_cabaretiers,1470,Claus,Baumgarter,,,echevinat,corporation_des_cabaretiers,Claus,Boͧmgarter,her Claus Boͧmgarter altammeister
-21,conseiller_des_maçons,1470,Johanns,Kacheler,,,echevinat,corporation_des_maçons,Hans,Kacheler,Hans Kacheler
-22,conseiller_des_forgerons,1470,Johanns,Holniet,,,echevinat,corporation_des_forgerons,Hanns,Holnyet,Hanns Holnyet
-23,conseiller_des_tailleurs,1470,Andres,Volk,,,echevinat,corporation_des_tailleurs,Andres,Volck,Andres Volck
-24,conseiller_des_bateliers,1470,Johanns,"Berse, von",,,echevinat,corporation_des_bateliers,Hans,von Berse,her Hans von Berse altammeister
-25,conseiller_des_pelletiers,1470,Peter,"Sarburg, von",,,echevinat,corporation_des_pelletiers,Peter,von Sarburg,Peter von Sarburg
-26,conseiller_des_charpentiers,1470,Claus,Bösch,,,echevinat,corporation_des_charpentiers,Claus,Bosche,Claus Bosche
-27,conseiller_des_crieurs_et_mesureurs_de_vin,1470,Claus,Beingewant,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Claus,Beingewant,Claus Beingewant
-28,conseiller_des_cordonniers,1470,Claus,Weidlich,,,echevinat,corporation_des_cordonniers,Claus,Weidelich,Claus Weidelich
-29,conseiller_des_orfevres,1470,Heinrich,Bisinger,,,echevinat,corporation_des_orfevres,Heinrich,Bisinger,Heinrich Bisinger
-30,conseiller_des_marchands_de_grains,1470,Sifrit,Bietenheim,,,echevinat,corporation_des_marchands_de_grains,Syfrit,Bietenheim,Syfrit Bietenheim
-31,conseiller_des_jardiniers,1470,Friedrich,Wolff,,,echevinat,corporation_des_jardiniers,Ffriderich,Wolff,Ffriderich Wolff
-32,conseiller_des_pêcheurs,1470,Martin,Lehmann,,,echevinat,corporation_des_pêcheurs,Martin,Leheman,Martin Leheman
-33,conseiller_des_barbiers_et_baigneurs,1470,Johanns,Schedeler,,,echevinat,corporation_des_barbiers_et_baigneurs,Hans,Schedeler,Hans Schedeler
-34,conseiller_des_sauniers,1470,Mattern,Trachenfeils,,,echevinat,corporation_des_sauniers,Mattern,Drachenfeils,Mattern Drachenfeils
-35,conseiller_des_tisserands,1470,Johanns,Umb und Umb,,,echevinat,corporation_des_tisserands,Hans,Umb und Umb,Hans Umb und Umb
-36,conseiller_des_gourmets_et_courtiers,1470,Johanns,"Odratzheim, von",,,echevinat,corporation_des_gourmets_et_courtiers,Hans,von Odratzheim,Hans von Odratzheim
-37,conseiller_des_charrons,1470,Johanns,Voltz,,,echevinat,corporation_des_charrons,Hanns,Voltz,Hanns Voltz
-38,conseiller_des_regrattiers_cordiers_et_fruitiers,1470,Laurentz,"Gemersheim, von",,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Lorentz,von Gemer,Lorentz von Gemer
-39,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1470,Hilarius,Spiess,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Hylarius,Spieß,Hylarius Spieß
+,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,surnomNN,NomCompletNN
+0,stettmeister,1470,Johanns-Rudolff,"Endingen, von",,,constoffeler,,Hanns Rͦuͦdolff,von Endingen,,her Hanns Rͦuͦdolff von Endingen ritter
+1,stettmeister,1470,Johanns,Böckel,,,constoffeler,,Hanns,Boͤckel,,her Hanns Boͤckel ritter
+2,stettmeister,1470,Philipp,"Müllenheim, von",,,constoffeler,,Philips,von Mùlnheim,,her Philips von Mùlnheim ritter
+3,stettmeister,1470,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggrafe,,her Dietrich Burggrafe
+4,ammeister,1470,Peter,Schott,,,echevinat,,Peter,Schott,,her Peter Schott der ammeister
+5,conseiller_des_constaffel,1470,Friedrich,Bock,,,constoffeler,,Ffriderich,Bock,,her Ffriderich Bock ritter
+6,conseiller_des_constaffel,1470,Johanns-Konrat,Bock,,,constoffeler,,Hanns Conrat,Bock,,her Hanns Conrat Bock
+7,conseiller_des_constaffel,1470,Claus,Spender,,,constoffeler,,Claus,Spender,,Claus Spender
+8,conseiller_des_constaffel,1470,Johanns-Adolff,Ellenhart,,,constoffeler,,Hanns Adolff,Elnhart,,Hanns Adolff Elnhart
+9,conseiller_des_constaffel,1470,Bernhart,Bock,,,constoffeler,,Bernhart,Bock,,Bernhart Bock
+10,conseiller_des_constaffel,1470,Johanns,Völtsch,,,constoffeler,,Hanns,Voltsche,,Hanns Voltsche
+11,conseiller_des_constaffel,1470,Caspar,"Müllenheim, von",Hiltebrant,,constoffeler,,Caspar,von Mùlnheim,Hiltebrant,Caspar von Mùlnheim genant Hiltebrant
+12,conseiller_des_constaffel,1470,Ulrich,Bock,,,constoffeler,,Ulrich,Bock,,Ulrich Bock
+13,conseiller_des_constaffel,1470,Bernhart,Vener,,,constoffeler,,Bernhart,Vener,,Bernhart Vener
+14,conseiller_des_marchands,1470,Konrat,Riffe,,,echevinat,corporation_des_marchands,Conrat,Riff,,her Conrat Riff altammeister
+15,conseiller_des_boulangers,1470,Diebolt,Ottemann,,,echevinat,corporation_des_boulangers,Diebolt,Otman,,Diebolt Otman
+16,conseiller_des_bouchers,1470,Bechtolt,Offenburg,,,echevinat,corporation_des_bouchers,Bechtolt,Offenburg,,Bechtolt Offenburg
+17,conseiller_des_tonneliers,1470,Anthenie,Sansselmann,,,echevinat,corporation_des_tonneliers,Anthonie,Sansselman,,Anthonie Sansselman
+18,conseiller_des_drapiers,1470,Johanns,"Säckingen, von",,,echevinat,corporation_des_drapiers,Hanns,von Seckingen,,Hanns von Seckingen
+19,conseiller_des_tanneurs,1470,Claus,Bitsch,,,echevinat,corporation_des_tanneurs,Claus,Bitsche,,Claus Bitsche
+20,conseiller_des_cabaretiers,1470,Claus,Baumgarter,,,echevinat,corporation_des_cabaretiers,Claus,Boͧmgarter,,her Claus Boͧmgarter altammeister
+21,conseiller_des_maçons,1470,Johanns,Kacheler,,,echevinat,corporation_des_maçons,Hans,Kacheler,,Hans Kacheler
+22,conseiller_des_forgerons,1470,Johanns,Holniet,,,echevinat,corporation_des_forgerons,Hanns,Holnyet,,Hanns Holnyet
+23,conseiller_des_tailleurs,1470,Andres,Volk,,,echevinat,corporation_des_tailleurs,Andres,Volck,,Andres Volck
+24,conseiller_des_bateliers,1470,Johanns,"Berse, von",,,echevinat,corporation_des_bateliers,Hans,von Berse,,her Hans von Berse altammeister
+25,conseiller_des_pelletiers,1470,Peter,"Sarburg, von",,,echevinat,corporation_des_pelletiers,Peter,von Sarburg,,Peter von Sarburg
+26,conseiller_des_charpentiers,1470,Claus,Bösch,,,echevinat,corporation_des_charpentiers,Claus,Bosche,,Claus Bosche
+27,conseiller_des_crieurs_et_mesureurs_de_vin,1470,Claus,Beingewant,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Claus,Beingewant,,Claus Beingewant
+28,conseiller_des_cordonniers,1470,Claus,Weidlich,,,echevinat,corporation_des_cordonniers,Claus,Weidelich,,Claus Weidelich
+29,conseiller_des_orfevres,1470,Heinrich,Bisinger,,,echevinat,corporation_des_orfevres,Heinrich,Bisinger,,Heinrich Bisinger
+30,conseiller_des_marchands_de_grains,1470,Sifrit,Bietenheim,,,echevinat,corporation_des_marchands_de_grains,Syfrit,Bietenheim,,Syfrit Bietenheim
+31,conseiller_des_jardiniers,1470,Friedrich,Wolff,,,echevinat,corporation_des_jardiniers,Ffriderich,Wolff,,Ffriderich Wolff
+32,conseiller_des_pêcheurs,1470,Martin,Lehmann,,,echevinat,corporation_des_pêcheurs,Martin,Leheman,,Martin Leheman
+33,conseiller_des_barbiers_et_baigneurs,1470,Johanns,Schedeler,,,echevinat,corporation_des_barbiers_et_baigneurs,Hans,Schedeler,,Hans Schedeler
+34,conseiller_des_sauniers,1470,Mattern,Trachenfeils,,,echevinat,corporation_des_sauniers,Mattern,Drachenfeils,,Mattern Drachenfeils
+35,conseiller_des_tisserands,1470,Johanns,Umb und Umb,,,echevinat,corporation_des_tisserands,Hans,Umb und Umb,,Hans Umb und Umb
+36,conseiller_des_gourmets_et_courtiers,1470,Johanns,"Odratzheim, von",,,echevinat,corporation_des_gourmets_et_courtiers,Hans,von Odratzheim,,Hans von Odratzheim
+37,conseiller_des_charrons,1470,Johanns,Voltz,,,echevinat,corporation_des_charrons,Hanns,Voltz,,Hanns Voltz
+38,conseiller_des_regrattiers_cordiers_et_fruitiers,1470,Laurentz,"Gemersheim, von",,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Lorentz,von Gemer,,Lorentz von Gemer
+39,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1470,Hilarius,Spiess,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Hylarius,Spieß,,Hylarius Spieß
