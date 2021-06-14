@@ -2,7 +2,7 @@
 0,stettmeister,1483,Johanns,"Kageneck, von",,,constoffeler,,Hans,von Kageneck,her Hans von Kageneck ritter
 1,stettmeister,1483,Friedrich,Bock,,,constoffeler,,Friderich,Bock,her Friderich Bock ritter
 2,stettmeister,1483,Johanns,Spender,,,constoffeler,,Hans,Spender,her Hans Spender ritter
-3,stettmeister,1483,Johanns,Sturm,von Sturmeck,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmeck
+3,stettmeister,1483,Johanns,"Sturmeck, von",von Sturmeck,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmeck
 4,ammeister,1483,Mattern,Trachenfeils,,,echevinat,,Mattern,Trachenfeils,her Mattern Trachenfeils der ammeister
 5,conseiller_des_constaffel,1483,Ludwig,"Kageneck, von",,,constoffeler,,Ludwig,von Kageneck,her Ludwig von Kageneck ritter
 6,conseiller_des_constaffel,1483,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,her Hans von Seckingen ritter
@@ -13,7 +13,7 @@
 11,conseiller_des_bateliers,1483,Götze,"Hohenburg, von",,,echevinat,corporation_des_bateliers,Götze,von Hohenburg,Götze von Hohenburg
 12,conseiller_des_marchands,1483,Johanns-Erhart,"Rottweil, von",,,echevinat,corporation_des_marchands,Hanserhart,von Rotwil,Hanserhart von Rotwil
 13,conseiller_des_bouchers,1483,Marx,Kerling,,,echevinat,corporation_des_bouchers,Marx,Kerling,her Marx Kerling
-14,conseiller_des_cabarretiers,1483,Konrat,"Duntzenheim, von",,,echevinat,corporation_des_cabarretiers,Conrat,von Duntzenheim,Conrat von Duntzenheim
+14,conseiller_des_cabaretiers,1483,Konrat,"Duntzenheim, von",,,echevinat,corporation_des_cabaretiers,Conrat,von Duntzenheim,Conrat von Duntzenheim
 15,conseiller_des_drapiers,1483,Obrecht,Armbruster,,,echevinat,corporation_des_drapiers,Obreht,Armbruster,Obreht Armbruster
 16,conseiller_des_marchands_de_grains,1483,Claus,Brun,,,echevinat,corporation_des_marchands_de_grains,Claus,Brune,Claus Brune
 17,conseiller_des_sauniers,1483,Claus,Renner,,,echevinat,corporation_des_sauniers,Claus,Renner,Claus Renner

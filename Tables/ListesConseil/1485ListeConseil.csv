@@ -1,10 +1,10 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1485,Johanns,Sturm,von Sturmeck,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmeck
+0,stettmeister,1485,Johanns,"Sturmeck, von",von Sturmeck,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmeck
 1,stettmeister,1485,Johanns,Spender,,,constoffeler,,Hans,Spender,her Hans Spender ritter
 2,stettmeister,1485,Claus,Wormser,,,constoffeler,,Claus,Wormsser,her Claus Wormsser ritter
 3,stettmeister,1485,Ottemann,Sturm,,,constoffeler,,Otte,Sturm,her Otte Sturm ritter
 4,ammeister,1485,Konrat,Riffe,,,echevinat,,Conrat,Rỳffe,her Conrat Rỳffe der ammeister
-5,conseiller_des_constaffel,1485,Johanns-Wilhelm,,zum Riet,,constoffeler,,Hans Wilhelm,,her Hans Wilhelm zum Riet ritter
+5,conseiller_des_constaffel,1485,Johanns-Wilhelm,"Riet, zum",zum Riet,,constoffeler,,Hans Wilhelm,,her Hans Wilhelm zum Riet ritter
 6,conseiller_des_constaffel,1485,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,her Hans von Seckingen ritter
 7,conseiller_des_constaffel,1485,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,Peter Rebestock
 8,conseiller_des_constaffel,1485,Johanns,Völtsch,,,constoffeler,,Hans,Völtsche,Hans Völtsche
@@ -13,7 +13,7 @@
 11,conseiller_des_bateliers,1485,Johanns,Jörger,,,echevinat,corporation_des_bateliers,Hans,Jörger,Hans Jörger
 12,conseiller_des_marchands,1485,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,Jacob Müge
 13,conseiller_des_bouchers,1485,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wisebach,Jacob Wisebach
-14,conseiller_des_cabarretiers,1485,Johanns,Meiger,,,echevinat,corporation_des_cabarretiers,Hans,Meyger,Hans Meyger
+14,conseiller_des_cabaretiers,1485,Johanns,Meiger,,,echevinat,corporation_des_cabaretiers,Hans,Meyger,Hans Meyger
 15,conseiller_des_drapiers,1485,Peter,Renner,,,echevinat,corporation_des_drapiers,Peter,Renner,Peter Renner
 16,conseiller_des_marchands_de_grains,1485,Peter,Schott,,,echevinat,corporation_des_marchands_de_grains,Peter,Schott,her Peter Schott altammeister
 17,conseiller_des_sauniers,1485,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Lienhart,Trachenfeils,Lienhart Trachenfeils

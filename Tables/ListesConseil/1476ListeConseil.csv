@@ -9,13 +9,13 @@
 7,conseiller_des_constaffel,1476,Johanns,Sturm,,,constoffeler,,Hans,Sturm,Hans Sturm
 8,conseiller_des_constaffel,1476,Peter,Rebestock,,,constoffeler,,Peter,Rebestock,Peter Rebestock
 9,conseiller_des_constaffel,1476,Caspar,Klobelouch,,,constoffeler,,Caspar,Clobelouch,Caspar Clobelouch
-10,conseiller_des_constaffel,1476,Caspar,"Müllenheim, von",Hiltebrant,,constoffeler,,Caspar,von Mùlnheym,Caspar von Mùlnheym genant Hiltebrant
+10,conseiller_des_constaffel,1476,Caspar,Hiltebrant,Hiltebrant,,constoffeler,,Caspar,von Mùlnheym,Caspar von Mùlnheym genant Hiltebrant
 11,conseiller_des_constaffel,1476,Bernhart,Wormser,,,constoffeler,,Bernhart,Wormßer,Bernhart Wormßer
 12,conseiller_des_constaffel,1476,Gosse,Hüffelin,,,constoffeler,,Goß,Hùffel,Goß Hùffel
 13,conseiller_des_bateliers,1476,Johanns,"Berse, von",,,echevinat,corporation_des_bateliers,Hans,von Berse,her Hans von Berse altammeister
 14,conseiller_des_marchands,1476,Konrat,Riffe,,,echevinat,corporation_des_marchands,Conrat,Riffe,her Conrat Riffe altammeister
 15,conseiller_des_bouchers,1476,Marx,Kerling,,,echevinat,corporation_des_bouchers,Marx,Kerling,Marx Kerling
-16,conseiller_des_cabarretiers,1476,Claus,Baumgarter,,,echevinat,corporation_des_cabarretiers,Claus,Boͧmgarter,her Claus Boͧmgarter altammeister
+16,conseiller_des_cabaretiers,1476,Claus,Baumgarter,,,echevinat,corporation_des_cabaretiers,Claus,Boͧmgarter,her Claus Boͧmgarter altammeister
 17,conseiller_des_drapiers,1476,Johanns,"Säckingen, von",,,echevinat,corporation_des_drapiers,Hans,von Seckingen,Hans von Seckingen
 18,conseiller_des_marchands_de_grains,1476,Sifrit,Bietenheim,,,echevinat,corporation_des_marchands_de_grains,Sifrit,Bietenheim,Sifrit Bietenheim
 19,conseiller_des_sauniers,1476,Heinrich,Medinger,,,echevinat,corporation_des_sauniers,Heinrich,Meͣdinger,Heinrich Meͣdinger
@@ -29,7 +29,7 @@
 27,conseiller_des_forgerons,1476,Lienhart,Ammeister,,,echevinat,corporation_des_forgerons,Lienhart,Ammeister,Lienhart Ammeister
 28,conseiller_des_barbiers_et_baigneurs,1476,Johanns,Meiger,,,echevinat,corporation_des_barbiers_et_baigneurs,Hans,Meyger,Hans Meyger
 29,conseiller_des_cordonniers,1476,Claus,Weidlich,,,echevinat,corporation_des_cordonniers,Claus,Weydelich,Claus Weydelich
-30,conseiller_des_pêcheurs,1476,Mathis,Peter,von Sant Arbgast,,echevinat,corporation_des_pêcheurs,Mathis,Peter,Mathis Peter von Sant Arbgast
+30,conseiller_des_pêcheurs,1476,Mathis,"Sant-Arbogast, von",von Sant Arbgast,,echevinat,corporation_des_pêcheurs,Mathis,Peter,Mathis Peter von Sant Arbgast
 31,conseiller_des_charrons,1476,Johanns,Spielmann,,,echevinat,corporation_des_charrons,Hans,Spilman,Hans Spilman
 32,conseiller_des_jardiniers,1476,Claus,Ersame,,,echevinat,corporation_des_jardiniers,Claus,Ersamme,Claus Ersamme
 33,conseiller_des_tisserands,1476,Johanns,Umb und Umb,,,echevinat,corporation_des_tisserands,Hans,Umb und Umb,Hans Umb und Umb

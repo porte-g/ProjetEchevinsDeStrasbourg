@@ -17,7 +17,7 @@
 15,conseiller_des_constaffel,1410,Götze,"Heiligenstein, von",,,constoffeler,,Götze,von Heiligenstein,Götze von Heiligenstein
 16,conseiller_des_constaffel,1410,Claus,Gnipping,,,constoffeler,,Claus,Gnipping,Claus Gnipping
 17,conseiller_des_constaffel,1410,Friedrich,"Epfig, von",,,constoffeler,,Fridrich,von Epffich,Fridrich von Epffich
-18,conseiller_des_constaffel,1410,Konrat,,züm Rüst,,constoffeler,,Conrat,,Conrat züm Rüst
+18,conseiller_des_constaffel,1410,Konrat,"Rust, zum",züm Rüst,,constoffeler,,Conrat,,Conrat züm Rüst
 19,conseiller_des_constaffel,1410,Ulrich,Bock,,der jung,constoffeler,,Ülrich,Bock,Ülrich Bock der jung
 20,conseiller_des_constaffel,1410,Johanns,Pfettisheim,,,constoffeler,,Hanns,Pfettesheim,Hanns Pfettesheim
 21,conseiller_des_constaffel,1410,Johanns,Engelbrecht,,,constoffeler,,Hanns,Ingelbreht,Hanns Ingelbreht
@@ -34,13 +34,13 @@
 32,conseiller_des_drapiers,1410,Claus,Spielmann,,,echevinat,corporation_des_drapiers,Claus,Spilman,Claus Spilman
 33,conseiller_des_tonneliers,1410,Thoman,"Herrhorn, zum",,,echevinat,corporation_des_tonneliers,Thoman,züm Herhorn,Thoman züm Herhorn
 34,conseiller_des_tanneurs,1410,Peter,Kücheler,,,echevinat,corporation_des_tanneurs,Peter,Küchler,Peter Küchler
-35,conseiller_des_cabarretiers,1410,Johanns,"Mommenheim, von",,,echevinat,corporation_des_cabarretiers,Johanns,von Mummenheim,Johanns von Mummenheim
+35,conseiller_des_cabaretiers,1410,Johanns,"Mommenheim, von",,,echevinat,corporation_des_cabaretiers,Johanns,von Mummenheim,Johanns von Mummenheim
 36,conseiller_des_maçons,1410,Johanns,Ganser,,der eilter,echevinat,corporation_des_maçons,Johanns,Ganser,Johanns Ganser der eilter
 37,conseiller_des_forgerons,1410,Eberhart,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Eberlin,von Truhtersheim,Eberlin von Truhtersheim
 38,conseiller_des_tailleurs,1410,Johanns,"Seltz, von",,,echevinat,corporation_des_tailleurs,Johanns,von Selss,Johanns von Selss
 39,conseiller_des_bateliers,1410,Konrat,Armbruster,,,echevinat,corporation_des_bateliers,Conrat,Armbruster,Conrat Armbruster
 40,conseiller_des_pelletiers,1410,Heintz,Seelose,,,echevinat,corporation_des_pelletiers,Heintzman,Selose,Heintzman Selose
-41,conseiller_des_charpentiers,1410,Obrecht,,der lange,,echevinat,corporation_des_charpentiers,Obreht,,der lange Obreht
+41,conseiller_des_charpentiers,1410,Obrecht,der Lange,der lange,,echevinat,corporation_des_charpentiers,Obreht,,der lange Obreht
 42,conseiller_des_crieurs_et_mesureurs_de_vin,1410,Ottemann,Rhinau,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Öttelin,Rynowe,Öttelin Rynowe
 43,conseiller_des_cordonniers,1410,Johanns,Pfaue,,,echevinat,corporation_des_cordonniers,Johanns,Pfowe,Johanns Pfowe
 44,conseiller_des_orfevres,1410,Hermann,Mahler,,,echevinat,corporation_des_orfevres,Herman,Moler,Herman Moler

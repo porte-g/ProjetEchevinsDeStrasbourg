@@ -1,5 +1,5 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1437,Johanns,Zorn,von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckerich
+0,stettmeister,1437,Johanns,"Eckerich, von",von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckerich
 1,stettmeister,1437,Claus,Lentzelin,,,constoffeler,,Claus,Lentzel,her Claus Lentzel XIII
 2,stettmeister,1437,Reimbolt,Spender,,,constoffeler,,Reimbolt,Spender,her Reimbolt Spender XIII
 3,stettmeister,1437,Claus-Friedrich,Büchsener,,,constoffeler,,Clausfridrich,Bùhssener,her Clausfridrich Bùhssener
@@ -20,7 +20,7 @@
 18,conseiller_des_tonneliers,1437,Claus,Schanlit,,,echevinat,corporation_des_tonneliers,Claus,Schanlit,her Claus Schanlit altammeister
 19,conseiller_des_drapiers,1437,Bechtolt,Brechter,,,echevinat,corporation_des_drapiers,Berhtolt,Brehter,Berhtolt Brehter
 20,conseiller_des_tanneurs,1437,Johanns,Gerbot,,,echevinat,corporation_des_tanneurs,Johanns,Gerbot,her Johanns Gerbot altammeister
-21,conseiller_des_cabarretiers,1437,Hug,Dossenheim,,,echevinat,corporation_des_cabarretiers,Hug,Dohssenheim,her Hug Dohssenheim altammeister
+21,conseiller_des_cabaretiers,1437,Hug,Dossenheim,,,echevinat,corporation_des_cabaretiers,Hug,Dohssenheim,her Hug Dohssenheim altammeister
 22,conseiller_des_maçons,1437,Johanns,Klein,,,echevinat,corporation_des_maçons,Hanns,Clein,meister Hanns Clein
 23,conseiller_des_forgerons,1437,Ruhlemann,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Rullin,von Druhtersheim,Rullin von Druhtersheim
 24,conseiller_des_tailleurs,1437,Dietrich,Leistmann,,,echevinat,corporation_des_tailleurs,Dietrich,Leisteman,Dietrich Leisteman

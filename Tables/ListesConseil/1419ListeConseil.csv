@@ -1,22 +1,22 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
 0,stettmeister,1419,Andres,Wirich,,,constoffeler,,Andres,Wirich,her Andres Wirich
-1,stettmeister,1419,Heinrich,"Müllenheim, von",von Landesperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim von Landesperg ritter
+1,stettmeister,1419,Heinrich,"Landsberg, von",von Landesperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim von Landesperg ritter
 2,stettmeister,1419,Reimbolt,Spender,,,constoffeler,,Reimbolt,Spender,her Reimbolt Spender
 3,stettmeister,1419,Walther,Bauman,,,constoffeler,,Walther,Buman,her Walther Buman
 4,ammeister,1419,Ruhlemann,Barpfennig,,,echevinat,,Ruͤllin,Barpfennig,her Ruͤllin Barpfennig der ammeister
-5,conseiller_des_constaffel,1419,Johanns,Zorn,von Eckenrich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckenrich ritter
+5,conseiller_des_constaffel,1419,Johanns,"Eckerich, von",von Eckenrich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckenrich ritter
 6,conseiller_des_constaffel,1419,Ulrich,Löselin,,,constoffeler,,Uͦlrich,Loͤsel,her Uͦlrich Loͤsel ritter
 7,conseiller_des_constaffel,1419,Johanns-Rudolff,"Endingen, von",,,constoffeler,,Johanns Rͦuͦdolff,von Endingen,her Johanns Rͦuͦdolff von Endingen ritter
 8,conseiller_des_constaffel,1419,Reimbolt,Wetzel,,der eilter,constoffeler,,Reimbolt,Wetzel,Reimbolt Wetzel der eilter
 9,conseiller_des_constaffel,1419,Walther,"Müllenheim, von",,der eilter,constoffeler,,Walther,von Mùlnheim,Walther von Mùlnheim der eilter
 10,conseiller_des_constaffel,1419,Johanns-Ludwig,"Kageneck, von",,,constoffeler,,Hanns Ludwig,von Kageneck,Hanns Ludwig von Kageneck
-11,conseiller_des_constaffel,1419,Bechtolt,Zorn,Schultheiss,,constoffeler,,Behtolt,Zorn,Behtolt Zorn Schultheiss
+11,conseiller_des_constaffel,1419,Bechtolt,Schultheiss,Schultheiss,,constoffeler,,Behtolt,Zorn,Behtolt Zorn Schultheiss
 12,conseiller_des_constaffel,1419,Heinrich,Engelbrecht,,,constoffeler,,Heinrich,Engelbreht,Heinrich Engelbreht
 13,conseiller_des_constaffel,1419,Behremann,"Heiligenstein, von",,,constoffeler,,Bere,von Heiligenstein,Bere von Heiligenstein
 14,conseiller_des_constaffel,1419,Peter,Blumelin,,,constoffeler,,Peter,Bluͤmelin,Peter Bluͤmelin
 15,conseiller_des_constaffel,1419,Ulrich,Bock,,,constoffeler,,Uͦlrich,Bock,"Uͦlrich Bock, Uͦlrichs seligen sun"
 16,conseiller_des_constaffel,1419,Jacob,Manse,,,constoffeler,,Jacob,Mansse,Jacob Mansse
-17,conseiller_des_constaffel,1419,Johanns,Rebestock,inn Mùnster gasse,,constoffeler,,Hanns,Rebstock,Hanns Rebstock inn Mùnster gasse
+17,conseiller_des_constaffel,1419,Johanns,"Münstergasse, in",inn Mùnster gasse,,constoffeler,,Hanns,Rebstock,Hanns Rebstock inn Mùnster gasse
 18,conseiller_des_constaffel,1419,Wernher,Sturm,,,constoffeler,,Wernher,Sturm,Wernher Sturm
 19,conseiller_des_constaffel,1419,Claus,"Heiligenstein, von",,,constoffeler,,Claus,von Heiligenstein,Claus von Heiligenstein
 20,conseiller_des_constaffel,1419,Ruther,Förster,,,constoffeler,,Ruther,Voͤrster,Ruther Voͤrster
@@ -34,7 +34,7 @@
 32,conseiller_des_drapiers,1419,Johanns,Heilmann,,,echevinat,corporation_des_drapiers,Johanns,Heilman,her Johanns Heilman
 33,conseiller_des_tonneliers,1419,Claus,"Göffde, von",,,echevinat,corporation_des_tonneliers,Claus,von Goͤffede,Claus von Goͤffede
 34,conseiller_des_tanneurs,1419,Ulrich,"Issenhausen, von",,,echevinat,corporation_des_tanneurs,Uͦlrich,von Isenhusen,Uͦlrich von Isenhusen
-35,conseiller_des_cabarretiers,1419,Claus,"Eckboltzheim, von",,,echevinat,corporation_des_cabarretiers,Claus,von Eckboltzheim,Claus von Eckboltzheim
+35,conseiller_des_cabaretiers,1419,Claus,"Eckboltzheim, von",,,echevinat,corporation_des_cabaretiers,Claus,von Eckboltzheim,Claus von Eckboltzheim
 36,conseiller_des_maçons,1419,Johanns,Ganser,,,echevinat,corporation_des_maçons,Hanns,Ganser,Hanns Ganser
 37,conseiller_des_forgerons,1419,Stefan,Sporer,,,echevinat,corporation_des_forgerons,Steffan,Sporer,Steffan Sporer
 38,conseiller_des_tailleurs,1419,,Leistmann,,,echevinat,corporation_des_tailleurs,,Leisteman,Leisteman

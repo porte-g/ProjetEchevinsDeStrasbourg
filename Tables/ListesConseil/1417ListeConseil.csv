@@ -5,8 +5,8 @@
 3,stettmeister,1417,Thoman,"Endingen, von",,,constoffeler,,Thoman,von Endingen,Thoman von Endingen
 4,ammeister,1417,Claus,Arge,,,echevinat,,Claus,Arge,her Claus Arge der ammeister starp inn dem selben jare
 5,ammeister,1417,Hug,Dreitzehn,,,echevinat,,Hug,Dritzehen,her Hug Dritzehen an sin statt kosen
-6,conseiller_des_constaffel,1417,,Eckerich,,,constoffeler,,,Eckerich,her Johanns Eckerich ritter
-7,conseiller_des_constaffel,1417,Heinrich,"Müllenheim, von",von Landsperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim von Landsperg ritter
+6,conseiller_des_constaffel,1417,Johanns,Eckerich,,,constoffeler,,Johanns,Eckerich,her Johanns Eckerich ritter
+7,conseiller_des_constaffel,1417,Heinrich,"Landsberg, von",von Landsperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim von Landsperg ritter
 8,conseiller_des_constaffel,1417,Gosse,Burggraf,,,constoffeler,,Gosse,Burggraf,her Gosse Burggraf ritter
 9,conseiller_des_constaffel,1417,Schochmann,Mahler,,,constoffeler,,Schochman,Maler,Schochman Maler
 10,conseiller_des_constaffel,1417,Walther,"Müllenheim, von",,der eilter,constoffeler,,Walther,von Mùlnheim,Walther von Mùlnheim der eilter
@@ -35,7 +35,7 @@
 33,conseiller_des_drapiers,1417,Johanns,Heilmann,,,echevinat,corporation_des_drapiers,Johanns,Heilman,her Johanns Heilman
 34,conseiller_des_tonneliers,1417,Johanns,"Lampertheim, von",,,echevinat,corporation_des_tonneliers,Hanns,von Lampertheim,Hanns von Lampertheim
 35,conseiller_des_tanneurs,1417,Johanns,Müntzenberg,,,echevinat,corporation_des_tanneurs,Hanns,Myntzenberg,Hanns Myntzenberg
-36,conseiller_des_cabarretiers,1417,Hug,"Dossenheim, von",,,echevinat,corporation_des_cabarretiers,Hug,von Dohssenheim,Hug von Dohssenheim
+36,conseiller_des_cabaretiers,1417,Hug,"Dossenheim, von",,,echevinat,corporation_des_cabaretiers,Hug,von Dohssenheim,Hug von Dohssenheim
 37,conseiller_des_maçons,1417,Sifrit,Kacheler,,,echevinat,corporation_des_maçons,Syfrit,Kachler,Syfrit Kachler
 38,conseiller_des_forgerons,1417,Peter,Villinger,,,echevinat,corporation_des_forgerons,Peter,Vilinger,Peter Vilinger
 39,conseiller_des_tailleurs,1417,Konrat,Waldeck,,,echevinat,corporation_des_tailleurs,Conrat,Waldeck,Conrat Waldeck
@@ -48,7 +48,7 @@
 46,conseiller_des_marchands_de_grains,1417,Ottemann,Frankenheim,,,echevinat,corporation_des_marchands_de_grains,Otteman,Franckenheim,Otteman Franckenheim
 47,conseiller_des_jardiniers,1417,Andres,Natteler,,,echevinat,corporation_des_jardiniers,Andres,Natteler,Andres Natteler
 48,conseiller_des_pêcheurs,1417,Johanns,Peter,,,echevinat,corporation_des_pêcheurs,Hanns,Peter,Hanns Peter
-49,conseiller_des_barbiers_et_baigneurs,1417,Johanns,Bader,in Crutenowe,,echevinat,corporation_des_barbiers_et_baigneurs,Hanns,Bader,Hanns Bader in Crutenowe
+49,conseiller_des_barbiers_et_baigneurs,1417,Johanns,"Krutenau, in",in Crutenowe,,echevinat,corporation_des_barbiers_et_baigneurs,Hanns,Bader,Hanns Bader in Crutenowe
 50,conseiller_des_sauniers,1417,Claus,Rüllin,,,echevinat,corporation_des_sauniers,Claus,Ruͤllin,Claus Ruͤllin
 51,conseiller_des_tisserands,1417,Johanns,Dolde,,,echevinat,corporation_des_tisserands,Hanns,Tolde,Hanns Tolde
 52,conseiller_des_gourmets_et_courtiers,1417,Diebolt,,,,echevinat,corporation_des_gourmets_et_courtiers,Diebolt,,Diebolt der wurt

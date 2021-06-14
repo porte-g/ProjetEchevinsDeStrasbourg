@@ -1,5 +1,5 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1412,Claus,Zorn,Schultheis,,constoffeler,,Claus,Zorn,her Claus Zorn Schultheis ritter
+0,stettmeister,1412,Claus,Schultheiss,Schultheis,,constoffeler,,Claus,Zorn,her Claus Zorn Schultheis ritter
 1,stettmeister,1412,Ulrich,Bock,,der jung,constoffeler,,Uͦlrich,Bock,her Uͦlrich Bock der jung
 2,stettmeister,1412,Konrat,"Rust, zum",,,constoffeler,,Conrat,zuͦm Ruͦst,her Conrat zuͦm Ruͦst
 3,stettmeister,1412,Claus,Merswin,,,constoffeler,,Claus,Merswin,her Claus Merswin
@@ -19,7 +19,7 @@
 17,conseiller_des_constaffel,1412,Hetzel,Rebestock,,,constoffeler,,Hetzel,Rebestock,her Hetzel Rebestock
 18,conseiller_des_constaffel,1412,Götze,"Heiligenstein, von",,,constoffeler,,Götze,von Heiligenstein,Götze von Heiligenstein
 19,conseiller_des_constaffel,1412,Heintz,Gürteler,,,constoffeler,,Heintzman,Gùrteler,Heintzman Gùrteler
-20,conseiller_des_constaffel,1412,Friedrich,Zorn,von Epffich,,constoffeler,,Fridrich,Zorn,Fridrich Zorn von Epffich
+20,conseiller_des_constaffel,1412,Friedrich,"Epfig, von",von Epffich,,constoffeler,,Fridrich,Zorn,Fridrich Zorn von Epffich
 21,conseiller_des_constaffel,1412,Johanns,Peterlin,,,constoffeler,,Johanns,Peterlin,Johanns Peterlin
 22,conseiller_des_constaffel,1412,Hannemann,Geudertheim,,,constoffeler,,Hanman,Goͤudertheim,Hanman Goͤudertheim
 23,conseiller_des_constaffel,1412,Johanns,Pfettisheim,,,constoffeler,,Johanns,Pfettesheim,Johanns Pfettesheim
@@ -34,7 +34,7 @@
 32,conseiller_des_drapiers,1412,Claus,Sprenger,,,echevinat,corporation_des_drapiers,Claus,Sprenger,Claus Sprenger
 33,conseiller_des_tonneliers,1412,Claus,Schanlit,,,echevinat,corporation_des_tonneliers,Claus,Schanlit,Claus Schanlit
 34,conseiller_des_tanneurs,1412,Claus,Werde,,,echevinat,corporation_des_tanneurs,Claus,Werder,Claus Werder
-35,conseiller_des_cabarretiers,1412,Johanns,Mommenheim,,,echevinat,corporation_des_cabarretiers,Johanns,Mummenheim,Johanns Mummenheim
+35,conseiller_des_cabaretiers,1412,Johanns,Mommenheim,,,echevinat,corporation_des_cabaretiers,Johanns,Mummenheim,Johanns Mummenheim
 36,conseiller_des_maçons,1412,Anthenie,Kacheler,,,echevinat,corporation_des_maçons,Anthenie,Kachler,Anthenie Kachler
 37,conseiller_des_forgerons,1412,Stefan,Sporer,,,echevinat,corporation_des_forgerons,Steffan,Sporer,Steffan Sporer
 38,conseiller_des_tailleurs,1412,Konrat,Schrotbanck,,,echevinat,corporation_des_tailleurs,Conrat,Schrotbanck,Conrat Schrotbanck

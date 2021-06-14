@@ -1,5 +1,5 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1429,Johanns,Sturm,von Sturmecke,,constoffeler,,Johanns,Sturm,her Johanns Sturm von Sturmecke
+0,stettmeister,1429,Johanns,"Sturmeck, von",von Sturmecke,,constoffeler,,Johanns,Sturm,her Johanns Sturm von Sturmecke
 1,stettmeister,1429,Walther,Spiegel,,,constoffeler,,Walther,Spiegel,her Walther Spiegel
 2,stettmeister,1429,Ulrich,Bock,,,constoffeler,,Uͦlrich,Bock,her Uͦlrich Bock
 3,stettmeister,1429,Johanns,Humbrecht,,,constoffeler,,Hanns,Humbreht,her Hanns Humbreht
@@ -20,13 +20,13 @@
 18,conseiller_des_tonneliers,1429,Heinrich,Meiger,,,echevinat,corporation_des_tonneliers,Heinrich,Meyer,Heinrich Meyer
 19,conseiller_des_drapiers,1429,Claus,Ludermann,,,echevinat,corporation_des_drapiers,Claus,Luderman,Claus Luderman
 20,conseiller_des_tanneurs,1429,Johanns,Gerbot,,,echevinat,corporation_des_tanneurs,Hanns,Gerbot,Hanns Gerbot
-21,conseiller_des_cabarretiers,1429,Hug,Dossenheim,,,echevinat,corporation_des_cabarretiers,Hug,Dohssenheim,Hug Dohssenheim
+21,conseiller_des_cabaretiers,1429,Hug,Dossenheim,,,echevinat,corporation_des_cabaretiers,Hug,Dohssenheim,Hug Dohssenheim
 22,conseiller_des_maçons,1429,Sifrit,Kacheler,,,echevinat,corporation_des_maçons,Syfrit,Kachler,Syfrit Kachler
 23,conseiller_des_forgerons,1429,Peter,Villinger,,,echevinat,corporation_des_forgerons,Peter,Vilinger,Peter Vilinger
 24,conseiller_des_tailleurs,1429,Konrat,Schrotbanck,,,echevinat,corporation_des_tailleurs,Conrat,Schrotbanck,Conrat Schrotbanck
 25,conseiller_des_bateliers,1429,Konrat,Armbruster,,,echevinat,corporation_des_bateliers,Conrat,Armbruster,Conrat Armbruster
 26,conseiller_des_pelletiers,1429,Diebolt,Bleiweger,,,echevinat,corporation_des_pelletiers,Diebolt,Blyweger,Diebolt Blyweger
-27,conseiller_des_charpentiers,1429,Sifrit,,uff dem Werde,,echevinat,corporation_des_charpentiers,Syfrit,,Syfrit uff dem Werde
+27,conseiller_des_charpentiers,1429,Sifrit,"Werde, uff dem",uff dem Werde,,echevinat,corporation_des_charpentiers,Syfrit,,Syfrit uff dem Werde
 28,conseiller_des_crieurs_et_mesureurs_de_vin,1429,Lauwel,Brant,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Laulin,Brant,Laulin Brant
 29,conseiller_des_cordonniers,1429,Heintz,Flöss,,,echevinat,corporation_des_cordonniers,Heintz,Floͤsse,Heintz Floͤsse
 30,conseiller_des_orfevres,1429,Heinrich,Stefan,,,echevinat,corporation_des_orfevres,Heinrich,Steffann,Heinrich Steffann

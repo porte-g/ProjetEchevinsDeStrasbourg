@@ -1,27 +1,27 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
 0,stettmeister,1411,Reimbolt,Hüffelin,,,constoffeler,,Reimbolt,Hùffelin,her Reimbolt Hùffelin
-1,stettmeister,1411,Heinrich,"Müllenheim, von",von Landesperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim genant von Landesperg
+1,stettmeister,1411,Heinrich,"Landsberg, von",von Landesperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim genant von Landesperg
 2,stettmeister,1411,Ulrich,Löselin,,,constoffeler,,Ùlrich,Löselin,her Ùlrich Löselin
 3,stettmeister,1411,Bechtolt,"Rosheim, von",,,constoffeler,,Bechtolt,von Rosheim,her Bechtolt von Rosheim
 4,ammeister,1411,Johanns,Heilmann,,,echevinat,,Johanns,Heilman,her Johanns Heilman der ammeister
-5,conseiller_des_constaffel,1411,Heinrich,"Müllenheim, von",In Brantgasse,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim In Brantgasse
-6,conseiller_des_constaffel,1411,Johanns,Zorn,von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn dem man spricht von Eckerich
+5,conseiller_des_constaffel,1411,Heinrich,"Brantgasse, in",In Brantgasse,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim In Brantgasse
+6,conseiller_des_constaffel,1411,Johanns,"Eckerich, von",von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn dem man spricht von Eckerich
 7,conseiller_des_constaffel,1411,Gosse,Burggraf,,,constoffeler,,Gosse,Burggrave,her Gosse Burggrave
 8,conseiller_des_constaffel,1411,Walther,"Müllenheim, von",,,constoffeler,,Walther,von Mùlnheim,Walther von Mùlnheim
-9,conseiller_des_constaffel,1411,Hug,Zorn,Heilant,,constoffeler,,Hug,Zorn,Hug Zorn Heilant
+9,conseiller_des_constaffel,1411,Hug,Heilant,Heilant,,constoffeler,,Hug,Zorn,Hug Zorn Heilant
 10,conseiller_des_constaffel,1411,Claus,Jung,,der Jùnger,constoffeler,,Claus,Junge,Claus Junge der Jùnger
 11,conseiller_des_constaffel,1411,Reimbolt,Spender,,,constoffeler,,Reimbolt,Spender,Reimbolt Spender
 12,conseiller_des_constaffel,1411,Claus,"Grossstein, von",,,constoffeler,,Claus,von Grostein,Claus von Grostein
-13,conseiller_des_constaffel,1411,Ulrich,Bock,In Brantgasse,,constoffeler,,Ulrich,Bock,Ulrich Bock In Brantgasse
+13,conseiller_des_constaffel,1411,Ulrich,"Brantgasse, in",In Brantgasse,,constoffeler,,Ulrich,Bock,Ulrich Bock In Brantgasse
 14,conseiller_des_constaffel,1411,Johanns,Berlin,,,constoffeler,,Johans,Berlin,Johans Berlin
 15,conseiller_des_constaffel,1411,Behremann,"Heiligenstein, von",,,constoffeler,,Bere,von Heiligenstein,Bere von Heiligenstein
-16,conseiller_des_constaffel,1411,Johanns,Richter,Dùtschman,,constoffeler,,Johans,Richter,Johans Richter dem man spricht Dùtschman
+16,conseiller_des_constaffel,1411,Johanns,Deutschmann,Dùtschman,,constoffeler,,Johans,Richter,Johans Richter dem man spricht Dùtschman
 17,conseiller_des_constaffel,1411,Hug,"Kühnheim, von",,,constoffeler,,Hug,von Kunheim,Hug von Kunheim
-18,conseiller_des_constaffel,1411,Ulrich,Bock,Clein,,constoffeler,,Ulrich,Bock,Clein Ulrich Bock
+18,conseiller_des_constaffel,1411,Ulrich,Klein,Clein,,constoffeler,,Ulrich,Bock,Clein Ulrich Bock
 19,conseiller_des_constaffel,1411,Johanns,Rebestock,,,constoffeler,,Johanns,Rebestock,Johanns Rebestock
 20,conseiller_des_constaffel,1411,Hug,Rippelin,,,constoffeler,,Hug,Ripelin,Hug Ripelin
 21,conseiller_des_constaffel,1411,Wernher,Sturm,,,constoffeler,,Werlin,Sturm,Werlin Sturm
-22,conseiller_des_constaffel,1411,Küntz,Pfaffenlapp,Gros,,constoffeler,,Cùntz,Pfaffenlap,Gros Cùntz Pfaffenlap
+22,conseiller_des_constaffel,1411,Küntz,Gross,Gros,,constoffeler,,Cùntz,Pfaffenlap,Gros Cùntz Pfaffenlap
 23,conseiller_des_constaffel,1411,Peter,Blumelin,,,constoffeler,,Peter,Blumelin,Peter Blumelin
 24,conseiller_des_constaffel,1411,Johanns,Ellenhart,,,constoffeler,,Johanns,Ellehart,Johanns Ellehart
 25,conseiller_des_constaffel,1411,Johanns,Hesse,,elter,constoffeler,,Johanns,Hesse,"Johanns Hesse des elter, Hesseman Hessen seligen sün"
@@ -34,7 +34,7 @@
 32,conseiller_des_drapiers,1411,Ulrich,Zirtzer,,,echevinat,corporation_des_drapiers,Ulrich,Zirzer,Ulrich Zirzer
 33,conseiller_des_tonneliers,1411,Johanns,Bidermann,,,echevinat,corporation_des_tonneliers,Johanns,Biderman,Johanns Biderman
 34,conseiller_des_tanneurs,1411,Johanns,Sturm,,,echevinat,corporation_des_tanneurs,Johanns,Sturm,Johanns Sturm
-35,conseiller_des_cabarretiers,1411,Heilmann,Wassicher,,,echevinat,corporation_des_cabarretiers,Heil,Wahssicher,Heil Wahssicher
+35,conseiller_des_cabaretiers,1411,Heilmann,Wassicher,,,echevinat,corporation_des_cabaretiers,Heil,Wahssicher,Heil Wahssicher
 36,conseiller_des_maçons,1411,Johanns,Ammeister,,,echevinat,corporation_des_maçons,Johanns,Ammeister,Johanns Ammeister
 37,conseiller_des_forgerons,1411,Peter,Villinger,,,echevinat,corporation_des_forgerons,Peter,Vilinger,Peter Vilinger
 38,conseiller_des_tailleurs,1411,Johanns,Schwert,,,echevinat,corporation_des_tailleurs,Hanns,Swërt,Hanns Swërt
@@ -50,7 +50,7 @@
 48,conseiller_des_barbiers_et_baigneurs,1411,Johanns,Flach,,,echevinat,corporation_des_barbiers_et_baigneurs,Hanns,Flach,Hanns Flach
 49,conseiller_des_sauniers,1411,Johanns,Blumstein,,,echevinat,corporation_des_sauniers,Johans,Bluͦmstein,Johans Bluͦmstein
 50,conseiller_des_tisserands,1411,Heintz,Messinger,,,echevinat,corporation_des_tisserands,Heintz,Messinger,Heintz Messinger
-51,conseiller_des_gourmets_et_courtiers,1411,Johanns,Pfaffenhoffen,Hafener,,echevinat,corporation_des_gourmets_et_courtiers,Johans,Pfaffenhofen,Johans Pfaffenhofen dem man sprichet Hafener
+51,conseiller_des_gourmets_et_courtiers,1411,Johanns,Haffener,Hafener,,echevinat,corporation_des_gourmets_et_courtiers,Johans,Pfaffenhofen,Johans Pfaffenhofen dem man sprichet Hafener
 52,conseiller_des_charrons,1411,Reinhart,Kistner,,,echevinat,corporation_des_charrons,Reinhart,Kistener,Reinhart Kistener
 53,conseiller_des_regrattiers_cordiers_et_fruitiers,1411,Heintz,Burkhart,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Heintz,Burckhart,Heintz Burckhart
 54,conseiller_des_coltineurs_de_tonneaux,1411,Claus,Voltz,,,echevinat,corporation_des_coltineurs_de_tonneaux,Claus,Voltz,Claus Voltz

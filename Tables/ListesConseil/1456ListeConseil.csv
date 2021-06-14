@@ -8,7 +8,7 @@
 6,,,Kühne,Nope,,,constoffeler,corporation_des_constaffel,Cuͦne,Nope,her Cuͦne Nope
 7,,,Johanns,Hüffelin,,,constoffeler,corporation_des_constaffel,Hanns,Hùffel,her Hanns Hùffel
 8,,,Johanns,Merswin,,,constoffeler,corporation_des_constaffel,Hanns,Merswin,her Hanns Merswin
-9,,,Bechtolt,Zorn,zuͦm Riet,,constoffeler,corporation_des_constaffel,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
+9,,,Bechtolt,"Riet, zum",zuͦm Riet,,constoffeler,corporation_des_constaffel,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
 10,,,Jacob,Lentzelin,,,constoffeler,corporation_des_constaffel,Jacob,Lentzel,Jacob Lentzel
 11,,,Stefan,Sturm,,,constoffeler,corporation_des_constaffel,Steffan,Sturm,Steffan Sturm
 12,,,Thoman,Büchsener,,,constoffeler,corporation_des_constaffel,Thoman,Bùchssener,Thoman Bùchssener
@@ -20,7 +20,7 @@
 18,conseiller_des_tonneliers,1456,Heintz,Holtzhüser,,,echevinat,corporation_des_tonneliers,Heintzman,Holtzhùser,Heintzman Holtzhùser
 19,conseiller_des_drapiers,1456,Michel,Rippel,,,echevinat,corporation_des_drapiers,Michel,Ripel,Michel Ripel
 20,conseiller_des_tanneurs,1456,Claus,Duntzenheim,,,echevinat,corporation_des_tanneurs,Claus,Duntzenheim,Claus Duntzenheim
-21,conseiller_des_cabarretiers,1456,Claus,Baumgarter,,,echevinat,corporation_des_cabarretiers,Claus,Boͧmgarter,Claus Boͧmgarter
+21,conseiller_des_cabaretiers,1456,Claus,Baumgarter,,,echevinat,corporation_des_cabaretiers,Claus,Boͧmgarter,Claus Boͧmgarter
 22,conseiller_des_maçons,1456,Johanns,Kacheler,,,echevinat,corporation_des_maçons,Hanns,Kachler,Hanns Kachler
 23,conseiller_des_forgerons,1456,Johanns,Holniet,,,echevinat,corporation_des_forgerons,Hanns,Holniet,Hanns Holniet
 24,conseiller_des_tailleurs,1456,Dietrich,Leistmann,,,echevinat,corporation_des_tailleurs,Dietrich,Leisteman,Dietrich Leisteman
@@ -28,7 +28,7 @@
 26,conseiller_des_pelletiers,1456,Walther,Vogt,,,echevinat,corporation_des_pelletiers,Walther,Vogt,Walther Vogt
 27,conseiller_des_charpentiers,1456,Michel,Rippel,,,echevinat,corporation_des_charpentiers,Michel,Ripel,Michel Ripel
 28,conseiller_des_crieurs_et_mesureurs_de_vin,1456,Anthenie,"Heiligenstein, von",,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Anthenige,von Heiligenstein,Anthenige von Heiligenstein
-29,conseiller_des_cordonniers,1456,Claus,Schultheiss,win und brot,,echevinat,corporation_des_cordonniers,Claus,Schultheiss,Claus Schultheiss genant win und brot
+29,conseiller_des_cordonniers,1456,Claus,Wein und Brot,win und brot,,echevinat,corporation_des_cordonniers,Claus,Schultheiss,Claus Schultheiss genant win und brot
 30,conseiller_des_orfevres,1456,Johanns,Graff,,,echevinat,corporation_des_orfevres,Hanns,Grofe,Hanns Grofe
 31,conseiller_des_marchands_de_grains,1456,Claus,Dossenheim,,,echevinat,corporation_des_marchands_de_grains,Claus,Dohssenheim,Claus Dohssenheim
 32,conseiller_des_jardiniers,1456,Johanns,Trense,,,echevinat,corporation_des_jardiniers,Hanns,Trense,Hanns Trense

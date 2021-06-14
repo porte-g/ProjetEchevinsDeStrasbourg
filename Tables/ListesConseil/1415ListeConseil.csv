@@ -5,7 +5,7 @@
 3,stettmeister,1415,Hetzel,Rebestock,,,constoffeler,,Hetzel,Rebstock,her Hetzel Rebstock
 4,ammeister,1415,Johanns,Bechtolt,,,echevinat,,Johanns,Betscholt,her Johanns Betscholt der ammeister
 5,conseiller_des_constaffel,1415,Reimbolt,Hüffelin,,,constoffeler,,Reimbolt,Hùffel,her Reimbolt Hùffel ritter
-6,conseiller_des_constaffel,1415,Johanns,Zorn,von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckerich ritter
+6,conseiller_des_constaffel,1415,Johanns,"Eckerich, von",von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckerich ritter
 7,conseiller_des_constaffel,1415,Ulrich,Löselin,,,constoffeler,,Uͦlrich,Lösel,her Uͦlrich Lösel ritter
 8,conseiller_des_constaffel,1415,Gosse,Burggraf,,,constoffeler,,Gosse,Burggraf,her Gosse Burggraf ritter
 9,conseiller_des_constaffel,1415,Wilhelm,"Müllenheim, von",,,constoffeler,,Wilhelm,von Mùlnheim,Wilhelm von Mùlnheim
@@ -33,7 +33,7 @@
 31,conseiller_des_drapiers,1415,Johanns,Heilmann,,,echevinat,corporation_des_drapiers,Johanns,Heilman,her Johanns Heilman
 32,conseiller_des_tonneliers,1415,Claus,"Göffde, von",,,echevinat,corporation_des_tonneliers,Claus,von Goͤffede,Claus von Goͤffede
 33,conseiller_des_tanneurs,1415,Ulrich,"Issenhausen, von",,,echevinat,corporation_des_tanneurs,Uͦlrich,von Isenhusen,Uͦlrich von Isenhusen
-34,conseiller_des_cabarretiers,1415,Heinrich,Arner,,,echevinat,corporation_des_cabarretiers,Heinrich,Arner,Heinrich Arner
+34,conseiller_des_cabaretiers,1415,Heinrich,Arner,,,echevinat,corporation_des_cabaretiers,Heinrich,Arner,Heinrich Arner
 35,conseiller_des_maçons,1415,Küntz,Wild,,,echevinat,corporation_des_maçons,Cuͦntz,Wilde,Cuͦntz Wilde
 36,conseiller_des_forgerons,1415,Hannemann,"Epfig, von",,,echevinat,corporation_des_forgerons,Hanman,von Epffich,Hanman von Epffich
 37,conseiller_des_tailleurs,1415,Johanns,"Seltz, von",,,echevinat,corporation_des_tailleurs,Hanns,von Selsse,Hanns von Selsse

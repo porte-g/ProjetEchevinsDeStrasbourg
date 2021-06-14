@@ -5,12 +5,12 @@
 3,stettmeister,1441,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggrafe,her Dietrich Burggrafe
 4,ammeister,1441,Jacob,"Geispoltzheim, von",,,echevinat,,Jacob,von Geispoltzheim,her Jacob von Geispoltzheim der ammeister
 5,conseiller_des_constaffel,1441,Thoman,"Kageneck, von",,,constoffeler,,Thoman,von Kageneck,her Thoman von Kageneck
-6,conseiller_des_constaffel,1441,Johanns,"Müllenheim, von",Hiltebrant,,constoffeler,,Hanns,von Mùlnheim,her Hanns von Mùlnheim Hiltebrant
+6,conseiller_des_constaffel,1441,Johanns,Hiltebrant,Hiltebrant,,constoffeler,,Hanns,von Mùlnheim,her Hanns von Mùlnheim Hiltebrant
 7,conseiller_des_constaffel,1441,Johanns-Konrat,Bock,,,constoffeler,,Hannßconrat,Bock,her Hannßconrat Bock
 8,conseiller_des_constaffel,1441,Claus,Lentzelin,,,constoffeler,,Claus,Lentzel,her Claus Lentzel
 9,conseiller_des_constaffel,1441,Claus-Friedrich,Büchsener,,,constoffeler,,Clauß Fridrich,Bùhssener,her Clauß Fridrich Bùhssener
 10,conseiller_des_constaffel,1441,Kühne,Nope,,,constoffeler,,Cuͦne,Nope,her Cuͦne Nope
-11,conseiller_des_constaffel,1441,Bechtolt,Zorn,zuͦm Riet,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
+11,conseiller_des_constaffel,1441,Bechtolt,"Riet, zum",zuͦm Riet,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
 12,conseiller_des_constaffel,1441,Bernhart,Mürsel,,,constoffeler,,Bernhart,Mùrsel,Bernhart Mùrsel
 13,conseiller_des_constaffel,1441,Johanns,Ellenhart,,der jung,constoffeler,,Hanns,Elhart,Hanns Elhart der jung
 14,conseiller_des_constaffel,1441,Johanns,Bock,,der jung,constoffeler,,Hanns,Bock,Hanns Bock der jung
@@ -20,7 +20,7 @@
 18,conseiller_des_tonneliers,1441,Johanns,Brettler,,,echevinat,corporation_des_tonneliers,Hanns,Bretteler,Hanns Bretteler
 19,conseiller_des_drapiers,1441,Johanns,Odertzheim,,,echevinat,corporation_des_drapiers,Hanns,Odratzheim,Hanns Odratzheim
 20,conseiller_des_tanneurs,1441,Erhart,"Issenhausen, von",,,echevinat,corporation_des_tanneurs,Erhart,von Isenhusen,Erhart von Isenhusen
-21,conseiller_des_cabarretiers,1441,Hug,Dossenheim,,,echevinat,corporation_des_cabarretiers,Hug,Dohssenheim,her Hug Dohssenheim altammeister
+21,conseiller_des_cabaretiers,1441,Hug,Dossenheim,,,echevinat,corporation_des_cabaretiers,Hug,Dohssenheim,her Hug Dohssenheim altammeister
 22,conseiller_des_maçons,1441,Sifrit,"Zabern, von",,,echevinat,corporation_des_maçons,Syfrit,von Zabern,Syfrit von Zabern
 23,conseiller_des_forgerons,1441,Heinrich,Meiger,,,echevinat,corporation_des_forgerons,Heinrich,Meyer,Heinrich Meyer
 24,conseiller_des_tailleurs,1441,Johanns,Zoller,,,echevinat,corporation_des_tailleurs,Hanns,Zoller,Hanns Zoller
@@ -32,7 +32,7 @@
 30,conseiller_des_orfevres,1441,Jacob,Freiburger,,,echevinat,corporation_des_orfevres,Jacob,Friburger,Jacob Friburger
 31,conseiller_des_marchands_de_grains,1441,Johanns,Kesselring,,,echevinat,corporation_des_marchands_de_grains,Hanns,Kesselring,Hanns Kesselring
 32,conseiller_des_jardiniers,1441,Claus,Duntzenheim,,,echevinat,corporation_des_jardiniers,Claus,Duntzenheim,Claus Duntzenheim
-33,conseiller_des_pêcheurs,1441,Walther,Hage,zuͦm Kettener,,echevinat,corporation_des_pêcheurs,Walther,Hage,Walther Hage zuͦm Kettener
+33,conseiller_des_pêcheurs,1441,Walther,"Kettener, zum",zuͦm Kettener,,echevinat,corporation_des_pêcheurs,Walther,Hage,Walther Hage zuͦm Kettener
 34,conseiller_des_barbiers_et_baigneurs,1441,Marx,Rohrer,,,echevinat,corporation_des_barbiers_et_baigneurs,Marx,Rorer,Marx Rorer
 35,conseiller_des_sauniers,1441,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Leonhart,Trachenfeils,her Leonhart Trachenfeils altammeister
 36,conseiller_des_tisserands,1441,Peter,"Korck, von",,,echevinat,corporation_des_tisserands,Peter,von Korck,Peter von Korck

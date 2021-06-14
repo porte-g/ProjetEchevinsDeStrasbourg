@@ -9,11 +9,11 @@
 7,conseiller_des_constaffel,1499,Ludwig,Böckel,,,constoffeler,,Ludwig,Böcklin,her Ludwig Böcklin ritter
 8,conseiller_des_constaffel,1499,Walther,"Müllenheim, von",,,constoffeler,,Walther,von Mùlnheim,Walther von Mùlnheim
 9,conseiller_des_constaffel,1499,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,Diebolt von Mùlnheim
-10,conseiller_des_constaffel,1499,Jerge,Zorn,von Bͦuͦlach,,constoffeler,,Jörge,Zorn,Jörge Zorn von Bͦuͦlach
+10,conseiller_des_constaffel,1499,Jerge,"Bülach, von",von Bͦuͦlach,,constoffeler,,Jörge,Zorn,Jörge Zorn von Bͦuͦlach
 11,conseiller_des_bateliers,1499,Peter,Arge,,,echevinat,corporation_des_bateliers,Peter,Arge,Peter Arge
 12,conseiller_des_marchands,1499,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,Jacob Müge
 13,conseiller_des_bouchers,1499,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wysebach,her Jacob Wysebach altammeister
-14,conseiller_des_cabarretiers,1499,Bartholomeus,Barpfennig,,,echevinat,corporation_des_cabarretiers,Bartholomeus,Barpfennig,Bartholomeus Barpfennig
+14,conseiller_des_cabaretiers,1499,Bartholomeus,Barpfennig,,,echevinat,corporation_des_cabaretiers,Bartholomeus,Barpfennig,Bartholomeus Barpfennig
 15,conseiller_des_drapiers,1499,Diebolt,Wingersheim,,,echevinat,corporation_des_drapiers,Diebolt,Wingersheim,Diebolt Wingersheim
 16,conseiller_des_marchands_de_grains,1499,Florentz,Rummeler,,,echevinat,corporation_des_marchands_de_grains,Florentz,Rummeler,Florentz Rummeler
 17,conseiller_des_sauniers,1499,Jerge,Riffe,,,echevinat,corporation_des_sauniers,Jörge,Riff,Jörge Riff
@@ -25,7 +25,7 @@
 23,conseiller_des_gourmets_et_courtiers,1499,Lexius,Meiger,,,echevinat,corporation_des_gourmets_et_courtiers,Lecius,Meiger,Lecius Meiger
 24,conseiller_des_tailleurs,1499,Johanns,Frank,,,echevinat,corporation_des_tailleurs,Hans,Franck,Hans Franck
 25,conseiller_des_forgerons,1499,Johanns,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Hans,von Druhtersheim,Hans von Druhtersheim
-26,conseiller_des_cordonniers,1499,Martin,Schultheiss,Win und Brot,,echevinat,corporation_des_cordonniers,Martin,Schultheiss,Martin Schultheiss genant Win und Brot
+26,conseiller_des_cordonniers,1499,Martin,Wein und Brot,Win und Brot,,echevinat,corporation_des_cordonniers,Martin,Schultheiss,Martin Schultheiss genant Win und Brot
 27,conseiller_des_pêcheurs,1499,Johanns,Ruser,,,echevinat,corporation_des_pêcheurs,Hans,Rùser,Hans Rùser
 28,conseiller_des_charrons,1499,Marx,Rebestock,,,echevinat,corporation_des_charrons,Marx,Rebestock,Marx Rebestock
 29,conseiller_des_jardiniers,1499,Johanns,Bilger,,,echevinat,corporation_des_jardiniers,Hans,Bilger,Hans Bilger

@@ -1,17 +1,17 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1409,Johanns,Zorn,von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckerich
-1,stettmeister,1409,Ulrich,Bock,inn Brantgasse,,constoffeler,,Ülrich,Bock,Ülrich Bock inn Brantgasse
+0,stettmeister,1409,Johanns,"Eckerich, von",von Eckerich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckerich
+1,stettmeister,1409,Ulrich,"Brantgasse, in",inn Brantgasse,,constoffeler,,Ülrich,Bock,Ülrich Bock inn Brantgasse
 2,stettmeister,1409,Johanns,Deutschmann,,,constoffeler,,Johanns,Dütschman,Johanns Dütschman
 3,stettmeister,1409,Gosse,Rebestock,,,constoffeler,,Gosse,Rebstock,Gosse Rebstock
 4,ammeister,1409,Ruhlemann,Barpfennig,,,echevinat,,Rüllin,Barpfennig,her Rüllin Barpfennig der ammeister
 5,conseiller_des_constaffel,1409,Reimbolt,Hüffelin,,,constoffeler,,Reimbolt,Hüffelin,her Reimbolt Hüffelin
-6,conseiller_des_constaffel,1409,Heinrich,"Müllenheim, von",von Landsperg,,constoffeler,,Heinrich,von Mülnheim,her Heinrich von Mülnheim von Landsperg
+6,conseiller_des_constaffel,1409,Heinrich,"Landsberg, von",von Landsperg,,constoffeler,,Heinrich,von Mülnheim,her Heinrich von Mülnheim von Landsperg
 7,conseiller_des_constaffel,1409,Johanns-Rudolff,"Endingen, von",,,constoffeler,,Johanns Rüdolff,von Endingen,her Johanns Rüdolff von Endingen
 8,conseiller_des_constaffel,1409,Gosse,Burggraf,,,constoffeler,,Gosse,Burggrave,her Gosse Burggrave
 9,conseiller_des_constaffel,1409,Reimbolt,Schwarber,,,constoffeler,,Reimbolt,Swarber,Reimbolt Swarber
 10,conseiller_des_constaffel,1409,Walther,"Müllenheim, von",,,constoffeler,,Walther,von Mülnheim,Walther von Mülnheim
 11,conseiller_des_constaffel,1409,Reimbolt,Klobelouch,,,constoffeler,,Reimbolt,Klöbelouch,Reimbolt Klöbelouch
-12,conseiller_des_constaffel,1409,Johanns,Zorn,Shultheiss,,constoffeler,,Johanns,Zorn,Johanns Zorn Shultheiss
+12,conseiller_des_constaffel,1409,Johanns,Schultheiss,Shultheiss,,constoffeler,,Johanns,Zorn,Johanns Zorn Shultheiss
 13,conseiller_des_constaffel,1409,Claus,Jung,,der junger,constoffeler,,Claus,Jung,Claus Jung der junger
 14,conseiller_des_constaffel,1409,Konrat,"Wasselnheim, von",,,constoffeler,,Conrat,von Wahsselnheim,Conrat von Wahsselnheim
 15,conseiller_des_constaffel,1409,Bechtolt,"Rosheim, von",,,constoffeler,,Behtolt,von Rosheim,Behtolt von Rosheim
@@ -23,9 +23,9 @@
 21,conseiller_des_constaffel,1409,Wernher,Hüffelin,,,constoffeler,,Werlin,Hüffelin,Werlin Hüffelin
 22,conseiller_des_constaffel,1409,Bernhart,Bock,,,constoffeler,,Bernhart,Bock,Bernhart Bock
 23,conseiller_des_constaffel,1409,Claus,"Winterthur, von",,,constoffeler,,Claus,von Wintertur,Claus von Wintertur
-24,conseiller_des_constaffel,1409,Küntz,Pfaffenlapp,Groß,,constoffeler,,Cüntz,Pfaffenlap,Groß Cüntz Pfaffenlap
+24,conseiller_des_constaffel,1409,Küntz,Gross,Groß,,constoffeler,,Cüntz,Pfaffenlap,Groß Cüntz Pfaffenlap
 25,conseiller_des_constaffel,1409,Johanns,Ellenhart,,,constoffeler,,Johanns,Ellehart,Johanns Ellehart
-26,conseiller_des_constaffel,1409,Johanns,Hesse,züm Hauwart,,constoffeler,,Johanns,Hesse,Johanns Hesse züm Hauwart
+26,conseiller_des_constaffel,1409,Johanns,"Hohwart, zum",züm Hauwart,,constoffeler,,Johanns,Hesse,Johanns Hesse züm Hauwart
 27,conseiller_des_constaffel,1409,Walther,Bauman,,,constoffeler,,Walther,Buman,Walther Buman
 28,conseiller_des_constaffel,1409,Johanns,Manse,,,constoffeler,,Johanns,Mansse,"Johanns Mansse, Claus Manssen seligen sun"
 29,conseiller_des_marchands,1409,Bechtolt,"Colmar, von",,,echevinat,corporation_des_marchands,Berhtolt,von Colmar,Berhtolt von Colmar
@@ -34,7 +34,7 @@
 32,conseiller_des_drapiers,1409,Johanns,Heilmann,,,echevinat,corporation_des_drapiers,Johanns,Heilman,her Johanns Heilman
 33,conseiller_des_tonneliers,1409,Claus,Schanlit,,,echevinat,corporation_des_tonneliers,Claus,Schanlit,Claus Schanlit
 34,conseiller_des_tanneurs,1409,Claus,Werde,,,echevinat,corporation_des_tanneurs,Claus,Werde,Claus Werde
-35,conseiller_des_cabarretiers,1409,Heinrich,Kranich,,,echevinat,corporation_des_cabarretiers,Heinrich,Kranich,Heinrich Kranich
+35,conseiller_des_cabaretiers,1409,Heinrich,Kranich,,,echevinat,corporation_des_cabaretiers,Heinrich,Kranich,Heinrich Kranich
 36,conseiller_des_maçons,1409,Lauwel,Ruhlmann,,,echevinat,corporation_des_maçons,Lawlin,Rülman,Lawlin Rülman
 37,conseiller_des_forgerons,1409,Stefan,Sporer,,,echevinat,corporation_des_forgerons,Steffan,Sporer,Steffan Sporer
 38,conseiller_des_tailleurs,1409,Hermann,"Überhang, zum",,,echevinat,corporation_des_tailleurs,Herman,züm Überhang,Herman züm Überhang
@@ -47,12 +47,12 @@
 45,conseiller_des_marchands_de_grains,1409,Claus,Melbrühe,,,echevinat,corporation_des_marchands_de_grains,Claus,Melbrü,Claus Melbrü
 46,conseiller_des_jardiniers,1409,Johanns,Düpigheim,,,echevinat,corporation_des_jardiniers,Hanseman,Dübingheim,Hanseman Dübingheim
 47,conseiller_des_pêcheurs,1409,Schweicker,,,,echevinat,corporation_des_pêcheurs,Swicker,,Swicker
-48,conseiller_des_barbiers_et_baigneurs,1409,Johanns,,inn Crutenowe,,echevinat,corporation_des_barbiers_et_baigneurs,Hanseman,,Hanseman bader inn Crutenowe
+48,conseiller_des_barbiers_et_baigneurs,1409,Johanns,"Krutenau, in",inn Crutenowe,,echevinat,corporation_des_barbiers_et_baigneurs,Hanseman,,Hanseman bader inn Crutenowe
 49,conseiller_des_sauniers,1409,Johanns,Saltzmütter,,der jung,echevinat,corporation_des_sauniers,Hanseman,Saltzmütter,Hanseman Saltzmütter der jung
 50,conseiller_des_tisserands,1409,Heintz,Messinger,,,echevinat,corporation_des_tisserands,Heintz,Messinger,Heintz Messinger
 51,conseiller_des_gourmets_et_courtiers,1409,Johanns,Schenck,,,echevinat,corporation_des_gourmets_et_courtiers,Hanns,Schenck,Hanns Schenck
 52,conseiller_des_charrons,1409,Hug,Dreitzehn,,,echevinat,corporation_des_charrons,Hug,Dritzehen,Hug Dritzehen
-53,conseiller_des_regrattiers_cordiers_et_fruitiers,1409,Claus,"Hohenhuse, zum",an Steinstross,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Claus,züm Hohenhuse,Claus züm Hohenhuse an Steinstross
+53,conseiller_des_regrattiers_cordiers_et_fruitiers,1409,Claus,"Steinstrasse, an",an Steinstross,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Claus,züm Hohenhuse,Claus züm Hohenhuse an Steinstross
 54,conseiller_des_coltineurs_de_tonneaux,1409,Claus,Willgottheim,,,echevinat,corporation_des_coltineurs_de_tonneaux,Claus,Wilgotheim,Claus Wilgotheim
 55,conseiller_des_constructeurs_de_bateaux,1409,Hug,Klige,,,echevinat,corporation_des_constructeurs_de_bateaux,Hug,Klye,Hug Klye
 56,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1409,Johanns,Dürninger,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,Hanns,Dürninger,Hanns Dürninger der düchscherer

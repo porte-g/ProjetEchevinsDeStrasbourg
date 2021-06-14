@@ -9,7 +9,7 @@
 7,conseiller_des_constaffel,1450,Ludwig,"Rosheim, von",,,constoffeler,,Ludwig,von Rosheim,her Ludwig von Rosheim
 8,conseiller_des_constaffel,1450,Kühne,Nope,,,constoffeler,,Cuͦne,Nope,her Cuͦne Nope
 9,conseiller_des_constaffel,1450,Friedrich,"Rust, zum",,,constoffeler,,Fridrich,zuͦm Ruͦst,her Fridrich zuͦm Ruͦst
-10,conseiller_des_constaffel,1450,Bechtolt,Zorn,zuͦm Riet,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
+10,conseiller_des_constaffel,1450,Bechtolt,"Riet, zum",zuͦm Riet,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
 11,conseiller_des_constaffel,1450,Diebolt,"Müllenheim, von",,,constoffeler,,Diebolt,von Mùlnheim,Diebolt von Mùlnheim
 12,conseiller_des_constaffel,1450,Johanns,Hüffelin,,,constoffeler,,Hanns,Hùffel,her Hanns Hùffel
 13,conseiller_des_constaffel,1450,Walther,Bauman,,,constoffeler,,Walther,Buman,Walther Buman
@@ -20,20 +20,20 @@
 18,conseiller_des_tonneliers,1450,Heintz,Holtzhüser,,,echevinat,corporation_des_tonneliers,Heintzman,Holtzhùser,Heintzman Holtzhùser
 19,conseiller_des_drapiers,1450,Claus,Ackerfuss,,,echevinat,corporation_des_drapiers,Claus,Ackenfͦuͦs,Claus Ackenfͦuͦs
 20,conseiller_des_tanneurs,1450,Johanns,Minner,,,echevinat,corporation_des_tanneurs,Hanns,Mynner,Hanns Mynner
-21,conseiller_des_cabarretiers,1450,Claus,Baumgarter,,,echevinat,corporation_des_cabarretiers,Claus,Boͧmgarter,Claus Boͧmgarter
+21,conseiller_des_cabaretiers,1450,Claus,Baumgarter,,,echevinat,corporation_des_cabaretiers,Claus,Boͧmgarter,Claus Boͧmgarter
 22,conseiller_des_maçons,1450,Sifrit,"Zabern, von",,,echevinat,corporation_des_maçons,Syfrit,von Zabern,Syfrit von Zabern
 23,conseiller_des_forgerons,1450,Ruhlemann,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Rullin,von Druhtersheim,Rullin von Druhtersheim
 24,conseiller_des_tailleurs,1450,Jacob,Rotgebe,,,echevinat,corporation_des_tailleurs,Jacob,Rotgebe,Jacob Rotgebe
 25,conseiller_des_bateliers,1450,Jacob,Hage,,,echevinat,corporation_des_bateliers,Jacob,Hage,Jacob Hage
 26,conseiller_des_pelletiers,1450,Johanns,Spirer,,,echevinat,corporation_des_pelletiers,Hanns,Spirer,Hanns Spirer
-27,conseiller_des_charpentiers,1450,Fritsch,,uff dem werde,,echevinat,corporation_des_charpentiers,Fritsch,,Fritsch uff dem werde
+27,conseiller_des_charpentiers,1450,Fritsch,"Werde, uff dem",uff dem werde,,echevinat,corporation_des_charpentiers,Fritsch,,Fritsch uff dem werde
 28,conseiller_des_crieurs_et_mesureurs_de_vin,1450,Anthenie,"Heiligenstein, von",,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Anthenig,von Heiligenstein,Anthenig von Heiligenstein
 29,conseiller_des_cordonniers,1450,Konrat,Joham,,,echevinat,corporation_des_cordonniers,Conrat,Joham,Conrat Joham
 30,conseiller_des_orfevres,1450,Johanns,Hertzog,,,echevinat,corporation_des_orfevres,Hanns,Hertzog,Hanns Hertzog
 31,conseiller_des_marchands_de_grains,1450,Johanns,Melbrühe,,,echevinat,corporation_des_marchands_de_grains,Hanns,Melbruͤge,Hanns Melbruͤge
 32,conseiller_des_jardiniers,1450,Johanns,Ersame,,,echevinat,corporation_des_jardiniers,Hanns,Ersam,Hanns Ersam
 33,conseiller_des_pêcheurs,1450,Ebel,Ammeler,,,echevinat,corporation_des_pêcheurs,Ebel,Ammeler,Ebel Ammeler
-34,conseiller_des_barbiers_et_baigneurs,1450,Johanns,,im sluch,,echevinat,corporation_des_barbiers_et_baigneurs,Hanns,,Hanns im sluch
+34,conseiller_des_barbiers_et_baigneurs,1450,Johanns,"Schluch, im",im sluch,,echevinat,corporation_des_barbiers_et_baigneurs,Hanns,,Hanns im sluch
 35,conseiller_des_sauniers,1450,Johanns,Trachenfeils,,,echevinat,corporation_des_sauniers,Hanns,Trachenfeils,her Hanns Trachenfeils
 36,conseiller_des_tisserands,1450,Peter,"Korck, von",,,echevinat,corporation_des_tisserands,Peter,von Korck,Peter von Korck
 37,conseiller_des_gourmets_et_courtiers,1450,Friedrich,Seidenfaden,,,echevinat,corporation_des_gourmets_et_courtiers,Fridel,Sidenfaden,Fridel Sidenfaden

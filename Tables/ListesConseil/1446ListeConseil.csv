@@ -7,8 +7,8 @@
 5,conseiller_des_constaffel,1446,Thoman,"Kageneck, von",,,constoffeler,,Thoman,von Kageneck,her Thoman von Kageneck
 6,conseiller_des_constaffel,1446,Johanns,"Müllenheim, von",,,constoffeler,,Hanns,von Mùlnheim,"her Hanns von Mùlnheim, Ottemans sun"
 7,conseiller_des_constaffel,1446,Ulrich,Bock,,,constoffeler,,Uͦlrich,Bock,"her Uͦlrich Bock, Peter Bocks sun"
-8,conseiller_des_constaffel,1446,Bechtolt,Zorn,Schultheiss,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn genant Schultheiss
-9,conseiller_des_constaffel,1446,Bechtolt,Zorn,zuͦm Riet,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
+8,conseiller_des_constaffel,1446,Bechtolt,Schultheiss,Schultheiss,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn genant Schultheiss
+9,conseiller_des_constaffel,1446,Bechtolt,"Riet, zum",zuͦm Riet,,constoffeler,,Berhtolt,Zorn,Berhtolt Zorn zuͦm Riet
 10,conseiller_des_constaffel,1446,Jacob,Lentzelin,,,constoffeler,,Jacob,Lentzel,Jacob Lentzel
 11,conseiller_des_constaffel,1446,Bernhart,Vener,,,constoffeler,,Bernhart,Vener,Bernhart Vener
 12,conseiller_des_constaffel,1446,Walther,Bauman,,,constoffeler,,Walther,Buman,Walther Buman
@@ -17,16 +17,16 @@
 15,conseiller_des_marchands,1446,Stefan,Sachsbach,,,echevinat,corporation_des_marchands,Steffan,Sahsse,Steffan Sahsse
 16,conseiller_des_boulangers,1446,Walther,Dürr,,,echevinat,corporation_des_boulangers,Walther,Dùrre,Walther Dùrre
 17,conseiller_des_bouchers,1446,Völtz,Wormser,,,echevinat,corporation_des_bouchers,Voltz,Wurmsser,Voltz Wurmsser
-18,conseiller_des_tonneliers,1446,Wernher,,an steinstrasse,,echevinat,corporation_des_tonneliers,Wernlin,,Wernlin an steinstrasse
+18,conseiller_des_tonneliers,1446,Wernher,"Steinstrasse, an",an steinstrasse,,echevinat,corporation_des_tonneliers,Wernlin,,Wernlin an steinstrasse
 19,conseiller_des_drapiers,1446,Konrat,Armbruster,,,echevinat,corporation_des_drapiers,Conrat,Armbruster,her Conrat Armbruster altammeister
 20,conseiller_des_tanneurs,1446,Johanns,Vendenheim,,,echevinat,corporation_des_tanneurs,Hanns,Vendenheim,Hanns Vendenheim
-21,conseiller_des_cabarretiers,1446,Eberhart,"Truchtersheim, von",,,echevinat,corporation_des_cabarretiers,Eberlin,von Druhtersheim,Eberlin von Druhtersheim
+21,conseiller_des_cabaretiers,1446,Eberhart,"Truchtersheim, von",,,echevinat,corporation_des_cabaretiers,Eberlin,von Druhtersheim,Eberlin von Druhtersheim
 22,conseiller_des_maçons,1446,Michel,"Molsheim, von",,,echevinat,corporation_des_maçons,Michel,von Molsheim,Michel von Molsheim
 23,conseiller_des_forgerons,1446,Ruhlemann,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Rullin,von Druhtersheim,Rullin von Druhtersheim
 24,conseiller_des_tailleurs,1446,Konrat,Schrotbanck,,,echevinat,corporation_des_tailleurs,Conrat,Schrotbanck,Conrat Schrotbanck
 25,conseiller_des_bateliers,1446,Obrecht,Schalk,,,echevinat,corporation_des_bateliers,Obreht,Schalck,her Obreht Schalck altammeister
 26,conseiller_des_pelletiers,1446,Johanns,Spirer,,,echevinat,corporation_des_pelletiers,Hanns,Spirer,Hanns Spirer
-27,conseiller_des_charpentiers,1446,Fritsch,,uff dem werde,,echevinat,corporation_des_charpentiers,Fritsch,,Fritsch uff dem werde
+27,conseiller_des_charpentiers,1446,Fritsch,"Werde, uff dem",uff dem werde,,echevinat,corporation_des_charpentiers,Fritsch,,Fritsch uff dem werde
 28,conseiller_des_crieurs_et_mesureurs_de_vin,1446,Johanns,Studel,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Hanns,Stùdel,Hanns Stùdel
 29,conseiller_des_cordonniers,1446,Johanns,Reimbolt,,,echevinat,corporation_des_cordonniers,Hanns,Reimbolt,Hanns Reimbolt
 30,conseiller_des_orfevres,1446,Johanns,"Altzheim, von",,,echevinat,corporation_des_orfevres,Hanns,von Altzen,Hanns von Altzen

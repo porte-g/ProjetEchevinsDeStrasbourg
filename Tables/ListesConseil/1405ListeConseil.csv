@@ -1,18 +1,18 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1405,Claus,Zorn,Schultheiss,,constoffeler,,Claus,Zorn,her Claus Zorn Schultheiss
+0,stettmeister,1405,Claus,Schultheiss,Schultheiss,,constoffeler,,Claus,Zorn,her Claus Zorn Schultheiss
 1,stettmeister,1405,Ulrich,Bock,,der junger,constoffeler,,Ülrich,Bock,her Ülrich Bock der junger
 2,stettmeister,1405,Gosse,Burggraf,,,constoffeler,,Gosse,Burggrave,her Gosse Burggrave
 3,stettmeister,1405,Johanns,Deutschmann,,,constoffeler,,Johanns,Dütschman,Johanns Dütschman
 4,ammeister,1405,Ruhlemann,Barpfennig,,,echevinat,,Rüllin,Barpfennig,her Rüllin Barpfennig der ammeister
 5,conseiller_des_constaffel,1405,Johanns,"Still, von",,,constoffeler,,Johanns,von Stille,her Johanns von Stille
 6,conseiller_des_constaffel,1405,Reimbolt,Hüffelin,,,constoffeler,,Reimbolt,Hüffelin,her Reimbolt Hüffelin
-7,conseiller_des_constaffel,1405,Johanns,Zorn,von Eckenrich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckenrich
-8,conseiller_des_constaffel,1405,Heinrich,"Müllenheim, von",von Landsperg,,constoffeler,,Heinrich,von Mülnheim,her Heinrich von Mülnheim von Landsperg
+7,conseiller_des_constaffel,1405,Johanns,"Eckerich, von",von Eckenrich,,constoffeler,,Johanns,Zorn,her Johanns Zorn von Eckenrich
+8,conseiller_des_constaffel,1405,Heinrich,"Landsberg, von",von Landsperg,,constoffeler,,Heinrich,von Mülnheim,her Heinrich von Mülnheim von Landsperg
 9,conseiller_des_constaffel,1405,Claus,Westhus,,,constoffeler,,Claus,von Westhus,her Claus von Westhus
 10,conseiller_des_constaffel,1405,Reimbolt,Hüffelin,,,constoffeler,,Reimbolt,Hüffelin,"Reimbolt Hüffelin, Hanmans seligen sun"
 11,conseiller_des_constaffel,1405,Hetzel,Klobelouch,,,constoffeler,,Hetzel,Klöblouch,Hetzel Klöblouch
 12,conseiller_des_constaffel,1405,Ottemann,"Müllenheim, von",,,constoffeler,,Otteman,von Mülnheim,Otteman von Mülnheim
-13,conseiller_des_constaffel,1405,Johanns,"Müllenheim, von",von Ungere,,constoffeler,,Hanns,von Mülnheim,Hanns von Mülnheim von Ungere
+13,conseiller_des_constaffel,1405,Johanns,"Ungersheim, von",von Ungere,,constoffeler,,Hanns,von Mülnheim,Hanns von Mülnheim von Ungere
 14,conseiller_des_constaffel,1405,Bechtolt,"Rosheim, von",,,constoffeler,,Behtolt,von Rosheim,Behtolt von Rosheim
 15,conseiller_des_constaffel,1405,Johanns,Klobelouch,,,constoffeler,,Johanns,Cloblöuch,"Johanns Cloblöuch, langhanns sun"
 16,conseiller_des_constaffel,1405,Johanns,Berlin,,,constoffeler,,Johanns,Berlin,Johanns Berlin
@@ -34,13 +34,13 @@
 32,conseiller_des_drapiers,1405,Johanns,Heilmann,,,echevinat,corporation_des_drapiers,Johanns,Heilman,her Johanns Heilman
 33,conseiller_des_tonneliers,1405,Walther,Schanlit,,,echevinat,corporation_des_tonneliers,Walther,Schanlit,Walther Schanlit
 34,conseiller_des_tanneurs,1405,Fritsch,Weissgerber,,,echevinat,corporation_des_tanneurs,Fritsch,Wisgerwer,Fritsch Wisgerwer
-35,conseiller_des_cabarretiers,1405,Claus,Wormser,,,echevinat,corporation_des_cabarretiers,Claus,Wurmsser,Claus Wurmsser
+35,conseiller_des_cabaretiers,1405,Claus,Wormser,,,echevinat,corporation_des_cabaretiers,Claus,Wurmsser,Claus Wurmsser
 36,conseiller_des_maçons,1405,Erhart,"Hagenau, von",,,echevinat,corporation_des_maçons,Erhart,von Hagenowe,Erhart von Hagenowe
 37,conseiller_des_forgerons,1405,Eberhart,Stegemann,,,echevinat,corporation_des_forgerons,Eberlin,Stegeman,Eberlin Stegeman
 38,conseiller_des_tailleurs,1405,Heintz,Schön,,,echevinat,corporation_des_tailleurs,Heintz,Schön,Heintz Schön
 39,conseiller_des_bateliers,1405,Peter,Sünner,,,echevinat,corporation_des_bateliers,Peter,Sünner,her Peter Sünner
 40,conseiller_des_pelletiers,1405,Heintz,Seelose,,,echevinat,corporation_des_pelletiers,Heintzman,Selose,Heintzman Selose
-41,conseiller_des_charpentiers,1405,Obrecht,,der lang,,echevinat,corporation_des_charpentiers,Obreht,,der lang Obreht
+41,conseiller_des_charpentiers,1405,Obrecht,der Lange,der lang,,echevinat,corporation_des_charpentiers,Obreht,,der lang Obreht
 42,conseiller_des_crieurs_et_mesureurs_de_vin,1405,Claus,Hechde,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Claus,Hechde,Claus Hechde
 43,conseiller_des_cordonniers,1405,Johanns,Laubeck,,,echevinat,corporation_des_cordonniers,Johanns,Loubeck,Johanns Loubeck
 44,conseiller_des_orfevres,1405,Claus,Arge,,,echevinat,corporation_des_orfevres,Claus,Arge,Claus Arge

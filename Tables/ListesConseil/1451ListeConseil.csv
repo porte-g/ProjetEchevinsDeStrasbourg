@@ -1,7 +1,7 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
 0,stettmeister,1451,Reimbolt,Zorn,,Jung,constoffeler,,Reymbolt,zorn,her Reymbolt Jungzorn
 1,stettmeister,1451,Burkhart,"Müllenheim, von",,,constoffeler,,Burckart,von Mùlnheim,her Burckart von Mùlnheim ritter
-2,stettmeister,1451,Johanns,"Müllenheim, von",Hiltbrant,,constoffeler,,Hanns,von Mùlnheim,her Hanns von Mùlnheim Hiltbrant
+2,stettmeister,1451,Johanns,Hiltebrant,Hiltbrant,,constoffeler,,Hanns,von Mùlnheim,her Hanns von Mùlnheim Hiltbrant
 3,stettmeister,1451,Johanns-Konrat,Bock,,,constoffeler,,Hannßconrat,Bock,her Hannßconrat Bock
 4,ammeister,1451,Heinrich,Meiger,,,echevinat,,Heinrich,Meỳer,her Heinrich Meỳer der ammeister
 5,conseiller_des_constaffel,1451,Johanns-Heinrich,Hüffelin,,,constoffeler,,Hannsheinrich,Hùffel,her Hannsheinrich Hùffel
@@ -20,7 +20,7 @@
 18,conseiller_des_tonneliers,1451,Johanns,Dingsheim,,,echevinat,corporation_des_tonneliers,Hanns,Dùngesheim,Hanns Dùngesheim
 19,conseiller_des_drapiers,1451,Konrat,Armbruster,,,echevinat,corporation_des_drapiers,Conrat,Armbruster,her Conrat Armbruster altammeister
 20,conseiller_des_tanneurs,1451,Johanns,Vendenheim,,,echevinat,corporation_des_tanneurs,Hanns,Vendenheim,Hanns Vendenheim
-21,conseiller_des_cabarretiers,1451,Heinrich,Bisinger,,,echevinat,corporation_des_cabarretiers,Heinrich,Bisinger,Heinrich Bisinger
+21,conseiller_des_cabaretiers,1451,Heinrich,Bisinger,,,echevinat,corporation_des_cabaretiers,Heinrich,Bisinger,Heinrich Bisinger
 22,conseiller_des_maçons,1451,Johanns,Kacheler,,,echevinat,corporation_des_maçons,Hanns,Kachler,Hanns Kachler
 23,conseiller_des_forgerons,1451,Johanns,Holniet,,,echevinat,corporation_des_forgerons,Hanns,Holnyet,Hanns Holnyet
 24,conseiller_des_tailleurs,1451,Sifrit,Zerig,,,echevinat,corporation_des_tailleurs,Syfrit,Zerig,Syfrit Zerig
@@ -37,7 +37,7 @@
 35,conseiller_des_sauniers,1451,Völtz,Ostertag,,,echevinat,corporation_des_sauniers,Volmar,Ostertag,Volmar Ostertag
 36,conseiller_des_tisserands,1451,Johanns,Spiegel,,,echevinat,corporation_des_tisserands,Hanns,Spiegel,Hanns Spiegel
 37,conseiller_des_gourmets_et_courtiers,1451,Diebolt,Brant,,,echevinat,corporation_des_gourmets_et_courtiers,Diebolt,Brant,Diebolt Brant
-38,conseiller_des_charrons,1451,,"Neuenburg, von der",,,echevinat,corporation_des_charrons,,von der Nuwenburge,her Hanns von der Nuwenburge
+38,conseiller_des_charrons,1451,Johanns,"Neuenburg, von der",,,echevinat,corporation_des_charrons,Hanns,von der Nuwenburge,her Hanns von der Nuwenburge
 39,conseiller_des_regrattiers_cordiers_et_fruitiers,1451,Ulrich,Kiebel,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Uͦlrich,Kiebel,Uͦlrich Kiebel
 40,conseiller_des_coltineurs_de_tonneaux,1451,Symont,Förster,,,echevinat,corporation_des_coltineurs_de_tonneaux,Symont,Voͦrster,Symont Voͦrster
 41,conseiller_des_constructeurs_de_bateaux,1451,Diebolt,Hettemann,,,echevinat,corporation_des_constructeurs_de_bateaux,Diebolt,Hetteman,Diebolt Hetteman

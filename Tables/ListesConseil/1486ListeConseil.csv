@@ -1,10 +1,10 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1486,Johanns,Sturm,von Sturmecke,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmecke
+0,stettmeister,1486,Johanns,"Sturmeck, von",von Sturmecke,,constoffeler,,Hans,Sturm,her Hans Sturm von Sturmecke
 1,stettmeister,1486,Friedrich,Bock,,,constoffeler,,Friderich,Bock,her Friderich Bock ritter
 2,stettmeister,1486,Johanns,Spender,,,constoffeler,,Hans,Spender,her Hans Spender ritter
 3,stettmeister,1486,Peter,Völtsch,,,constoffeler,,Peter,Völtsche,her Peter Völtsche ritter
 4,ammeister,1486,Marx,Kerling,,,echevinat,,Marx,Kerling,her Marx Kerling der ammeister
-5,conseiller_des_constaffel,1486,Johanns-Wilhelm,,züm Riet,,constoffeler,,Hanswilhelm,,her Hanswilhelm züm Riet ritter
+5,conseiller_des_constaffel,1486,Johanns-Wilhelm,"Riet, zum",züm Riet,,constoffeler,,Hanswilhelm,,her Hanswilhelm züm Riet ritter
 6,conseiller_des_constaffel,1486,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,her Hans von Seckingen ritter
 7,conseiller_des_constaffel,1486,Jerge,Berer,,,constoffeler,,Jörge,Berer,Jörge Berer
 8,conseiller_des_constaffel,1486,Jacob,Ellenhart,,,constoffeler,,Jacob,Elhart,Jacob Elhart
@@ -13,7 +13,7 @@
 11,conseiller_des_bateliers,1486,Blesin,Dolde,,,echevinat,corporation_des_bateliers,Blesin,Dolde,Blesin Dolde
 12,conseiller_des_marchands,1486,Jacob,Müge,,,echevinat,corporation_des_marchands,Jacob,Müge,Jacob Müge
 13,conseiller_des_bouchers,1486,Claus,Bechtolt,,,echevinat,corporation_des_bouchers,Claus,Behtolt,Claus Behtolt
-14,conseiller_des_cabarretiers,1486,Johanns,Meiger,,,echevinat,corporation_des_cabarretiers,Hans,Meÿger,Hans Meÿger
+14,conseiller_des_cabaretiers,1486,Johanns,Meiger,,,echevinat,corporation_des_cabaretiers,Hans,Meÿger,Hans Meÿger
 15,conseiller_des_drapiers,1486,Peter,Renner,,,echevinat,corporation_des_drapiers,Peter,Renner,Peter Renner
 16,conseiller_des_marchands_de_grains,1486,Peter,Schott,,,echevinat,corporation_des_marchands_de_grains,Peter,Schott,her Peter Schott altammeister
 17,conseiller_des_sauniers,1486,Mattern,Trachenfeils,,,echevinat,corporation_des_sauniers,Matern,Trachenfelß,her Matern Trachenfelß

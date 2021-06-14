@@ -1,5 +1,5 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1426,Heinrich,"Müllenheim, von",von Landsperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim von Landsperg ritter
+0,stettmeister,1426,Heinrich,"Landsberg, von",von Landsperg,,constoffeler,,Heinrich,von Mùlnheim,her Heinrich von Mùlnheim von Landsperg ritter
 1,stettmeister,1426,Reimbolt,Spender,,,constoffeler,,Reimbolt,Spender,her Reimbolt Spender
 2,stettmeister,1426,Wolffhelm,Bock,,,constoffeler,,Wolffhelm,Bock,her Wolffhelm Bock
 3,stettmeister,1426,Claus,Lentzelin,,,constoffeler,,Claus,Lentzel,her Claus Lentzel
@@ -9,7 +9,7 @@
 7,conseiller_des_constaffel,1426,Kühne,"Trübel, zum",,,constoffeler,,Cuͦne,zuͦm Truͦbel,her Cuͦne zuͦm Truͦbel
 8,conseiller_des_constaffel,1426,Johanns,Ellenhart,,,constoffeler,,Johanns,Ellehart,her Johanns Ellehart
 9,conseiller_des_constaffel,1426,Ludwig,"Rosheim, von",,,constoffeler,,Ludwig,von Rosheim,Ludwig von Rosheim
-10,conseiller_des_constaffel,1426,Johanns,Blenckel,Blanckstein,,constoffeler,,Hanns,Blenckel,Hanns Blenckel dem man spricht Blanckstein
+10,conseiller_des_constaffel,1426,Johanns,Blankstein,Blanckstein,,constoffeler,,Hanns,Blenckel,Hanns Blenckel dem man spricht Blanckstein
 11,conseiller_des_constaffel,1426,Hessemann,Hesse,,,constoffeler,,Hesseman,Hesse,Hesseman Hesse
 12,conseiller_des_constaffel,1426,Claus-Friedrich,Büchsener,,,constoffeler,,Claus Fridrich,Bùhssener,Claus Fridrich Bùhssener
 13,conseiller_des_constaffel,1426,Kühne,Nope,,,constoffeler,,Cuͦneman,Nope,Cuͦneman Nope
@@ -20,7 +20,7 @@
 18,conseiller_des_tonneliers,1426,Claus,Schanlit,,,echevinat,corporation_des_tonneliers,Claus,Schanlit,her Claus Schanlit
 19,conseiller_des_drapiers,1426,Ulrich,Zirtzer,,,echevinat,corporation_des_drapiers,Uͦlrich,Zirzer,Uͦlrich Zirzer
 20,conseiller_des_tanneurs,1426,Johanns,Müntzenberg,,,echevinat,corporation_des_tanneurs,Hanns,Mintzenberg,Hanns Mintzenberg
-21,conseiller_des_cabarretiers,1426,Hug,Dossenheim,,,echevinat,corporation_des_cabarretiers,Hug,Dohssenheim,Hug Dohssenheim
+21,conseiller_des_cabaretiers,1426,Hug,Dossenheim,,,echevinat,corporation_des_cabaretiers,Hug,Dohssenheim,Hug Dohssenheim
 22,conseiller_des_maçons,1426,Claus,Ruhlmann,,,echevinat,corporation_des_maçons,Claus,Ruͤlman,Claus Ruͤlman
 23,conseiller_des_forgerons,1426,Peter,Villinger,,,echevinat,corporation_des_forgerons,Peter,Vilinger,Peter Vilinger
 24,conseiller_des_tailleurs,1426,Johanns,Monschein,,,echevinat,corporation_des_tailleurs,Hanns,Monschin,Hanns Monschin
@@ -41,4 +41,4 @@
 39,conseiller_des_regrattiers_cordiers_et_fruitiers,1426,Bertsch,Villinger,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,Bertsch,Vilinger,Bertsch Vilinger
 40,conseiller_des_coltineurs_de_tonneaux,1426,Claus,Dürr,,,echevinat,corporation_des_coltineurs_de_tonneaux,Claus,Dùrre,Claus Dùrre
 41,conseiller_des_constructeurs_de_bateaux,1426,Hug,Klige,,,echevinat,corporation_des_constructeurs_de_bateaux,Hug,Klye,Hug Klye
-42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1426,,Peter,by dem gerihte,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Peter,meister Peter der olman by dem gerihte
+42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1426,,"Gerichte, bei dem",by dem gerihte,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Peter,meister Peter der olman by dem gerihte

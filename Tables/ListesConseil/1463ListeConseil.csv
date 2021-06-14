@@ -1,7 +1,7 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1463,Bechtolt,Zorn,zuͦm Riet,,constoffeler,,Berhtolt,Zorn,her Berhtolt Zorn zuͦm Riet
+0,stettmeister,1463,Bechtolt,"Riet, zum",zuͦm Riet,,constoffeler,,Berhtolt,Zorn,her Berhtolt Zorn zuͦm Riet
 1,stettmeister,1463,Johanns,Böckel,,,constoffeler,,Hanns,Boͤckel,her Hanns Boͤckel ritter
-2,stettmeister,1463,Claus,Zorn,von Bͦuͦlach,,constoffeler,,Claus,Zorn,her Claus Zorn von Bͦuͦlach
+2,stettmeister,1463,Claus,"Bülach, von",von Bͦuͦlach,,constoffeler,,Claus,Zorn,her Claus Zorn von Bͦuͦlach
 3,stettmeister,1463,Johanns-Konrat,Bock,,,constoffeler,,Hannß Conrat,Bock,her Hannß Conrat Bock
 4,ammeister,1463,Jacob,Ammelung,,,echevinat,,Jacob,Ammelung,her Jacob Ammelung der ammeister
 5,conseiller_des_constaffel,1463,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggraf,her Dietrich Burggraf
@@ -17,9 +17,9 @@
 15,conseiller_des_boulangers,1463,Claus,Linzer,,,echevinat,corporation_des_boulangers,Claus,Linser,Claus Linser
 16,conseiller_des_bouchers,1463,Johanns,"Berse, von",,,echevinat,corporation_des_bouchers,Hanns,von Berse,Hanns von Berse
 17,conseiller_des_tonneliers,1463,Johanns,"Dalheim, von",,,echevinat,corporation_des_tonneliers,Hanns,von Dalheim,Hanns von Dalheim
-18,conseiller_des_drapiers,1463,Johanns,Armbruster,vor dem pfennigturn,,echevinat,corporation_des_drapiers,Hanns,Armbruster,Hanns Armbruster vor dem pfennigturn
+18,conseiller_des_drapiers,1463,Johanns,"Pfennigturm, vor dem",vor dem pfennigturn,,echevinat,corporation_des_drapiers,Hanns,Armbruster,Hanns Armbruster vor dem pfennigturn
 19,conseiller_des_tanneurs,1463,Diebolt,Reimbolt,,,echevinat,corporation_des_tanneurs,Diebolt,Reimbolt,Diebolt Reimbolt
-20,conseiller_des_cabarretiers,1463,Adam,Messner,,,echevinat,corporation_des_cabarretiers,Adam,Mesener,Adam Mesener
+20,conseiller_des_cabaretiers,1463,Adam,Messner,,,echevinat,corporation_des_cabaretiers,Adam,Mesener,Adam Mesener
 21,conseiller_des_maçons,1463,Michel,"Molsheim, von",,,echevinat,corporation_des_maçons,Michel,von Molsheim,Michel von Molsheim
 22,conseiller_des_forgerons,1463,Ludwig,Kannengiesser,,,echevinat,corporation_des_forgerons,Ludeman,Kannengiesser,Ludeman Kannengiesser
 23,conseiller_des_tailleurs,1463,Johanns,Krosswiller,,,echevinat,corporation_des_tailleurs,Hanns,Croßwilre,Hanns Croßwilre

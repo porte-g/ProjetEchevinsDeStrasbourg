@@ -4,7 +4,7 @@
 2,stettmeister,1459,Friedrich,"Rust, zum",,,constoffeler,,Fridrich,zuͦm Ruͦst,her Fridrich zuͦm Ruͦst ritter
 3,stettmeister,1459,Philipp,"Müllenheim, von",,,constoffeler,,Philipps,von Mùlnheim,her Philipps von Mùlnheim ritter
 4,ammeister,1459,Johanns,Melbrühe,,,echevinat,,Hanns,Melbruͤ,her Hanns Melbruͤ der ammeister
-5,conseiller_des_constaffel,1459,Bechtolt,Zorn,zuͦm Riet,,constoffeler,,Behtolt,Zorn,Behtolt Zorn zuͦm Riet
+5,conseiller_des_constaffel,1459,Bechtolt,"Riet, zum",zuͦm Riet,,constoffeler,,Behtolt,Zorn,Behtolt Zorn zuͦm Riet
 6,conseiller_des_constaffel,1459,Jacob,Lentzelin,,,constoffeler,,Jacob,Lentzel,Jacob Lentzel
 7,conseiller_des_constaffel,1459,Claus,Spender,,,constoffeler,,Claus,Spender,Claus Spender
 8,conseiller_des_constaffel,1459,Thoman,Ellenhart,,,constoffeler,,Thoman,Elhart,Thoman Elhart
@@ -13,19 +13,19 @@
 11,conseiller_des_constaffel,1459,Burkhart,"Müllenheim, von",,,constoffeler,,Burckart,von Mùlnheim,Burckart von Mùlnheim
 12,conseiller_des_constaffel,1459,Johanns,Lumbart,,,constoffeler,,Hanns,Lumbart,Hanns Lumbart
 13,conseiller_des_constaffel,1459,Johanns,Riffe,,der eilter,constoffeler,,Hanns,Riffe,Hanns Riffe der eilter
-14,conseiller_des_constaffel,1459,Johanns,Armbruster,inn brantgasse,,constoffeler,,Hanns,Armbruster,Hanns Armbruster inn brantgasse
+14,conseiller_des_constaffel,1459,Johanns,"Brantgasse, in",inn brantgasse,,constoffeler,,Hanns,Armbruster,Hanns Armbruster inn brantgasse
 15,conseiller_des_marchands,1459,Jacob,Wormser,,,echevinat,corporation_des_marchands,Jacob,Wurmsser,her Jacob Wurmsser altammeister
 16,conseiller_des_boulangers,1459,Claus,Linzer,,,echevinat,corporation_des_boulangers,Claus,Linser,Claus Linser
 17,conseiller_des_bouchers,1459,Wilhelm,Bechtolt,,,echevinat,corporation_des_bouchers,Wilhelm,Betscholt,her Wilhelm Betscholt
 18,conseiller_des_tonneliers,1459,Sifrit,Pfaffenheim,,,echevinat,corporation_des_tonneliers,Syfrit,Pfaffenheim,Syfrit Pfaffenheim
 19,conseiller_des_drapiers,1459,Veltin,"Ehenheim, von",,,echevinat,corporation_des_drapiers,Veltin,von Ehenheim,Veltin von Ehenheim
 20,conseiller_des_tanneurs,1459,Johanns,Minner,,,echevinat,corporation_des_tanneurs,Hanns,Mynner,Hanns Mynner
-21,conseiller_des_cabarretiers,1459,Konrat,Duntzenheim,,,echevinat,corporation_des_cabarretiers,Conrat,Dùntzenheim,Conrat Dùntzenheim
+21,conseiller_des_cabaretiers,1459,Konrat,Duntzenheim,,,echevinat,corporation_des_cabaretiers,Conrat,Dùntzenheim,Conrat Dùntzenheim
 22,conseiller_des_maçons,1459,Claus,Ziegler,,,echevinat,corporation_des_maçons,Claus,Ziegler,Claus Ziegler
 23,conseiller_des_forgerons,1459,Johanns,Weidemann,,,echevinat,corporation_des_forgerons,Hanns,Wydeman,Hanns Wydeman
 24,conseiller_des_tailleurs,1459,Johanns,Schlecht,,,echevinat,corporation_des_tailleurs,Hanns,Sleht,Hanns Sleht
 25,conseiller_des_bateliers,1459,Obrecht,Schalk,,,echevinat,corporation_des_bateliers,Obreht,Schalck,her Obreht Schalck
-26,conseiller_des_pelletiers,1459,Johanns,Brant,Spirer,,echevinat,corporation_des_pelletiers,Hanns,Brant,Hanns Brant genant Spirer
+26,conseiller_des_pelletiers,1459,Johanns,Spirer,Spirer,,echevinat,corporation_des_pelletiers,Hanns,Brant,Hanns Brant genant Spirer
 27,conseiller_des_charpentiers,1459,Bernhart,Scholle,,,echevinat,corporation_des_charpentiers,Bernhart,Scholle,Bernhart Scholle
 28,conseiller_des_crieurs_et_mesureurs_de_vin,1459,Claus,Bintz,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Claus,Bintze,Claus Bintze
 29,conseiller_des_cordonniers,1459,Diebolt,Hennenberg,,,echevinat,corporation_des_cordonniers,Diebolt,Hennenberg,Diebolt Hennenberg

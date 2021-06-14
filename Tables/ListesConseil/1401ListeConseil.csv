@@ -4,12 +4,12 @@
 2,stettmeister,1401,Behremann,"Heiligenstein, von",,,constoffeler,,Bere,von Heiligenstein,Bere von Heiligenstein
 3,stettmeister,1401,Bechtolt,"Rosheim, von",,,constoffeler,,Behtolt,von Rosheim,Behtolt von Rosheim
 4,ammeister,1401,Peter,Sünner,,,echevinat,,Peter,Sünner,her Peter Sünner der ammeister
-5,conseiller_des_constaffel,1401,Lienhart,Zorn,Schultheiss,,constoffeler,,Leonhart,Zorn,her Leonhart Zorn genant Schultheiss
-6,conseiller_des_constaffel,1401,Burkhart,"Müllenheim, von",von Rechberg,,constoffeler,,Burckart,von Mülnheim,her Burckart von Mülnheim von Rechberg
+5,conseiller_des_constaffel,1401,Lienhart,Schultheiss,Schultheiss,,constoffeler,,Leonhart,Zorn,her Leonhart Zorn genant Schultheiss
+6,conseiller_des_constaffel,1401,Burkhart,"Rechberg, von",von Rechberg,,constoffeler,,Burckart,von Mülnheim,her Burckart von Mülnheim von Rechberg
 7,conseiller_des_constaffel,1401,Ruhlemann,Schwarber,,,constoffeler,,Rülman,Swarber,her Rülman Swarber
 8,conseiller_des_constaffel,1401,Dietrich,Burggraf,,,constoffeler,,Dietrich,Burggraf,Dietrich Burggraf
 9,conseiller_des_constaffel,1401,Reimbolt,Wetzel,,,constoffeler,,Reimbolt,Wetzel,Reimbolt Wetzel
-10,conseiller_des_constaffel,1401,Heinrich,"Müllenheim, von",von Rechberg,,constoffeler,,Heinrich,von Mülnheim,Heinrich von Mülnheim von Rechberg
+10,conseiller_des_constaffel,1401,Heinrich,"Rechberg, von",von Rechberg,,constoffeler,,Heinrich,von Mülnheim,Heinrich von Mülnheim von Rechberg
 11,conseiller_des_constaffel,1401,Schochmann,Mahler,,,constoffeler,,Schochman,Maler,Schochman Maler
 12,conseiller_des_constaffel,1401,Bernhart,"Matzenheim, von",,,constoffeler,,Bernhart,von Matzenheim,Bernhart von Matzenheim
 13,conseiller_des_constaffel,1401,Ulrich,"Still, von",,,constoffeler,,Ülrich,von Stille,Ülrich von Stille
@@ -29,12 +29,12 @@
 27,conseiller_des_constaffel,1401,Rudolff,Schwenninger,,,constoffeler,,Rüdolff,Swenninger,Rüdolff Swenninger
 28,conseiller_des_constaffel,1401,Wernher,Leiterberg,,,constoffeler,,Werlin,Leiterberg,Werlin Leiterberg
 29,conseiller_des_marchands,1401,Ruhlemann,Barpfennig,,,echevinat,corporation_des_marchands,Rüllin,Barpfennig,her Rüllin Barpfennig altammeister
-30,conseiller_des_boulangers,1401,Johanns,,Sant Thoman,,echevinat,corporation_des_boulangers,Johanns,,Johanns pfister Sant Thoman
+30,conseiller_des_boulangers,1401,Johanns,Sant-Thoman,Sant Thoman,,echevinat,corporation_des_boulangers,Johanns,,Johanns pfister Sant Thoman
 31,conseiller_des_bouchers,1401,Wilhelm,"Berse, von",,,echevinat,corporation_des_bouchers,Wilhelm,von Berse,Wilhelm von Berse
 32,conseiller_des_drapiers,1401,Johanns,Herbst,,,echevinat,corporation_des_drapiers,Hanseman,Herbst,Hanseman Herbst
 33,conseiller_des_tonneliers,1401,Johanns,Langneffe,,,echevinat,corporation_des_tonneliers,Johanns,Langnefe,Johanns Langnefe
 34,conseiller_des_tanneurs,1401,Johanns,Hanseler,,,echevinat,corporation_des_tanneurs,Johanns,Hanseler,Johanns Hanseler der gerwer
-35,conseiller_des_cabarretiers,1401,Heinrich,Kranich,,,echevinat,corporation_des_cabarretiers,Heinrich,Cranich,her Heinrich Cranich altammeister
+35,conseiller_des_cabaretiers,1401,Heinrich,Kranich,,,echevinat,corporation_des_cabaretiers,Heinrich,Cranich,her Heinrich Cranich altammeister
 36,conseiller_des_maçons,1401,Johanns,Gans,,der alter,echevinat,corporation_des_maçons,Johanns,Ganß,Johanns Ganß der alter
 37,conseiller_des_forgerons,1401,Eberhart,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Eberlin,von Truhtersheim,Eberlin von Truhtersheim
 38,conseiller_des_tailleurs,1401,Heilmann,,,,echevinat,corporation_des_tailleurs,Heilman,,Heilman der schnider
@@ -42,7 +42,7 @@
 40,conseiller_des_charpentiers,1401,Heintz,Seelose,,,echevinat,corporation_des_charpentiers,Heintzeman,Selose,Heintzeman Selose
 41,conseiller_des_pelletiers,1401,Ottemann,Münch,,,echevinat,corporation_des_pelletiers,Otman,Münch,Otman Münch
 42,conseiller_des_crieurs_et_mesureurs_de_vin,1401,Fritsch,Beildeck,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,Fritsch,Beildeck,Fritsch Beildeck
-43,conseiller_des_cordonniers,1401,Christian,,vor den Barfüsser,,echevinat,corporation_des_cordonniers,Cristian,,Cristian vor den Barfüsser
+43,conseiller_des_cordonniers,1401,Christian,"Barfüssern, vor den",vor den Barfüsser,,echevinat,corporation_des_cordonniers,Cristian,,Cristian vor den Barfüsser
 44,conseiller_des_orfevres,1401,Claus,Henneckin,,,echevinat,corporation_des_orfevres,Claus,Hennickin,Claus Hennickin der goltschmit
 45,conseiller_des_marchands_de_grains,1401,Andres,Rhinau,,,echevinat,corporation_des_marchands_de_grains,Andres,Rinowe,Andres Rinowe
 46,conseiller_des_jardiniers,1401,Johanns,Stacheler,,,echevinat,corporation_des_jardiniers,Johanns,Staheler,Johanns Staheler

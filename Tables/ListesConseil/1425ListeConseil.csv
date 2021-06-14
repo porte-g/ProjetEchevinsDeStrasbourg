@@ -1,12 +1,12 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,ammeister,1425,Johanns,Sturm,von Sturmeck,,echevinat,,Johanns,Sturm,her Johanns Sturm von Sturmeck
+0,ammeister,1425,Johanns,"Sturmeck, von",von Sturmeck,,echevinat,,Johanns,Sturm,her Johanns Sturm von Sturmeck
 1,ammeister,1425,Behremann,"Heiligenstein, von",,,echevinat,,Bere,von Heiligenstein,her Bere von Heiligenstein
 2,ammeister,1425,Walther,Bauman,,,echevinat,,Walther,Buman,her Walther Buman
 3,ammeister,1425,Jacob,"Geispoltzheim, von",,,echevinat,,Jacob,von Geispoltzheim,her Jacob von Geispoltzheim
 4,ammeister,1425,Johanns,Lumbart,,,echevinat,,Hanns,Lumbart,her Hanns Lumbart der ammeister
 5,conseiller_des_constaffel,1425,Walther,"Müllenheim, von",,der eilter,constoffeler,,Walther,von Mùlnheim,Walther von Mùlnheim der eilter
 6,conseiller_des_constaffel,1425,Thoman,"Endingen, von",,,constoffeler,,Thoman,von Endingen,Thoman von Endingen
-7,conseiller_des_constaffel,1425,Johanns,"Müllenheim, von",von Girbaden,,constoffeler,,Hanns,von Mùlnheim,Hanns von Mùlnheim von Girbaden
+7,conseiller_des_constaffel,1425,Johanns,"Girbaden, von",von Girbaden,,constoffeler,,Hanns,von Mùlnheim,Hanns von Mùlnheim von Girbaden
 8,conseiller_des_constaffel,1425,Johanns-Hiltebrant,"Müllenheim, von",,,constoffeler,,Hanns Hiltbrant,von Mùlnheim,Hanns Hiltbrant von Mùlnheim
 9,conseiller_des_constaffel,1425,Peter,Blumelin,,,constoffeler,,Peter,Bluͤmel,Peter Bluͤmel
 10,conseiller_des_constaffel,1425,Bernhart,Böckel,,,constoffeler,,Bernhart,Boͤckel,Bernhart Boͤckel
@@ -21,7 +21,7 @@
 19,conseiller_des_tonneliers,1425,Johanns,Bischoff,,,echevinat,corporation_des_tonneliers,Hanns,Bischoff,Hanns Bischoff
 20,conseiller_des_drapiers,1425,Johanns,Renner,,,echevinat,corporation_des_drapiers,Hanns,Renner,Hanns Renner
 21,conseiller_des_tanneurs,1425,Konrat,Gerbot,,,echevinat,corporation_des_tanneurs,Conrat,Gerbot,Conrat Gerbot
-22,conseiller_des_cabarretiers,1425,Anshelm,Spirer,,,echevinat,corporation_des_cabarretiers,Anshelm,Spirer,Anshelm Spirer
+22,conseiller_des_cabaretiers,1425,Anshelm,Spirer,,,echevinat,corporation_des_cabaretiers,Anshelm,Spirer,Anshelm Spirer
 23,conseiller_des_maçons,1425,,Siffermann,,,echevinat,corporation_des_maçons,,Syferman,meister Syferman
 24,conseiller_des_forgerons,1425,Ruhlemann,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Rullin,von Druhterßheim,Rullin von Druhterßheim
 25,conseiller_des_tailleurs,1425,Jacob,Rotgebe,,,echevinat,corporation_des_tailleurs,Jacob,Rotgebe,Jacob Rotgebe

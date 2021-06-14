@@ -1,5 +1,5 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
-0,stettmeister,1447,Rudolff,Zorn,von Buͦlach,,constoffeler,,Ruͦdolff,Zorn,her Ruͦdolff Zorn von Buͦlach ritter
+0,stettmeister,1447,Rudolff,"Bülach, von",von Buͦlach,,constoffeler,,Ruͦdolff,Zorn,her Ruͦdolff Zorn von Buͦlach ritter
 1,stettmeister,1447,Burkhart,"Müllenheim, von",,der eilter,constoffeler,,Burckart,von Mùlnheim,her Burckart von Mùlnheim ritter der eilter
 2,stettmeister,1447,Reimbolt,Wetzel,,,constoffeler,,Reimbolt,Wetzel,her Reimbolt Wetzel
 3,stettmeister,1447,Kühne,Nope,,,constoffeler,,Cuͦne,Nope,her Cuͦne Nope
@@ -20,7 +20,7 @@
 18,conseiller_des_tonneliers,1447,Johanns,Dingsheim,,,echevinat,corporation_des_tonneliers,Hanns,Duͤngesheim,Hanns Duͤngesheim
 19,conseiller_des_drapiers,1447,Jacob,"Bellheim, von",,,echevinat,corporation_des_drapiers,Jacob,von Belheim,Jacob von Belheim
 20,conseiller_des_tanneurs,1447,Heinrich,Schnebel,,,echevinat,corporation_des_tanneurs,Heinrich,Snewel,Heinrich Snewel
-21,conseiller_des_cabarretiers,1447,Heinrich,Bisinger,,,echevinat,corporation_des_cabarretiers,Heinrich,Bisinger,Heinrich Bisinger
+21,conseiller_des_cabaretiers,1447,Heinrich,Bisinger,,,echevinat,corporation_des_cabaretiers,Heinrich,Bisinger,Heinrich Bisinger
 22,conseiller_des_maçons,1447,Michel,Ganser,,,echevinat,corporation_des_maçons,Michel,Ganser,Michel Ganser
 23,conseiller_des_forgerons,1447,Heinrich,Meiger,,,echevinat,corporation_des_forgerons,Heinrich,Meiger,her Heinrich Meiger altammeister
 24,conseiller_des_tailleurs,1447,Johanns,Zoller,,,echevinat,corporation_des_tailleurs,Hanns,Zoller,Hanns Zoller
@@ -31,7 +31,7 @@
 29,conseiller_des_cordonniers,1447,Johanns,Götze,,,echevinat,corporation_des_cordonniers,Hanns,Goͤtze,Hanns Goͤtze
 30,conseiller_des_orfevres,1447,Johanns,Ross,,,echevinat,corporation_des_orfevres,Hanns,Roß,Hanns Roß
 31,conseiller_des_marchands_de_grains,1447,Heinrich,Birbaum,,,echevinat,corporation_des_marchands_de_grains,Heinrich,Birboͧm,Heinrich Birboͧm
-32,conseiller_des_jardiniers,1447,Khurin,,an steinstrasse,,echevinat,corporation_des_jardiniers,Chùrin,,Chùrin an steinstrasse
+32,conseiller_des_jardiniers,1447,Khurin,"Steinstrasse, an",an steinstrasse,,echevinat,corporation_des_jardiniers,Chùrin,,Chùrin an steinstrasse
 33,conseiller_des_pêcheurs,1447,Bernhart,Mönchlin,,,echevinat,corporation_des_pêcheurs,Bernhart,Moͤnchel,Bernhart Moͤnchel
 34,conseiller_des_barbiers_et_baigneurs,1447,Marx,Rohrer,,,echevinat,corporation_des_barbiers_et_baigneurs,Marx,Rorer,Marx Rorer
 35,conseiller_des_sauniers,1447,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Leonhart,Trachenfeils,her Leonhart Trachenfeils

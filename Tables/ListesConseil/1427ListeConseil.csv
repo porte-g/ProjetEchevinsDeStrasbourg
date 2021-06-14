@@ -1,11 +1,11 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,corps civique,corporation,prénomNN,nomNN,NomCompletNN
 0,stettmeister,1427,Peter,Blumelin,,,constoffeler,,Peter,Bluͤmelin,her Peter Bluͤmelin
-1,stettmeister,1427,Hug,Zorn,Heilant,,constoffeler,,Hug,Zorn,her Hug Zorn Heilant
+1,stettmeister,1427,Hug,Heilant,Heilant,,constoffeler,,Hug,Zorn,her Hug Zorn Heilant
 2,stettmeister,1427,Ulrich,Bock,,,constoffeler,,Uͦlrich,Bock,her Uͦlrich Bock
 3,stettmeister,1427,Walther,Spiegel,,,constoffeler,,Walther,Spiegel,her Walther Spiegel
 4,ammeister,1427,Hug,Dreitzehn,,,echevinat,,Hug,xiij,her Hug xiij der ammeister
-5,conseiller_des_constaffel,1427,Johanns,Sturm,von Sturmeck,,constoffeler,,Hanns,Sturm,Hanns Sturm von Sturmeck
-6,conseiller_des_constaffel,1427,Johanns,"Müllenheim, von",von Girbad,,constoffeler,,Hanns,von Mùlnheim,Hanns von Mùlnheim von Girbad
+5,conseiller_des_constaffel,1427,Johanns,"Sturmeck, von",von Sturmeck,,constoffeler,,Hanns,Sturm,Hanns Sturm von Sturmeck
+6,conseiller_des_constaffel,1427,Johanns,"Girbaden, von",von Girbad,,constoffeler,,Hanns,von Mùlnheim,Hanns von Mùlnheim von Girbad
 7,conseiller_des_constaffel,1427,Johanns,"Müllenheim, von",,,constoffeler,,Hanns,von Mùlnheim,"Hanns von Mùlnheim, Ottemans sun"
 8,conseiller_des_constaffel,1427,Johanns-Hiltebrant,"Müllenheim, von",,,constoffeler,,Hanns Hiltbrant,von Mùlnheim,Hanns Hiltbrant von Mùlnheim
 9,conseiller_des_constaffel,1427,Dietrich,Rebestock,,,constoffeler,,Dietrich,Rebstock,Dietrich Rebstock
@@ -20,7 +20,7 @@
 18,conseiller_des_tonneliers,1427,Claus,Vetter,,,echevinat,corporation_des_tonneliers,Claus,Vetter,Claus Vetter
 19,conseiller_des_drapiers,1427,Johanns,"Wangen, von",,,echevinat,corporation_des_drapiers,Hanns,von Wangen,Hanns von Wangen
 20,conseiller_des_tanneurs,1427,Bartholomeus,Kücheler,,,echevinat,corporation_des_tanneurs,Bartholomeus,Kuͤchler,Bartholomeus Kuͤchler
-21,conseiller_des_cabarretiers,1427,Andres,Messner,,,echevinat,corporation_des_cabarretiers,Andres,Mesener,Andres Mesener
+21,conseiller_des_cabaretiers,1427,Andres,Messner,,,echevinat,corporation_des_cabaretiers,Andres,Mesener,Andres Mesener
 22,conseiller_des_maçons,1427,Peter,Sturmel,,,echevinat,corporation_des_maçons,Peter,Stùrmel,Peter Stùrmel
 23,conseiller_des_forgerons,1427,Eberhart,"Truchtersheim, von",,,echevinat,corporation_des_forgerons,Eberlin,von Druhterßheim,Eberlin von Druhterßheim
 24,conseiller_des_tailleurs,1427,Peter,Stoltz,,,echevinat,corporation_des_tailleurs,Peter,Stoltz,Peter Stoltz

@@ -4,7 +4,7 @@
 2,stettmeister,1492,Johanns,"Säckingen, von",,,constoffeler,,Hans,von Seckingen,her Hans von Seckingen ritter
 3,stettmeister,1492,Johanns,Völtsch,,,constoffeler,,Hans,Völtsche,her Hans Völtsche
 4,ammeister,1492,Marx,Kerling,,,echevinat,,Marx,Kerling,her Marx Kerling der ammeister
-5,conseiller_des_constaffel,1492,Johanns-Wilhelm,,züm Riet,,constoffeler,,Hanswilhelm,,Hanswilhelm züm Riet ritter
+5,conseiller_des_constaffel,1492,Johanns-Wilhelm,"Riet, zum",züm Riet,,constoffeler,,Hanswilhelm,,Hanswilhelm züm Riet ritter
 6,conseiller_des_constaffel,1492,Jerge,Berer,,,constoffeler,,Jörge,Berer,Jörge Berer
 7,conseiller_des_constaffel,1492,Caspar,Klobelouch,,,constoffeler,,Caspar,Clobeloch,Caspar Clobeloch
 8,conseiller_des_constaffel,1492,Walther,"Müllenheim, von",,,constoffeler,,Walther,von Mùlnheim,Walther von Mùlnheim
@@ -13,7 +13,7 @@
 11,conseiller_des_bateliers,1492,Peter,Müseler,,,echevinat,corporation_des_bateliers,Peter,Museler,Peter Museler
 12,conseiller_des_marchands,1492,Heinrich,Ingolt,,,echevinat,corporation_des_marchands,Heinrich,Ingolt,Heinrich Ingolt
 13,conseiller_des_bouchers,1492,Jacob,Wisebach,,,echevinat,corporation_des_bouchers,Jacob,Wysebach,Jacob Wysebach
-14,conseiller_des_cabarretiers,1492,Jacob,Wurm,,,echevinat,corporation_des_cabarretiers,Jacob,Wurm,Jacob Wurm
+14,conseiller_des_cabaretiers,1492,Jacob,Wurm,,,echevinat,corporation_des_cabaretiers,Jacob,Wurm,Jacob Wurm
 15,conseiller_des_drapiers,1492,Jerge,Hohenburg,,,echevinat,corporation_des_drapiers,Jörge,Hohemburg,Jörge Hohemburg
 16,conseiller_des_marchands_de_grains,1492,Claus,Jörger,,,echevinat,corporation_des_marchands_de_grains,Claus,Jörger,Claus Jörger
 17,conseiller_des_sauniers,1492,Lienhart,Trachenfeils,,,echevinat,corporation_des_sauniers,Lienhart,Trachenfelß,Lienhart Trachenfelß
@@ -25,7 +25,7 @@
 23,conseiller_des_gourmets_et_courtiers,1492,Konrat,Storck,,,echevinat,corporation_des_gourmets_et_courtiers,Conrat,Storck,Conrat Storck
 24,conseiller_des_tailleurs,1492,Matheus,Esslinger,,,echevinat,corporation_des_tailleurs,Matheus,Esselinger,Matheus Esselinger
 25,conseiller_des_forgerons,1492,Jost,"Freiburg, von",,,echevinat,corporation_des_forgerons,Jost,von Friburg,Jost von Friburg
-26,conseiller_des_cordonniers,1492,Martin,,Win und Brot,,echevinat,corporation_des_cordonniers,Martin,,Martin Win und Brot
+26,conseiller_des_cordonniers,1492,Martin,Wein und Brot,Win und Brot,,echevinat,corporation_des_cordonniers,Martin,,Martin Win und Brot
 27,conseiller_des_pêcheurs,1492,Jerge,Ebel,,,echevinat,corporation_des_pêcheurs,Jörge,Ebel,Jörge Ebel
 28,conseiller_des_charrons,1492,Konrat,"Wangen, von",,,echevinat,corporation_des_charrons,Conrat,von Wangen,Conrat von Wangen
 29,conseiller_des_jardiniers,1492,Kühne,Grimmel,,,echevinat,corporation_des_jardiniers,Cüne,Grymmel,Cüne Grymmel
