@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 TEI" xmlns="http://www.tei-c.org/ns/1.0">
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 TEI" xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Liste d'armement de 1444 : liste de l'échevinat</title>
-            <author>
-               <orgName>Chancellerie du grand Sénat strasbourgeois</orgName>
-            </author>
+            <author><orgName>Chancellerie du grand Sénat strasbourgeois</orgName></author>
          </titleStmt>
          <publicationStmt>
             <distributor>Hippolyte Souvay</distributor>
