@@ -98,6 +98,7 @@ bergheim,['toponymic'],['bergheim'],Bergheim
 "bergheim, von",['toponymic'],"['von bergheim', 'bergheim, von', 'von berckheim', 'von bergen']",Bergheim
 bergstrasse,['toponymic'],['bergstrasse'],
 berlin,['cognominal'],['berlin'],
+"bermentergasse, in der",['toponymic'],"['in bermentergaße', 'bermentergasse, in der']",
 "bern, von",['toponymic'],"['von bernne', 'bern, von']",Berne
 berneck,['toponymic'],"['bernecke', 'berneck']",
 berner,['toponymic'],['berner'],Berne
@@ -318,7 +319,7 @@ ebelin,['patronymic'],"['ebelinß', 'ebelin']",
 eberlin,['patronymic'],"['eberlins', 'eberlin']",
 "eckartswiller, von",['toponymic'],"['von eckerwerswilr', 'eckartswiller, von', 'von eckeverßwiler']",Eckartswiller
 eckboltzheim,['toponymic'],['eckboltzheim'],Eckbolsheim
-"eckboltzheim, von",['toponymic'],"['von eckboltzheim', 'eckboltzheim, von', 'von eckeboltzheim']",Eckbolsheim
+"eckboltzheim, von",['toponymic'],"['von eckboltzheim', 'eckboltzheim, von', 'von eckeboltzheim', 'von eckeboltzheym']",Eckbolsheim
 eckendorf,['toponymic'],"['eckendorff', 'eckendorf']",Alteckendorf
 eckerich,['toponymic'],['eckerich'],
 "eckerich, von",['toponymic'],"['von eckerich', 'eckerich, von', 'von eckenrich']",
@@ -548,6 +549,7 @@ hannemannlin,['patronymic'],"['hanmanlin', 'hannemannlin']",
 hanseler,[],"['hanseler', 'hannseler']",
 hanuser,['cognominal'],"['hanusers', 'hanuser']",
 happmacher,['occupational'],"['happmacher', 'happenmacher', 'hapmacher']",
+"harmersbach, von",['toponymic'],"['von harmerspach', 'harmersbach, von']",Harmersbach
 harnescher,['occupational'],"['harnascher', 'harnescher']",
 harnischer,['occupational'],"['harnscher', 'harnischer']",
 harrer,[],['harrer'],
@@ -616,7 +618,7 @@ hirse,['occupational'],"['hirse', 'hyrse']",
 hirt,['occupational'],"['hirte', 'hirt']",
 hirtelin,['occupational'],['hirtelin'],
 hirtz,['occupational'],['hirtz'],
-"hirtz, zum",['toponymic'],"['zuͦm hirtz', 'hirtz, zum', 'zuͦm hirtz']",
+"hirtz, zum",['toponymic'],"['zuͦm hirtz', 'hirtz, zum', 'zuͦm hirtz', 'züm hirtze']",
 hirtzfelder,['toponymic'],"['hitzvelder', 'hirtzfelder', 'hirtzvelder', 'hirzfelder']",Hirtzfelden
 "hochfelden, von",['toponymic'],"['von hochvelden', 'hochfelden, von', 'von hochfelden']",Hochfelden
 hochfelder,['toponymic'],['hochfelder'],Hochfelden
@@ -1249,6 +1251,7 @@ rotschilt,['cognominal'],['rotschilt'],
 "rottenburg, von",['toponymic'],"['von rottenburg', 'rottenburg, von']",Rottenburg
 "rottweil, von",['toponymic'],"['von rotwil', 'rottweil, von', 'wilhelm von rotwil', 'von rottwil', 'von rotwilr', 'von rottwir', 'von rotwiler', 'von rottwilr']",Rottweil
 rotwein,['cognominal'],"['rottwyne', 'rotwein']",
+"routbur, von",['toponymic'],"['von routbür', 'routbur, von']",
 rudolff,['patronymic'],"['rüdolff', 'rudolff']",
 ruhle,['patronymic'],"['rüle', 'ruhle']",
 ruhlmann,['patronymic'],"['rülman', 'ruhlmann', 'rͦuͦlman', 'ruͤlman', 'ruͦlman', 'rüleman', 'rulmans', 'rülemennin']",
@@ -1313,6 +1316,7 @@ schanlit,[],['schanlit'],
 schantz,[],['schantz'],
 schappeler,['occupational'],['schappeler'],
 "scharrach, von",['toponymic'],"['von scharroch', 'scharrach, von']",Scharrach-Bergheim
+"scharrachbergheim, von",['toponymic'],"['von scharrochbergheim', 'scharrachbergheim, von']",Scharrachbergheim-Irmstett
 schaubel,['cognominal'],"['schoübel', 'schaubel']",
 schauleben,['cognominal'],"['schouleben', 'schauleben']",
 schaut-den-pfulwe,"['cognominal', 'toponymic']","['schüt den pfulwen', 'schaut-den-pfulwe']",Pfulwe
@@ -1366,6 +1370,7 @@ schnebel,['cognominal'],"['snewel', 'schnebel', 'snewlin', 'schnebelin', 'snebil
 schneider,['occupational'],"['snider', 'schneider']",
 schnell,[],"['snelle', 'schnell', 'snell']",
 schnepp,['cognominal'],"['sneppen', 'schnepp']",
+"schnersheim, von",['toponymic'],"['von snerßheim', 'schnersheim, von']",Schnersheim
 schnipper,[],"['snipper', 'schnipper']",
 schnürer,['occupational'],"['snürer', 'schnürer']",
 schoffmeiger,['occupational'],['schoffmeiger'],
@@ -1577,6 +1582,7 @@ um-den-kern,['cognominal'],"['umd den kerne', 'um-den-kern']",
 umb und umb,[],"['umb und umb', 'umb und umb']",
 "ungersheim, von",['toponymic'],"['von ungere', 'ungersheim, von']",Ungersheim
 "unser frau haus, auf",['toponymic'],"['uff unß frow hus', 'unser frau haus, auf']",
+unser frauen schmied,['toponymic'],"['unß frowen smit', 'unser frauen schmied']",
 "urendorf, von",['toponymic'],"['von urendorf', 'urendorf, von', 'von urendor', 'von urendorff']",Chateau d'Urendorf
 usenberg,['toponymic'],"['usenberg', 'usenbergin']",Usenberg
 uttenheim,['toponymic'],"['utenheim', 'uttenheim']",Uttenheim
@@ -1620,6 +1626,7 @@ wambesch,[],['wambesch'],
 "wangen, von",['toponymic'],"['von wangen', 'wangen, von']",Wangenbourg-Engenthal
 wanner,['occupational'],['wanner'],
 "wantzen, von",['toponymic'],"['von wantzen', 'wantzen, von']",Wantzenau La
+"waseneck, im",['toponymic'],"['in wasenecke', 'waseneck, im']",
 "waseneck, von",['toponymic'],"['von wasenecke', 'waseneck, von']",
 "waseneck, zur",['toponymic'],"['zü wasenecke', 'waseneck, zur']",
 "wasselnheim, von",['toponymic'],"['von wahsselnheim', 'wasselnheim, von', 'von wasselnheim']",Wasselonne
