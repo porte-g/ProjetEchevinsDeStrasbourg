@@ -2,6 +2,7 @@ NomNormalisé,Types,FormesNonNormalisées,RenvoiToponymique
 Anne,['patronymic'],"['annen', 'Anne']",
 Enderlin,['patronymic'],"['enderlin', 'Enderlin']",
 Greden,[],"['greden', 'Greden']",
+"aarau, von",['toponymic'],"['von arowe', 'aarau, von']",Aarau
 achenheim,['toponymic'],['achenheim'],Achenheim
 "achenheim, von",['toponymic'],"['von achenheim', 'achenheim, von']",Achenheim
 achtjahre,['cognominal'],"['acht jore', 'achtjahre']",
@@ -10,8 +11,10 @@ ackerfuss,['cognominal'],"['ackenfüs', 'ackerfuss', 'ackenfͦuͦs', 'ackenfuss'
 ackerpferd,['cognominal'],"['acker pfert', 'ackerpferd']",
 adam,['patronymic'],['adam'],
 adolff,['patronymic'],['adolff'],
+"alba, von",['toponymic'],"['von albe', 'alba, von']",Albe
 albrecht,['patronymic'],"['albreht', 'albrecht']",
 aler,[],['aler'],
+all-die-welt,['cognominal'],"['alle die welt', 'all-die-welt']",
 allewelt,['cognominal'],['allewelt'],
 "alsheim, von",['toponymic'],"['von alsheim', 'alsheim, von']",Alsheim
 altensteig,['cognominal'],['altensteig'],
@@ -28,6 +31,7 @@ andres,['patronymic'],['andres'],
 ang,['cognominal'],['ang'],
 angst,['cognominal'],"['angest', 'angst']",
 anshelm,['patronymic'],['anshelm'],
+apotheker,['occupational'],"['aptecker', 'apotheker']",
 arbeiter,['occupational'],"['erbeiter', 'arbeiter', 'erbeiters']",
 arbogast,['patronymic'],"['arbgast', 'arbogast']",
 arge,['cognominal'],"['arge', 'arg', 'arige']",
@@ -37,18 +41,23 @@ armbruster in brantgasse,"['occupational', 'toponymic']","['armbruster in brantg
 arner,[],['arner'],
 arnold,['patronymic'],"['arnolds', 'arnold']",
 arnolt,['patronymic'],"['arnolt', 'arnoltz']",
+"aschaffenburg, von",['toponymic'],"['von aschoffenburg', 'aschaffenburg, von']",Aschaffenbourg
 "atzenheim, von",['toponymic'],"['von atzenheim', 'atzenheim, von']",Atzenheim
 "auenheim, von",['toponymic'],"['von öwenheim', 'auenheim, von', 'von oüwe']",Auenheim
+auf,['cognominal'],"['uff', 'auf']",
 augener,['occupational'],"['ögenerin', 'augener']",
+"augenheim, von",['toponymic'],"['von oügenheim', 'augenheim, von']",Auenheim
+"augsburg, von",['toponymic'],"['von ougespurg', 'augsburg, von']",Augsburg
 ax,['cognominal'],['ax'],
 backe,[],"['backen', 'backe']",
+baden,['toponymic'],"['badem', 'baden']",
 "baden, von",['toponymic'],"['von baden', 'baden, von']",Bade
 bader,['occupational'],['bader'],
 "balbronn, von",['toponymic'],"['von baldebürn', 'balbronn, von']",Balbronn
 baldorf,['toponymic'],"['baldorff', 'baldorf']",
 baltener,[],['baltener'],
 "barfüssern, vor den",['toponymic'],"['vor den barfüsser', 'barfüssern, vor den']",
-barpfennig,['cognominal'],['barpfennig'],
+barpfennig,['cognominal'],"['barpfennig', 'barpfenning']",
 "barr, von",['toponymic'],"['von bach', 'barr, von', 'von barr']",Barr
 "barre, von",['toponymic'],"['von barre', 'barre, von']",Barr
 "basel, von",['toponymic'],"['von basel', 'basel, von']",Basel
@@ -68,7 +77,7 @@ bechtolt,['patronymic'],"['betscholt', 'bechtolt', 'behtolt', 'bertholds', 'beht
 beck,['occupational'],"['becke', 'beck']",
 beger,['occupational'],"['bëger', 'beger']",
 "behingen, von",['toponymic'],"['von behingen', 'behingen, von']",Böchingen
-beildeck,['toponymic'],"['beildeck', 'beldeck', 'beldeckin']",
+beildeck,['toponymic'],"['beildeck', 'beldeck', 'beldeckin', 'baldecke']",
 beileck,['toponymic'],['beileck'],
 beingewant,['cognominal'],['beingewant'],
 beinheim,['toponymic'],['beinheim'],Beinheim
@@ -82,6 +91,7 @@ benfeld,['toponymic'],"['bennefelt', 'benfeld', 'bennefeltz']",Benfeld
 bengel,['cognominal'],['bengel'],
 benner,['occupational'],['benner'],
 bentz,['patronymic'],"['bentze', 'bentz', 'bentzen']",
+bentzel,['cognominal'],['bentzel'],
 bere,[],"['ber', 'bere', 'beren']",
 berer,['cognominal'],"['berer', 'bërer']",
 bergheim,['toponymic'],['bergheim'],Bergheim
@@ -101,6 +111,7 @@ bertsch,['patronymic'],"['bertsch', 'bertsche', 'bertschen']",
 bertzenring,[],['bertzenring'],
 berwer,['occupational'],"['berwerin', 'berwer']",
 beyer,['toponymic'],"['beyer', 'beyger']",Bayern
+biberach,['toponymic'],['biberach'],Biberach an der Riß
 biderbemann,['cognominal'],"['biderbeman', 'biderbemann', 'biderbemennin']",
 bidermann,['cognominal'],"['biderman', 'bidermann']",
 biener,['occupational'],['biener'],
@@ -118,6 +129,7 @@ bir,[],['bir'],
 birbaum,['occupational'],"['birböm', 'birbaum', 'birboͧm']",
 birre,[],['birre'],
 bischoff,['cognominal'],['bischoff'],
+"bischoffsburgtür, an der",['toponymic'],"['an bischoffs bürgthür', 'bischoffsburgtür, an der']",
 bisinger,['toponymic'],"['bisinger', 'bysinger']",Bisingen
 bisper,[],['bisper'],
 bitsch,[],"['bitsch', 'von bitsch', 'bitsche', 'bittsch']",
@@ -133,6 +145,7 @@ blumelin,['cognominal'],"['blümelin', 'blumelin', 'bluͤmel', 'bluͤmelin']",
 blumenau,['toponymic'],"['blümenowe', 'blumenau']",
 blumenstein,['toponymic'],"['blͦuͦmenstein', 'blumenstein', 'blümenstein']",
 blumstein,[],"['bluͦmstein', 'blumstein']",
+blühedorn,['cognominal'],"['blügedorn', 'blühedorn']",
 blühel,['cognominal'],['blühel'],
 bobst,['cognominal'],"['babst', 'bobst', 'bobest', 'bopst', 'babest']",
 bock,['cognominal'],"['bock', 'bocke', 'böycken']",
@@ -148,14 +161,17 @@ bosterer,[],['bosterer'],
 "brachenheim, von",['toponymic'],"['von brachenheim', 'brachenheim, von']",
 brant,['patronymic'],"['brant', 'brand']",
 "brantgasse, in",['toponymic'],"['in brantgasse', 'brantgasse, in', 'inn brantgasse', 'in brantgasse', 'inn brantgasse']",
+brasser,['occupational'],['brasser'],
 braunhaus,['toponymic'],"['brünhuß', 'braunhaus']",
 brechter,[],"['brehter', 'brechter']",
 breitfuss,['cognominal'],"['breitfüß', 'breitfuss']",
+breithaar,['cognominal'],"['breithar', 'breithaar']",
 breitthor,['cognominal'],"['breithor', 'breitthor']",
 "brettheim, von",['toponymic'],"['von bretheim', 'brettheim, von']",Brettheim
 brettler,['occupational'],"['bretteler', 'brettler']",
 breuge,[],"['broygen', 'breuge']",
 "brisach, von",['toponymic'],"['von brisach', 'brisach, von']",Breisach
+brisesinner,['occupational'],"['brisesinnerin', 'brisesinner']",
 brotbecker,['occupational'],['brotbecker'],
 "bruch, im",['toponymic'],"['im brüch', 'bruch, im']",
 brucker,[],"['brucker', 'brücker']",
@@ -167,7 +183,7 @@ brusch,['cognominal'],"['brüsch', 'brusch']",
 brüchelin,[],"['brùchelin', 'brüchelin', 'bruchelin', 'brùchel', 'bruͤchel']",
 "brücken, zwischen",['toponymic'],"['zwùscher brucken', 'brücken, zwischen', 'zwùschent brucken']",
 brühe,[],"['brügen', 'brühe']",
-"brümath, von",['toponymic'],"['von brümat', 'brümath, von', 'von brͦuͦmat', 'brümat, von', 'von brümodt']",Brumath
+"brümath, von",['toponymic'],"['von brümat', 'brümath, von', 'von brͦuͦmat', 'brümat, von', 'von brümodt', 'von brümolt']",Brumath
 brüssel,['toponymic'],"['prüssel', 'brüssel']",Bruxelles
 "buchswiller, von",['toponymic'],"['von buhßwilre', 'buchswiller, von', 'von buhswilre', 'von bußwilr', 'von büschwilr']",Bouxwiller
 "buckenheim, von",['toponymic'],"['von buckenheim', 'buckenheim, von']",Bouquenom (Sarre-Union)
@@ -175,11 +191,14 @@ brüssel,['toponymic'],"['prüssel', 'brüssel']",Bruxelles
 buler,[],['buler'],
 bunnlin,['cognominal'],"['bunlin', 'bunnlin']",
 burckart,['patronymic'],"['burckartz', 'burckart']",
-"bure, von",['toponymic'],"['von büre', 'bure, von']",
+"bure, von",['toponymic'],"['von büre', 'bure, von', 'von bure']",
 burer,[],"['bùrer', 'burer']",
-burggraf,['occupational'],"['burggraf', 'burggrafe', 'burggrave', 'burggrofe', 'burggrove', 'buggrafe', 'burggräfe', 'bürgraüve', 'burggraffe']",
+burggraf,['occupational'],"['burggraf', 'burggrafe', 'burggrave', 'burggrofe', 'burggrove', 'buggrafe', 'burggräfe', 'bürgraüve', 'burggraffe', 'burgroffen']",
+"burgunnen, von",['toponymic'],"['von burgünnen', 'burgunnen, von']",Bourgogne
 burkhart,['patronymic'],"['burckart', 'burkhart', 'burckhart', 'burghart']",
 burnherr,[],"['burnherre', 'burnherr']",
+burntraut,['cognominal'],"['burntrut', 'burntraut']",
+busant,['cognominal'],['busant'],
 busser,['occupational'],['busser'],
 butte,[],['butte'],
 "butte, von",['toponymic'],"['von bütte', 'butte, von']",
@@ -190,19 +209,19 @@ böll,[],"['böl', 'böll']",
 bör,['cognominal'],['bör'],
 bösch,[],"['bösch', 'boͤsche', 'boͤsch', 'bosche']",
 böscheler,['occupational'],['böscheler'],
-böschwiller,['toponymic'],"['böschwiller', 'bischwiller', 'boͤschwilre']",Bischwiller
+böschwiller,['toponymic'],"['böschwiller', 'bischwiller', 'boͤschwilre', 'böschwilrre']",Bischwiller
 böse,['cognominal'],"['böße', 'böse']",
 büchsener,['occupational'],"['bühssener', 'büchsener', 'büchssener', 'bùhssener', 'buͤhssener', 'bùchssener', 'bùssener', 'buͤhßener', 'büshsener']",
 bühlin,['cognominal'],"['bülin', 'bühlin']",
 "bülach, von",['toponymic'],"['von bülach', 'bülach, von', 'von buͦlach', 'von bͦuͦlach']",Bülach
-bülher,['toponymic'],"['büler', 'bülher']",Buhl
+bülher,['toponymic'],"['büler', 'bülher', 'buheler']",Buhl
 bülle,[],"['bùlle', 'bülle', 'bùle', 'buhle']",
 büre,[],"['bure', 'büre']",
 "büre, von",['toponymic'],"['von bùre', 'büre, von']",
 bürner,['occupational'],['bürner'],
 bürnheimer,['toponymic'],['bürnheimer'],
 büsch,['cognominal'],"['büsche', 'büsch']",
-büttener,[],"['bùttener', 'büttener']",
+büttener,[],"['bùttener', 'büttener', 'buttener', 'buttenerin']",
 bütz,[],"['bütz', 'butzen']",
 cappel,['toponymic'],"['kappel', 'cappel']",
 "cappel, von",['toponymic'],"['von cappel', 'cappel, von']",
@@ -210,7 +229,7 @@ carsex,[],['carsex'],
 claue,['cognominal'],"['clowe', 'claue', 'klowe', 'klau']",
 claus,['patronymic'],"['claus', 'claüs']",
 "colle, von",['toponymic'],"['von colle', 'colle, von', 'von kolle', 'von kelle']",
-colmar,['toponymic'],['colmar'],Colmar
+colmar,['toponymic'],"['colmar', 'colmars']",Colmar
 "colmar, von",['toponymic'],"['von colmar', 'colmar, von', 'kolmar']",Colmar
 "cosswiller, von",['toponymic'],"['von croßwilr', 'cosswiller, von']",Cosswiller
 dachstein,['toponymic'],['dachstein'],Dachstein
@@ -218,6 +237,7 @@ dachstein,['toponymic'],['dachstein'],Dachstein
 dahlheim,['toponymic'],"['dalheim', 'dahlheim']",Dahlheim
 "dalheim, von",['toponymic'],"['von dalheim', 'dalheim, von']",Dalheim
 dammerer,['occupational'],"['damerer', 'dammerer']",
+"dangolsheim, von",['toponymic'],"['von danchrotzheim', 'dangolsheim, von']",Dangolsheim
 dannenfels,['toponymic'],"['dannenfeils', 'dannenfels']",
 dantzer,[],['dantzer'],
 dechel,['cognominal'],['dechel'],
@@ -226,30 +246,35 @@ delg,['cognominal'],"['delgen', 'delg']",
 dempf,[],"['dempfeß', 'dempf']",
 dentener,[],['dentener'],
 dentzer,[],['dentzer'],
-der junge,['cognominal'],"['der junge', 'der junge', 'der jung']",
+der alte,['cognominal'],['der alte'],
+der junge,['cognominal'],"['der junge', 'der junge', 'der jung', 'der jonge', 'der jünge']",
+der kurtisan,['occupational'],['der kurtisan'],
 der lange,['cognominal'],"['der lang', 'der lange', 'der lange']",
 desche,[],"['desche', 'desch', 'tesche', 'tesch']",
 dettenach,[],"['detenach', 'dettenach']",
 dettwiller,['toponymic'],"['detwilre', 'dettwiller', 'dettwilre', 'dettwiler']",Dettwiller
 "dettwiller, von",['toponymic'],"['von dettwilre', 'dettwiller, von']",Dettwiller
 deutschmann,['cognominal'],"['tütschman', 'deutschmann', 'dütschman', 'dùtschman', 'tùtschman', 'dutschman', 'dùtscheman']",
-diebolt,['patronymic'],['diebolt'],
+diebolt,['patronymic'],"['diebolt', 'diebolden']",
 dieffenthal,['toponymic'],"['dieffental', 'dieffenthal']",Dieffenthal
-dieme,[],['dieme'],
+dielmann,['patronymic'],"['dielmans', 'dielmann']",
+dieme,[],"['dieme', 'diemen']",
+"diemeringen, von",['toponymic'],"['von diemeringen', 'diemeringen, von']",Diemeringen
 diemmer,[],"['diemerß', 'diemmer', 'diemar']",
 diemmerlin,['cognominal'],"['diemerlin', 'diemmerlin', 'diemerlins']",
 diener,['occupational'],['diener'],
-dienewohl,['cognominal'],"['dienewole', 'dienewohl']",
+dienewohl,['cognominal'],"['dienewole', 'dienewohl', 'dienwol', 'dienwole']",
 dienst,['cognominal'],"['dienst', 'dienste']",
 diether,['patronymic'],['diether'],
 diethermann,['patronymic'],"['dieterman', 'diethermann']",
 dietrich,['patronymic'],"['dietrich', 'dietherichs', 'dieterich', 'dieterichs']",
 dietsch,[],"['dietze', 'dietsch']",
 digisheim,['toponymic'],"['digißheim', 'digisheim']",Digisheim
+dilig,['cognominal'],"['diligen', 'dilig']",
 dingsheim,['toponymic'],"['dingesheim', 'dingsheim', 'dùngesheim', 'duͤngesheim']",Dingsheim
 "dingsheim, von",['toponymic'],"['von dungeßheim', 'dingsheim, von', 'von düngen']",Dingsheim
 dinkelbohel,['cognominal'],"['dinckelßbohelenin', 'dinkelbohel', 'dingkelßbohel']",
-dolde,['cognominal'],"['dolde', 'tolde', 'tölde', 'dölde', 'tolden']",
+dolde,['cognominal'],"['dolde', 'tolde', 'tölde', 'dölde', 'tolden', 'doldin', 'doulden']",
 dolle,[],['dolle'],
 donnersberg,['toponymic'],"['donrsperg', 'donnersberg']",Mont-Tonnerre
 doppeler,[],"['doppeler', 'toppeler']",
@@ -264,16 +289,19 @@ dritte,['cognominal'],"['drütten', 'dritte', 'drutel', 'druten']",
 drittenpreis,['cognominal'],"['drittenpriß', 'drittenpreis']",
 drucknagel,['cognominal'],"['drucknägel', 'drucknagel']",
 drungenbach,['toponymic'],['drungenbach'],
+"drüsengasse, in der",['toponymic'],"['in drüsengaße', 'drüsengasse, in der']",
+duche,['cognominal'],"['duchen', 'duche']",
 ducheler,[],"['dùheler', 'ducheler', 'düheler']",
 duchscherer,['occupational'],"['duͦchscherer', 'duchscherer']",
 dummermut,['cognominal'],"['dümmermüt', 'dummermut']",
-dundenheim,['toponymic'],['dundenheim'],Dundenheim
+dundenheim,['toponymic'],"['dundenheim', 'dündenheim']",Dundenheim
 "dundenheim, von",['toponymic'],"['von dunnenheim', 'dundenheim, von']",Dundenheim
 dundenheimer,['toponymic'],"['dundenheimerin', 'dundenheimer']",Dundenheim
 duntzenheim,['toponymic'],"['duntzenheim', 'dùntzenheim', 'düntzenheim']",Duntzenheim
 "duntzenheim, von",['toponymic'],"['von duntzenheim', 'duntzenheim, von']",Duntzenheim
+durant,['cognominal'],['durant'],
 durlach,['toponymic'],['durlach'],Durlach
-dusche,[],"['dùsche', 'dusche', 'tüsche', 'duscher']",
+dusche,[],"['dùsche', 'dusche', 'tüsche', 'duscher', 'duschin']",
 duter,[],['duter'],
 dutzeler,['cognominal'],['dutzeler'],
 dünn,['cognominal'],"['dünne', 'dünn']",
@@ -285,9 +313,10 @@ dürninger,['toponymic'],['dürninger'],Durningen
 dürr,['cognominal'],"['dür', 'dürr', 'duͤrre', 'dùrre', 'dürre', 'turre']",
 dütter,['occupational'],"['dütterenin', 'dütter']",
 ebel,['patronymic'],"['ebel', 'ebelß']",
-"eber, zum",['toponymic'],"['zum eber', 'eber, zum']",
+ebelin,['patronymic'],"['ebelinß', 'ebelin']",
+"eber, zum",['toponymic'],"['zum eber', 'eber, zum', 'zu dem eber']",
 eberlin,['patronymic'],"['eberlins', 'eberlin']",
-"eckartswiller, von",['toponymic'],"['von eckerwerswilr', 'eckartswiller, von']",Eckartswiller
+"eckartswiller, von",['toponymic'],"['von eckerwerswilr', 'eckartswiller, von', 'von eckeverßwiler']",Eckartswiller
 eckboltzheim,['toponymic'],['eckboltzheim'],Eckbolsheim
 "eckboltzheim, von",['toponymic'],"['von eckboltzheim', 'eckboltzheim, von', 'von eckeboltzheim']",Eckbolsheim
 eckendorf,['toponymic'],"['eckendorff', 'eckendorf']",Alteckendorf
@@ -319,14 +348,14 @@ engelsberg,['toponymic'],['engelsberg'],
 "ensisheim, von",['toponymic'],"['von henschißheim', 'ensisheim, von', 'von enißheim']",Ensisheim
 entzberg,['toponymic'],['entzberg'],
 epff,[],"['epffen', 'epff']",
-"epfig, von",['toponymic'],"['von epffich', 'epfig, von']",Epfig
+"epfig, von",['toponymic'],"['von epffich', 'epfig, von', 'von eppfich']",Epfig
 erbe,['cognominal'],"['erbe', 'erbs']",
 erbel,['cognominal'],"['erbels', 'erbel']",
 "erfurt, von",['toponymic'],"['von erffürt', 'erfurt von', 'von erffurt', 'von erfurt']",Erfurt
 erhart,['patronymic'],"['erhart', 'erharte']",
 erlenbach,['toponymic'],"['erlebach', 'erlenbach']",Erlenbach
 erler,[],['erler'],
-erlewein,['cognominal'],"['erlewine', 'erlewein']",
+erlewein,['cognominal'],"['erlewine', 'erlewein', 'erlewin']",
 erlin,[],"['erlin', 'erle']",
 "ernolsheim, von",['toponymic'],"['von arnoltzsheim', 'ernolsheim, von']",Ernolsheim
 "ernoltzheim, von",['toponymic'],"['von ernoltzheim', 'ernoltzheim, von']",Ernolsheim-Bruche
@@ -336,25 +365,32 @@ erstein,['toponymic'],['erstein'],Erstein
 erstenberg,['toponymic'],['erstenberg'],
 erstheim,['toponymic'],['erstheim'],
 eschbach,['toponymic'],['eschbach'],Eschbach
+esel,['cognominal'],"['ysel', 'esel']",
 "esslingen, von",['toponymic'],"['von eßlingen', 'esslingen, von']",Esslingen am neckar
 esslinger,['toponymic'],"['esselinger', 'esslinger']",Esslingen
 "ettenheim, von",['toponymic'],"['von ettenheim', 'ettenheim, von']",Ettenheim
 ettewer,['occupational'],['ettewer'],
-fachmann,['occupational'],"['vachman', 'fachmann']",
+fachmann,['occupational'],"['vachman', 'fachmann', 'vächmans']",
+fadereich,['cognominal'],"['faderichin', 'fadereich']",
 falk,['cognominal'],"['valcke', 'falk']",
 fallwehenne,[],"['valwehenne', 'fallwehenne']",
+feder,['occupational'],"['vederin', 'feder']",
 federer,['occupational'],['federer'],
-fegersheim,['toponymic'],['fegersheim'],Fegersheim
+fegersheim,['toponymic'],"['fegersheim', 'vegerßheim']",Fegersheim
 felwig,['cognominal'],['felwig'],
 ferch,[],['ferch'],
 fergesheim,['toponymic'],"['vegersheim', 'fergesheim']",Fergersheim
+fickwernlin,"['cognominal', 'patronymic']","['fickes wernlins', 'fickwernlin']",
+fille,['cognominal'],"['fillen', 'fille']",
+"finkwiller, von",['toponymic'],"['von vinckenwiler', 'finkwiller, von']",
 firstbaum,['cognominal'],"['first boüm', 'firstbaum', 'first boͧm']",
 fischer,['occupational'],"['vischer', 'fischer']",
+"fischmarkt, am",['toponymic'],"['am vischmarckt', 'fischmarkt, am']",
 flach,['cognominal'],"['flach', 'flachen']",
 flader,['occupational'],"['flader', 'fläder']",
 fleck,['cognominal'],"['flecke', 'fleck']",
 fleisch,['occupational'],['fleisch'],
-flöss,[],"['flosse', 'floss', 'floͤsse', 'floße', 'flösz', 'flöss', 'flösse', 'flöße']",
+flöss,[],"['flosse', 'floss', 'floͤsse', 'floße', 'flösz', 'flöss', 'flösse', 'flöße', 'flössen']",
 flügel,['cognominal'],['flügel'],
 forsch,['cognominal'],"['forschem', 'forsch']",
 frank,['cognominal'],"['franck', 'frank', 'francke']",
@@ -377,13 +413,15 @@ frigel,['patronymic'],['frigel'],
 "frigelsheim, von",['toponymic'],"['von frigelßheim', 'frigelsheim, von']",
 frillemann,['patronymic'],"['frilleman', 'frillemann']",
 fringer,['cognominal'],"['vringer', 'fringer']",
-fritschmann,['patronymic'],"['fritschman', 'fritschmann', 'fritschmans']",
+fritschmann,['patronymic'],"['fritschman', 'fritschmann', 'fritschmans', 'fritscheman', 'fritzerman']",
 fritz,['patronymic'],"['fritze', 'fritz']",
 fröher,[],"['fröger', 'fröher']",
 fröhlich,['cognominal'],"['frolich', 'fröhlich', 'frölich']",
 fuchs,['cognominal'],"['fuhs', 'fuchs']",
+fulck,['cognominal'],"['fulckens', 'fulck', 'fölcken']",
 fulhabener,['occupational'],"['fulhabner', 'fulhabener']",
 furstein,['toponymic'],['furstein'],
+fuss,['cognominal'],"['füß', 'fuss']",
 färber,['occupational'],"['verwer', 'färber']",
 förster,['occupational'],"['förster', 'vörster', 'foͤrster', 'voͤrster', 'voͦrster']",
 fötländer,['toponymic'],"['foitlender', 'fötländer']",
@@ -403,20 +441,24 @@ gast,['cognominal'],['gast'],
 gauch,[],"['gouch', 'gauch']",
 gebhart,[],"['gabhart', 'gebhart']",
 gebweiler,['toponymic'],"['gewiler', 'gebweiler']",Guebwiller
+geiler,['patronymic'],['geiler'],
 "geispoltzheim, von",['toponymic'],"['von geistpoltzheim', 'geispoltzheim, von', 'von geispoltzheim', 'geispoltzheim', 'von geyspoltzheym', 'von geißpoltzheim', 'von geißpustheim']",Geispolsheim
 geisser,['occupational'],['geisser'],
 "geiswiller, von",['toponymic'],"['von geißwilre', 'geiswiller, von']",Geiswiller
+"gelre, von",['toponymic'],"['von gelrre', 'gelre, von']",Gueldre
 "gemersheim, von",['toponymic'],"['von gemer', 'gemersheim, von', 'von gemar']",Gemersheim
 "geminde, von",['toponymic'],"['von gemynde', 'geminde, von']",Sarreguemines
 gene,['cognominal'],"['genen', 'gene']",
 "genf, von",['toponymic'],"['von jenff', 'genf, von', 'von jennff']",Genève
 geng,['cognominal'],"['genge', 'geng']",
 gengenbach,['toponymic'],['gengenbach'],Gengenbach
-"gengenbach, von",['toponymic'],"['von gengenbach', 'gengenbach, von']",Gengenbach
+"gengenbach, von",['toponymic'],"['von gengenbach', 'gengenbach, von', 'von gengembach']",Gengenbach
+gerber,['occupational'],"['gerwer', 'gerber']",
 gerbot,['patronymic'],"['gerbot', 'gerbott', 'gerboth', 'gerbotte']",
 "gerichte, bei dem",['toponymic'],"['by dem gerihte', 'gerichte, bei dem']",
 gerlach,[],['gerlach'],
 "gerlodseck, von",['toponymic'],"['von geroltzecke', 'gerlodseck, von']",
+germann,['patronymic'],"['germans', 'germann']",
 germeier,['occupational'],"['germeiger', 'germeier']",
 "germingen, von",['toponymic'],"['von germingen', 'germingen, von']",Germangue
 gerottwohl,['cognominal'],"['geröttwole', 'gerottwohl']",
@@ -425,12 +467,16 @@ gerung,[],"['gerung', 'gerünges', 'gerüngs', 'gerüng', 'geringes']",
 getze,[],"['getzen', 'getze']",
 geudertheim,['toponymic'],"['göudertheim', 'geudertheim', 'goͤudertheim']",Geudertheim
 "geudertheim, von",['toponymic'],"['von goͤndertheim', 'geudertheim, von', 'von göudertheim', 'von goͦudertheim', 'von goͤudertheim', 'von güdertheim']",Geudertheim
+"giessen, im",['toponymic'],"['ime giessen', 'giessen, im', 'in dem giessen']",
 giger,[],"['giger', 'gigers']",
+gilge,['patronymic'],"['gilge', 'gilgen']",
 gingsheim,['toponymic'],"['güngesheim', 'gingsheim', 'gungeßheim', 'günßheim']",Gingsheim
 gir,['cognominal'],['gir'],
 girbaden,['toponymic'],['girbaden'],Guirbaden
 "girbaden, von",['toponymic'],"['von girbaden', 'girbaden, von', 'von girbad']",
 gisebrecht,['patronymic'],"['gisebreht', 'gisebrecht']",
+gisel,['patronymic'],"['gisels', 'gisel', 'gysels']",
+"glantzhof, am",['toponymic'],"['an dem klantz hoff', 'glantzhof, am']",
 glaser,['occupational'],['glaser'],
 "glocken, zur",['toponymic'],"['zür glocken', 'glocken, zur']",
 glockengiesser,['occupational'],"['glockengiesser', 'glockengießer']",
@@ -443,16 +489,23 @@ gotteshausen,['toponymic'],"['gotzenhusen', 'gotteshausen']",gottenhouse
 gottfriet,['patronymic'],"['goͤtfrit', 'gottfriet', 'götfrit', 'gottfried']",
 gotzgans,[],['gotzgans'],
 gotzmann,['patronymic'],"['gotzman', 'gotzmann', 'götzman', 'götzmans', 'goßman']",
-graff,['occupational'],"['grave', 'graff', 'grafe', 'graf', 'grofe', 'gräffen']",
+"graben, auf dem",['toponymic'],"['uff dem graben', 'graben, auf dem']","graben, auf dem"
+graff,['occupational'],"['grave', 'graff', 'grafe', 'graf', 'grofe', 'gräffen', 'graffe', 'graffen']",
 grasseck,['toponymic'],"['graseck', 'grasseck', 'grasecke']",
+"greif, zum",['toponymic'],"['griff zü', 'greif, zum']",
 greifensee,['toponymic'],"['griffense', 'greifensee', 'griffensee']",Greifensee
+gresser,['cognominal'],['gresser'],
+"greten, auf den",['toponymic'],"['uff den greten', 'greten, auf den']",
 grewalt,[],['grewalt'],
 gries,[],"['gries', 'grieß']",
 griffe,['occupational'],"['griffe', 'griff']",
 grimm,['cognominal'],"['grymme', 'grimm']",
 grimmel,[],"['grymmel', 'grimmel']",
+grinn,['cognominal'],"['grin', 'grinn']",
 gritz,['cognominal'],"['gritze', 'gritz']",
 gross,['cognominal'],"['gros', 'gross', 'groß', 'große']",
+grosshanns,"['cognominal', 'patronymic']","['groß hanns', 'grosshanns']",
+grosshug,"['cognominal', 'patronymic']","['groshug', 'grosshug']",
 grossstein,['toponymic'],"['grostein', 'grossstein']",
 "grossstein, von",['toponymic'],"['von grostein', 'grossstein, von']",
 "grüningen, von",['toponymic'],"['von grüningen', 'grüningen, von']",Grüningen
@@ -461,7 +514,7 @@ grünwalt,['toponymic'],"['gruͤnwalt', 'grünwalt']",
 guder,['occupational'],['guder'],
 "gumbrecht, von",['toponymic'],"['von ginebreht', 'gumbrecht, von']",Gumbrechtshoffen
 "gumbrechtshoffen, von",['toponymic'],"['von gÿnbrecht', 'gumbrechtshoffen, von']",Gumbrechtshoffen
-gunther,['patronymic'],"['gùnther', 'gunther', 'günter', 'günther', 'gunthers', 'gunter']",
+gunther,['patronymic'],"['gùnther', 'gunther', 'günter', 'günther', 'gunthers', 'gunter', 'güntherin']",
 gut,['cognominal'],"['güt', 'gut']",
 gutgemach,['cognominal'],"['gütgemach', 'gutgemach']",
 gutjahr,['cognominal'],"['güt jöre', 'gutjahr', 'güt jör']",
@@ -470,6 +523,7 @@ gänseler,['occupational'],"['genseler', 'gänseler']",
 göbel,['cognominal'],['göbel'],
 "göffde, von",['toponymic'],"['von goͤffede', 'göffde, von']",
 göher,[],['göher'],
+götschel,['cognominal'],"['götschell', 'götschel']",
 götze,['patronymic'],"['götze', 'goͤtze', 'götz', 'gotze', 'götzen']",
 gürteler,['occupational'],"['gürteler', 'gürtler', 'gùrteler', 'gurteler']",
 habermüller,['occupational'],"['habermùller', 'habermüller']",
@@ -498,44 +552,51 @@ harnescher,['occupational'],"['harnascher', 'harnescher']",
 harnischer,['occupational'],"['harnscher', 'harnischer']",
 harrer,[],['harrer'],
 hartung,[],"['hartung', 'hartungs', 'hartüng', 'hartünge']",
-"harwe, von",['toponymic'],"['von harwe', 'harwe, von', 'von horwe']",
+"harwe, von",['toponymic'],"['von harwe', 'harwe, von', 'von horwe', 'von horbe']",
 "haselau, von",['toponymic'],"['von haseloẅ', 'haselau, von']",
+hasenloch,['cognominal'],"['hasen loch', 'hasenloch', 'hasenlochs']",
 hasenohr,['cognominal'],"['hasenore', 'hasenohr']",
 haslach von,['toponymic'],"['von hasela', 'haslach, von']",Haslach
 hatten,['toponymic'],['hatten'],Hatten
+"hatten, von",['toponymic'],"['von hatten', 'hatten, von']",Hatten
 hauenstein,['toponymic'],"['höwenstein', 'hauenstein']",Hauenstein
+haus,['toponymic'],"['hus', 'haus']",
 "hausbergen, von",['toponymic'],"['von hüsbergen', 'hausbergen, von', 'von husbergen']",Oberhausbergen
 hebenagel,['cognominal'],['hebenagel'],
 hebnagel,['cognominal'],"['hebnagel', 'hobnagel']",
 hechde,['cognominale'],"['hechde', 'hechd', 'hechede', 'heschde', 'hechte']",
 heckel,['cognominal'],['heckel'],
 hegel,[],"['egel', 'hegel']",
-heide,['cognominal'],"['heiden', 'heide']",
+heide,['cognominal'],"['heiden', 'heide', 'heyden']",
 heidelberg,['toponymic'],"['heidelbergin', 'heidelberg']",Heidelberg
 "heidelberg, von",['toponymic'],"['von heidelberg', 'heidelberg, von']",Heidelberg
 heil,[],"['heỳl', 'heil']",
 heilant,[],['heilant'],
 "heilbronn, von",['toponymic'],"['von heilpürn', 'heilbronn, von']",Heilbronn
+heiligenstadt,['toponymic'],"['heilgenstat', 'heiligenstadt']",Bad Heiligenstadt
 heiligenstein,['toponymic'],['heiligenstein'],
 "heiligenstein, von",['toponymic'],"['von heiligenstein', 'heiligenstein, von']",Heiligenstein
-heilmann,['patronymic'],"['heilman', 'heilmann']",
+heilmann,['patronymic'],"['heilman', 'heilmann', 'heilmennin']",
 heimburg,[],"['heimburge', 'heimburg']",
 heinrich,['patronymic'],['heinrich'],
-heintzel,['patronymic'],['heintzel'],
+heintz,['patronymic'],"['heintzen', 'heintz']",
+heintzel,['patronymic'],"['heintzel', 'heintzels']",
 heischer,[],['heischer'],
 "heitersheim, von",['toponymic'],"['von heiterßheim', 'heitersheim, von']",Heitersheim
+helbeling,['cognominal'],"['helbelings', 'helbeling']",
 hell,['cognominal'],['hell'],
 helle,['cognominal'],['helle'],
 "hellen, zur",['toponymic'],"['zͦuͦr hellen', 'hellen, zur', 'zuͤr hellen', 'zür hellen', 'hellen, zür']",
-helwig,[],['helwig'],
+helwig,[],"['helwig', 'helwigen']",
 hemmerlin,['cognominal'],['hemmerlin'],
 henneckin,['patronymic'],"['henckin', 'henneckin', 'hennickin', 'heinnckin', 'henckins']",
 hennenberg,['toponymic'],['hennenberg'],
+herboltzheim,['toponymic'],['herboltzheim'],Herbolzheim
 herbst,[],"['herbest', 'herbst']",
 "herde, von",['toponymic'],"['von herde', 'herde, von', 'von herden', 'herden, von']",
 herder,['toponymic'],['herder'],Hœrdt
 "herlstein, von",['toponymic'],"['von herlestein', 'herlstein, von']",
-hermann,['patronymic'],"['herman', 'hermann']",
+hermann,['patronymic'],"['herman', 'hermann', 'hermans']",
 herrenberg,['toponymic'],"['heremberg', 'herrenberg', 'herenbergs']",Herrenberg
 herrenstein,['toponymic'],"['herrenstein', 'herenstein']",
 "herrhorn, zum",['toponymic'],"['züm herhorn', 'herrhorn, zum']",
@@ -549,6 +610,8 @@ hesser,['toponymic'],['hesser'],
 hettemann,['patronymic'],"['hetteman', 'hettmann', 'hettman']",
 hetzel,['patronymic'],"['hetzels', 'hetzel']",
 hiltebrant,['patronymic'],"['hiltebrant', 'hiltbrant', 'hiltprant']",
+himmeler,['occupational'],"['ymmeler', 'himmeler']",
+hinter der metzige,['toponymic'],"['hinder der metzige', 'hinter der metzige']",
 hirse,['occupational'],"['hirse', 'hyrse']",
 hirt,['occupational'],"['hirte', 'hirt']",
 hirtelin,['occupational'],['hirtelin'],
@@ -560,12 +623,14 @@ hochfelder,['toponymic'],['hochfelder'],Hochfelden
 "hochstett, von",['toponymic'],"['von hochstett', 'hochstett, von']",Hochstett
 hoffemann,['occupational'],"['hoffeman', 'hoffemann']",
 hofmeister,['occupational'],"['hoüemeister', 'hofmeister']",
+"hofstatt, auf der",['toponymic'],"['uff der hoüestatt', 'hofstatt, auf der']",
 hohenburg,['toponymic'],"['hohemburg', 'hohenburg']",Hohenbourg
 "hohenburg, von",['toponymic'],"['von hohenburg', 'hohenburg, von', 'von hohemburg', 'von hohembrug']",
 "hohenhuse, zum",['toponymic'],"['züm hohenhuse', 'hohenhuse, zum', 'zuͦm hohenhuse']",
+"hohwahrt, zur",['toponymic'],"['zü dem hoẅart', 'hohwahrt, zur']",
 "hohwart, zum",['toponymic'],"['züm hauwart', 'hohwart, zum', 'zuͦm hauwart']",
 "holland, von",['toponymic'],"['von hollant', 'holland, von']",Hollande
-holländer,['toponymic'],"['höllender', 'holländer']",Hollande
+holländer,['toponymic'],"['höllender', 'holländer', 'hollender']",Hollande
 holniet,[],"['holnyet', 'holniet', 'holtnỳet', 'holnỳet']",
 holtzapfel,['cognominal'],"['holtzappel', 'holtzapfel']",
 holtzhauser,['toponymic'],"['holtzhuser', 'holtzhauser']",
@@ -584,11 +649,14 @@ huggelin,[],"['hùgelin', 'huggelin']",
 hugmann,['patronymic'],"['hügemans', 'hugmann']",
 hull,['cognominal'],"['hullen', 'hull']",
 humbrecht,['patronymic'],"['humbrecht', 'humbreht', 'hümbrecht']",
+hunckeler,['occupational'],['hunckeler'],
 hundel,['cognominal'],"['hündel', 'hundel']",
 hungerstein,['toponymic'],['hungerstein'],
 huppel,[],['huppel'],
 hurler,['cognominal'],"['hürler', 'hurler']",
+hurst,['cognominal'],['hurst'],
 huschler,['cognominal'],"['hüschler', 'huschler']",
+hutmacher,['occupational'],"['hüttmacher', 'hutmacher']",
 hutter,[],['hutter'],
 höflich,['cognominal'],"['hofelich', 'höflich']",
 hörer,['cognominal'],"['hoyrer', 'hörer']",
@@ -606,7 +674,9 @@ hüser,['toponymic'],['hüser'],Houssen
 hüss,['occupational'],"['hüsz', 'hüss', 'hùsse', 'huss', 'hùse']",
 hüter,['occupational'],"['hͦuͦter', 'hüter', 'huͤter']",
 "ichenheim, von",['toponymic'],"['von ichenheim', 'ichenheim, von']",Ichenheim
-igel,['cognominal'],['igel'],
+igel,['cognominal'],"['igel', 'eigel']",
+ihringer,['toponymic'],"['uringer', 'ihringer']",Ihringen
+illack,['toponymic'],"['illac', 'illack']",
 "illkirch, von",['toponymic'],"['von illekirch', 'illkirch, von', 'von illkirch']",Illkirch-Graffenstaden
 "ingelnheim, von",['toponymic'],"['von ingelnheim', 'ingelnheim, von']",Ingelnheim am Rhein
 ingenheim,['toponymic'],['ingenheim'],
@@ -620,10 +690,13 @@ jageisen,['cognominal'],"['jage isen', 'jageisen']",
 jakob,['patronymic'],"['jacob', 'jakob', 'jacobs']",
 jeckel,['patronymic'],"['jeckels', 'jeckel']",
 jeckelin,['patronymic'],"['joͤckelin', 'jeckelin']",
+jerge,['patronymic'],"['jergen', 'jerge', 'gergen']",
+jerger,['patronymic'],['jerger'],
 joham,[],['joham'],
 johann,['patronymic'],"['iohann', 'johann']",
 jude,['cognominal'],"['jude', 'juden', 'jüde']",
 "judengasse, in",['toponymic'],"['inn judengasse', 'judengasse, in', 'in judengasse', 'inn judengasse']",
+"judengasse, in der",['toponymic'],"['in judengaß', 'judengasse, in der']",
 jufer,[],"['jüfar', 'jufer']",
 jung,['cognominal'],"['jung', 'junge']",
 jungeling,[],"['jùngeling', 'jungeling']",
@@ -633,9 +706,11 @@ jörger,['patronymic'],"['jörger', 'jorger']",
 jüchart,[],['jüchart'],
 jücker,[],"['jückers', 'jücker']",
 kacheler,['occupational'],"['kacheler', 'karle', 'kachler']",
+kag,['cognominal'],"['kagen', 'kag']",
 "kageneck, von",['toponymic'],"['von kageneck', 'kageneck, von', 'von kagenecke']",
-kaiser,['cognominal'],"['keiser', 'kaiser', 'keisser']",
+kaiser,['cognominal'],"['keiser', 'kaiser', 'keisser', 'keiserin']",
 kalb,['cognominal'],"['kalpp', 'kalb']",
+"kalbgasse, in der",['toponymic'],"['in kalbeßgasse', 'kalbgasse, in der']",
 kallenbach,['toponymic'],['kallenbach'],
 kalt,['cognominal'],"['kalt', 'kalte']",
 kaltschmied,['occupational'],"['kaltsmit', 'kaltschmied']",
@@ -645,8 +720,10 @@ kap,[],['kap'],
 kar,['cognominal'],['kar'],
 kardinal,['occupational'],"['cardenäl', 'kardinal', 'kardenale', 'kardinalin']",
 karricher,['occupational'],['karricher'],
+"kastel, von",['toponymic'],"['von castel', 'kastel, von']",
 kauff,['occupational'],"['kouff', 'kauff', 'küff']",
 kaufmann,['occupational'],"['kouffman', 'kaufmann']",
+kechel,['occupational'],"['kechels', 'kechel', 'kochels']",
 keg,['cognominal'],['keg'],
 keinne,[],"['kynne', 'keinne']",
 keller,['occupational'],['keller'],
@@ -660,14 +737,17 @@ kerling,[],['kerling'],
 kesseler,['occupational'],"['keßeler', 'kesseler']",
 kesselring,['cognominal'],"['kesselring', 'keßelring']",
 "kettener, zum",['toponymic'],"['zuͦm kettener', 'kettener, zum']",
+"keule, von",['toponymic'],"['von keule', 'keule, von']",
 kibitz,[],"['kybes', 'kibitz', 'kybissin']",
 kiebel,['occupational'],['kiebel'],
 kilwart,['occupational'],"['kilwart', 'kirwart']",
 kindelin,['cognominal'],['kindelin'],
-kint,['cognominal'],['kint'],
+kinning,['cognominal'],"['kining', 'kinning']",
+kint,['cognominal'],"['kint', 'kind']",
 kintzig,['toponymic'],"['kintzing', 'kintzig']",Kintzig
 kipkorn,['cognominal'],['kipkorn'],
 "kirchgasse, in",['toponymic'],"['inn kirchgasse', 'kirchgasse, in']",
+kirn,['cognominal'],"['kirne', 'kirn']",
 kirnenknecht,['cognominal'],"['kirninkneht', 'kirnenknecht']",
 kirschener,['occupational'],"['kirsener', 'kirschener']",
 "kirwiller, von",['toponymic'],"['von kirwilre', 'kirwiller, von']",Kirwiller
@@ -676,8 +756,10 @@ klammann,[],"['clamman', 'klammann', 'klamman']",
 klar,['patronymic'],"['cloren', 'klar']",
 klauer,['cognominal'],"['clöwer', 'klauer', 'clawer', 'clawen']",
 klaumann,['cognominal'],"['klauman', 'klaumann']",
+kleck,['cognominal'],"['klecke', 'kleck']",
 kleiber,['occupational'],"['kleibers', 'kleiber']",
 klein,['cognominal'],"['clein', 'klein', 'cleine']",
+kleiner,['cognominal'],['kleiner'],
 kleinhanns,['cognominal'],"['cleinhanns', 'kleinhanns']",
 kleinlauwel,"['cognominal', 'patronymic']","['cleinlaẅel', 'kleinlauwel']",
 kleinlin,['cognominal'],['kleinlin'],
@@ -693,23 +775,29 @@ knap,['cognominal'],"['knapp', 'knap']",
 knapp,['cognominal'],"['knappen', 'knapp', 'knappe']",
 knebel,['cognominal'],"['knebels', 'knebel']",
 knecht,['occupational'],['knecht'],
+kneiber,['occupationale'],"['kneibers', 'kneiber']",
 kniebes,[],"['knyebis', 'kniebes', 'knÿebs']",
 kniebiss,['cognominal'],"['kniebiß', 'kniebiss', 'qnyrsin']",
 "knörsheim, von",['toponymic'],"['von knorßheim', 'knörsheim, von']",Knoersheim
 kobeler,['occupational'],['kobeler'],
+kobelt,['cognominal'],"['koͤbelt', 'kobelt']",
 koch,['occupational'],"['koch', 'köch']",
 kochersberg,['toponymic'],['kochersberg'],
 kolbe,['cognominal'],"['kolbe', 'kolben']",
+kolbelin,['cognominal'],"['koͤlbelins', 'kolbelin']",
 komm nach hinten,['cognominal'],"['kum noch hint', 'komm nach hinten']",
 konrat,[],"['conrat', 'konrat']",
 kopff,['cognominal'],"['kopfes', 'kopff', 'koppff']",
+"korbau, in der",['toponymic'],"['in korbouwe', 'korbau, in der']",
 korber,['occupational'],"['korbers', 'korber']",
 "korck, von",['toponymic'],"['von korck', 'korck, von', 'von korgk']",Kork
 kork,['toponymic'],"['korck', 'kork', 'korgk']",Kork
 korn,[],"['curn', 'korn']",
 kornbick,['cognominal'],['kornbick'],
 kornman,['occupational'],['kornman'],
+kostel,['cognominal'],"['kostels', 'kostel']",
 kottemann,['occupational'],"['kotteman', 'kottemann', 'kottheman']",
+kottfleisch,['cognominal'],['kottfleisch'],
 kraft,[],"['krafft', 'kraft', 'crafft']",
 "kraftstett, von",['toponymic'],"['von crafstette', 'kraftstett, von']",Krafft
 kranich,[],"['cranich', 'kranich']",
@@ -721,32 +809,41 @@ kress,[],"['kresse', 'kress']",
 "kreutzenach, von",['toponymic'],"['von crützenach', 'kreutzenach, von']",Kreuznach
 kreuznach,['toponymic'],"['crutzennach', 'kreuznach']",Bad-Kreuznach
 kride,[],['kride'],
+kriech darauf,['cognominal'],"['krüch daroff', 'kriech darauf']",
 krieg,[],['krieg'],
 kriegsheim,['toponymic'],"['kriegesheim', 'kriegsheim', 'criegeßheim']",Kriegsheim
 "kriegsheim, von",['toponymic'],"['von kriegesheim', 'kriegsheim, von']",Kriegsheim
+kries,['cognominal'],"['kriese', 'kries']",
+"krone, zur",['toponymic'],"['zür cronen', 'krone, zur', 'zür krönen']",
+kross,['cognominal'],"['krösin', 'kross']",
 krosswiller,['toponymic'],"['von crosswilre', 'krosswiller', 'croßwilre']",Krosswiller
 krug,[],"['krügk', 'krug']",
 "krutenau, in",['toponymic'],"['inn crutenowe', 'krutenau, in', 'in crutenowe']",
+"krutenau, in der",['toponymic'],"['in crutenöw', 'krutenau, in der', 'in krutenoẅ']",
 krütter,['occupational'],"['crütter', 'krütter']",
 kucknachhinten,['cognominal'],"['kurnoch hient', 'kucknachhinten']",
 kugeler,['occupational'],"['kügeler', 'kugeler']",
+kumpelmann,['cognominal'],"['gumpelman', 'kumpelmann']",
+kunnoch,['cognominal'],"['kunnochs', 'kunnoch']",
 kupfer,[],"['kupffer', 'kupfer']",
 "kurbengasse, in",['toponymic'],"['inn kurbengasse', 'kurbengasse, in']",
 kurnagel,['cognominal'],['kurnagel'],
 kurner,[],"['kurner', 'kürner']",
+kurtzlieb,['patronymic'],"['kuͦrtz liep', 'kurtzlieb', 'kuͦrtze liepp']",
 kurzleben,['cognominal'],"['kürtzleben', 'kurzleben']",
 kusspfennig,['cognominal'],"['kußpfenning', 'kusspfennig']",
 kuster,['occupational'],['kuster'],
-kutteltzheim,['toponymic'],"['kitzelheim', 'kutteltzheim', 'kutzelheim', 'kuttolsheim']",Kuttolsheim
+kutteltzheim,['toponymic'],"['kitzelheim', 'kutteltzheim', 'kutzelheim', 'kuttolsheim', 'kutelßheim']",Kuttolsheim
 "kutteltzheim, von",['toponymic'],"['von kutzelsheim', 'kutteltzheim, von']",Kuttolsheim
 köln von,['toponymic'],"['von cölne', 'köln von']",Cologne
 könig,['cognominal'],"['künig', 'könig', 'kùnig', 'küniges', 'küng', 'kunig', 'konig']",
 "königsbach, von",['toponymic'],"['von künigspach', 'königsbach, von']",Königsbach-Stein
+königsheim,['toponymic'],"['kunigeßheim', 'königsheim']",
 "königshoffen, von",['toponymic'],"['von künigshoven', 'königshoffen, von']",Koenigshoffen
 kücheler,['occupational'],"['kücheler', 'küchler', 'kùcheler', 'kuͤchler', 'kuͤcheler', 'kucheler']",
-küfferlin,"['cognominal', 'occupational']",['küfferlin'],
+küfferlin,"['cognominal', 'occupational']","['küfferlin', 'kufferlins']",
 kühlendorf,['toponymic'],"['külendorff', 'kühlendorf']",Kuhlendorf
-kühn,['patronymic'],"['cünen', 'kühn', 'cunen']",
+kühn,['patronymic'],"['cünen', 'kühn', 'cunen', 'kun']",
 kühne,['patronomyc'],"['cüne', 'kühne', 'cͦuͦne', 'cͦuͦn']",
 kühnemann,['patronymic'],"['cünemans', 'kühnemann']",
 "kühnheim, von",['toponymic'],"['von cuͤnheim', 'kühnheim, von', 'von cünheim', 'kuhnheim, von', 'von kunheim', 'von künheim']",Kuhnheim
@@ -758,6 +855,8 @@ kürlin,['patronymic'],['kürlin'],
 kürn,['cognominal'],['kürn'],
 kürrenberg,['toponymic'],"['kurenberg', 'kürrenberg']",Kürrenberg
 kürsener,['occupational'],"['kursener', 'kürsener']",
+"kürsener in der hellen, unter",['toponymic'],"['under kursener in der hellen', 'kürsener in der hellen, unter']",
+"kürsener, unter",['toponymic'],"['under kursenern', 'kürsener, unter']",
 küte,[],['küte'],
 laffer,[],['laffer'],
 "lahr, von",['toponymic'],"['von lare', 'lahr, von', 'von lar', 'von lore']",Lahr/Schwarzwald
@@ -784,7 +883,7 @@ lauwelin,['patronymic'],"['laulin', 'lauwelin']",
 lebesanft,['cognominal'],"['lebesanffte', 'lebesanft']",
 leerbecher,['cognominal'],"['lerbecher', 'leerbecher']",
 lehel,[],['lehel'],
-lehmann,['occupational'],"['leheman', 'lehmann', 'lehenman']",
+lehmann,['occupational'],"['leheman', 'lehmann', 'lehenman', 'leherman', 'lemans']",
 lehrmeister,['occupational'],"['leremeister', 'lehrmeister']",
 leichelhurst,['cognominal'],"['leichels hürste', 'leichelhurst']",
 leimer,['toponymic'],"['lymer', 'leimer', 'lỳmer']",Leimen
@@ -792,6 +891,7 @@ leistmann,['occupational'],"['leistman', 'leistmann', 'leisteman']",
 leiteck,['toponymic'],"['leitecke', 'leiteck']",
 leiterberg,['toponymic'],['leiterberg'],
 leitgast,[],"['leitgast', 'leytgast']",
+lembel,[],"['lembell', 'lembel']",
 lembelin,[],"['lembelin', 'lembel', 'lemblin']",
 lencker,['occupational'],"['lenckers', 'lencker']",
 lengel,[],['lengel'],
@@ -802,6 +902,7 @@ letzin,[],"['letzins', 'letzin']",
 leutenbach,['toponymic'],"['lutembach', 'leutenbach', 'lütenbach', 'lutenbach']",leutenbach
 leutenheim,['toponymic'],"['lütenheim', 'leutenheim']",Leutenheim
 "leutenheim, von",['toponymic'],"['von luten', 'leutenheim, von']",Leutenheim
+leutenmachen,['cognominal'],"['lutenmacher', 'leutenmachen']",
 leutenschlager,['cognominal'],"['lutenslaher', 'leutenschlager']",
 leutesheim,['toponymic'],"['lùtesheim', 'leutesheim', 'luteßheim']",Leutesheim
 "leutesheim, von",['toponymic'],"['von lutesheim', 'leutesheim, von']",Leutesheim
@@ -820,9 +921,10 @@ linzer,['toponymic'],"['linser', 'linzer']",Linz am Rhein
 lipp,[],"['lip', 'lipp']",
 lirck,['cognominal'],"['lircke', 'lirck']",
 lise,[],"['lise', 'lise', 'lisen']",
+litzig,['cognominal'],"['litzigen', 'litzig']",
 lohel,[],['lohel'],
 lore,['toponymic'],['lore'],Lahr/Schwarzwald
-lorer,['occupational'],"['lorer', 'lorerin']",Lahr/Schwarzwald
+lorer,['occupational'],"['lorer', 'lorerin', 'lörerin']",Lahr/Schwarzwald
 lot,[],['lot'],
 loteisen,['occupational'],"['lötysen', 'loteisen', 'loitisen']",
 lubel,['cognominal'],['lubel'],
@@ -833,8 +935,9 @@ lumbart,['toponymic'],"['lumbart', 'lumbard', 'lumhart']",Lombardie
 lume,[],['lume'],
 lungenschmied,"['cognominal', 'occupational']","['lüngen smid', 'lungenschmied']",
 lupfenstein,['toponymic'],"['lupfenstein', 'lupfestein', 'lüppfenstein']",
-lusche,['cognominal'],['lusche'],
+lusche,['cognominal'],"['lusche', 'lüsch']",
 lutz,['cognominal'],"['lutzen', 'lutz']",
+löffel,['cognominal'],"['loͤffels', 'löffel', 'laͧfels']",
 löselin,[],"['löselin', 'loͤselin', 'lösel', 'loͤsel']",
 lötschel,[],"['lötschel', 'loͤtschel']",
 löwe,['cognominal'],"['lowe', 'löwe']",
@@ -845,7 +948,7 @@ lütolt,['patronymic'],"['lütoltz', 'lütolt']",
 machfreudinen,['cognominal'],"['machfreüdynnen', 'machfreudinen']",
 machtolff,['patronymic'],['machtolff'],
 magesott,[],"['mägesött', 'magesott']",
-mahler,['occupational'],"['maler', 'mahler', 'moler']",
+mahler,['occupational'],"['maler', 'mahler', 'moler', 'maller']",
 mangolt,['cognominal'],"['mangolt', 'mangoltz']",
 mann,['cognominal'],"['man', 'mann']",
 mannertrieb,[],"['mannertrib', 'mannertrieb']",
@@ -854,7 +957,8 @@ marckolsheim,['toponymic'],"['marckolßheim', 'marckolsheim']",Marckolsheim
 "marckolsheim, von",['toponymic'],"['von margkolfesheim', 'marckolsheim, von']",Marckolsheim
 "marckoltzheim, von",['toponymic'],"['von marckolsheim', 'marckoltzheim, von', 'von marckoltzheim']",Marckolsheim
 marlen,['toponymic'],"['marlen', 'marles']",Marlenheim
-"marlenheim, von",['toponymic'],"['von marle', 'marlenheim von']",Marlenheim
+"marlenheim, von",['toponymic'],"['von marle', 'marlenheim von', 'von marleÿ']",Marlenheim
+"marnheim, von",['toponymic'],"['von marnheim', 'marnheim, von']",Marnheim
 marsilius,['toponymic'],['marsilius'],Marseille
 martin,['patronymic'],['martin'],
 marx,['patronymic'],['marx'],
@@ -864,6 +968,8 @@ medinger,[],"['medinger', 'meͣdinger', 'mëdinger']",
 meffart,['cognominal'],['meffart'],
 "megde, zur",['toponymic'],"['zür megde', 'megde, zur', 'zü der megde', 'zuͦr megde', 'zͦuͦr megde', 'zͦuͦr meͣgde']",
 meger,['occupational'],['meger'],
+megerlin,['cognominal'],['megerlin'],
+megetag,['cognominal'],['megetag'],
 meienblut,['cognominal'],"['meigenblüt', 'meienblut']",
 meienwart,['toponymic'],"['meyenwarte', 'meienwart']",
 meiger,['occupational'],"['meiger', 'meyer', 'meyger', 'meỳer', 'meÿger', 'meigers', 'meige']",
@@ -876,11 +982,12 @@ melbrühe,['cognominal'],"['melbrüge', 'melbrühe', 'melbrü', 'melbruͤge', 'm
 memmeler,[],"['memlerin', 'memmeler']",
 "memmingen, von",['toponymic'],"['von memmyngen', 'memmingen, von']",Memmingen
 mener,['cognominal'],['mener'],
-mennichin,[],"['mennychin', 'mennichin', 'mennychen']",
+mennichin,[],"['mennychin', 'mennichin', 'mennychen', 'menchen']",
 menniger,[],['menniger'],
 menseler,['occupational'],['menseler'],
 "mentz, von",['toponymic'],"['von mentze', 'von mentz', 'mentz, von']",Mayence
 mentzer,['toponymic'],"['menser', 'mentzer']",Mayence
+mentzlauwelin,"['patronymic', 'toponymic']","['mens lauwelins', 'mentzlauwelin']",Mainz
 merbott,['cognominal'],"['merbotten', 'merbott']",
 merckel,['patronymic'],"['merckel', 'merkel', 'merckels']",
 merckwiller,['toponymic'],"['merckwilre', 'merckwiller']",Merkwiller-Pechelbronn
@@ -898,12 +1005,14 @@ metziger,['occupational'],['metziger'],
 michel,['patronymic'],['michel'],
 michelin,['patronymic'],['michelin'],
 miesbach,['toponymic'],"['mysbach', 'miesbach']",Miesbach
+mige,[],"['migen', 'mige']",
 milfersheim,['toponymic'],"['mylfersheim', 'milfersheim']",
 miltenberg,['toponymic'],"['miltemberg', 'miltenberg']",Miltenberg
 minck,[],"['mincken', 'minck']",
 ming,[],"['myng', 'ming']",
 minner,['cognominal'],"['mynner', 'minner', 'mynne', 'mỳnner']",
 missbach,[],"['mißbach', 'missbach', 'misbach', 'missebach']",Mussbach
+mit den leuten,['cognominal'],"['mit der lüten', 'mit den leuten']",
 mittelhaus,['toponymic'],"['mittelhus', 'mittelhaus']",Mittelhausen
 mittelhausen,['toponymic'],"['mittelhuß', 'mittelhausen']",Mittelhausen
 molsheim,['toponymic'],"['molßheim', 'molsheim', 'mollisheim']",Molsheim
@@ -918,8 +1027,10 @@ mornhinweg,[],['mornhinweg'],
 morung,[],"['morung', 'morüng']",
 mosung,[],"['mosung', 'mösüng', 'mösung']",
 muckenschopff,['cognominal'],"['mügkenschopf', 'muckenschopff']",
+muser,['cognominal'],['muser'],
 mutsch,['cognominal'],"['mütschen', 'mutsch']",
 männel,['cognominal'],"['menneln', 'männel']",
+möichel,['cognominal'],['möichel'],
 mönchel,['cognominal'],"['mönchels', 'mönchel']",
 mönchlin,['cognominal'],"['mönchlin', 'münchlin', 'mönchelin', 'moͤnchel']",
 möre,[],"['möre', 'mor']",
@@ -929,16 +1040,18 @@ mörlin,[],"['mörlin', 'mörlins']",
 mörolt,['cognominal'],"['möroltin', 'mörolt']",
 müge,[],"['mùge', 'müge']",
 "mühlberg, von",['toponymic'],"['von mülberg', 'mühlberg, von']",
+mühlenheim,['toponymic'],"['mulnheim', 'mühlenheim']",
 "mühlhausen, von",['toponymic'],"['von mulnhuß', 'mühlhausen, von']",
 "müllenheim, von",['toponymic'],"['von mulnheim', 'müllenheim, von', 'von mülnheim', 'von mùlnheim', 'von mùlnheym']",
 müller,['occupational'],"['mùller', 'müller', 'muller']",
-münch,['occupational'],"['münich', 'münch', 'menichin']",
+münch,['occupational'],"['münich', 'münch', 'menichin', 'munich']",
 münster,[],"['mùnster', 'münster', 'munster']",
 "münster, vor dem",['toponymic'],"['vor dem mùnster', 'münster, vor dem']",
 "münstergasse, in",['toponymic'],"['inn mùnstergasse', 'münstergasse, in', 'inn mùnster gasse']",
 müntzenberg,['toponymic'],"['mùntzenberg', 'müntzenberg', 'myntzenberg', 'mintzenberg']",
 müntzer,[],"['mùntzer', 'müntzer', 'mͦuͦntzer']",
 müntzmeister,['occupational'],"['munzmeister', 'müntzmeister', 'munssemeisterin']",
+mür,['cognominal'],['mür'],
 mürner,[],['mürner'],
 mürsel,[],"['mürsel', 'mùrsel', 'mursel', 'mürsell']",
 müseler,['occupational'],"['museler', 'müseler']",
@@ -957,34 +1070,41 @@ nellesheim,['toponymic'],['nellesheim'],
 nese,['patronymic'],"['nesen', 'nese']",
 nesselbach,['toponymic'],['nesselbach'],
 "neuenburg, von der",['toponymic'],"['von der nuwenburge', 'neuenburg, von der']",
-neuenmühlen,['toponymic'],"['von den nuwenmülen', 'neuenmühlen']",
+"neuenburg, zu der",['toponymic'],"['zu der nüwenburge', 'neuenburg, zu der']",
+"neuenmarkt, vom",['toponymic'],"['von den nuwenmarckt', 'neuenmarkt, vom']",
+neuenmühlen,['toponymic'],"['von den nuwenmülen', 'neuenmühlen', 'von nuwen mulen']",
 neugart,['toponymic'],"['nugart', 'neugart']",Neugartheim-Ittlenheim
+"neugarten, von",['toponymic'],"['von nügarten', 'neugarten, von']",
 neugartheim,['toponymic'],"['nügartheim', 'neugartheim']",Neugartheim-Ittlenheim
 neuwiller,['toponymic'],"['newiller', 'neuwiller', 'von nuwilre', 'newilr', 'nüwilre', 'von nuwilr']",Neuwiller-lès-Saverne
-niederländer,['toponymic'],"['niderlender', 'niederländer']",
+niederländer,['toponymic'],"['niderlender', 'niederländer', 'nyderlender']",
+niess,['cognominal'],"['nieß', 'niess']",
 "niffer, von",['toponymic'],"['von niefer', 'niffer, von']",Niffer
+nonnenmacher,['cognominal'],"['nunnenmacher', 'nonnenmacher']",
 nope,[],"['nope', 'nöppe']",
 "nordheim, von",['toponymic'],"['von northeim', 'nordheim, von']",Nordheim
-"nordhuse, von",['toponymic'],"['von northus', 'nordhuse, von']",Nordhouse
+"nordhuse, von",['toponymic'],"['von northus', 'nordhuse, von', 'von northüs']",Nordhouse
 nordwind,['cognominal'],"['nortwind', 'nordwind']",
 northus,['toponymic'],['northus'],Nordhouse
 "nothalden, von",['toponymic'],"['von nothalden', 'nothalden, von']",Nothalden
 nox,['cognominal'],['nox'],
+nussel,['cognominal'],['nussel'],
 nussmann,['occupational'],"['nùßmann', 'nussmann']",
 nuthart,['patronymic'],"['nuthartz', 'nuthart']",
-nägeler,['occupational'],"['negeler', 'nägeler']",
+nägeler,['occupational'],"['negeler', 'nägeler', 'negelerin']",
 "nöge, von",['toponymic'],"['von nöge', 'nöge, von']",
 "nördlingen, von",['toponymic'],"['von nordeling', 'nördlingen, von', 'von nordelingen', 'von nördelingen']",Nördlingen
 nüffer,['toponymic'],"['von nùfer', 'nüffer']",Niffer
 "nüffer, von",['toponymic'],"['von nüfer', 'nüffer, von']",Niffer
 nüger,[],"['nùger', 'nüger']",
-"nüremberg, von",['toponymic'],"['von nurenberg', 'nüremberg, von']",Nuremberg
+"nüremberg, von",['toponymic'],"['von nurenberg', 'nüremberg, von', 'von nürenberg']",Nuremberg
 "oberkirch, von",['toponymic'],"['von oberkirch', 'oberkirch, von']",Oberkirch
-obrecht,['patronymic'],"['obreht', 'obrecht', 'obrehtz']",
+oberlin,['patronymic'],"['oberlins', 'oberlin']",
+obrecht,['patronymic'],"['obreht', 'obrecht', 'obrehtz', 'obrechts']",
 ocher,[],['ocher'],
 odertzheim,['toponymic'],"['odertzheim', 'odratzheim']",Odratzheim
 "odratzheim, von",['toponymic'],"['von odratzheim', 'odratzheim, von', 'von odertzheim']",Odratzheim
-ofentürer,['occupational'],"['ofentürer', 'offentürer']",
+ofentürer,['occupational'],"['ofentürer', 'offentürer', 'ofenturer']",
 offenburg,['toponymic'],"['offenburg', 'offemburg']",Offenbourg
 "offenburg, von",['toponymic'],"['von offenburg', 'offenburg, von']",Offenburg
 offener,['occupational'],['offener'],
@@ -999,6 +1119,7 @@ ostertag,['cognominal'],['ostertag'],
 ott,['patronymic'],"['ott', 'otte', 'otten']",
 ottemann,['patronymic'],"['otman', 'ottemann', 'otteman', 'ottman', 'ottemman', 'ottemans']",
 "ottenheim, von",['toponymic'],"['von otenheim', 'ottenheim, von']",Ottenheim
+"otterswiller, von",['toponymic'],"['von otterwiler', 'otterswiller, von', 'von otterßwiler']",Otterswiller
 ottfriedrich,['patronymic'],"['ottfridrich', 'ottfriedrich', 'ottfriderich', 'ottfriedrich']",
 paulus,['patronymic'],['paulus'],
 "pavia, von",['toponymic'],"['von paviß', 'pavia, von']",Pavie
@@ -1009,15 +1130,19 @@ pfaffenheim,['toponymic'],['pfaffenheim'],Pfaffenheim
 pfaffenhoffen,['toponymic'],"['pfaffenhofen', 'pfaffenhoffen']",Pfaffenhoffen
 "pfaffenhoffen, von",['toponymic'],"['von pfaffenhoven', 'pfaffenhoffen, von', 'von pfaffenhoffen']",Pfaffenhoffen
 pfaffenlapp,[],"['pfaffenlap', 'pfaffenlapp', 'pfafenlapp']",
+pfaltener,['occupational'],"['pfalteners', 'pfaltener', 'paltener']",
+"pfaltz, bei der",['toponymic'],"['by der pfaltzen', 'pfaltz, bei der']",
 pfarrer,['occupational'],['pfarrer'],
 pfau,[],"['pfö', 'pfau']",
 pfaue,['cognominal'],"['pfowe', 'pfaue']",
 pfefferkorn,['cognominal'],"['pfeffer korne', 'pfefferkorn']",
 pfeffinger,['toponymic'],['pfeffinger'],Pfeffingen
 pfennigmann,['occupational'],"['pfennigman', 'pfennigmann']",
+"pfennigturm, am",['toponymic'],"['an dem pfennig thürn', 'pfennigturm, am']",
 "pfennigturm, vor dem",['toponymic'],"['vor dem pfennigturm', 'pfennigturm, vor dem', 'vor dem pfennigturn']",
 pfettisheim,['toponymic'],"['pfettesheim', 'pfettisheim', 'pfetzheim']",Pfettisheim
 "pfettisheim, von",['toponymic'],"['von pfetzheim', 'pfettisheim, von', 'von pfettesheim']",Pfettisheim
+pfetzing,['toponymic'],"['peftzing', 'pfetzing']",
 pfiel,['cognominal'],"['pfil', 'pfiel']",
 pfielsticker,['occupational'],"['pfilsticker', 'pfielsticker']",
 pfirter,['occupational'],['pfirter'],
@@ -1032,6 +1157,7 @@ phye,[],"['phige', 'phye', 'phie', 'pfie']",
 porte,[],"['porte', 'porten']",
 "püttlingen, von",['toponymic'],"['von püttelingen', 'püttlingen, von']",Püttlingen
 "quatzenheim, von",['toponymic'],"['von quatzenheim', 'quatzenheim, von']",Quatzenheim
+"rad, zum",['tponymic'],"['zum rade', 'rad, zum']",
 "rade, zum",['toponymic'],"['züm rade', 'rade, zum']",
 randeck,['toponymic'],"['randeckin', 'randeck']",
 rantz,[],['rantz'],
@@ -1050,15 +1176,22 @@ recker,[],['recker'],
 reder,[],['reder'],
 regesheim,['toponymic'],['regesheim'],Réguisheim
 regisheim,['toponymic'],"['regißheim', 'regisheim']",Réguisheim
+regnolt,['patronymic'],"['regenolt', 'regnolt']",
+reichler,['occupational'],"['reichlerin', 'reichler']",
 reichwein,[],"['richwin', 'reichwein']",
 reiff,[],"['ryff', 'reiff']",
+"reifgasse, in der",['toponymic'],"['in reiffgaß', 'reifgasse, in der']",
 reimbolt,['patronymic'],['reimbolt'],
 "reimerswiller, von",['toponymic'],"['von rümerßwilre', 'reimerswiller, von']",Reimerswiller
+rein,['cognominal'],"['reine', 'rein']",
 reinhart,['patronymic'],['reinhart'],
+remig,['patronymic'],"['remmigs', 'remig']",
+rempler,['cognominal'],"['rempelers', 'rempler']",
 rencker,['occupational'],['rencker'],
-"renichheim, von",['toponymic'],"['von reinicheim', 'renichheim, von', 'von renicheim']",Renchen
+"renichheim, von",['toponymic'],"['von reinicheim', 'renichheim, von', 'von renicheim', 'von reimcheim']",Renchen
 renner,['occupational'],['renner'],
 rennung,[],"['renungs', 'rennung']",
+"rentz, von",['toponymic'],"['von rentz', 'rentz, von']",
 "rete, zum",['toponymic'],"['züm rete', 'rete, zum']",
 rethanns,[],['rethanns'],
 rettich,['cognominal'],"['rettichs', 'rettich']",
@@ -1067,37 +1200,42 @@ reuber,['cognominal'],"['rübers', 'reuber', 'röber']",
 reuchelheim,['toponymic'],"['rüchelnheim', 'reuchelheim']",Reuchelheim
 reutenstock,['cognominal'],"['rütenstock', 'reutenstock']",
 "rhein, am",['toponymic'],"['am rine', 'rhein, am']",
-"rhein, zum",['toponymic'],"['zuͦm rine', 'rhein, zum']",
+"rhein, zum",['toponymic'],"['zuͦm rine', 'rhein, zum', 'zum rine']",
 "rheinacker, von",['toponymic'],"['von reinacker', 'rheinacker, von']",Reinacker
 "rheinstett, von",['toponymic'],"['rinstett', 'von rheinstett', 'rheinstett, von', 'von rinstet', 'von rinstett']",Rheinstetten
-rhinau,['toponymic'],"['rynöwe', 'rhinau', 'rinowe', 'rynowe', 'rynouwe']",Rhinau
+rhinau,['toponymic'],"['rynöwe', 'rhinau', 'rinowe', 'rynowe', 'rynouwe', 'rinouwe']",Rhinau
 riber,[],['riber'],
 richtekert,[],['richtekert'],
 richter,['occupational'],['richter'],
 ricker,[],['ricker'],
 rickersheim,['toponymic'],['rickersheim'],
+"ried, zum",['toponymic'],"['zum riete', 'ried, zum']",
 "riet, zum",['toponymic'],"['zuͦm ret', 'riet, zum', 'zuͦm riet', 'zùm riet', 'zum riet', 'züm riet', 'zum riette', 'züm ryet']",
 riffe,[],"['riffe', 'riff', 'rỳffe', 'riffen']",
 rin,['cognominal'],['rin'],
+"rindfuss, zum",['toponymic'],"['zu dem rintzfuß', 'rindfuss, zum']",
 ringendorf,['toponymic'],"['rinckendorffen', 'ringendorf']",Ringendorf
 ringler,['occupational'],"['ringeler', 'ringler']",
 rippel,['cognominal'],"['ripel', 'rippel', 'rippe']",
 rippelin,[],"['rippelin', 'ripelin', 'rypelin']",
+rise,['cognominal'],['rise'],
 riss,['cognominal'],"['rißen', 'riss']",
 risser,[],"['risser', 'riser', 'risse']",
 ritter,['occupational'],['ritter'],
+rohr,['cognominal'],"['röre', 'rohr']",
 "rohr, von",['toponymic'],"['von rore', 'rohr, von', 'von ror', 'von röre']",Rohr
 rohrbosch,[],"['rorbosch', 'rohrbosch']",
 rohrer,['toponymic'],"['rorer', 'rohrer']",Rohr
 rohrpfarrer,['occupational'],"['rore pfarer', 'rohrpfarrer']",
 roppenheim,['toponymic'],['roppenheim'],Roppenheim
+"rose, zur",['toponymic'],"['zur rosen', 'rose, zur']",
 rosegart,['toponymic'],"['rosegart', 'rösegarte']",
 rosemberg,['toponymic'],"['rosemberg', 'rosenberg']",
 roser,[],['roser'],
 "rosheim, von",['toponymic'],"['von rosheim', 'rosheim, von', 'von rosheim', 'von reßheim', 'von roßheim']",Rosheim
 ross,[],"['roß', 'ross', 'ros', 'rosse', 'rosß']",
 rossel,[],"['rosel', 'rossel', 'rösel']",
-"rossmarkt, am",['toponymic'],"['am rossmerckt', 'rossmarkt, am', 'am rossemerckt']",
+"rossmarkt, am",['toponymic'],"['am rossmerckt', 'rossmarkt, am', 'am rossemerckt', 'am roßmerckt']",
 rot,['cognominal'],"['roten', 'rot', 'rote']",
 rotbertel,"['cognominal', 'patronymic']","['rötbertelin', 'rotbertel']",
 rotemburg,['toponymic'],['rotemburg'],Rotemburg ob der Taube
@@ -1109,23 +1247,25 @@ rotmann,['cognominal'],"['rötmans', 'rotmann']",
 rotschild,['cognominal'],"['röttschilt', 'rotschild']",
 rotschilt,['cognominal'],['rotschilt'],
 "rottenburg, von",['toponymic'],"['von rottenburg', 'rottenburg, von']",Rottenburg
-"rottweil, von",['toponymic'],"['von rotwil', 'rottweil, von', 'wilhelm von rotwil', 'von rottwil', 'von rotwilr', 'von rottwir', 'von rotwiler']",Rottweil
+"rottweil, von",['toponymic'],"['von rotwil', 'rottweil, von', 'wilhelm von rotwil', 'von rottwil', 'von rotwilr', 'von rottwir', 'von rotwiler', 'von rottwilr']",Rottweil
 rotwein,['cognominal'],"['rottwyne', 'rotwein']",
 rudolff,['patronymic'],"['rüdolff', 'rudolff']",
 ruhle,['patronymic'],"['rüle', 'ruhle']",
-ruhlmann,['patronymic'],"['rülman', 'ruhlmann', 'rͦuͦlman', 'ruͤlman', 'ruͦlman', 'rüleman']",
+ruhlmann,['patronymic'],"['rülman', 'ruhlmann', 'rͦuͦlman', 'ruͤlman', 'ruͦlman', 'rüleman', 'rulmans', 'rülemennin']",
 rumersheim,['toponymic'],"['romersheim', 'rumersheim']",Rumersheim
 "rumersheim, von",['toponymic'],"['von rummeßheim', 'rumersheim, von', 'von romersheim', 'von romerßheim']",Rumersheim
 rummeler,[],"['rummeler', 'rümeler']",
-ruser,[],"['rùser', 'ruser', 'rüsser', 'rüßer', 'rüßers']",
+ruser,[],"['rùser', 'ruser', 'rüsser', 'rüßer', 'rüßers', 'russer']",
 russ,[],"['ruß', 'russ']",
+russmacher,['occupational'],"['rusemacher', 'russmacher']",
 "rust, zum",['toponymic'],"['zuͦm ruͦst', 'rust, zum', 'zuͦm rust', 'züm rüst', 'züm rust', 'zum rüste']",
 rutsch,['cognominal'],"['rütsche', 'rutsch', 'rutschen']",
 ruttel,[],"['rùttel', 'ruttel']",
 röhl,['cognominal'],"['röll', 'röhl']",
 rörich,[],"['roͤrich', 'rörich']",
+rösch,['cognominal'],"['rösche', 'rösch']",
 rösselin,[],"['rösselin', 'rössel']",
-röttel,[],['röttel'],
+röttel,[],"['röttel', 'roͤttels']",
 rückkorb,[],"['rückorb', 'rückkorb']",
 rüdiger,['patronymic'],['rüdiger'],
 rüffel,[],"['ruffels', 'rüffel']",
@@ -1133,13 +1273,19 @@ rüllin,['patronymic'],"['rüllin', 'ruͤllin', 'ruͦlins', 'rülin']",
 rüttel,[],"['rüttels', 'rüttel']",
 "saarburg, von",['toponymic'],"['von sairburg', 'saarburg, von']",Sarrebourg
 sachsbach,['toponymic'],"['sahspach', 'sachsbach', 'sahsse', 'sachse']",
+sachsen,['toponymic'],"['sahssen', 'sachsen']",Saxe
+salmann,['occupational'],"['salmans', 'salmann']",
+"saltzhof, am",['toponymic'],"['am saltzhöve', 'saltzhof, am']",
 saltzmann,['occupational'],"['saltzman', 'saltzmann']",
 saltzmütter,['occupational'],"['saltzmütter', 'saltzmuͤtter', 'saltzmùtter']",
 samstag,['cognominal'],['samstag'],
 "sand, von",['toponymic'],"['von sand', 'sand, von', 'von sande']",Sand
 "sankt-fides, von",['toponymic'],"['von sant före', 'sankt-fides, von']",
 sankt-johanns,['toponymic'],"['von sant johann', 'sankt-johanns']",
+"sankt-martin, zu",['toponymic'],"['zü sant martin', 'sankt-martin, zu']",
 sankt-stefan,['toponymic'],"['sant steffan', 'sankt-stefan']",
+"sankt-stefan, zu",['toponymic'],"['zü sant steffan', 'sankt-stefan, zu']",
+"sankt-thoman, zu",['toponymic'],"['zu sande thoman', 'sankt-thoman, zu', 'zu sant thoman']",
 sanselmann,['occupational'],"['sanselman', 'sanselmann']",
 sansselmann,[],"['sansselman', 'sansselmann']",
 "sant, von",['toponymic'],"['von sant', 'sant, von']",Sand
@@ -1173,7 +1319,9 @@ schaut-den-pfulwe,"['cognominal', 'toponymic']","['schüt den pfulwen', 'schaut-
 schebehorn,['cognominal'],['schebehorn'],
 schedeler,[],"['schedeler', 'scheͣdeler', 'schëdeler']",
 scheineisen,['cognominal'],"['schinysen', 'scheineisen']",
+schelcker,['occupational'],"['schelckerin', 'schelcker']",
 schelhesse,['cognominal'],"['schelhessin', 'schelhesse']",
+scheller,['occupational'],['scheller'],
 schemel,['cognominal'],"['schemel', 'schemels']",
 schenck,['occupational'],"['schenck', 'schencke']",
 schenck-und-drinck,['cognominal'],"['schenck und drinck', 'schenck-und-drinck']",
@@ -1182,9 +1330,12 @@ schenk,['occupational'],"['schencken', 'schenk']",
 scherenmacher,['occupational'],"['scherer macherin', 'scherenmacher']",
 scherer,['occupational'],['scherer'],
 scherfer,['occupational'],"['scherfers', 'scherfer']",
+scherr,['cognominal'],"['scher', 'scherr']",
+schertz,['cognominal'],"['schertzen', 'schertz']",
 schertzheim,['toponymic'],['schertzheim'],Scherzheim
 scherweg,['toponymic'],"['scherweck', 'scherweg']",
 scheubelin,[],"['schoͤublin', 'scheubelin', 'schùbel', 'scheubel']",
+schieber,['occupational'],['schieber'],
 schiefel,[],"['schyfel', 'schiefel']",
 schiesel,[],['schiesel'],
 schild,['cognominal'],"['schilt', 'schild']",
@@ -1202,9 +1353,10 @@ schlecht,['cognominal'],"['sleht', 'schlecht', 'slecht']",
 schleicher,['occupational'],"['slicher', 'schleicher']",
 schlempe,['occupational'],"['slempe', 'schlempe', 'slemppe', 'slemp']",
 "schlettstadt, von",['toponymic'],"['von sletstat', 'schlettstadt, von', 'von sletstatt', 'von seletstat', 'von sletzstat', 'von slettstat']",Sélestat
+schlipfering,['cognominal'],"['slippfering', 'schlipfering']",
 schluch,['cognominal'],"['slüch', 'schluch']",
 "schluch, im",['toponymic'],"['am sluch', 'schluch, im', 'im sluch', 'im sluch']",
-schmalriem,['cognominal'],"['smalriem', 'schmalriem', 'samlriem', 'smalrieme']",
+schmalriem,['cognominal'],"['smalriem', 'schmalriem', 'samlriem', 'smalrieme', 'smalriemen']",
 schmepper,['occupational'],"['smepper', 'schmepper']",
 schmerwer,['cognominal'],"['smerwer', 'schmerwer']",
 schmied,['occupational'],"['smiede', 'schmied', 'smid', 'smide', 'smit']",
@@ -1219,9 +1371,10 @@ schnürer,['occupational'],"['snürer', 'schnürer']",
 schoffmeiger,['occupational'],['schoffmeiger'],
 scholle,[],"['scholle', 'schole', 'scholl', 'schollen']",
 schollenberg,['toponymic'],"['schollenbergin', 'schollenberg']",
-schopff,[],"['schopf', 'schopff']",
+schopff,[],"['schopf', 'schopff', 'schoppfes']",
 schopffel,['cognominal'],"['schoppfels', 'schopffel']",
 "schopfheim, von",['toponymic'],"['von schoppfenheim', 'schopfheim, von', 'von schoppfen']",Schopfheim
+schopp,['cognominal'],"['schoppes', 'schopp']",
 schorp,['cognominal'],"['schörper', 'schorp']",
 schott,[],"['schott', 'schotte', 'schötten', 'schatten', 'schotten']",
 schottel,['cognominal'],['schottel'],
@@ -1229,12 +1382,12 @@ schraff,[],['schraff'],
 schreiber,['occupational'],"['schriber', 'schreiber']",
 schrotbanck,['occupational'],['schrotbanck'],
 schuler,['occupational'],"['schulers', 'schuler']",
-schultheiss,['occupational'],"['schultheiss', 'shultheiss', 'schultheis', 'schulteiß', 'schulteiße', 'schulteißen', 'schulteissen', 'schultheissen', 'schultheiß']",
+schultheiss,['occupational'],"['schultheiss', 'shultheiss', 'schultheis', 'schulteiß', 'schulteiße', 'schulteißen', 'schulteissen', 'schultheissen', 'schultheiß', 'schultzheissen']",
 schur-die-geiss,['cognominal'],"['schur die geiß', 'schur-die-geiss', 'schurdiegeiß']",
 schutter,[],['schutter'],
 "schutter, von",['toponymic'],"['von schutter', 'schutter, von']",Schutterwald
 "schuttern, von",['toponymic'],"['von schuttern', 'schuttern, von']",Schuttern
-schwarber,['occupational'],"['swarber', 'schwarber']",
+schwarber,['occupational'],"['swarber', 'schwarber', 'swarbers']",
 schwartz,['cognominal'],"['swartz', 'schwartz']",
 schwebel,['cognominal'],"['swebels', 'schwebel', 'swebell']",
 schwein,['cognominal'],"['swein', 'schwein']",
@@ -1249,6 +1402,7 @@ schwertfeger,['occupational'],"['swertfeger', 'schwertfeger']",
 schwicker,['occupational'],"['swicker', 'schwicker']",
 "schwindratzheim, von",['toponymic'],"['von swündertzheim', 'schwindratzheim, von']",Schwindratzheim
 schwob,['toponymic'],"['swab', 'schwob', 'swob', 'swop', 'swöpp', 'swapp', 'swobeß', 'swopp']",Souabe
+schäfer,['occupational'],"['scheffer', 'schäfer']",
 schön,['cognominal'],['schön'],
 schöneck,['toponymic'],"['von schönneck', 'schöneck']",
 "schöneck, von",['toponymic'],"['von schöneck', 'schöneck, von', 'von schoͤneck']",
@@ -1257,21 +1411,25 @@ schönmann,['cognominal'],"['schönman', 'schönmann']",
 schönweiss,['cognominal'],"['schön weissen', 'schönweiss']",
 schüffel,[],"['schùfel', 'schüffel']",
 schür,[],"['schür', 'schuch']",
+seckeler,['occupational'],['seckeler'],
 seebott,[],"['sebott', 'seebott', 'sebolt', 'seebolt']",
+seel,['cognominal'],"['selen', 'seel']",
 seelenstein,['toponymic'],"['selenstein', 'seelenstein']",
 seelig,['cognominal'],"['selig', 'seelig', 'selgen']",
 seelose,['cognominal'],"['selose', 'seelose', 'seloͤse']",
 seemann,['occupational'],"['seeman', 'seemann']",
 seger,['occupational'],"['seger', 'seiger']",
 seicher,['cognominal'],['seicher'],
-seidenfaden,[''],"['sidenfaden', 'seidenfaden', 'siden fadem']",
+seidenfaden,[''],"['sidenfaden', 'seidenfaden', 'siden fadem', 'sidenfademynnen']",
 seidennäher,['occupational'],"['sidemneger', 'seidennäher']",
 seidensticker,['occupational'],"['sidensticker', 'seidensticker']",
 seifenmacher,['occupational'],"['seyffenmachen', 'seifenmacher', 'seiffenmacher']",
 seiler,['occupational'],"['seyler', 'seiler']",
-"seiler, zum",['toponymic'],"['zuͦm seiler', 'seiler, zum']",
+"seiler, zum",['toponymic'],"['zuͦm seiler', 'seiler, zum', 'züm seiler']",
 "seltz, von",['toponymic'],"['von selss', 'seltz, von', 'von selsse']",Seltz
 semersheim,['toponymic'],"['sermerßheim', 'semersheim']",Semersheim
+sendenau,['toponymic'],"['sendenouwe', 'sendenau']",
+sessenheim,['toponymic'],"['sesenheim', 'sessenheim']",Sessenheim
 sesterer,['occupational'],['sesterer'],
 sibich,['cognominal'],"['sibichem', 'sibich']",
 siebener,['cognominal'],"['subener', 'siebener']",
@@ -1281,15 +1439,19 @@ siegenheim,['toponymic'],"['sygenheim', 'siegenheim']",
 sifermann,['patronymic'],"['sifermans', 'sifermann']",
 siffermann,['cognominal'],"['siferman', 'siffermann', 'syferman']",
 sifrit,['patronymic'],"['sifritz', 'sifrit']",
+simmeler,['cognominal'],"['symmeler', 'simmeler']",
 "sindelfingen, von",['toponymic'],"['von sindelfingen', 'sindelfingen, von']",Sindelfingen
 sivester,['patronymic'],"['silvester', 'sivester']",
 slapp,[],['slapp'],
 sohler,['occupational'],"['soler', 'sohler']",
+sohn,['cognominal'],"['sün', 'sohn']",
 sommerauge,['cognominal'],"['sommeroͧge', 'sommerauge']",
+"spangen, zum",['toponymic'],"['zu den spangen', 'spangen, zum']",
 spannbett,['cognominal'],"['spannebett', 'spannbett', 'spanbett', 'spanbette']",
 spanner,['cognominal'],['spanner'],
 spatzinger,['toponymic'],['spatzinger'],Spaichingen
-speich,[],['speich'],
+speckmesser,['cognominal'],"['speckmeßeren', 'speckmesser']",
+speich,[],"['speich', 'speiche']",
 spender,['cognominal'],['spender'],
 spengeler,['occupational'],['spengeler'],
 spete,['occupational'],"['spete', 'spette']",
@@ -1302,22 +1464,25 @@ spielmann,['occupational'],"['spilman', 'spielmann', 'spilmans']",
 spier,['cognominal'],['spier'],
 spiess,['cognominal'],"['spieß', 'spiess']",
 spirer,['toponymic'],['spirer'],Spire
+"spitze, zur",['toponymic'],"['zu der spitzen', 'spitze, zur']",
 spitzkopf,['cognominal'],"['spitz kopff', 'spitzkopf']",
 spitznagel,['cognominal'],"['spitznagel', 'spitznagels']",
 "sponheim, von",['toponymic'],"['von spönheim', 'sponheim, von']",Sponheim
 sporer,['occupational'],['sporer'],
 sprenger,[],['sprenger'],
-stachel,['cognominal'],"['stahel', 'stachel']",
+stachel,['cognominal'],"['stahel', 'stachel', 'stahels']",
 stacheler,['occupational'],"['staheler', 'stacheler']",
 "staden, am",['toponymic'],"['am staden', 'staden, am']",
 stalle,['occupational'],['stalle'],
 stammeler,['occupational'],"['stammelers', 'stammeler']",
+"stanck, zum",['toponymic'],"['zü den stanck', 'stanck, zum']",
 stange,[],['stange'],
 staugarten,['cognominal'],"['stögarten', 'staugarten']",
 stechelin,['cognominal'],"['stehelin', 'stechelin']",
 steck,[],['steck'],
 stefan,['patronymic'],"['steffann', 'stefan', 'steffan', 'steffans']",
 stegemann,['occupational'],"['stegeman', 'stegemann']",
+steimer,['cognominal'],"['steymmer', 'steimer']",
 steinbach,['toponymic'],"['steinbach', 'steimbach']",Steinbach
 "steinbach, von",['toponymic'],"['von steinbach', 'steinbach, von']",
 "steinburg, von",['toponymic'],"['von steinburg', 'steinburg, von']",Steinbourg
@@ -1325,18 +1490,22 @@ steiner,['cognominal'],['steiner'],
 steingewerck,['occupational'],"['steingewürck', 'steingewerck']",
 steinhart,['cognominal'],['steinhart'],
 "steinstrasse, an",['toponymic'],"['an steinstrasse', 'steinstrasse, an', 'an steinstross']",
+"steinstrasse, an der",['toponymic'],"['an steinstrosse', 'steinstrasse, an der', 'in uttengosse', 'an steinstraße']",
 stengel,[],['stengel'],
 stern,['cognominal'],"['sterne', 'stern']",
 "still, von",['toponymic'],"['von stille', 'still, von']",Still
-stocker,['occupational'],['stocker'],
-stoffel,['patronymic'],"['stoffels', 'stoffel']",
-stoll,[],"['stol', 'stoll']",
+stocker,['occupational'],"['stocker', 'stöcker']",
+stoffel,['patronymic'],"['stoffels', 'stoffel', 'stöffel']",
+stoll,[],"['stol', 'stoll', 'stollen']",
 stollhofen,['toponymic'],"['stolhofen', 'stollhofen']",Stollhofen
 stoltz,['cognominal'],['stoltz'],
+stoltzenberg,['toponymic'],['stoltzenberg'],
 storck,['cognominal'],"['storck', 'storcken', 'storcke']",
 "storcken, zum",['toponymic'],"['züm störcken', 'storcken, zum', 'zü den störcken']",
 "stotzheim, von",['toponymic'],"['von stotzheim', 'stotzheim, von', 'von stützheim']",Stotzheim
+strabel,['cognominal'],['strabel'],
 "strasburg, von",['toponymic'],"['von straßburg', 'strasburg, von']",Strasbourg
+strehler,['occupational'],"['streler', 'strehler']",
 strengel,[],['strengel'],
 stricher,['occupational'],"['strichers', 'stricher']",
 strubel,[],"['strùbel', 'strubel', 'strübell']",
@@ -1345,19 +1514,24 @@ studel,[],"['stüdel', 'studel', 'stùdel', 'stüdel']",
 studelin,['cognominal'],['studelin'],
 stump,[],['stump'],
 stumpf,"['cognominal', 'occupational']","['stumpff', 'stumpf', 'stümpff']",
+stumpfel,['cognominal'],"['stumpffel', 'stumpfel']",
 stuntz,['cognominal'],"['stüntze', 'stuntz']",
-sturm,['cognominal'],"['sturm', 'sturme']",
+sturm,['cognominal'],"['sturm', 'sturme', 'stürms', 'stürme', 'stürm']",
 "sturmeck, von",['toponymic'],"['von sturmeck', 'sturmeck, von', 'von sturmecke']",
 sturmel,[],"['stùrmmel', 'sturmel', 'stùrmel']",
 sturmer,['occupational'],"['stürmers', 'sturmer', 'stürmer']",
+sturmmeister,['occupational'],"['sturmeister', 'sturmmeister']",
 stuss,['cognominal'],"['stüsse', 'stuss']",
 "stutzheim, von",['toponymic'],"['von stützen', 'stutzheim, von']",Stutzheim-Offenheim
 stösser,[],['stösser'],
 stückgarter,['occupational'],['stückgarter'],
 stüsslinger,['toponymic'],"['stussinger', 'stüsslinger']",Stüsslingen
+"sultz, von",['toponymic'],"['von sultz', 'sultz, von']",Soultz
 "sundgau, von",['toponymic'],"['von sungouwe', 'sundgau, von', 'von sündgöwe']",Sundgau
 sundheim,['toponymic'],"['suntheim', 'sundheim']",Sundheim
 sunlin,[],['sunlin'],
+sunt,['cognominal'],"['sunten', 'sunt']",
+swend,['patronymic'],"['swenden', 'swend']",
 swendenleib,"['cognominal', 'patronymic']","['swentenleipp', 'swendenleib']",
 symont,['patronymic'],"['symunt', 'symont', 'symund']",
 "säckingen, von",['toponymic'],"['von seckingen', 'säckingen, von']",Bad Säckingen
@@ -1366,8 +1540,10 @@ söm,['cognominal'],['söm'],
 sünner,['occupational'],"['sünner', 'sunner']",
 sür,['cognominal'],"['sür', 'sur']",
 taschenmacher,['occupational'],"['teschenmacher', 'taschenmacher']",
+taub,['cognominal'],"['tauben', 'taub']",
+tegel,['cognominal'],"['tegell', 'tegel']",
 "teich, am",['toponymic'],"['am tich', 'teich, am']",
-tenger,[],['tenger'],
+tenger,[],"['tenger', 'denger']",
 teufel,['cognominal'],"['duffel', 'teufel', 'dufel']",
 "thann, von",['toponymic'],"['von than', 'thann, von', 'von dan']",Thann
 "thole, von",['toponymic'],"['von tholen', 'thole, von']",
@@ -1380,14 +1556,15 @@ trachenfeils,['toponymic'],"['trachenfeils', 'drachenfeils', 'trachenfels', 'tra
 trense,[],['trense'],
 trieb,[],"['triebe', 'trieb']",
 "trier, von",['toponymic'],"['von triere', 'trier, von']",Trier
-"truchtersheim, von",['toponymic'],"['von truhtersheim', 'trüchtersheim, von', 'von druhtersheim', 'truchtersheim, von', 'von truhterßheim', 'von druhterßheim', 'von truchterßheim', 'von truchtersheim', 'von trüchtersheim']",Truchtersheim
+"truchtersheim, von",['toponymic'],"['von truhtersheim', 'trüchtersheim, von', 'von druhtersheim', 'truchtersheim, von', 'von truhterßheim', 'von druhterßheim', 'von truchterßheim', 'von truchtersheim', 'von trüchtersheim', 'von trutersheim']",Truchtersheim
 truttmann,['cognominal'],"['druttmans', 'truttmann']",
 träger,['occupational'],"['treger', 'träger', 'treͣger', 'treiger']",
 "tränheim, von",['toponymic'],"['von trenheim', 'tränheim, von']",Traenheim
-"tröschen, zum",['toponymic'],"['zü dem tröschen', 'tröschen, zum']",
+"tröschen, zum",['toponymic'],"['zü dem tröschen', 'tröschen, zum', 'züm tröschen']",
 "trübel, zum",['toponymic'],"['züm trübel', 'trübel, zum', 'zuͦm truͦbel', 'zuͦm trùbel', 'züm trùbel', 'zùm trùbel']",
 tuchscherer,['1'],"['dͦuͦchscherer', 'tuchscherer']",
 tummeler,[],"['tumeler', 'tummeler']",
+"turm, zum",['toponymic'],"['züm thürn', 'turm, zum']",
 turmerlin,['cognominal'],"['durmmelin', 'turmerlin']",
 twinger,[],['twinger'],
 "tübingen, von",['toponymic'],"['von tübingen', 'tübingen, von']",Tübingen
@@ -1399,6 +1576,7 @@ ulrich,['patronymic'],"['uͦlrich', 'ulrich', 'ülrich', 'uͦlrichs', 'ulrichs']
 um-den-kern,['cognominal'],"['umd den kerne', 'um-den-kern']",
 umb und umb,[],"['umb und umb', 'umb und umb']",
 "ungersheim, von",['toponymic'],"['von ungere', 'ungersheim, von']",Ungersheim
+"unser frau haus, auf",['toponymic'],"['uff unß frow hus', 'unser frau haus, auf']",
 "urendorf, von",['toponymic'],"['von urendorf', 'urendorf, von', 'von urendor', 'von urendorff']",Chateau d'Urendorf
 usenberg,['toponymic'],"['usenberg', 'usenbergin']",Usenberg
 uttenheim,['toponymic'],"['utenheim', 'uttenheim']",Uttenheim
@@ -1418,11 +1596,11 @@ vogeler,['occupational'],"['vogelers', 'vogeler']",
 vogelsberg,['toponymic'],['vogelsberg'],
 vogelweide,['cognominal'],"['vogel weide', 'vogelweide']",
 vogt,['occupational'],"['vogt', 'vogtes']",
-volk,[],"['volck', 'volk']",
+volk,[],"['volck', 'volk', 'volcken']",
 volkmar,['toponymic'],"['volmar', 'volkmar']",
 vollrat,['cognominal'],"['völleratt', 'vollrat']",
 volmar,['patronymic'],"['volmars', 'volmar']",
-voltz,[],"['voltz', 'voltze', 'voltzel', 'voltzels']",
+voltz,[],"['voltz', 'voltze', 'voltzel', 'voltzels', 'voltzen', 'foltze']",
 völtsch,[],"['völtsche', 'völtsch', 'voltsche', 'voͤltsche', 'voltscheͤ', 'voͤltsch', 'voͦltsche', 'voͤiltsch', 'voiltsch', 'voltsch']",
 "wachenheim, von",['toponymic'],"['von wachenheim', 'wachenheim, von']",Wachenheim
 wachenheimer,['toponymic'],"['wachenheymer', 'wachenheimer']",
@@ -1435,7 +1613,7 @@ waldecker,['patronymic'],['waldecker'],
 waldener,['occupational'],['waldener'],
 waldmann,['occupational'],"['walthmans', 'waldmann', 'waltman']",
 walt,['toponymic'],['walt'],
-waltenheim,['toponymic'],['waltenheim'],Waltenheim
+waltenheim,['toponymic'],"['waltenheim', 'waltenheymmin']",Waltenheim
 "waltenheim, von",['toponymic'],"['von waltenheim', 'waltenheim, von', 'von walde']",Waltenheim
 walther,['patronymic'],"['walthers', 'walther']",
 wambesch,[],['wambesch'],
@@ -1443,6 +1621,7 @@ wambesch,[],['wambesch'],
 wanner,['occupational'],['wanner'],
 "wantzen, von",['toponymic'],"['von wantzen', 'wantzen, von']",Wantzenau La
 "waseneck, von",['toponymic'],"['von wasenecke', 'waseneck, von']",
+"waseneck, zur",['toponymic'],"['zü wasenecke', 'waseneck, zur']",
 "wasselnheim, von",['toponymic'],"['von wahsselnheim', 'wasselnheim, von', 'von wasselnheim']",Wasselonne
 wassicher,[],"['wahssicher', 'wassicher']",
 weber,['occupational'],"['weber', 'wober']",
@@ -1454,36 +1633,42 @@ weidemann,['occupational'],"['wideman', 'weidemann', 'wydeman']",
 weidlich,['cognominal'],"['weidelich', 'weidlich', 'weydelich', 'weidenlich', 'weidelich', 'weỳdelich']",
 wein und brot,['cognominal'],"['win und brot', 'wein und brot', 'win und brot']",
 weinbeck,[],"['winbeck', 'weinbeck']",
+"weinmarkt, am",['toponymic'],"['am winmerck', 'weinmarkt, am', 'am winmerckt']",
 weinsacher,[],"['winsacher', 'weinsacher']",
 weinundbrot,['cognominal'],"['winunbrot', 'weinundbrot']",
 weipolt,[],"['wỳpolt', 'weipolt', 'wypolt', 'wipolt']",
-weiss,['cognominal'],"['wiss', 'weiss', 'wissin', 'wiß', 'weiß']",
+weiss,['cognominal'],"['wiss', 'weiss', 'wissin', 'wiß', 'weiß', 'wis']",
 weisseisen,['occupational'],"['wiszysen', 'weisseisen']",
 weissgerber,['occupational'],"['wisgerwer', 'weissgerber']",
+weisshaar,['cognominal'],"['wißhar', 'weisshaar']",
 weitbauch,['cognominal'],"['wittbüch', 'weitbauch']",
+weitenburg,['toponymic'],"['wytenburg', 'weitenburg']",
 wel,[],['wel'],
 welcker,['occupational'],"['welcker', 'welckers']",
 weldel,[],"['weldel', 'weldels']",
 welsch,['toponymic'],"['welsh', 'welsch', 'welsche', 'walich']",
 wentscher,[],['wentscher'],
 wentzmann,['occupational'],"['wentzeman', 'wentzmann']",
+werber,['occupational'],"['werberin', 'werber']",
 werde,['cognominal'],"['werde', 'werder']",
 "werde, uff dem",['toponymic'],"['uff dem werde', 'werde, uff dem', 'uff dem werde']",
 werkmeister,['occupational'],"['werckmeister', 'werkmeister']",
 wernher,['patronymic'],"['wernher', 'wernhers']",
-wernlin,['patronymic'],"['wernlin', 'werlin']",
+wernlin,['patronymic'],"['wernlin', 'werlin', 'wernlins']",
 wester,['toponymic'],['wester'],
 westermann,['toponymic'],"['westerman', 'westermann', 'westermennin']",
 westerwind,['cognominal'],['westerwind'],
+"westhausen, von",['toponymic'],"['von westhusen', 'westhausen, von']",Westhouse
 westhoffen,['toponymic'],"['westhofen', 'westhoffen']",Westhoffen
 "westhoffen, von",['toponymic'],"['von westhoven', 'westhoffen, von']",Westhoffen
 westhus,['toponymic'],"['von westhus', 'westhus']",Westhouse
 wetzel,[],['wetzel'],
 wibolsheim,['toponymic'],"['wybelsheim', 'wibolsheim']",Wibolsheim
-"wickersheim, von",['toponymic'],"['von wickersheim', 'wickersheim, von']",Wickersheim-Wilshausen
+"wickersheim, von",['toponymic'],"['von wickersheim', 'wickersheim, von', 'von wickerßheim']",Wickersheim-Wilshausen
 widerer,['occupational'],['widerer'],
+widergrinn,['cognominal'],"['widergrin', 'widergrinn']",
 wiffersheim,['toponymic'],"['wifferßheim', 'wiffersheim', 'wiferßheim']",
-wigang,[],['wigang'],
+wigang,[],"['wigang', 'wyganden']",
 wild,['cognominal'],"['wilde', 'wild']",
 wildersinn,['cognominal'],"['wyldersynn', 'wildersinn', 'wildersin']",
 "wile, von",['toponymic'],"['von wile', 'wile, von']",
@@ -1502,6 +1687,7 @@ winterhorn,['cognominal'],"['winterhorne', 'winterhorn']",
 winterthur,['toponymic'],"['wintertur', 'winterthur']",Winterthur
 "winterthur, von",['toponymic'],"['von wintertur', 'winterthur, von', 'von winthertur', 'von wintertùr']",Winterthur
 wintzeler,['cognominal'],['wintzeler'],
+wintzenheim,['toponymic'],['wintzenheim'],Wintzenheim
 wintzler,[],['wintzler'],
 wirich,[],"['wyrich', 'wirich', 'wÿrich']",
 wisebach,['toponymic'],"['wisebach', 'wysebach']",
@@ -1510,27 +1696,30 @@ wissemburg,['toponymic'],"['wissemburg', 'wissenburg']",Wissembourg
 "wissemburg, von",['toponymic'],"['von wißenburg', 'wissemburg, von']",Wissembourg
 wissensee,[],['wissensee'],
 wissensel,['cognominal'],['wissensel'],
-"wiwersheim, von",['toponymic'],"['von wihersheim', 'wiwersheim, von']",Wiwersheim
+"wiwersheim, von",['toponymic'],"['von wihersheim', 'wiwersheim, von', 'von wiferßheim']",Wiwersheim
 wo-er-tritt,['cognominal'],"['wohertritt', 'wo-er-tritt']",
 "wolfach, von",['toponymic'],"['von wolfach', 'wolfach, von']",Wolfach
-wolff,['patronymic'],"['wolff', 'wolf']",
+wolff,['patronymic'],"['wolff', 'wolf', 'wolffs']",
 wolffach,[],"['von wolffach', 'wolffach']",
 wolffel,['patronymic'],"['wolffels', 'wolffel', 'wolfels']",
 wolffin,['patronymic'],"['wolffins', 'wolffin']",
 wolle,[],['wolle'],
 woog,['cognominal'],"['wögen', 'woog']",
-"worms, von",['toponymic'],"['von worms', 'worms, von', 'von wurmsse', 'von wurmß', 'von wurmeß', 'von wormms']",Worms
+"worms, von",['toponymic'],"['von worms', 'worms, von', 'von wurmsse', 'von wurmß', 'von wurmeß', 'von wormms', 'von wurmße']",Worms
 wormser,['toponymic'],"['wormsser', 'wormser', 'wurmsser', 'wormßer', 'würmeßer']",Worms
 wucher,['cognominal'],"['wuchers', 'wucher']",
+wunrat,['cognominal'],"['wunradt', 'wunrat']",
 wurant,[],"['wuͦrant', 'wurant', 'würant', 'würent', 'würanden']",
 wurm,['cognominal'],"['wurm', 'worm']",
 wurmel,['cognominal'],['wurmel'],
+wurseler,['occupational'],"['wurselerin', 'wurseler']",
 wurtzeler,['occupational'],['wurtzeler'],
 wurtzgart,['occupational'],['wurtzgart'],
-wurtzgarten,['cognominal'],"['würtzgarte', 'wurtzgarten']",
-würfeler,['occupational'],"['wurfeler', 'würfeler']",
+wurtzgarten,['cognominal'],"['würtzgarte', 'wurtzgarten', 'wurtzgartin']",
+würfeler,['occupational'],"['wurfeler', 'würfeler', 'wurffeler']",
 würsel,[],"['wuͤrsel', 'würsel', 'wùrsel']",
 württemberg,['toponymic'],"['wurtemberg', 'württemberg']",Wurtemberg
+würtzburg,['toponymic'],"['wurtzburg', 'würtzburg']",Wurtzbourg
 wüter,['cognominal'],['wüter'],
 "zabern, von",['toponymic'],"['von zabern', 'zabern, von']",Saverne
 zart,['cognominal'],"['zarten', 'zart']",
@@ -1541,7 +1730,9 @@ zeller,['occupational'],['zeller'],
 zender,[],['zender'],
 zeppfin,['cognominal'],['zeppfin'],
 zerig,['occupational'],['zerig'],
+zetteler,['occupational'],['zetteler'],
 ziegler,['occupational'],"['ziegler', 'ziegeler', 'zieglers']",
+zierler,['occupational'],['zierler'],
 zimber,['occupational'],"['zymber', 'zimber']",
 zimberhof,['toponymic'],"['zimberhoff', 'zimberhof']",
 zimmer,['occupational'],"['zymmer', 'zimmer']",
@@ -1555,15 +1746,17 @@ zoller,['occupational'],['zoller'],
 "zoller, zum",['toponymic'],"['züm zoller', 'zoller, zum']",
 zorn,['cognominal'],"['zorn', 'zorn', 'zorne', 'zurne']",
 zucker,['cognominal'],"['zücker', 'zucker']",
+zurweinlin,['cognominal'],"['zurwinlin', 'zurweinlin']",
 "zweibrücken, von",['toponymic'],"['von zweibrùcken', 'zweibrücken, von']",Zweibrücken
 zweig,['cognominal'],"['zwig', 'zweig']",
 zwige,[],"['zwigen', 'zwige']",
 zwölffer,['cognominal'],"['zwelffer', 'zwölffer']",
 zähringer,['toponymic'],"['zeringer', 'zähringer']",Zähringen
+"zürich, von",['toponymic'],"['von zurich', 'zürich, von', 'von zürich']",Zurich
 züricher,['toponymic'],"['zurricher', 'züricher']",Zurich
 öl,['cognominal'],"['ole', 'öl']",
 ölmann,['occupational'],"['oleman', 'ölmann', 'olman']",
 ösenwoog,['toponymic'],"['ösenwog', 'ösenwoog']",
 österreicher,['toponymic'],"['estericher', 'österreicher']",Autriche
-"überhang, zum",[],"['zum überhange', 'überhang, zum', 'züm überhang', 'zuͤm ùberhange']",
+"überhang, zum",[],"['zum überhange', 'überhang, zum', 'züm überhang', 'zuͤm ùberhange', 'züm uberhange']",
 üsenberg,['toponymic'],"['uͦsemberg', 'üsemberg', 'üsenberg']",Üsenberg
