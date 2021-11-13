@@ -1,4 +1,4 @@
-NomNormalisé,Types,'lügerlin',RenvoiToponymique
+NomNormalisé,Types,FormesNonNormalisées,RenvoiToponymique
 "aarau, von",['toponymic'],"['von arowe', 'aarau, von']",Aarau
 achenheim,['toponymic'],['achenheim'],Achenheim
 "achenheim, von",['toponymic'],"['von achenheim', 'achenheim, von']",Achenheim
@@ -575,7 +575,7 @@ heintzel,['patronymic'],"['heintzel', 'heintzels']",
 heischer,[],['heischer'],
 "heitersheim, von",['toponymic'],"['von heiterßheim', 'heitersheim, von']",Heitersheim
 helbeling,['cognominal'],"['helbelings', 'helbeling']",
-hell,['cognominal'],"['hell' , 'helle']",
+hell,['cognominal'],"['hell', 'helle']",
 "hellen, zur",['toponymic'],"['zͦuͦr hellen', 'hellen, zur', 'zuͤr hellen', 'zür hellen', 'hellen, zür']",
 helwig,[],"['helwig', 'helwigen']",
 hemmerlin,['cognominal'],['hemmerlin'],
