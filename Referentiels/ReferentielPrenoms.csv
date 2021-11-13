@@ -22,8 +22,8 @@ bernhart,bernard,"['masc', 'germanique']","['bernhart', 'bernhard', 'berhart', '
 bertsch,,"['masc', 'germanique']",['bertsch']
 billung,,"['masc', 'germanique']",['billung']
 blesin,blaise,"['masc', 'grec']",['blesin']
-bride,,"['fém', 'germanique']",['bride']
-brigitte,brigite,"['fém', 'celtique']","['brigde', 'brigitte']"
+,,,
+brigitte,brigite,"['fém', 'celtique']","['brigde', 'brigitte', 'bride']"
 burkhart,,"['masc', 'germanique']","['burkhart', 'burkhard', 'burckhart', 'burckhard', 'burchart', 'burchard', 'burckart', 'bùrcklin', 'burcklin', 'buckart', 'burckeln', 'burckel', 'bürckel', 'burckelin']"
 burmann,,"['masc', 'germanique']","['burlin', 'burmann']"
 böldemann,,"['masc', 'germanique']","['boͤldelin', 'böldemann']"
@@ -39,8 +39,8 @@ dielmann,,"['masc', 'germanique']","['dielman', 'dielmann', 'diel', 'dielen']"
 diethmar,,"['masc', 'germanique']","['diemar', 'diethmar', 'dietsche']"
 dietrich,thierry,"['masc', 'franc']","['dietrich', 'diethermann', 'dietherman', 'dietherich', 'diethrich', 'diether', 'dietterich', 'dieterich']"
 dinlin,,['fém'],"['dinlin', 'dielin', 'dynlin']"
-ebel,,"['masc', 'germanique']",['ebel']
-ebelin,,"['masc', 'germanique']",['ebelin']
+,,,
+ebelin,,"['masc', 'germanique']","['ebelin', 'ebel']"
 eberhart,éberhard,"['masc', 'germanique']","['eberhart', 'eberhard', 'eberlin']"
 eckhart,,"['masc', 'germanique']","['eckart', 'eckhart']"
 elisabeth,élisabeth,"['fém', 'hébraïque']","['eilse', 'elisabeth', 'else', 'eilsebeth']"
