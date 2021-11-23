@@ -1,44 +1,44 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1436,Arbogast,"Kageneck, von",,,['her'],constoffeler,,,Arbogast,von Kageneck,,her Arbogast von Kageneck
-1,stettmeister,1436,Ludwig,"Rosheim, von",,,['her'],constoffeler,,,Ludwig,von Rosheim,,her Ludwig von Rosheim
-2,stettmeister,1436,Kühne,"Trübel, zum",,,"['her', 'XIII']",constoffeler,,,Cuͦne,zuͦm Trùbel,,her Cuͦne zuͦm Trùbel XIII
-3,stettmeister,1436,Johanns,Humbrecht,,,['her'],constoffeler,,,Hanns,Humbreht,,her Hanns Humbreht
-4,ammeister,1436,Konrat,Armbruster,"Pfennigturm, vor dem",,"['her', 'ammeister']",echevinat,,,Conrat,Armbruster,vor dem pfennigturm,her Conrat Armbruster vor dem pfennigturm der ammeister
-5,conseiller_des_constaffel,1436,Burkhart,"Müllenheim, von",,,['her'],constoffeler,,,Burckart,von Mùlnheim,,her Burckart von Mùlnheim
-6,conseiller_des_constaffel,1436,Johanns,Ellenhart,,,['her'],constoffeler,,,Johanns,Elnhart,,her Johanns Elnhart
-7,conseiller_des_constaffel,1436,Wolffhelm,Bock,,,"['her', 'XIII']",constoffeler,,,Wolffhelm,Bock,,her Wolffhelm Bock XIII
-8,conseiller_des_constaffel,1436,Hessemann,Hesse,,,['her'],constoffeler,,,Hesseman,Hesse,,her Hesseman Hesse
-9,conseiller_des_constaffel,1436,Bechtolt,Zorn,Schultheiss,,,constoffeler,,,Behtolt,Zorn,Schultheiss,Behtolt Zorn genant Schultheiss
-10,conseiller_des_constaffel,1436,Johanns,"Megde, zur",,,,constoffeler,,,Hanns,zͦuͦr Megde,,Hanns zͦuͦr Megde
-11,conseiller_des_constaffel,1436,Konrat,Bock,,,,constoffeler,,,Conrat,Bock,,Conrat Bock
-12,conseiller_des_constaffel,1436,Peter,Mosung,,,,constoffeler,,,Peter,Mosung,,Peter Mosung
-13,conseiller_des_constaffel,1436,Hermann,Deutschmann,,,,constoffeler,,,Herman,Tùtschman,,Herman Tùtschman
-14,conseiller_des_constaffel,1436,Diebolt,Lentzelin,,,,constoffeler,,,Diebolt,Lentzel,,Diebolt Lentzel
-15,conseiller_des_marchands,1436,Adam,Riffe,,,"['her', 'altammeister']",echevinat,corporation_des_marchands,,Adam,Riffe,,her Adam Riffe altammeister
-16,conseiller_des_boulangers,1436,Jacob,"Geispoltzheim, von",,,"['her', 'altammeister']",echevinat,corporation_des_boulangers,,Jacob,von Geispoltzheim,,her Jacob von Geispoltzheim altammeister
-17,conseiller_des_bouchers,1436,Johanns,Bechtolt,,,"['her', 'altammeister']",echevinat,corporation_des_bouchers,,Johanns,Betscholt,,her Johanns Betscholt altammeister
-18,conseiller_des_tonneliers,1436,Johanns,Dingsheim,,,,echevinat,corporation_des_tonneliers,,Hanns,Dùngesheim,,Hanns Dùngesheim
-19,conseiller_des_drapiers,1436,Claus,Sprenger,,,,echevinat,corporation_des_drapiers,,Claus,Sprenger,,Claus Sprenger
-20,conseiller_des_tanneurs,1436,Claus,Duntzenheim,,,,echevinat,corporation_des_tanneurs,,Claus,Duntzenheim,,Claus Duntzenheim
-21,conseiller_des_cabaretiers,1436,Claus,Wormser,,,,echevinat,corporation_des_cabaretiers,,Claus,Wurmsser,,Claus Wurmsser
-22,conseiller_des_maçons,1436,Bechtolt,Bösch,,,,echevinat,corporation_des_maçons,,Berhtolt,Boͤsche,,Berhtolt Boͤsche
-23,conseiller_des_forgerons,1436,Peter,Villinger,,,,echevinat,corporation_des_forgerons,,Peter,Vilinger,,Peter Vilinger
-24,conseiller_des_tailleurs,1436,Peter,Stoltz,,,,echevinat,corporation_des_tailleurs,,Peter,Stoltz,,Peter Stoltz
-25,conseiller_des_bateliers,1436,Johanns,Ammelung,,,,echevinat,corporation_des_bateliers,,Hanns,Ammelung,,Hanns Ammelung
-26,conseiller_des_pelletiers,1436,Claus,"Hellen, zur",,,,echevinat,corporation_des_pelletiers,,Claus,zͦuͦr Hellen,,Claus zͦuͦr Hellen
-27,conseiller_des_charpentiers,1436,Fritsch,,"Werde, uff dem",,,echevinat,corporation_des_charpentiers,,Fritsch,,uff dem werde,Fritsch uff dem werde
-28,conseiller_des_crieurs_et_mesureurs_de_vin,1436,Jacob,"Kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Jacob,zͦuͦr Kenen,,Jacob zͦuͦr Kenen
-29,conseiller_des_cordonniers,1436,Heinrich,Flöss,,,,echevinat,corporation_des_cordonniers,,Heinrich,Floͤsse,,Heinrich Floͤsse
-30,conseiller_des_orfevres,1436,Johanns,"Altzheim, von",,,,echevinat,corporation_des_orfevres,,Hanns,von Altzen,,Hanns von Altzen
-31,conseiller_des_marchands_de_grains,1436,Peter,"Rohr, von",,,,echevinat,corporation_des_marchands_de_grains,,Peter,von Rore,,Peter von Rore
-32,conseiller_des_jardiniers,1436,Johanns,Spete,,,,echevinat,corporation_des_jardiniers,,Hanns,Spete,,Hanns Spete
-33,conseiller_des_pêcheurs,1436,Johanns,Würsel,,,['XIII'],echevinat,corporation_des_pêcheurs,,Hanns,Wùrsel,,Hanns Wùrsel XIII
-34,conseiller_des_barbiers_et_baigneurs,1436,Michel,,"Sant-Stefansplan, uff",,['meister'],echevinat,corporation_des_barbiers_et_baigneurs,,Michel,,uff sant Steffans plan,meister Michel uff sant Steffans plan
-35,conseiller_des_sauniers,1436,Lienhart,Trachenfeils,,,,echevinat,corporation_des_sauniers,,Leonhart,Trachenfeils,,Leonhart Trachenfeils
-36,conseiller_des_tisserands,1436,Johanns,Rhinau,,,,echevinat,corporation_des_tisserands,,Hanns,Rinowe,,Hanns Rinowe
-37,conseiller_des_gourmets_et_courtiers,1436,Konrat,Schindeler,,,,echevinat,corporation_des_gourmets_et_courtiers,,Conrat,Schyndeler,,Conrat Schyndeler
-38,conseiller_des_charrons,1436,Andres,"Herde, von",,,['meister'],echevinat,corporation_des_charrons,,Andres,von Herde,,meister Andres von Herde
-39,conseiller_des_regrattiers_cordiers_et_fruitiers,1436,Johanns,Weipolt,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Hanns,Wipolt,,Hanns Wipolt
-40,conseiller_des_coltineurs_de_tonneaux,1436,Gabriel,,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,Gabriel,,,Gabriel
-41,conseiller_des_constructeurs_de_bateaux,1436,Johanns,Hettemann,,,,echevinat,corporation_des_constructeurs_de_bateaux,,Hanns,Hetteman,,Hanns Hetteman
-42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1436,Claus,Freund,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Claus,Frùnd,,Claus Frùnd
+0,stettmeister,1436,,,,,['her'],constoffeler,,,Arbogast,von Kageneck,,her Arbogast von Kageneck
+1,stettmeister,1436,,,,,['her'],constoffeler,,,Ludwig,von Rosheim,,her Ludwig von Rosheim
+2,stettmeister,1436,,,,,"['her', 'XIII']",constoffeler,,,Cuͦne,zuͦm Trùbel,,her Cuͦne zuͦm Trùbel XIII
+3,stettmeister,1436,,,,,['her'],constoffeler,,,Hanns,Humbreht,,her Hanns Humbreht
+4,ammeister,1436,,,,,"['her', 'ammeister']",echevinat,,,Conrat,Armbruster,vor dem pfennigturm,her Conrat Armbruster vor dem pfennigturm der                         ammeister
+5,conseiller_des_constaffel,1436,,,,,['her'],constoffeler,,,Burckart,von Mùlnheim,,her Burckart von Mùlnheim
+6,conseiller_des_constaffel,1436,,,,,['her'],constoffeler,,,Johanns,Elnhart,,her Johanns Elnhart
+7,conseiller_des_constaffel,1436,,,,,"['her', 'XIII']",constoffeler,,,Wolffhelm,Bock,,her Wolffhelm Bock XIII
+8,conseiller_des_constaffel,1436,,,,,['her'],constoffeler,,,Hesseman,Hesse,,her Hesseman Hesse
+9,conseiller_des_constaffel,1436,,,,,,constoffeler,,,Behtolt,Zorn,Schultheiss,Behtolt Zorn genant Schultheiss
+10,conseiller_des_constaffel,1436,,,,,,constoffeler,,,Hanns,zͦuͦr Megde,,Hanns zͦuͦr Megde
+11,conseiller_des_constaffel,1436,,,,,,constoffeler,,,Conrat,Bock,,Conrat Bock
+12,conseiller_des_constaffel,1436,,,,,,constoffeler,,,Peter,Mosung,,Peter Mosung
+13,conseiller_des_constaffel,1436,,,,,,constoffeler,,,Herman,Tùtschman,,Herman Tùtschman
+14,conseiller_des_constaffel,1436,,,,,,constoffeler,,,Diebolt,Lentzel,,Diebolt Lentzel
+15,conseiller_des_marchands,1436,,,,,"['her', 'altammeister']",echevinat,corporation_des_marchands,,Adam,Riffe,,her Adam Riffe altammeister
+16,conseiller_des_boulangers,1436,,,,,"['her', 'altammeister']",echevinat,corporation_des_boulangers,,Jacob,von Geispoltzheim,,her Jacob von Geispoltzheim altammeister
+17,conseiller_des_bouchers,1436,,,,,"['her', 'altammeister']",echevinat,corporation_des_bouchers,,Johanns,Betscholt,,her Johanns Betscholt altammeister
+18,conseiller_des_tonneliers,1436,,,,,,echevinat,corporation_des_tonneliers,,Hanns,Dùngesheim,,Hanns Dùngesheim
+19,conseiller_des_drapiers,1436,,,,,,echevinat,corporation_des_drapiers,,Claus,Sprenger,,Claus Sprenger
+20,conseiller_des_tanneurs,1436,,,,,,echevinat,corporation_des_tanneurs,,Claus,Duntzenheim,,Claus Duntzenheim
+21,conseiller_des_cabaretiers,1436,,,,,,echevinat,corporation_des_cabaretiers,,Claus,Wurmsser,,Claus Wurmsser
+22,conseiller_des_maçons,1436,,,,,,echevinat,corporation_des_maçons,,Berhtolt,Boͤsche,,Berhtolt Boͤsche
+23,conseiller_des_forgerons,1436,,,,,,echevinat,corporation_des_forgerons,,Peter,Vilinger,,Peter Vilinger
+24,conseiller_des_tailleurs,1436,,,,,,echevinat,corporation_des_tailleurs,,Peter,Stoltz,,Peter Stoltz
+25,conseiller_des_bateliers,1436,,,,,,echevinat,corporation_des_bateliers,,Hanns,Ammelung,,Hanns Ammelung
+26,conseiller_des_pelletiers,1436,,,,,,echevinat,corporation_des_pelletiers,,Claus,zͦuͦr Hellen,,Claus zͦuͦr Hellen
+27,conseiller_des_charpentiers,1436,,,,,,echevinat,corporation_des_charpentiers,,Fritsch,,uff dem werde,Fritsch uff dem werde
+28,conseiller_des_crieurs_et_mesureurs_de_vin,1436,,,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Jacob,zͦuͦr Kenen,,Jacob zͦuͦr Kenen
+29,conseiller_des_cordonniers,1436,,,,,,echevinat,corporation_des_cordonniers,,Heinrich,Floͤsse,,Heinrich Floͤsse
+30,conseiller_des_orfevres,1436,,,,,,echevinat,corporation_des_orfevres,,Hanns,von Altzen,,Hanns von Altzen
+31,conseiller_des_marchands_de_grains,1436,,,,,,echevinat,corporation_des_marchands_de_grains,,Peter,von Rore,,Peter von Rore
+32,conseiller_des_jardiniers,1436,,,,,,echevinat,corporation_des_jardiniers,,Hanns,Spete,,Hanns Spete
+33,conseiller_des_pêcheurs,1436,,,,,['XIII'],echevinat,corporation_des_pêcheurs,,Hanns,Wùrsel,,Hanns Wùrsel XIII
+34,conseiller_des_barbiers_et_baigneurs,1436,,,,,['meister'],echevinat,corporation_des_barbiers_et_baigneurs,,Michel,,uff sant Steffans plan,meister Michel uff sant Steffans plan
+35,conseiller_des_sauniers,1436,,,,,,echevinat,corporation_des_sauniers,,Leonhart,Trachenfeils,,Leonhart Trachenfeils
+36,conseiller_des_tisserands,1436,,,,,,echevinat,corporation_des_tisserands,,Hanns,Rinowe,,Hanns Rinowe
+37,conseiller_des_gourmets_et_courtiers,1436,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Conrat,Schyndeler,,Conrat Schyndeler
+38,conseiller_des_charrons,1436,,,,,['meister'],echevinat,corporation_des_charrons,,Andres,von Herde,,meister Andres von Herde
+39,conseiller_des_regrattiers_cordiers_et_fruitiers,1436,,,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Hanns,Wipolt,,Hanns Wipolt
+40,conseiller_des_coltineurs_de_tonneaux,1436,,,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,Gabriel,,,Gabriel
+41,conseiller_des_constructeurs_de_bateaux,1436,,,,,,echevinat,corporation_des_constructeurs_de_bateaux,,Hanns,Hetteman,,Hanns Hetteman
+42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1436,,,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Claus,Frùnd,,Claus Frùnd

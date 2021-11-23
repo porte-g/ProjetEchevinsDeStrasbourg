@@ -1,38 +1,38 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1480,Johanns-Rudolff,"Endingen, von",,,"['her', 'ritter']",constoffeler,,,Hannsrüdolff,von Endingen,,her Hannsrüdolff von Endingen ritter
-1,stettmeister,1480,Philipp,"Müllenheim, von",,,"['her', 'ritter']",constoffeler,,,Philipps,von Mùlnheim,,her Philipps von Mùlnheim ritter
-2,stettmeister,1480,Johanns,"Kageneck, von",,,"['her', 'ritter']",constoffeler,,,Hans,von Kageneck,,her Hans von Kageneck ritter
-3,stettmeister,1480,Friedrich,Bock,,,"['her', 'ritter']",constoffeler,,,Friderich,Bock,,her Friderich Bock ritter
-4,ammeister,1480,Johanns,"Berse, von",,,"['her', 'ammeister']",echevinat,,,Hans,von Berse,,her Hans von Berse der ammeister
-5,conseiller_des_constaffel,1480,Ludwig,"Kageneck, von",,,"['her', 'ritter']",constoffeler,,,Ludwig,von Kageneck,,her Ludwig von Kageneck ritter
-6,conseiller_des_constaffel,1480,Johanns,"Säckingen, von",,,"['her', 'ritter']",constoffeler,,,Hans,von Seckingen,,her Hans von Seckingen ritter
-7,conseiller_des_constaffel,1480,Johanns,Hüffelin,,,['her'],constoffeler,,,Hans,Hùffel,,her Hans Hùffel
-8,conseiller_des_constaffel,1480,Reimbolt,"Trübel, zum",,,,constoffeler,,,Reymbolt,züm Trùbel,,Reymbolt züm Trùbel
-9,conseiller_des_constaffel,1480,Johanns,Erlin,,,,constoffeler,,,Hans,Erlin,,Hans Erlin
-10,conseiller_des_constaffel,1480,Caspar,Klobelouch,,,,constoffeler,,,Caspar,Clobelouch,,Caspar Clobelouch
-11,conseiller_des_constaffel,1480,Gosse,Hüffelin,,,,constoffeler,,,Goß,Hùffel,,Goß Hùffel
-12,conseiller_des_constaffel,1480,Jacob,Ellenhart,,,,constoffeler,,,Jacob,Elhart,,Jacob Elhart
-13,conseiller_des_bateliers,1480,Johanns,Berlin,,,,echevinat,corporation_des_bateliers,,Hans,Berlin,,Hans Berlin
-14,conseiller_des_marchands,1480,Johanns-Erhart,"Rottweil, von",,,,echevinat,corporation_des_marchands,,Hanserhart,von Rotwil,,Hanserhart von Rotwil
-15,conseiller_des_bouchers,1480,Marx,Kerling,,,,echevinat,corporation_des_bouchers,,Marx,Kerling,,Marx Kerling
-16,conseiller_des_cabaretiers,1480,Adam,Messner,,,,echevinat,corporation_des_cabaretiers,,Adam,Mesener,,Adam Mesener
-17,conseiller_des_drapiers,1480,Götze,"Hohenburg, von",,,,echevinat,corporation_des_drapiers,,Götz,von Hohemburg,,Götz von Hohemburg
-18,conseiller_des_marchands_de_grains,1480,Peter,Schott,,,"['her', 'altammeister']",echevinat,corporation_des_marchands_de_grains,,Peter,Schott,,her Peter Schott altammeister
-19,conseiller_des_sauniers,1480,Heinrich,Medinger,,,,echevinat,corporation_des_sauniers,,Heinrich,Mëdinger,,Heinrich Mëdinger
-20,conseiller_des_orfevres,1480,Johanns,"Frankfurt, von",,,,echevinat,corporation_des_orfevres,,Hans,von Franckfort,,Hans von Franckfort
-21,conseiller_des_boulangers,1480,Johanns,Waldener,,,,echevinat,corporation_des_boulangers,,Hans,Waldener,,Hans Waldener
-22,conseiller_des_pelletiers,1480,Johanns,Slapp,,,,echevinat,corporation_des_pelletiers,,Hans,Slapp,,Hans Slapp
-23,conseiller_des_tonneliers,1480,Anthenie,Dahlheim,,,,echevinat,corporation_des_tonneliers,,Anthenÿe,Dalheim,,Anthenÿe Dalheim
-24,conseiller_des_tanneurs,1480,Johanns,Vendenheim,,,,echevinat,corporation_des_tanneurs,,Hans,Vendenheim,,Hans Vendenheim
-25,conseiller_des_gourmets_et_courtiers,1480,Johanns,Beger,,,,echevinat,corporation_des_gourmets_et_courtiers,,Hans,Bëger,,Hans Bëger
-26,conseiller_des_tailleurs,1480,Heinrich,Müller,,,,echevinat,corporation_des_tailleurs,,Heinrich,Mùller,,Heinrich Mùller
-27,conseiller_des_forgerons,1480,Lienhart,Ammeister,,,,echevinat,corporation_des_forgerons,,Lienhart,Ammeister,,Lienhart Ammeister
-28,conseiller_des_barbiers_et_baigneurs,1480,Johanns,Schedeler,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Hans,Schëdeler,,Hans Schëdeler
-29,conseiller_des_cordonniers,1480,Johanns,Burkhart,,,,echevinat,corporation_des_cordonniers,,Hans,Burckart,,Hans Burckart
-30,conseiller_des_pêcheurs,1480,Johanns,Bülle,,,,echevinat,corporation_des_pêcheurs,,Hans,Bùlle,,Hans Bùlle
-31,conseiller_des_charrons,1480,Johanns,Claus,,,,echevinat,corporation_des_charrons,,Hans,Claus,,Hans Claus
-32,conseiller_des_jardiniers,1480,Andres,Ersame,,,,echevinat,corporation_des_jardiniers,,Andres,Ersamme,,Andres Ersamme
-33,conseiller_des_tisserands,1480,Konrat,"Wile, von",,,,echevinat,corporation_des_tisserands,,Conrat,von Wile,,Conrat von Wile
-34,conseiller_des_regrattiers_cordiers_et_fruitiers,1480,Heinrich,Schwencker,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Heinrich,Swencker,,Heinrich Swencker
-35,conseiller_des_charpentiers,1480,Peter,"Morsmünster, von",,,,echevinat,corporation_des_charpentiers,,Peter,von Morßmùnster,,Peter von Morßmùnster
-36,conseiller_des_maçons,1480,Gangolff,"Morsmünster, von",,,,echevinat,corporation_des_maçons,,Gangolff,von Morßmùnster,,Gangolff von Morßmùnster
+0,stettmeister,1480,,,,,"['her', 'ritter']",constoffeler,,,Hannsrüdolff,von Endingen,,her Hannsrüdolff von Endingen ritter
+1,stettmeister,1480,,,,,"['her', 'ritter']",constoffeler,,,Philipps,von Mùlnheim,,her Philipps von Mùlnheim ritter
+2,stettmeister,1480,,,,,"['her', 'ritter']",constoffeler,,,Hans,von Kageneck,,her Hans von Kageneck ritter
+3,stettmeister,1480,,,,,"['her', 'ritter']",constoffeler,,,Friderich,Bock,,her Friderich Bock ritter
+4,ammeister,1480,,,,,"['her', 'ammeister']",echevinat,,,Hans,von Berse,,her Hans von Berse der                      ammeister
+5,conseiller_des_constaffel,1480,,,,,"['her', 'ritter']",constoffeler,,,Ludwig,von Kageneck,,her Ludwig von Kageneck ritter
+6,conseiller_des_constaffel,1480,,,,,"['her', 'ritter']",constoffeler,,,Hans,von Seckingen,,her Hans von Seckingen ritter
+7,conseiller_des_constaffel,1480,,,,,['her'],constoffeler,,,Hans,Hùffel,,her Hans Hùffel
+8,conseiller_des_constaffel,1480,,,,,,constoffeler,,,Reymbolt,züm Trùbel,,Reymbolt züm Trùbel
+9,conseiller_des_constaffel,1480,,,,,,constoffeler,,,Hans,Erlin,,Hans Erlin
+10,conseiller_des_constaffel,1480,,,,,,constoffeler,,,Caspar,Clobelouch,,Caspar Clobelouch
+11,conseiller_des_constaffel,1480,,,,,,constoffeler,,,Goß,Hùffel,,Goß Hùffel
+12,conseiller_des_constaffel,1480,,,,,,constoffeler,,,Jacob,Elhart,,Jacob Elhart
+13,conseiller_des_bateliers,1480,,,,,,echevinat,corporation_des_bateliers,,Hans,Berlin,,Hans Berlin
+14,conseiller_des_marchands,1480,,,,,,echevinat,corporation_des_marchands,,Hanserhart,von Rotwil,,Hanserhart von Rotwil
+15,conseiller_des_bouchers,1480,,,,,,echevinat,corporation_des_bouchers,,Marx,Kerling,,Marx Kerling
+16,conseiller_des_cabaretiers,1480,,,,,,echevinat,corporation_des_cabaretiers,,Adam,Mesener,,Adam Mesener
+17,conseiller_des_drapiers,1480,,,,,,echevinat,corporation_des_drapiers,,Götz,von Hohemburg,,Götz von Hohemburg
+18,conseiller_des_marchands_de_grains,1480,,,,,"['her', 'altammeister']",echevinat,corporation_des_marchands_de_grains,,Peter,Schott,,her Peter Schott altammeister
+19,conseiller_des_sauniers,1480,,,,,,echevinat,corporation_des_sauniers,,Heinrich,Mëdinger,,Heinrich Mëdinger
+20,conseiller_des_orfevres,1480,,,,,,echevinat,corporation_des_orfevres,,Hans,von Franckfort,,Hans von Franckfort
+21,conseiller_des_boulangers,1480,,,,,,echevinat,corporation_des_boulangers,,Hans,Waldener,,Hans Waldener
+22,conseiller_des_pelletiers,1480,,,,,,echevinat,corporation_des_pelletiers,,Hans,Slapp,,Hans Slapp
+23,conseiller_des_tonneliers,1480,,,,,,echevinat,corporation_des_tonneliers,,Anthenÿe,Dalheim,,Anthenÿe Dalheim
+24,conseiller_des_tanneurs,1480,,,,,,echevinat,corporation_des_tanneurs,,Hans,Vendenheim,,Hans Vendenheim
+25,conseiller_des_gourmets_et_courtiers,1480,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Hans,Bëger,,Hans Bëger
+26,conseiller_des_tailleurs,1480,,,,,,echevinat,corporation_des_tailleurs,,Heinrich,Mùller,,Heinrich Mùller
+27,conseiller_des_forgerons,1480,,,,,,echevinat,corporation_des_forgerons,,Lienhart,Ammeister,,Lienhart Ammeister
+28,conseiller_des_barbiers_et_baigneurs,1480,,,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Hans,Schëdeler,,Hans Schëdeler
+29,conseiller_des_cordonniers,1480,,,,,,echevinat,corporation_des_cordonniers,,Hans,Burckart,,Hans Burckart
+30,conseiller_des_pêcheurs,1480,,,,,,echevinat,corporation_des_pêcheurs,,Hans,Bùlle,,Hans Bùlle
+31,conseiller_des_charrons,1480,,,,,,echevinat,corporation_des_charrons,,Hans,Claus,,Hans Claus
+32,conseiller_des_jardiniers,1480,,,,,,echevinat,corporation_des_jardiniers,,Andres,Ersamme,,Andres Ersamme
+33,conseiller_des_tisserands,1480,,,,,,echevinat,corporation_des_tisserands,,Conrat,von Wile,,Conrat von Wile
+34,conseiller_des_regrattiers_cordiers_et_fruitiers,1480,,,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Heinrich,Swencker,,Heinrich Swencker
+35,conseiller_des_charpentiers,1480,,,,,,echevinat,corporation_des_charpentiers,,Peter,von Morßmùnster,,Peter von Morßmùnster
+36,conseiller_des_maçons,1480,,,,,,echevinat,corporation_des_maçons,,Gangolff,von Morßmùnster,,Gangolff von Morßmùnster

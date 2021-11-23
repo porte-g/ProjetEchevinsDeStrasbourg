@@ -1,44 +1,44 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1462,Claus,Zorn,"Bülach, von",,['her'],constoffeler,,,Claus,Zorn,von Buͦlach,her Claus Zorn von Buͦlach
-1,stettmeister,1462,Johanns,Böckel,,,"['her', 'ritter']",constoffeler,,,Hanns,Boͤckel,,her Hanns Boͤckel ritter
-2,stettmeister,1462,Friedrich,"Rust, zum",,,"['her', 'ritter']",constoffeler,,,Fridrich,zuͦm Ruͦst,,her Fridrich zuͦm Ruͦst ritter
-3,stettmeister,1462,Ludwig,"Müllenheim, von",,,['her'],constoffeler,,,Ludwig,von Mùlnheim,,her Ludwig von Mùlnheim
-4,ammeister,1462,Johanns,Lumbart,,,"['her', 'ammeister']",echevinat,,,Hanns,Lumbart,,her Hanns Lumbart der ammeister
-5,conseiller_des_constaffel,1462,Johanns,Hüffelin,,,['her'],constoffeler,,,Hanns,Hùffel,,her Hanns Hùffel
-6,conseiller_des_constaffel,1462,Johanns,Merswin,,,['her'],constoffeler,,,Hanns,Merswin,,her Hanns Merswin
-7,conseiller_des_constaffel,1462,Diebolt,Lentzelin,,,,constoffeler,,,Diebolt,Lentzel,,Diebolt Lentzel
-8,conseiller_des_constaffel,1462,Johanns,Berer,,,,constoffeler,,,Hanns,Berer,,Hanns Berer
-9,conseiller_des_constaffel,1462,Thoman,Ellenhart,,,,constoffeler,,,Thoman,Elhart,,Thoman Elhart
-10,conseiller_des_constaffel,1462,Thoman,Büchsener,,,,constoffeler,,,Thoman,Bùhssener,,Thoman Bùhssener
-11,conseiller_des_constaffel,1462,Bernhart,Bock,,,,constoffeler,,,Bernhart,Bock,,Bernhart Bock
-12,conseiller_des_constaffel,1462,Caspar,"Megde, zur",,,,constoffeler,,,Caspar,zͦuͦr Megde,,Caspar zͦuͦr Megde
-13,conseiller_des_constaffel,1462,Johanns,Völtsch,,,,constoffeler,,,Hanns,Voͦltsche,,Hanns Voͦltsche
-14,conseiller_des_constaffel,1462,Johanns,Riffe,,,,constoffeler,,,Hanns,Riffe,,Hanns Riffe
-15,conseiller_des_marchands,1462,Peter,Arge,,,,echevinat,corporation_des_marchands,,Peter,Arge,,Peter Arge
-16,conseiller_des_boulangers,1462,Claus,Linzer,,,,echevinat,corporation_des_boulangers,,Claus,Linser,,Claus Linser
-17,conseiller_des_bouchers,1462,Johanns,"Berse, von",,,,echevinat,corporation_des_bouchers,,Hanns,von Berse,,Hanns von Berse
-18,conseiller_des_tonneliers,1462,Johanns,"Dalheim, von",,,,echevinat,corporation_des_tonneliers,,Hanns,von Dalheim,,Hanns von Dalheim
-19,conseiller_des_drapiers,1462,Johanns,Armbruster,"Pfennigturm, vor dem",,,echevinat,corporation_des_drapiers,,Hanns,Armbruster,vor dem pfennigturn,Hanns Armbruster vor dem pfennigturn
-20,conseiller_des_tanneurs,1462,Thoman,Volkmar,,,,echevinat,corporation_des_tanneurs,,Thoman,Volmar,,Thoman Volmar
-21,conseiller_des_cabaretiers,1462,Claus,Baumgarter,,,,echevinat,corporation_des_cabaretiers,,Claus,Boͧmgarter,,Claus Boͧmgarter
-22,conseiller_des_maçons,1462,Michel,"Molsheim, von",,,,echevinat,corporation_des_maçons,,Michel,von Molsheim,,Michel von Molsheim
-23,conseiller_des_forgerons,1462,Ludwig,Kannengiesser,,,,echevinat,corporation_des_forgerons,,Ludeman,Kannengiesser,,Ludeman Kannengiesser
-24,conseiller_des_tailleurs,1462,Andres,Volk,,,,echevinat,corporation_des_tailleurs,,Andres,Volck,,Andres Volck
-25,conseiller_des_bateliers,1462,Heinrich,Bisinger,,,,echevinat,corporation_des_bateliers,,Heinrich,Bisinger,,Heinrich Bisinger
-26,conseiller_des_pelletiers,1462,Claus,Wissensee,,,,echevinat,corporation_des_pelletiers,,Claus,Wissensee,,Claus Wissensee
-27,conseiller_des_charpentiers,1462,Michel,Rippel,,,,echevinat,corporation_des_charpentiers,,Michel,Ripel,,Michel Ripel
-28,conseiller_des_crieurs_et_mesureurs_de_vin,1462,Claus,Beingewant,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Claus,Beingewant,,Claus Beingewant
-29,conseiller_des_cordonniers,1462,Konrat,Bitsch,,,,echevinat,corporation_des_cordonniers,,Conrat,von Bitsch,,Conrat von Bitsch
-30,conseiller_des_orfevres,1462,Heinrich,Arge,,,,echevinat,corporation_des_orfevres,,Heinrich,Arge,,Heinrich Arge
-31,conseiller_des_marchands_de_grains,1462,Johanns,Melbrühe,,,"['her', 'altammeister']",echevinat,corporation_des_marchands_de_grains,,Hanns,Melbruͤ,,her Hanns Melbruͤ altammeister
-32,conseiller_des_jardiniers,1462,Friedrich,Wolff,,,,echevinat,corporation_des_jardiniers,,Fridrich,Wolff,,Fridrich Wolff
-33,conseiller_des_pêcheurs,1462,Johanns-Diebolt,Brüchelin,,,,echevinat,corporation_des_pêcheurs,,Hanns Diebolt,Brùchel,,Hanns Diebolt Brùchel
-34,conseiller_des_barbiers_et_baigneurs,1462,Peter,Scheubelin,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Peter,Schùbel,,Peter Schùbel
-35,conseiller_des_sauniers,1462,Johanns,Herbst,,,,echevinat,corporation_des_sauniers,,Hanns,Herbst,,Hanns Herbst
-36,conseiller_des_tisserands,1462,Peter,"Korck, von",,,,echevinat,corporation_des_tisserands,,Peter,von Korck,,Peter von Korck
-37,conseiller_des_gourmets_et_courtiers,1462,Friedrich,Seidenfaden,,,,echevinat,corporation_des_gourmets_et_courtiers,,Fridel,Sidenfaden,,Fridel Sidenfaden
-38,conseiller_des_charrons,1462,Peter,Gries,,,,echevinat,corporation_des_charrons,,Peter,Gries,,Peter Gries
-39,conseiller_des_regrattiers_cordiers_et_fruitiers,1462,Claus,Schoffmeiger,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Claus,Schoffmeiger,,Claus Schoffmeiger
-40,conseiller_des_coltineurs_de_tonneaux,1462,Symont,Förster,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,Sỳmont,Voͤrster,,Sỳmont Voͤrster
-41,conseiller_des_constructeurs_de_bateaux,1462,Lienhart,Spitznagel,,,,echevinat,corporation_des_constructeurs_de_bateaux,,Leonhart,Spitznagel,,Leonhart Spitznagel
-42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1462,Johanns,Steinhart,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Hanns,Steinhart,,Hanns Steinhart
+0,stettmeister,1462,,,,,['her'],constoffeler,,,Claus,Zorn,von Buͦlach,her Claus Zorn von Buͦlach
+1,stettmeister,1462,,,,,"['her', 'ritter']",constoffeler,,,Hanns,Boͤckel,,her Hanns Boͤckel ritter
+2,stettmeister,1462,,,,,"['her', 'ritter']",constoffeler,,,Fridrich,zuͦm Ruͦst,,her Fridrich zuͦm Ruͦst ritter
+3,stettmeister,1462,,,,,['her'],constoffeler,,,Ludwig,von Mùlnheim,,her Ludwig von Mùlnheim
+4,ammeister,1462,,,,,"['her', 'ammeister']",echevinat,,,Hanns,Lumbart,,her Hanns Lumbart der ammeister
+5,conseiller_des_constaffel,1462,,,,,['her'],constoffeler,,,Hanns,Hùffel,,her Hanns Hùffel
+6,conseiller_des_constaffel,1462,,,,,['her'],constoffeler,,,Hanns,Merswin,,her Hanns Merswin
+7,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Diebolt,Lentzel,,Diebolt Lentzel
+8,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Hanns,Berer,,Hanns Berer
+9,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Thoman,Elhart,,Thoman Elhart
+10,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Thoman,Bùhssener,,Thoman Bùhssener
+11,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Bernhart,Bock,,Bernhart Bock
+12,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Caspar,zͦuͦr Megde,,Caspar zͦuͦr Megde
+13,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Hanns,Voͦltsche,,Hanns Voͦltsche
+14,conseiller_des_constaffel,1462,,,,,,constoffeler,,,Hanns,Riffe,,Hanns Riffe
+15,conseiller_des_marchands,1462,,,,,,echevinat,corporation_des_marchands,,Peter,Arge,,Peter Arge
+16,conseiller_des_boulangers,1462,,,,,,echevinat,corporation_des_boulangers,,Claus,Linser,,Claus Linser
+17,conseiller_des_bouchers,1462,,,,,,echevinat,corporation_des_bouchers,,Hanns,von Berse,,Hanns von Berse
+18,conseiller_des_tonneliers,1462,,,,,,echevinat,corporation_des_tonneliers,,Hanns,von Dalheim,,Hanns von Dalheim
+19,conseiller_des_drapiers,1462,,,,,,echevinat,corporation_des_drapiers,,Hanns,Armbruster,vor dem pfennigturn,Hanns Armbruster vor dem pfennigturn
+20,conseiller_des_tanneurs,1462,,,,,,echevinat,corporation_des_tanneurs,,Thoman,Volmar,,Thoman Volmar
+21,conseiller_des_cabaretiers,1462,,,,,,echevinat,corporation_des_cabaretiers,,Claus,Boͧmgarter,,Claus Boͧmgarter
+22,conseiller_des_maçons,1462,,,,,,echevinat,corporation_des_maçons,,Michel,von Molsheim,,Michel von Molsheim
+23,conseiller_des_forgerons,1462,,,,,,echevinat,corporation_des_forgerons,,Ludeman,Kannengiesser,,Ludeman Kannengiesser
+24,conseiller_des_tailleurs,1462,,,,,,echevinat,corporation_des_tailleurs,,Andres,Volck,,Andres Volck
+25,conseiller_des_bateliers,1462,,,,,,echevinat,corporation_des_bateliers,,Heinrich,Bisinger,,Heinrich Bisinger
+26,conseiller_des_pelletiers,1462,,,,,,echevinat,corporation_des_pelletiers,,Claus,Wissensee,,Claus Wissensee
+27,conseiller_des_charpentiers,1462,,,,,,echevinat,corporation_des_charpentiers,,Michel,Ripel,,Michel Ripel
+28,conseiller_des_crieurs_et_mesureurs_de_vin,1462,,,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Claus,Beingewant,,Claus Beingewant
+29,conseiller_des_cordonniers,1462,,,,,,echevinat,corporation_des_cordonniers,,Conrat,von Bitsch,,Conrat von Bitsch
+30,conseiller_des_orfevres,1462,,,,,,echevinat,corporation_des_orfevres,,Heinrich,Arge,,Heinrich Arge
+31,conseiller_des_marchands_de_grains,1462,,,,,"['her', 'altammeister']",echevinat,corporation_des_marchands_de_grains,,Hanns,Melbruͤ,,her Hanns Melbruͤ altammeister
+32,conseiller_des_jardiniers,1462,,,,,,echevinat,corporation_des_jardiniers,,Fridrich,Wolff,,Fridrich Wolff
+33,conseiller_des_pêcheurs,1462,,,,,,echevinat,corporation_des_pêcheurs,,Hanns Diebolt,Brùchel,,Hanns Diebolt Brùchel
+34,conseiller_des_barbiers_et_baigneurs,1462,,,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Peter,Schùbel,,Peter Schùbel
+35,conseiller_des_sauniers,1462,,,,,,echevinat,corporation_des_sauniers,,Hanns,Herbst,,Hanns Herbst
+36,conseiller_des_tisserands,1462,,,,,,echevinat,corporation_des_tisserands,,Peter,von Korck,,Peter von Korck
+37,conseiller_des_gourmets_et_courtiers,1462,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Fridel,Sidenfaden,,Fridel Sidenfaden
+38,conseiller_des_charrons,1462,,,,,,echevinat,corporation_des_charrons,,Peter,Gries,,Peter Gries
+39,conseiller_des_regrattiers_cordiers_et_fruitiers,1462,,,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Claus,Schoffmeiger,,Claus Schoffmeiger
+40,conseiller_des_coltineurs_de_tonneaux,1462,,,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,Sỳmont,Voͤrster,,Sỳmont Voͤrster
+41,conseiller_des_constructeurs_de_bateaux,1462,,,,,,echevinat,corporation_des_constructeurs_de_bateaux,,Leonhart,Spitznagel,,Leonhart Spitznagel
+42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1462,,,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Hanns,Steinhart,,Hanns Steinhart

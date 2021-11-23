@@ -1,58 +1,58 @@
 ,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1403,Reimbolt,Hüffelin,,,"['her', 'ritter']",constoffeler,,,Reimbolt,Hüffelin,,her Reimbolt Hüffelin ritter
-1,stettmeister,1403,Burkhart,"Müllenheim, von","Rechberg, von",,"['her', 'ritter']",constoffeler,,,Burckart,von Mülnheim,von Rechberg,her Burckart von Mülnheim von Rechberg ritter
-2,stettmeister,1403,Dietrich,Burggraf,,,,constoffeler,,,Dietrich,Burggrafe,,Dietrich Burggrafe
-3,stettmeister,1403,Bernhart,"Matzenheim, von",,,,constoffeler,,,Bernhart,von Matzenheim,,Bernhart von Matzenheim
-4,ammeister,1403,Johanns,Heilmann,,,"['her', 'ammeister']",echevinat,,,Johanns,Heilman,,her Johanns Heilman der ammeister
-5,conseiller_des_constaffel,1403,Claus,Zorn,Schultheiss,,"['her', 'ritter']",constoffeler,,,Claus,Zorn,Schultheiss,her Claus Zorn Schultheiss ritter
-6,conseiller_des_constaffel,1403,Reimbolt,"Trübel, zum",,,"['her', 'ritter']",constoffeler,,,Reimbolt,züm Trübel,,her Reimbolt züm Trübel ritter
-7,conseiller_des_constaffel,1403,Johanns-Rudolff,"Endingen, von",,,"['her', 'ritter']",constoffeler,,,Johanns Rüdolff,von Endingen,,her Johanns Rüdolff von Endingen ritter
-8,conseiller_des_constaffel,1403,Wilhelm,"Müllenheim, von",,,,constoffeler,,,Wilhelm,von Mülnheim,,Wilhelm von Mülnheim
-9,conseiller_des_constaffel,1403,Ottemann,"Müllenheim, von",,,,constoffeler,,,Otteman,von Mülnheim,,Otteman von Mülnheim
-10,conseiller_des_constaffel,1403,Gosse,"Kageneck, von",,,,constoffeler,,,Gosse,von Kageneck,,Gosse von Kageneck
-11,conseiller_des_constaffel,1403,Konrat,"Wickersheim, von",,,,constoffeler,,,Conrat,von Wickersheim,,Conrat von Wickersheim
-12,conseiller_des_constaffel,1403,Ulrich,Bock,,der junger,,constoffeler,,,Ülrich,Bock,,Ülrich Bock der junger
-13,conseiller_des_constaffel,1403,Bechtolt,"Rosheim, von",,,,constoffeler,,,Behtolt,von Rosheim,,Behtolt von Rosheim
-14,conseiller_des_constaffel,1403,Johanns,Berlin,,,,constoffeler,,,Johanns,Berlin,,Johanns Berlin
-15,conseiller_des_constaffel,1403,Götze,"Heiligenstein, von",,,,constoffeler,,,Götze,von Heiligenstein,,Götze von Heiligenstein
-16,conseiller_des_constaffel,1403,Billung,"Megde, zur",,,,constoffeler,,,Billung,zü der Megde,,Billung zü der Megde
-17,conseiller_des_constaffel,1403,Hug,"Kühnheim, von",,,,constoffeler,,,Hug,von Cünheim,,Hug von Cünheim
-18,conseiller_des_constaffel,1403,Bernhart,Bock,,,,constoffeler,,,Bernhart,Bock,,Bernhart Bock
-19,conseiller_des_constaffel,1403,Heintz,Gürteler,,,,constoffeler,,,Heintzman,Gürteler,,Heintzman Gürteler
-20,conseiller_des_constaffel,1403,Johanns,Bertsch,,,,constoffeler,,,Johanns,Bertsch,,Johanns Bertsch
-21,conseiller_des_constaffel,1403,Wernher,Sturm,,,,constoffeler,,,Wernher,Sturm,,Wernher Sturm
-22,conseiller_des_constaffel,1403,Wernher,"Storcken, zum",,,,constoffeler,,,Wernher,zü den Störcken,,Wernher zü den Störcken
-23,conseiller_des_constaffel,1403,Johanns,Manse,,,,constoffeler,,,Johanns,Mansse,,Johanns Mansse
-24,conseiller_des_constaffel,1403,Peter,Blumelin,,,,constoffeler,,,Peter,Blümelin,,Peter Blümelin
-25,conseiller_des_constaffel,1403,Dietrich,Rebestock,,,,constoffeler,,,Dietrich,Rebstock,,Dietrich Rebstock
-26,conseiller_des_constaffel,1403,Walther,Bauman,,,,constoffeler,,,Walther,Buman,,Walther Buman
-27,conseiller_des_constaffel,1403,Johanns,Klobelouch,,der jung,,constoffeler,,,Johanns,Clöblouch,,Johanns Clöblouch der jung
-28,conseiller_des_constaffel,1403,Johanns,Hesse,,,,constoffeler,,,Johanns,Hesse,,"Johanns Hesse, Hesseman Hessen sun"
-29,conseiller_des_marchands,1403,Ruhlemann,Barpfennig,,,['her'],echevinat,corporation_des_marchands,,Rüllin,Barpfennig,,her Rüllin Barpfennig
-30,conseiller_des_boulangers,1403,Jacob,"Geispoltzheim, von",,,,echevinat,corporation_des_boulangers,,Jacop,von Geispoltzheim,,Jacop von Geispoltzheim
-31,conseiller_des_bouchers,1403,Peter,Müseler,,,,echevinat,corporation_des_bouchers,,Peter,Museler,,Peter Museler
-32,conseiller_des_drapiers,1403,Obrecht,Armbruster,,,,echevinat,corporation_des_drapiers,,Obreht,Armbruster,,Obreht Armbruster
-33,conseiller_des_tonneliers,1403,Diethmar,Küntzlin,"Bosser, zum",,,echevinat,corporation_des_tonneliers,,Diemar,Cüntzlin,züm Bosser,Diemar Cüntzlin züm Bosser
-34,conseiller_des_tanneurs,1403,Gerbot,"Kirwiller, von",,,,echevinat,corporation_des_tanneurs,,Gerbot,von Kirwilre,,Gerbot von Kirwilre
-35,conseiller_des_cabaretiers,1403,Heilmann,Wassicher,,,,echevinat,corporation_des_cabaretiers,,Heil,Wahssicher,,Heil Wahssicher
-36,conseiller_des_maçons,1403,Lauwel,Ruhlmann,,,,echevinat,corporation_des_maçons,,Lauwlin,Rülman,,Lauwlin Rülman
-37,conseiller_des_forgerons,1403,Hermann,Lorer,,,,echevinat,corporation_des_forgerons,,Herman,Lorer,,Herman Lorer
-38,conseiller_des_tailleurs,1403,Johanns,Miltenberg,,,,echevinat,corporation_des_tailleurs,,Johanns,Miltemberg,,Johanns Miltemberg
-39,conseiller_des_bateliers,1403,Peter,Sünner,,,['her'],echevinat,corporation_des_bateliers,,Peter,Sünner,,her Peter Sünner
-40,conseiller_des_charpentiers,1403,Johanns,Vogt,,,,echevinat,corporation_des_charpentiers,,Hanns,Vogt,,Hanns Vogt
-41,conseiller_des_pelletiers,1403,Ottemann,Münch,,,,echevinat,corporation_des_pelletiers,,Otteman,Münch,,Otteman Münch
-42,conseiller_des_crieurs_et_mesureurs_de_vin,1403,Jacob,Beildeck,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Jacob,Beildeck,,Jacob Beildeck
-43,conseiller_des_cordonniers,1403,Oberlin,Herring,,,,echevinat,corporation_des_cordonniers,,Oberlin,Hering,,Oberlin Hering
-44,conseiller_des_orfevres,1403,Johanns,Waltenheim,,,,echevinat,corporation_des_orfevres,,Johanns,Waltenheim,,Johanns Waltenheim
-45,conseiller_des_marchands_de_grains,1403,Michel,Melbrühe,,,,echevinat,corporation_des_marchands_de_grains,,Michel,Melbrü,,Michel Melbrü
-46,conseiller_des_jardiniers,1403,Johanns,Martin,,,,echevinat,corporation_des_jardiniers,,Hanns,Martin,,Hanns Martin
-47,conseiller_des_pêcheurs,1403,Küntz,Mönchlin,,,,echevinat,corporation_des_pêcheurs,,Cüntz,Mönchlin,,Cüntz Mönchlin
-48,conseiller_des_barbiers_et_baigneurs,1403,Marx,Rohrer,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Marx,Rorer,,Marx Rorer
-49,conseiller_des_sauniers,1403,Claus,Rüllin,,,,echevinat,corporation_des_sauniers,,Claus,Rüllin,,Claus Rüllin
-50,conseiller_des_tisserands,1403,Jeckel,Wecker,,,,echevinat,corporation_des_tisserands,,Jecklin,Wecker,,Jecklin Wecker
-51,conseiller_des_gourmets_et_courtiers,1403,Erhart,Nesselbach,,,,echevinat,corporation_des_gourmets_et_courtiers,,Erhart,Nesselbach,,Erhart Nesselbach
-52,conseiller_des_charrons,1403,Claus,Dingsheim,,,,echevinat,corporation_des_charrons,,Claus,Dingesheim,,Claus Dingesheim
-53,conseiller_des_regrattiers_cordiers_et_fruitiers,1403,Lauwel,Hühnerer,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Lauwlin,Hünrer,,Lauwlin Hünrer
-54,conseiller_des_coltineurs_de_tonneaux,1403,Küntz,Stachel,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,Cüntz,Stahel,,Cüntz Stahel
-55,conseiller_des_constructeurs_de_bateaux,1403,Jacob,Altheim,,,,echevinat,corporation_des_constructeurs_de_bateaux,,Jacob,Altheim,,"Jacob Altheim, Claus sün"
-56,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1403,Walther,Ölmann,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Walther,Olman,,Walther Olman
+0,stettmeister,1403,,,,,"['her', 'ritter']",constoffeler,,,Reimbolt,Hüffelin,,her Reimbolt Hüffelin ritter
+1,stettmeister,1403,,,,,"['her', 'ritter']",constoffeler,,,Burckart,von Mülnheim,von Rechberg,her Burckart von Mülnheim von Rechberg ritter
+2,stettmeister,1403,,,,,,constoffeler,,,Dietrich,Burggrafe,,Dietrich Burggrafe
+3,stettmeister,1403,,,,,,constoffeler,,,Bernhart,von Matzenheim,,Bernhart von Matzenheim
+4,ammeister,1403,,,,,"['her', 'ammeister']",echevinat,,,Johanns,Heilman,,her Johanns Heilman der ammeister
+5,conseiller_des_constaffel,1403,,,,,"['her', 'ritter']",constoffeler,,,Claus,Zorn,Schultheiss,her Claus Zorn Schultheiss ritter
+6,conseiller_des_constaffel,1403,,,,,"['her', 'ritter']",constoffeler,,,Reimbolt,züm Trübel,,her Reimbolt züm Trübel ritter
+7,conseiller_des_constaffel,1403,,,,,"['her', 'ritter']",constoffeler,,,Johanns Rüdolff,von Endingen,,her Johanns Rüdolff von Endingen ritter
+8,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Wilhelm,von Mülnheim,,Wilhelm von Mülnheim
+9,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Otteman,von Mülnheim,,Otteman von Mülnheim
+10,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Gosse,von Kageneck,,Gosse von Kageneck
+11,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Conrat,von Wickersheim,,Conrat von Wickersheim
+12,conseiller_des_constaffel,1403,,,,der junger,,constoffeler,,,Ülrich,Bock,,Ülrich Bock der junger
+13,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Behtolt,von Rosheim,,Behtolt von Rosheim
+14,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Johanns,Berlin,,Johanns Berlin
+15,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Götze,von Heiligenstein,,Götze von Heiligenstein
+16,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Billung,zü der Megde,,Billung zü der Megde
+17,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Hug,von Cünheim,,Hug von Cünheim
+18,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Bernhart,Bock,,Bernhart Bock
+19,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Heintzman,Gürteler,,Heintzman Gürteler
+20,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Johanns,Bertsch,,Johanns Bertsch
+21,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Wernher,Sturm,,Wernher Sturm
+22,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Wernher,zü den Störcken,,Wernher zü den Störcken
+23,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Johanns,Mansse,,Johanns Mansse
+24,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Peter,Blümelin,,Peter Blümelin
+25,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Dietrich,Rebstock,,Dietrich Rebstock
+26,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Walther,Buman,,Walther Buman
+27,conseiller_des_constaffel,1403,,,,der jung,,constoffeler,,,Johanns,Clöblouch,,Johanns Clöblouch der jung
+28,conseiller_des_constaffel,1403,,,,,,constoffeler,,,Johanns,Hesse,,"Johanns Hesse, Hesseman Hessen sun"
+29,conseiller_des_marchands,1403,,,,,['her'],echevinat,corporation_des_marchands,,Rüllin,Barpfennig,,her Rüllin Barpfennig
+30,conseiller_des_boulangers,1403,,,,,,echevinat,corporation_des_boulangers,,Jacop,von Geispoltzheim,,Jacop von Geispoltzheim
+31,conseiller_des_bouchers,1403,,,,,,echevinat,corporation_des_bouchers,,Peter,Museler,,Peter Museler
+32,conseiller_des_drapiers,1403,,,,,,echevinat,corporation_des_drapiers,,Obreht,Armbruster,,Obreht Armbruster
+33,conseiller_des_tonneliers,1403,,,,,,echevinat,corporation_des_tonneliers,,Diemar,Cüntzlin,züm Bosser,Diemar Cüntzlin züm Bosser
+34,conseiller_des_tanneurs,1403,,,,,,echevinat,corporation_des_tanneurs,,Gerbot,von Kirwilre,,Gerbot von Kirwilre
+35,conseiller_des_cabaretiers,1403,,,,,,echevinat,corporation_des_cabaretiers,,Heil,Wahssicher,,Heil Wahssicher
+36,conseiller_des_maçons,1403,,,,,,echevinat,corporation_des_maçons,,Lauwlin,Rülman,,Lauwlin Rülman
+37,conseiller_des_forgerons,1403,,,,,,echevinat,corporation_des_forgerons,,Herman,Lorer,,Herman Lorer
+38,conseiller_des_tailleurs,1403,,,,,,echevinat,corporation_des_tailleurs,,Johanns,Miltemberg,,Johanns Miltemberg
+39,conseiller_des_bateliers,1403,,,,,['her'],echevinat,corporation_des_bateliers,,Peter,Sünner,,her Peter Sünner
+40,conseiller_des_charpentiers,1403,,,,,,echevinat,corporation_des_charpentiers,,Hanns,Vogt,,Hanns Vogt
+41,conseiller_des_pelletiers,1403,,,,,,echevinat,corporation_des_pelletiers,,Otteman,Münch,,Otteman Münch
+42,conseiller_des_crieurs_et_mesureurs_de_vin,1403,,,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Jacob,Beildeck,,Jacob Beildeck
+43,conseiller_des_cordonniers,1403,,,,,,echevinat,corporation_des_cordonniers,,Oberlin,Hering,,Oberlin Hering
+44,conseiller_des_orfevres,1403,,,,,,echevinat,corporation_des_orfevres,,Johanns,Waltenheim,,Johanns Waltenheim
+45,conseiller_des_marchands_de_grains,1403,,,,,,echevinat,corporation_des_marchands_de_grains,,Michel,Melbrü,,Michel Melbrü
+46,conseiller_des_jardiniers,1403,,,,,,echevinat,corporation_des_jardiniers,,Hanns,Martin,,Hanns Martin
+47,conseiller_des_pêcheurs,1403,,,,,,echevinat,corporation_des_pêcheurs,,Cüntz,Mönchlin,,Cüntz Mönchlin
+48,conseiller_des_barbiers_et_baigneurs,1403,,,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Marx,Rorer,,Marx Rorer
+49,conseiller_des_sauniers,1403,,,,,,echevinat,corporation_des_sauniers,,Claus,Rüllin,,Claus Rüllin
+50,conseiller_des_tisserands,1403,,,,,,echevinat,corporation_des_tisserands,,Jecklin,Wecker,,Jecklin Wecker
+51,conseiller_des_gourmets_et_courtiers,1403,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Erhart,Nesselbach,,Erhart Nesselbach
+52,conseiller_des_charrons,1403,,,,,,echevinat,corporation_des_charrons,,Claus,Dingesheim,,Claus Dingesheim
+53,conseiller_des_regrattiers_cordiers_et_fruitiers,1403,,,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Lauwlin,Hünrer,,Lauwlin Hünrer
+54,conseiller_des_coltineurs_de_tonneaux,1403,,,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,Cüntz,Stahel,,Cüntz Stahel
+55,conseiller_des_constructeurs_de_bateaux,1403,,,,,,echevinat,corporation_des_constructeurs_de_bateaux,,Jacob,Altheim,,"Jacob Altheim, Claus sün"
+56,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1403,,,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Walther,Olman,,Walther Olman
