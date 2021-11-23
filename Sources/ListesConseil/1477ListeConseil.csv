@@ -1,38 +1,38 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1477,,,,,"['her', 'ritter']",constoffeler,,,Hans Rͦuͦdolff,von Endingen,,her Hans Rͦuͦdolff von Endingen ritter
-1,stettmeister,1477,,,,,"['her', 'ritter']",constoffeler,,,Philipps,von Mùlnheim,,her Philipps von Mùlnheim ritter
-2,stettmeister,1477,,,,,"['her', 'ritter']",constoffeler,,,Friderich,Bock,,her Friderich Bock ritter
-3,stettmeister,1477,,,,,['her'],constoffeler,,,Hans,Hùffel,,her Hans Hùffel
-4,ammeister,1477,,,,,"['her', 'ammeister']",echevinat,,,Heinrich,Arge,,her Heinrich Arge der ammeister
-5,conseiller_des_constaffel,1477,,,,,"['her', 'ritter']",constoffeler,,,Hans,von Kageneck,,her Hans von Kageneck ritter
-6,conseiller_des_constaffel,1477,,,,,,constoffeler,,,Hans,Sturm,,Hans Sturm
-7,conseiller_des_constaffel,1477,,,,,,constoffeler,,,Hans Adolff,Elhart,,Hans Adolff Elhart
-8,conseiller_des_constaffel,1477,,,,,,constoffeler,,,Hans,Voiltsch,,Hans Voiltsch
-9,conseiller_des_constaffel,1477,,,,,,constoffeler,,,Caspar,Clobelouch,,Caspar Clobelouch
-10,conseiller_des_constaffel,1477,,,,,,constoffeler,,,Bernhart,Wormsser,,Bernhart Wormsser
-11,conseiller_des_constaffel,1477,,,,,,constoffeler,,,Ludwig,Sturm,,Ludwig Sturm
-12,conseiller_des_constaffel,1477,,,,,,constoffeler,,,Jacob,Wormsser,,Jacob Wormsser
-13,conseiller_des_bateliers,1477,,,,,"['her', 'altammeister']",echevinat,corporation_des_bateliers,,Hans,von Berse,,her Hans von Berse altammeister
-14,conseiller_des_marchands,1477,,,,der junge,,echevinat,corporation_des_marchands,,Hans,Riff,,Hans Riff der junge
-15,conseiller_des_bouchers,1477,,,,,,echevinat,corporation_des_bouchers,,Marx,Kerling,,Marx Kerling
-16,conseiller_des_cabaretiers,1477,,,,,,echevinat,corporation_des_cabaretiers,,Conrat,Dùntzenheim,,Conrat Dùntzenheim
-17,conseiller_des_drapiers,1477,,,,,['ritter'],echevinat,corporation_des_drapiers,,Hans,von Seckingen,,Hans von Seckingen wart ritter im stät                            von Nansse
-18,conseiller_des_marchands_de_grains,1477,,,,,,echevinat,corporation_des_marchands_de_grains,,Claus,Brune,,Claus Brune
-19,conseiller_des_sauniers,1477,,,,,,echevinat,corporation_des_sauniers,,Heinrich,Medinger,,Heinrich Medinger
-20,conseiller_des_orfevres,1477,,,,,,echevinat,corporation_des_orfevres,,Heinrich,Bisinger,,Heinrich Bisinger
-21,conseiller_des_boulangers,1477,,,,,,echevinat,corporation_des_boulangers,,Ùlrich,Bùrer,,Ùlrich Bùrer
-22,conseiller_des_pelletiers,1477,,,,,,echevinat,corporation_des_pelletiers,,Heinrich,Schott,,Heinrich Schott
-23,conseiller_des_tonneliers,1477,,,,,,echevinat,corporation_des_tonneliers,,Andres,Selig,,Andres Selig
-24,conseiller_des_tanneurs,1477,,,,,,echevinat,corporation_des_tanneurs,,Oberlin,von Bùre,,Oberlin von Bùre
-25,conseiller_des_gourmets_et_courtiers,1477,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Heinrich,Egel,,Heinrich Egel
-26,conseiller_des_tailleurs,1477,,,,,,echevinat,corporation_des_tailleurs,,Andres,Volck,,Andres Volck
-27,conseiller_des_forgerons,1477,,,,,,echevinat,corporation_des_forgerons,,Lienhart,Ammeister,,Lienhart Ammeister
-28,conseiller_des_barbiers_et_baigneurs,1477,,,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Hans,Meiger,,Hans Meiger
-29,conseiller_des_cordonniers,1477,,,,,,echevinat,corporation_des_cordonniers,,Claus,Weidelich,,Claus Weidelich
-30,conseiller_des_pêcheurs,1477,,,,,,echevinat,corporation_des_pêcheurs,,Hans,Mennychin,,Hans Mennychin
-31,conseiller_des_charrons,1477,,,,,,echevinat,corporation_des_charrons,,Hans,Dùheler,,Hans Dùheler
-32,conseiller_des_jardiniers,1477,,,,,,echevinat,corporation_des_jardiniers,,Claus,Ersam,,Claus Ersam
-33,conseiller_des_tisserands,1477,,,,,,echevinat,corporation_des_tisserands,,Claus,Wolle,,Claus Wolle
-34,conseiller_des_regrattiers_cordiers_et_fruitiers,1477,,,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Lorentz,von Gemer,,Lorentz von Gemer
-35,conseiller_des_charpentiers,1477,,,,,,echevinat,corporation_des_charpentiers,,Hans,Ruͦlman,,Hans Ruͦlman
-36,conseiller_des_maçons,1477,,,,,,echevinat,corporation_des_maçons,,Peter,von Molsheim,,Peter von Molsheim
+,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+1,aves_aa_4R_001,1477,stettmeister,her Hans Rͦuͦdolff von Endingen ritter,,"endingen, von",,,"['her', 'ritter']",constoffeler,,,208,1,1
+2,aves_aa_4R_002,1477,stettmeister,her Philipps von Mùlnheim ritter,philipp,"müllenheim, von",,,"['her', 'ritter']",constoffeler,,,208,1,2
+3,aves_aa_4R_003,1477,stettmeister,her Friderich Bock ritter,friedrich,bock,,,"['her', 'ritter']",constoffeler,,,208,1,3
+4,aves_aa_4R_004,1477,stettmeister,her Hans Hùffel,johanns,hüffelin,,,['her'],constoffeler,,,208,1,4
+5,aves_aa_4R_005,1477,ammeister,her Heinrich Arge der ammeister,heinrich,arge,,,"['her', 'ammeister']",echevinat,,,208,1,5
+6,aves_aa_4R_006,1477,conseiller_des_constaffel,her Hans von Kageneck ritter,johanns,"kageneck, von",,,"['her', 'ritter']",constoffeler,,,208,1,6
+7,aves_aa_4R_007,1477,conseiller_des_constaffel,Hans Sturm,johanns,sturm,,,,constoffeler,,,208,1,7
+8,aves_aa_4R_008,1477,conseiller_des_constaffel,Hans Adolff Elhart,johanns-adolff,ellenhart,,,,constoffeler,,,208,1,8
+9,aves_aa_4R_009,1477,conseiller_des_constaffel,Hans Voiltsch,johanns,völtsch,,,,constoffeler,,,208,1,9
+10,aves_aa_4R_10,1477,conseiller_des_constaffel,Caspar Clobelouch,caspar,klobelouch,,,,constoffeler,,,208,1,10
+11,aves_aa_4R_11,1477,conseiller_des_constaffel,Bernhart Wormsser,bernhart,wormser,,,,constoffeler,,,208,1,11
+12,aves_aa_4R_12,1477,conseiller_des_constaffel,Ludwig Sturm,ludwig,sturm,,,,constoffeler,,,208,1,12
+13,aves_aa_4R_13,1477,conseiller_des_constaffel,Jacob Wormsser,jacob,wormser,,,,constoffeler,,,208,1,13
+14,aves_aa_4R_14,1477,conseiller_des_bateliers,her Hans von Berse altammeister,johanns,"berse, von",,,"['her', 'altammeister']",echevinat,corporation_des_bateliers,,208,1,14
+15,aves_aa_4R_15,1477,conseiller_des_marchands,Hans Riff der junge,johanns,riffe,,der junge,,echevinat,corporation_des_marchands,,208,1,15
+16,aves_aa_4R_16,1477,conseiller_des_bouchers,Marx Kerling,marx,kerling,,,,echevinat,corporation_des_bouchers,,208,1,16
+17,aves_aa_4R_17,1477,conseiller_des_cabaretiers,Conrat Dùntzenheim,konrat,duntzenheim,,,,echevinat,corporation_des_cabaretiers,,208,1,17
+18,aves_aa_4R_18,1477,conseiller_des_drapiers,Hans von Seckingen wart ritter im stät                            von Nansse,johanns,"säckingen, von",,,['ritter'],echevinat,corporation_des_drapiers,,208,1,18
+19,aves_aa_4R_19,1477,conseiller_des_marchands_de_grains,Claus Brune,claus,brun,,,,echevinat,corporation_des_marchands_de_grains,,208,1,19
+20,aves_aa_4R_20,1477,conseiller_des_sauniers,Heinrich Medinger,heinrich,medinger,,,,echevinat,corporation_des_sauniers,,208,1,20
+21,aves_aa_4R_21,1477,conseiller_des_orfevres,Heinrich Bisinger,heinrich,bisinger,,,,echevinat,corporation_des_orfevres,,208,1,21
+22,aves_aa_4R_22,1477,conseiller_des_boulangers,Ùlrich Bùrer,ulrich,burer,,,,echevinat,corporation_des_boulangers,,208,1,22
+23,aves_aa_4R_23,1477,conseiller_des_pelletiers,Heinrich Schott,heinrich,schott,,,,echevinat,corporation_des_pelletiers,,208,1,23
+24,aves_aa_4R_24,1477,conseiller_des_tonneliers,Andres Selig,andres,seelig,,,,echevinat,corporation_des_tonneliers,,208,1,24
+25,aves_aa_4R_25,1477,conseiller_des_tanneurs,Oberlin von Bùre,oberlin,"büre, von",,,,echevinat,corporation_des_tanneurs,,208,1,25
+26,aves_aa_4R_26,1477,conseiller_des_gourmets_et_courtiers,Heinrich Egel,heinrich,hegel,,,,echevinat,corporation_des_gourmets_et_courtiers,,208,1,26
+27,aves_aa_4R_27,1477,conseiller_des_tailleurs,Andres Volck,andres,volk,,,,echevinat,corporation_des_tailleurs,,208,1,27
+28,aves_aa_4R_28,1477,conseiller_des_forgerons,Lienhart Ammeister,lienhart,ammeister,,,,echevinat,corporation_des_forgerons,,208,1,28
+29,aves_aa_4R_29,1477,conseiller_des_barbiers_et_baigneurs,Hans Meiger,johanns,meiger,,,,echevinat,corporation_des_barbiers_et_baigneurs,,208,1,29
+30,aves_aa_4R_30,1477,conseiller_des_cordonniers,Claus Weidelich,claus,weidlich,,,,echevinat,corporation_des_cordonniers,,208,1,30
+31,aves_aa_4R_31,1477,conseiller_des_pêcheurs,Hans Mennychin,johanns,mennichin,,,,echevinat,corporation_des_pêcheurs,,208,1,31
+32,aves_aa_4R_32,1477,conseiller_des_charrons,Hans Dùheler,johanns,ducheler,,,,echevinat,corporation_des_charrons,,208,1,32
+33,aves_aa_4R_33,1477,conseiller_des_jardiniers,Claus Ersam,claus,ersam,,,,echevinat,corporation_des_jardiniers,,208,1,33
+34,aves_aa_4R_34,1477,conseiller_des_tisserands,Claus Wolle,claus,wolle,,,,echevinat,corporation_des_tisserands,,208,1,34
+35,aves_aa_4R_35,1477,conseiller_des_regrattiers_cordiers_et_fruitiers,Lorentz von Gemer,laurentz,"gemersheim, von",,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,208,1,35
+36,aves_aa_4R_36,1477,conseiller_des_charpentiers,Hans Ruͦlman,johanns,ruhlmann,,,,echevinat,corporation_des_charpentiers,,208,1,36
+37,aves_aa_4R_37,1477,conseiller_des_maçons,Peter von Molsheim,peter,"molsheim, von",,,,echevinat,corporation_des_maçons,,208,1,37

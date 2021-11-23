@@ -1,33 +1,32 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1498,,,,,"['her', 'ritter']",constoffeler,,,Wirich,Böcklin,,her Wirich Böcklin ritter
-1,stettmeister,1498,,,,,"['her', 'ritter']",constoffeler,,,Friderich,Bock,,her Friderich Bock ritter
-2,stettmeister,1498,,,,,"['her', 'ritter']",constoffeler,,,Hans,Spender,,her Hans Spender ritter
-3,stettmeister,1498,,,,,['her'],constoffeler,,,Jörge,Berer,,her Jörge Berer
-4,ammeister,1498,,,,,"['her', 'ammeister']",echevinat,,,Jacob,Worm,,her Jacob Worm der ammeister
-5,conseiller_des_constaffel,1498,,,,,"['her', 'ritter']",constoffeler,,,Hans,von Seckingen,,her Hans von Seckingen ritter
-6,conseiller_des_constaffel,1498,,,,,"['her', 'ritter']",constoffeler,,,Hanswilhelm,,züm Riet,her Hanswilhelm züm Riet ritter
-7,conseiller_des_constaffel,1498,,,,,"['her', 'ritter']",constoffeler,,,Ludwig,Böcklin,,her Ludwig Böcklin ritter
-8,conseiller_des_constaffel,1498,,,,,,constoffeler,,,Sigelin,Völtsch,,Sigelin Völtsch
-9,conseiller_des_constaffel,1498,,,,,,constoffeler,,,Diebolt,von Mùlnheim,,Diebolt von Mùlnheim
-10,conseiller_des_constaffel,1498,,,,,,constoffeler,,,Jörge,Zorn,von Bͦuͦlach,Jörge Zorn von Bͦuͦlach
-11,conseiller_des_bateliers,1498,,,,,,echevinat,corporation_des_bateliers,,Peter,Arge,,Peter Arge
-12,conseiller_des_marchands,1498,,,,,,echevinat,corporation_des_marchands,,Jeronimus,Riff,,Jeronimus Riff
-13,conseiller_des_bouchers,1498,,,,,"['her', 'altammeister']",echevinat,corporation_des_bouchers,,Jacob,Wysebach,,her Jacob Wysebach altammeister
-14,conseiller_des_cabaretiers,1498,,,,,,echevinat,corporation_des_cabaretiers,,Jacob,Gerbott,,Jacob Gerbott
-15,conseiller_des_drapiers,1498,,,,,,echevinat,corporation_des_drapiers,,Jacob,Küller,,Jacob Küller
-16,conseiller_des_marchands_de_grains,1498,,,,,,echevinat,corporation_des_marchands_de_grains,,Jacob,von Molsheim,,Jacob von Molsheim
-17,conseiller_des_sauniers,1498,,,,,,echevinat,corporation_des_sauniers,,Jörge,Riff,,Jörge Riff
-18,conseiller_des_orfevres,1498,,,,,,echevinat,corporation_des_orfevres,,Oberlin,von Bùre,,Oberlin von Bùre
-19,conseiller_des_boulangers,1498,,,,,,echevinat,corporation_des_boulangers,,Hans,Waldener,,Hans Waldener
-20,conseiller_des_pelletiers,1498,,,,,,echevinat,corporation_des_pelletiers,,Thomann,Kornman,,Thomann Kornman
-21,conseiller_des_tonneliers,1498,,,,,,echevinat,corporation_des_tonneliers,,Hans,Conrat,,Hans Conrat
-22,conseiller_des_tanneurs,1498,,,,,,echevinat,corporation_des_tanneurs,,Hans,Mißbach,,Hans Mißbach
-23,conseiller_des_gourmets_et_courtiers,1498,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Lecius,Meÿger,,Lecius Meÿger
-24,conseiller_des_tailleurs,1498,,,,,,echevinat,corporation_des_tailleurs,,Conrat,Lume,,Conrat Lume
-25,conseiller_des_forgerons,1498,,,,,,echevinat,corporation_des_forgerons,,Hans,von Druhtersheim,,Hans von Druhtersheim
-26,conseiller_des_cordonniers,1498,,,,,,echevinat,corporation_des_cordonniers,,Martin,Schultheiss,"Win und
-                           Brot",Martin Schultheiss genant Win und                            Brot
-27,conseiller_des_pêcheurs,1498,,,,der junge,,echevinat,corporation_des_pêcheurs,,Hans,Swende,,Hans Swende der junge
-28,conseiller_des_charrons,1498,,,,,,echevinat,corporation_des_charrons,,Hansclaus,Arbgast,,Hansclaus Arbgast
-29,conseiller_des_jardiniers,1498,,,,,,echevinat,corporation_des_jardiniers,,Hans,Bilger,,Hans Bilger
-30,conseiller_des_maçons,1498,,,,,,echevinat,corporation_des_maçons,,Veltin,Mynner,,Veltin Mynner
+,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+1,aves_aa_4R_001,1498,stettmeister,her Wirich Böcklin ritter,wirich,böckel,,,"['her', 'ritter']",constoffeler,,,220,1,1
+2,aves_aa_4R_002,1498,stettmeister,her Friderich Bock ritter,friedrich,bock,,,"['her', 'ritter']",constoffeler,,,220,1,2
+3,aves_aa_4R_003,1498,stettmeister,her Hans Spender ritter,johanns,spender,,,"['her', 'ritter']",constoffeler,,,220,1,3
+4,aves_aa_4R_004,1498,stettmeister,her Jörge Berer,jerge,berer,,,['her'],constoffeler,,,220,1,4
+5,aves_aa_4R_005,1498,ammeister,her Jacob Worm der ammeister,jacob,wurm,,,"['her', 'ammeister']",echevinat,,,220,1,5
+6,aves_aa_4R_006,1498,conseiller_des_constaffel,her Hans von Seckingen ritter,johanns,"säckingen, von",,,"['her', 'ritter']",constoffeler,,,220,1,6
+7,aves_aa_4R_007,1498,conseiller_des_constaffel,her Hanswilhelm züm Riet ritter,johanns-wilhelm,,"riet, zum",,"['her', 'ritter']",constoffeler,,,220,1,7
+8,aves_aa_4R_008,1498,conseiller_des_constaffel,her Ludwig Böcklin ritter,ludwig,böckel,,,"['her', 'ritter']",constoffeler,,,220,1,8
+9,aves_aa_4R_009,1498,conseiller_des_constaffel,Sigelin Völtsch,sigel,völtsch,,,,constoffeler,,,220,1,9
+10,aves_aa_4R_10,1498,conseiller_des_constaffel,Diebolt von Mùlnheim,diebolt,"müllenheim, von",,,,constoffeler,,,220,1,10
+11,aves_aa_4R_11,1498,conseiller_des_constaffel,Jörge Zorn von Bͦuͦlach,jerge,zorn,"bülach, von",,,constoffeler,,,220,1,11
+12,aves_aa_4R_12,1498,conseiller_des_bateliers,Peter Arge,peter,arge,,,,echevinat,corporation_des_bateliers,,220,1,12
+13,aves_aa_4R_13,1498,conseiller_des_marchands,Jeronimus Riff,jeronimus,riffe,,,,echevinat,corporation_des_marchands,,220,1,13
+14,aves_aa_4R_14,1498,conseiller_des_bouchers,her Jacob Wysebach altammeister,jacob,wisebach,,,"['her', 'altammeister']",echevinat,corporation_des_bouchers,,220,1,14
+15,aves_aa_4R_15,1498,conseiller_des_cabaretiers,Jacob Gerbott,jacob,gerbot,,,,echevinat,corporation_des_cabaretiers,,220,1,15
+16,aves_aa_4R_16,1498,conseiller_des_drapiers,Jacob Küller,jacob,küller,,,,echevinat,corporation_des_drapiers,,220,1,16
+17,aves_aa_4R_17,1498,conseiller_des_marchands_de_grains,Jacob von Molsheim,jacob,"molsheim, von",,,,echevinat,corporation_des_marchands_de_grains,,220,1,17
+18,aves_aa_4R_18,1498,conseiller_des_sauniers,Jörge Riff,jerge,riffe,,,,echevinat,corporation_des_sauniers,,220,1,18
+19,aves_aa_4R_19,1498,conseiller_des_orfevres,Oberlin von Bùre,oberlin,"büre, von",,,,echevinat,corporation_des_orfevres,,220,1,20
+20,aves_aa_4R_20,1498,conseiller_des_boulangers,Hans Waldener,johanns,waldener,,,,echevinat,corporation_des_boulangers,,220,1,21
+21,aves_aa_4R_21,1498,conseiller_des_pelletiers,Thomann Kornman,thoman,kornman,,,,echevinat,corporation_des_pelletiers,,220,1,22
+22,aves_aa_4R_22,1498,conseiller_des_tonneliers,Hans Conrat,johanns,konrat,,,,echevinat,corporation_des_tonneliers,,220,1,23
+23,aves_aa_4R_23,1498,conseiller_des_tanneurs,Hans Mißbach,johanns,missbach,,,,echevinat,corporation_des_tanneurs,,220,1,24
+24,aves_aa_4R_24,1498,conseiller_des_gourmets_et_courtiers,Lecius Meÿger,lexius,meiger,,,,echevinat,corporation_des_gourmets_et_courtiers,,220,1,26
+25,aves_aa_4R_25,1498,conseiller_des_tailleurs,Conrat Lume,konrat,lume,,,,echevinat,corporation_des_tailleurs,,220,1,27
+26,aves_aa_4R_26,1498,conseiller_des_forgerons,Hans von Druhtersheim,johanns,"trüchtersheim, von",,,,echevinat,corporation_des_forgerons,,220,1,28
+27,aves_aa_4R_27,1498,conseiller_des_cordonniers,Martin Schultheiss genant Win und                            Brot,martin,schultheiss,,,,echevinat,corporation_des_cordonniers,,220,1,29
+28,aves_aa_4R_28,1498,conseiller_des_pêcheurs,Hans Swende der junge,johanns,schwende,,der junge,,echevinat,corporation_des_pêcheurs,,220,1,31
+29,aves_aa_4R_29,1498,conseiller_des_charrons,Hansclaus Arbgast,johanns-claus,arbogast,,,,echevinat,corporation_des_charrons,,220,1,33
+30,aves_aa_4R_30,1498,conseiller_des_jardiniers,Hans Bilger,johanns,bilger,,,,echevinat,corporation_des_jardiniers,,220,1,34
+31,aves_aa_4R_31,1498,conseiller_des_maçons,Veltin Mynner,veltin,minner,,,,echevinat,corporation_des_maçons,,220,1,35

@@ -1,44 +1,44 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1439,,,,,"['her', 'ritter']",constoffeler,,,Johanns,Zorn,,her Johanns Zorn ritter
-1,stettmeister,1439,,,,,['her'],constoffeler,,,Johanns,von Mùlnheim,Hiltebrant,her Johanns von Mùlnheim genant                         Hiltebrant
-2,stettmeister,1439,,,,,['her'],constoffeler,,,Clausfridrich,Bùhssener,,her Clausfridrich Bùhssener
-3,stettmeister,1439,,,,,['her'],constoffeler,,,Cuͦne,Nope,,her Cuͦne Nope
-4,ammeister,1439,,,,,"['her', 'ammeister']",echevinat,,,Claus,Melbruͤ,,her Claus Melbruͤ der ammeister
-5,conseiller_des_constaffel,1439,,,,,['her'],constoffeler,,,Reimbolt,Spender,,her Reimbolt Spender
-6,conseiller_des_constaffel,1439,,,,,['her'],constoffeler,,,Thoman,von Kageneck,,her Thoman von Kageneck
-7,conseiller_des_constaffel,1439,,,,,['her'],constoffeler,,,Bernhart,Boͤckel,,her Bernhart Boͤckel
-8,conseiller_des_constaffel,1439,,,,,['her'],constoffeler,,,Claus,Lentzel,,her Claus Lentzel
-9,conseiller_des_constaffel,1439,,,,,['her'],constoffeler,,,Uͦlrich,Bock,,her Uͦlrich Bock
-10,conseiller_des_constaffel,1439,,,,,['her'],constoffeler,,,Hanns,von Mùlnheim,,"her Hanns von Mùlnheim, Ottemans sùn"
-11,conseiller_des_constaffel,1439,,,,,,constoffeler,,,Hannsheinrich,Hùffel,,Hannsheinrich Hùffel
-12,conseiller_des_constaffel,1439,,,,,,constoffeler,,,Berhtolt,Zorn,zuͦm Riet,Berhtolt Zorn zuͦm Riet
-13,conseiller_des_constaffel,1439,,,,,,constoffeler,,,Bernhart,Mùrsel,,Bernhart Mùrsel
-14,conseiller_des_constaffel,1439,,,,,,constoffeler,,,Claus,Hesse,,Claus Hesse
-15,conseiller_des_marchands,1439,,,,,,echevinat,corporation_des_marchands,,Claus,Boͤschwilre,,Claus Boͤschwilre
-16,conseiller_des_boulangers,1439,,,,,,echevinat,corporation_des_boulangers,,Mathis,von Ettenheim,,Mathis von Ettenheim
-17,conseiller_des_bouchers,1439,,,,,,echevinat,corporation_des_bouchers,,Jacob,Kerling,,Jacob Kerling
-18,conseiller_des_tonneliers,1439,,,,,"['her', 'altammeister']",echevinat,corporation_des_tonneliers,,Claus,Schanlit,,her Claus Schanlit altammeister
-19,conseiller_des_drapiers,1439,,,,der junge,,echevinat,corporation_des_drapiers,,Hanns,Renner,,Hanns Renner der junge
-20,conseiller_des_tanneurs,1439,,,,,,echevinat,corporation_des_tanneurs,,Claus,Duntzenheim,,Claus Duntzenheim
-21,conseiller_des_cabaretiers,1439,,,,,"['her', 'altammeister']",echevinat,corporation_des_cabaretiers,,Hug,Dossenheim,,her Hug Dossenheim altammeister
-22,conseiller_des_maçons,1439,,,,,,echevinat,corporation_des_maçons,,Hanns,Eckboltzheim,,Hanns Eckboltzheim
-23,conseiller_des_forgerons,1439,,,,,,echevinat,corporation_des_forgerons,,Heinrich,Meyger,,Heinrich Meyger
-24,conseiller_des_tailleurs,1439,,,,,,echevinat,corporation_des_tailleurs,,Jacob,Rotgebe,,Jacob Rotgebe
-25,conseiller_des_bateliers,1439,,,,,,echevinat,corporation_des_bateliers,,Frantz,Berner,,Frantz Berner
-26,conseiller_des_pelletiers,1439,,,,,,echevinat,corporation_des_pelletiers,,Hanns,zͦuͦr Hellen,,Hanns zͦuͦr Hellen
-27,conseiller_des_charpentiers,1439,,,,,,echevinat,corporation_des_charpentiers,,Fritsch,,uff dem werde,Fritsch uff dem werde
-28,conseiller_des_crieurs_et_mesureurs_de_vin,1439,,,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,Hanns,Hechde,,Hanns Hechde
-29,conseiller_des_cordonniers,1439,,,,,,echevinat,corporation_des_cordonniers,,Cuͦntz,Heiden,,Cuͦntz Heiden
-30,conseiller_des_orfevres,1439,,,,,['XIII'],echevinat,corporation_des_orfevres,,Heinrich,Steffan,,Heinrich Steffan XIII
-31,conseiller_des_marchands_de_grains,1439,,,,,,echevinat,corporation_des_marchands_de_grains,,Heinrich,Birboͧm,,Heinrich Birboͧm
-32,conseiller_des_jardiniers,1439,,,,,,echevinat,corporation_des_jardiniers,,Churin,an steinstrasse,,Churin an steinstrasse
-33,conseiller_des_pêcheurs,1439,,,,,,echevinat,corporation_des_pêcheurs,,Anshelm,Grafe,,Anshelm Grafe
-34,conseiller_des_barbiers_et_baigneurs,1439,,,,,,echevinat,corporation_des_barbiers_et_baigneurs,,Marx,Rorer,,Marx Rorer
-35,conseiller_des_sauniers,1439,,,,,['her'],echevinat,corporation_des_sauniers,,Leonhart,Trachenfeils,,her Leonhart Trachenfeils
-36,conseiller_des_tisserands,1439,,,,,,echevinat,corporation_des_tisserands,,Hanns,Spiegel,,Hanns Spiegel
-37,conseiller_des_gourmets_et_courtiers,1439,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Diebolt,Brant,,Diebolt Brant
-38,conseiller_des_charrons,1439,,,,,,echevinat,corporation_des_charrons,,Peter,Gerbot,,Peter Gerbot
-39,conseiller_des_regrattiers_cordiers_et_fruitiers,1439,,,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,Peter,Herbst,,Peter Herbst
-40,conseiller_des_coltineurs_de_tonneaux,1439,,,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,Gabriel,,,Gabriel
-41,conseiller_des_constructeurs_de_bateaux,1439,,,,,,echevinat,corporation_des_constructeurs_de_bateaux,,Hanns,Clein,,Hanns Clein
-42,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,1439,,,,,['mùller'],echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,Berhtolt,,,Berhtolt der                               mùller
+,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+1,aves_aa_4R_001,1439,stettmeister,her Johanns Zorn ritter,johanns,zorn,,,"['her', 'ritter']",constoffeler,,,170,1,1
+2,aves_aa_4R_002,1439,stettmeister,her Johanns von Mùlnheim genant                         Hiltebrant,johanns,"müllenheim, von",hiltebrant,,['her'],constoffeler,,,170,1,2
+3,aves_aa_4R_003,1439,stettmeister,her Clausfridrich Bùhssener,claus-friedrich,büchsener,,,['her'],constoffeler,,,170,1,3
+4,aves_aa_4R_004,1439,stettmeister,her Cuͦne Nope,kühne,nope,,,['her'],constoffeler,,,170,1,4
+5,aves_aa_4R_005,1439,ammeister,her Claus Melbruͤ der ammeister,claus,melbrühe,,,"['her', 'ammeister']",echevinat,,,170,1,5
+6,aves_aa_4R_006,1439,conseiller_des_constaffel,her Reimbolt Spender,reimbolt,spender,,,['her'],constoffeler,,,170,1,6
+7,aves_aa_4R_007,1439,conseiller_des_constaffel,her Thoman von Kageneck,thoman,"kageneck, von",,,['her'],constoffeler,,,170,1,7
+8,aves_aa_4R_008,1439,conseiller_des_constaffel,her Bernhart Boͤckel,bernhart,böckel,,,['her'],constoffeler,,,170,1,8
+9,aves_aa_4R_009,1439,conseiller_des_constaffel,her Claus Lentzel,claus,lentzelin,,,['her'],constoffeler,,,170,1,9
+10,aves_aa_4R_10,1439,conseiller_des_constaffel,her Uͦlrich Bock,ulrich,bock,,,['her'],constoffeler,,,170,1,10
+11,aves_aa_4R_11,1439,conseiller_des_constaffel,"her Hanns von Mùlnheim, Ottemans sùn",johanns,"müllenheim, von",,,['her'],constoffeler,,,170,1,11
+12,aves_aa_4R_12,1439,conseiller_des_constaffel,Hannsheinrich Hùffel,johanns-heinrich,hüffelin,,,,constoffeler,,,170,1,12
+13,aves_aa_4R_13,1439,conseiller_des_constaffel,Berhtolt Zorn zuͦm Riet,bechtolt,zorn,"riet, zum",,,constoffeler,,,170,1,13
+14,aves_aa_4R_14,1439,conseiller_des_constaffel,Bernhart Mùrsel,bernhart,mürsel,,,,constoffeler,,,170,1,14
+15,aves_aa_4R_15,1439,conseiller_des_constaffel,Claus Hesse,claus,hesse,,,,constoffeler,,,170,1,15
+16,aves_aa_4R_16,1439,conseiller_des_marchands,Claus Boͤschwilre,claus,böschwiller,,,,echevinat,corporation_des_marchands,,170,1,16
+17,aves_aa_4R_17,1439,conseiller_des_boulangers,Mathis von Ettenheim,mathis,"ettenheim, von",,,,echevinat,corporation_des_boulangers,,170,1,17
+18,aves_aa_4R_18,1439,conseiller_des_bouchers,Jacob Kerling,jacob,kerling,,,,echevinat,corporation_des_bouchers,,170,1,18
+19,aves_aa_4R_19,1439,conseiller_des_tonneliers,her Claus Schanlit altammeister,claus,schanlit,,,"['her', 'altammeister']",echevinat,corporation_des_tonneliers,,170,1,19
+20,aves_aa_4R_20,1439,conseiller_des_drapiers,Hanns Renner der junge,johanns,renner,,der junge,,echevinat,corporation_des_drapiers,,170,2,1
+21,aves_aa_4R_21,1439,conseiller_des_tanneurs,Claus Duntzenheim,claus,duntzenheim,,,,echevinat,corporation_des_tanneurs,,170,2,2
+22,aves_aa_4R_22,1439,conseiller_des_cabaretiers,her Hug Dossenheim altammeister,hug,dossenheim,,,"['her', 'altammeister']",echevinat,corporation_des_cabaretiers,,170,2,3
+23,aves_aa_4R_23,1439,conseiller_des_maçons,Hanns Eckboltzheim,johanns,eckboltzheim,,,,echevinat,corporation_des_maçons,,170,1,20
+24,aves_aa_4R_24,1439,conseiller_des_forgerons,Heinrich Meyger,heinrich,meiger,,,,echevinat,corporation_des_forgerons,,170,1,21
+25,aves_aa_4R_25,1439,conseiller_des_tailleurs,Jacob Rotgebe,jacob,rotgebe,,,,echevinat,corporation_des_tailleurs,,170,1,22
+26,aves_aa_4R_26,1439,conseiller_des_bateliers,Frantz Berner,frantz,berner,,,,echevinat,corporation_des_bateliers,,170,1,23
+27,aves_aa_4R_27,1439,conseiller_des_pelletiers,Hanns zͦuͦr Hellen,johanns,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,170,1,24
+28,aves_aa_4R_28,1439,conseiller_des_charpentiers,Fritsch uff dem werde,fritsch,,"werde, uff dem",,,echevinat,corporation_des_charpentiers,,170,1,25
+29,aves_aa_4R_29,1439,conseiller_des_crieurs_et_mesureurs_de_vin,Hanns Hechde,johanns,hechde,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,170,1,26
+30,aves_aa_4R_30,1439,conseiller_des_cordonniers,Cuͦntz Heiden,küntz,heide,,,,echevinat,corporation_des_cordonniers,,170,1,27
+31,aves_aa_4R_31,1439,conseiller_des_orfevres,Heinrich Steffan XIII,heinrich,stefan,,,['XIII'],echevinat,corporation_des_orfevres,,170,1,28
+32,aves_aa_4R_32,1439,conseiller_des_marchands_de_grains,Heinrich Birboͧm,heinrich,birbaum,,,,echevinat,corporation_des_marchands_de_grains,,170,1,29
+33,aves_aa_4R_33,1439,conseiller_des_jardiniers,Churin an steinstrasse,khurin,"steinstrasse, an der",,,,echevinat,corporation_des_jardiniers,,170,1,30
+34,aves_aa_4R_34,1439,conseiller_des_pêcheurs,Anshelm Grafe,anshelm,graff,,,,echevinat,corporation_des_pêcheurs,,170,1,31
+35,aves_aa_4R_35,1439,conseiller_des_barbiers_et_baigneurs,Marx Rorer,marx,rohrer,,,,echevinat,corporation_des_barbiers_et_baigneurs,,170,1,32
+36,aves_aa_4R_36,1439,conseiller_des_sauniers,her Leonhart Trachenfeils,lienhart,trachenfeils,,,['her'],echevinat,corporation_des_sauniers,,170,1,33
+37,aves_aa_4R_37,1439,conseiller_des_tisserands,Hanns Spiegel,johanns,spiegel,,,,echevinat,corporation_des_tisserands,,170,1,34
+38,aves_aa_4R_38,1439,conseiller_des_gourmets_et_courtiers,Diebolt Brant,diebolt,brant,,,,echevinat,corporation_des_gourmets_et_courtiers,,170,1,35
+39,aves_aa_4R_39,1439,conseiller_des_charrons,Peter Gerbot,peter,gerbot,,,,echevinat,corporation_des_charrons,,170,1,36
+40,aves_aa_4R_40,1439,conseiller_des_regrattiers_cordiers_et_fruitiers,Peter Herbst,peter,herbst,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,170,1,37
+41,aves_aa_4R_41,1439,conseiller_des_coltineurs_de_tonneaux,Gabriel,gabriel,,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,170,1,38
+42,aves_aa_4R_42,1439,conseiller_des_constructeurs_de_bateaux,Hanns Clein,johanns,klein,,,,echevinat,corporation_des_constructeurs_de_bateaux,,170,1,39
+43,aves_aa_4R_43,1439,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,Berhtolt der                               mùller,bechtolt,,,,['mùller'],echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,170,1,40

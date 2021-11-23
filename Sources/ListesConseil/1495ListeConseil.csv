@@ -1,32 +1,32 @@
-,magistrature,AnnéeMagistrature,prénom,nom,surnom,genName,Titres,corps civique,corporation,poele,prénomNN,nomNN,surnomNN,NomCompletNN
-0,stettmeister,1495,,,,,"['her', 'ritter']",constoffeler,,,Peter,Völtsch,,her Peter Völtsch ritter
-1,stettmeister,1495,,,,,['ritter'],constoffeler,,,Friderich,Bock,,Friderich Bock ritter
-2,stettmeister,1495,,,,,['ritter'],constoffeler,,,Hans,von Seckingen,,Hans von Seckingen ritter
-3,stettmeister,1495,,,,,,constoffeler,,,Hans,Völtsch,,Hans Völtsch
-4,ammeister,1495,,,,,['ammeister'],echevinat,,,Claus,Weydelich,,Claus Weydelich der                      ammeister
-5,conseiller_des_constaffel,1495,,,,,['ritter'],constoffeler,,,Caspar,von Urendorff,,Caspar von Urendorff ritter
-6,conseiller_des_constaffel,1495,,,,,,constoffeler,,,Jörge,Berer,,Jörge Berer
-7,conseiller_des_constaffel,1495,,,,,,constoffeler,,,Caspar,Klobeloch,,Caspar Klobeloch
-8,conseiller_des_constaffel,1495,,,,,,constoffeler,,,Eucharius,Völtsch,,Eucharius Völtsch
-9,conseiller_des_constaffel,1495,,,,,,constoffeler,,,Diebolt,von Mùlnheim,,Diebolt von Mùlnheim
-10,conseiller_des_constaffel,1495,,,,,,constoffeler,,,Peter,Elnhart,,Peter Elnhart
-11,conseiller_des_bateliers,1495,,,,,,echevinat,corporation_des_bateliers,,Blesin,Dolde,,Blesin Dolde
-12,conseiller_des_marchands,1495,,,,,,echevinat,corporation_des_marchands,,Hans,Ingolt,,Hans Ingolt
-13,conseiller_des_bouchers,1495,,,,,,echevinat,corporation_des_bouchers,,Behtolt,Offemburg,,Behtolt Offemburg
-14,conseiller_des_cabaretiers,1495,,,,,,echevinat,corporation_des_cabaretiers,,Claus,Werlin,,Claus Werlin
-15,conseiller_des_drapiers,1495,,,,,,echevinat,corporation_des_drapiers,,Diebolt,Wingersheim,,Diebolt Wingersheim
-16,conseiller_des_marchands_de_grains,1495,,,,,,echevinat,corporation_des_marchands_de_grains,,Claus,Jörger,,Claus Jörger
-17,conseiller_des_sauniers,1495,,,,,,echevinat,corporation_des_sauniers,,Andres,Trachenfelß,,Andres Trachenfelß
-18,conseiller_des_orfevres,1495,,,,,,echevinat,corporation_des_orfevres,,Steffan,Rotschilt,,Steffan Rotschilt
-19,conseiller_des_boulangers,1495,,,,,,echevinat,corporation_des_boulangers,,Hans,Waldener,,Hans Waldener
-20,conseiller_des_pelletiers,1495,,,,,,echevinat,corporation_des_pelletiers,,Bernhart,Slapp,,Bernhart Slapp
-21,conseiller_des_tonneliers,1495,,,,,,echevinat,corporation_des_tonneliers,,Hans,Conrat,,Hans Conrat
-22,conseiller_des_tanneurs,1495,,,,,,echevinat,corporation_des_tanneurs,,Lorentz,Vendenheim,,Lorentz Vendenheim
-23,conseiller_des_gourmets_et_courtiers,1495,,,,,,echevinat,corporation_des_gourmets_et_courtiers,,Conrat,Stösser,,Conrat Stösser
-24,conseiller_des_tailleurs,1495,,,,,,echevinat,corporation_des_tailleurs,,Michel,Dietrich,,Michel Dietrich
-25,conseiller_des_forgerons,1495,,,,,,echevinat,corporation_des_forgerons,,Hans,von Druhtersheim,,Hans von Druhtersheim
-26,conseiller_des_cordonniers,1495,,,,,,echevinat,corporation_des_cordonniers,,Jost,Merckel,,Jost Merckel
-27,conseiller_des_pêcheurs,1495,,,,,,echevinat,corporation_des_pêcheurs,,Claus,Ülrich,,Claus Ülrich
-28,conseiller_des_charrons,1495,,,,,,echevinat,corporation_des_charrons,,Hans,Dùheler,,Hans Dùheler
-29,conseiller_des_jardiniers,1495,,,,,,echevinat,corporation_des_jardiniers,,Claus,Wolff,,Claus Wolff
-30,conseiller_des_maçons,1495,,,,,,echevinat,corporation_des_maçons,,Claus,Lötschel,,Claus Lötschel
+,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+1,aves_aa_4R_001,1495,stettmeister,her Peter Völtsch ritter,peter,völtsch,,,"['her', 'ritter']",constoffeler,,,218,2,1
+2,aves_aa_4R_002,1495,stettmeister,Friderich Bock ritter,friedrich,bock,,,['ritter'],constoffeler,,,218,2,2
+3,aves_aa_4R_003,1495,stettmeister,Hans von Seckingen ritter,johanns,"säckingen, von",,,['ritter'],constoffeler,,,218,2,3
+4,aves_aa_4R_004,1495,stettmeister,Hans Völtsch,johanns,völtsch,,,,constoffeler,,,218,2,4
+5,aves_aa_4R_005,1495,ammeister,Claus Weydelich der                      ammeister,claus,weidlich,,,['ammeister'],echevinat,,,218,2,5
+6,aves_aa_4R_006,1495,conseiller_des_constaffel,Caspar von Urendorff ritter,caspar,"urendorf, von",,,['ritter'],constoffeler,,,218,2,6
+7,aves_aa_4R_007,1495,conseiller_des_constaffel,Jörge Berer,jerge,berer,,,,constoffeler,,,218,2,7
+8,aves_aa_4R_008,1495,conseiller_des_constaffel,Caspar Klobeloch,caspar,klobelouch,,,,constoffeler,,,218,2,8
+9,aves_aa_4R_009,1495,conseiller_des_constaffel,Eucharius Völtsch,eucharius,völtsch,,,,constoffeler,,,218,2,9
+10,aves_aa_4R_10,1495,conseiller_des_constaffel,Diebolt von Mùlnheim,diebolt,"müllenheim, von",,,,constoffeler,,,218,2,10
+11,aves_aa_4R_11,1495,conseiller_des_constaffel,Peter Elnhart,peter,ellenhart,,,,constoffeler,,,218,2,11
+12,aves_aa_4R_12,1495,conseiller_des_bateliers,Blesin Dolde,blesin,dolde,,,,echevinat,corporation_des_bateliers,,218,2,12
+13,aves_aa_4R_13,1495,conseiller_des_marchands,Hans Ingolt,johanns,ingolt,,,,echevinat,corporation_des_marchands,,218,2,13
+14,aves_aa_4R_14,1495,conseiller_des_bouchers,Behtolt Offemburg,bechtolt,offenburg,,,,echevinat,corporation_des_bouchers,,218,2,14
+15,aves_aa_4R_15,1495,conseiller_des_cabaretiers,Claus Werlin,claus,wernlin,,,,echevinat,corporation_des_cabaretiers,,218,2,15
+16,aves_aa_4R_16,1495,conseiller_des_drapiers,Diebolt Wingersheim,diebolt,wingersheim,,,,echevinat,corporation_des_drapiers,,218,2,16
+17,aves_aa_4R_17,1495,conseiller_des_marchands_de_grains,Claus Jörger,claus,jerger,,,,echevinat,corporation_des_marchands_de_grains,,218,2,17
+18,aves_aa_4R_18,1495,conseiller_des_sauniers,Andres Trachenfelß,andres,trachenfeils,,,,echevinat,corporation_des_sauniers,,218,2,18
+19,aves_aa_4R_19,1495,conseiller_des_orfevres,Steffan Rotschilt,stefan,rotschilt,,,,echevinat,corporation_des_orfevres,,218,2,20
+20,aves_aa_4R_20,1495,conseiller_des_boulangers,Hans Waldener,johanns,waldener,,,,echevinat,corporation_des_boulangers,,218,2,21
+21,aves_aa_4R_21,1495,conseiller_des_pelletiers,Bernhart Slapp,bernhart,slapp,,,,echevinat,corporation_des_pelletiers,,218,2,22
+22,aves_aa_4R_22,1495,conseiller_des_tonneliers,Hans Conrat,johanns,konrat,,,,echevinat,corporation_des_tonneliers,,218,2,23
+23,aves_aa_4R_23,1495,conseiller_des_tanneurs,Lorentz Vendenheim,laurentz,vendenheim,,,,echevinat,corporation_des_tanneurs,,218,2,24
+24,aves_aa_4R_24,1495,conseiller_des_gourmets_et_courtiers,Hans Stösser,johanns,stösser,,,,echevinat,corporation_des_gourmets_et_courtiers,,218,2,26
+25,aves_aa_4R_25,1495,conseiller_des_tailleurs,Michel Dietrich,michel,dietrich,,,,echevinat,corporation_des_tailleurs,,218,2,27
+26,aves_aa_4R_26,1495,conseiller_des_forgerons,Hans von Druhtersheim,johanns,"trüchtersheim, von",,,,echevinat,corporation_des_forgerons,,218,2,28
+27,aves_aa_4R_27,1495,conseiller_des_cordonniers,Jost Merckel,jost,merckel,,,,echevinat,corporation_des_cordonniers,,218,2,29
+28,aves_aa_4R_28,1495,conseiller_des_pêcheurs,Claus Ülrich,claus,ulrich,,,,echevinat,corporation_des_pêcheurs,,218,2,30
+29,aves_aa_4R_29,1495,conseiller_des_charrons,Hans Dùheler,johanns,ducheler,,,,echevinat,corporation_des_charrons,,218,2,32
+30,aves_aa_4R_30,1495,conseiller_des_jardiniers,Claus Wolff,claus,wolff,,,,echevinat,corporation_des_jardiniers,,218,2,33
+31,aves_aa_4R_31,1495,conseiller_des_maçons,Claus Lötschel,claus,lötschel,,,,echevinat,corporation_des_maçons,,218,2,34
