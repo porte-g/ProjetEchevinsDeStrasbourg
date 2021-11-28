@@ -1,4 +1,4 @@
-# ProjetEchevinsDeStrasbourg
+# L'échevinat des métiers strasbourgeois
 Ce dépôt contient tous les fichiers relatifs au développement de mon projet de recherche.
 Celui-ci a pour objectif d'analyser les dynamiques propres à l'échevinat strasbourgeois.
 
