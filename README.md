@@ -1,8 +1,9 @@
 # L'échevinat des métiers strasbourgeois
 Prosopographie numérique, extraction et réconciliation de données, analyse de classe.
 ## Démarche et Problématiques
-Ce dépôt contient tous les fichiers relatifs au développement de mon projet de recherche.
-Celui-ci a pour objectif d'analyser les dynamiques propres à l'échevinat strasbourgeois.
+### Définition
+L'échevin strasbourgeois était à l'origine un office attribué par l'évêque à des notables strasbourgeois pour l'assister à gouverner la ville dont il était le seigneur. L'office était attribué à vie et non héréditaire.
+L'émancipation de la communauté des bourgeois vis-à-vis de son seigneur temporel et la reconnaissance de son statut de ville libre par l'empereur transformèrent profondément le paysage institutionnel de la ville. Elle dut se doter d'un appareil institutionnel permettant aux bourgeois de gouverner leur ville. Les constitutions successivent (*Schwörbriefe*) et leurs différences permettent de détailler l'évolution des rapports de force au sein de la société urbaine. Aux lignages nobles urbains qui assurèrent initialement le gouvernement de la ville suite à l'éviction de l'évêque succèdent les patriciens non-nobles (financiers et grands marchands). Après un nouvel épisode de violences urbaines en 1349, les bourgeois des Métiers constitués en corporations professionnelles et politiques confisquent définitivement le pouvoir aux patriciens.
 
 ## Bibliographie
 ### Monographies et articles scientifiques
