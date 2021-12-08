@@ -16,8 +16,9 @@ Dans un effort continu de rationnalisation de son système institutionnel, la vi
 ### Problématique
 L'évolution institutionnelle de l'office d'échevin a été étudié en détail dans le cadre des études sur l'organisation politique, sociale et institutionnelle de la ville libre, mais toujours par le prisme des textes de loi. Nous souhaitons aborder le groupe social constitué par les échevins par le bas en en proposant une prosopographie. Nous allons analyser les sources à notre disposition afin d'identifier les fonctions tacites de l'échevinat et les dynamiques internes aux collèges échinaux corporatifs.
 
-En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'intègre à la société strasbourgeoise médiévale. Tous les échevins finissent-ils tous par briguer les plus hautes magistratures du système institutionnel strasbourgeois ? Cela ne concerne-t-il qu'une majorité, ou au contraire une minortié d'échevins ? Existe-t-il une discrimination entre les carrières des échevins selon leur métier et la corporation à laquelle ils sont rattachés ?
-L'objectif est de mettre en évidence les rôles que revêt l'échevinat au sein de la société strasbourgeoise, mais qui ne sont pas explicitement mentionné dans les textes de loi. 
+En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'intègre à la société strasbourgeoise médiévale. Tous les échevins finissent-ils par briguer les plus hautes magistratures du système institutionnel strasbourgeois ? L'ascension politique concerne-t-elle une majorité des échevins, ou au contraire seulement une minortié d'entre eux ? Existe-t-il une discrimination entre les carrières des échevins selon leur métier et leur corporation ?
+
+Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue. Peu de sources permettent de documenter les identités de la totalités des échevins de Strasbourg pour une date donnée. Nous allons nous intéresser aux échevins et à ceux d'entre eux qui accédèrent à des magistratures supérieures : représentants au conseil des corporations et ammeistres.
 
 ## Bibliographie
 ### Monographies et articles scientifiques
