@@ -23,7 +23,7 @@ Aucune source sérielle documentant l'identité des échevins de chaque corporat
 ## Encodage des données
 Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie qui liste chaque année les étrangers ayant acquis le droit de bourgeoisie (par achat ou par mariage). Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations.
 
-<img src="./imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
+<img src="imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
 
 ## Bibliographie
 ### Monographies et articles scientifiques
