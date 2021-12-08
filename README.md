@@ -62,7 +62,9 @@ Ludwig Spach, Heitz F. C.*, Strasbourg, 1856.
 - HATT Jacques, *Liste des membres du Grand Sénat de Strasbourg, du XIIIe siècle à 1789 : des stettmeistres, des ammeistres, des conseils des XXI, XIII et des XV*, s. n., Strasbourg, 1963, 677 p.
 - FERRIERE Claus Joseph de, *Dictionnaire de droit et de pratique, contenant l’explication des termes de droit, d’ordonnances, de coutumes et de pratique avec les juridictions de France*, Paris, Saint-Etienne, 1771.
 ### Sitographie
+- *CIDOC CRM*, URL: https://www.cidoc-crm.org/.
 - *Dictionnaire Historique des Institutions de l’Alsace*, URL: https://www.alsace-histoire.org/dictionnaire-historique-des-institutions-de-lalsace/.
+- GRANDJEAN MARTIN, URL: http://www.martingrandjean.ch/gephi-introduction/.
 - *People of Medieval Scottland*, URL: https://www.poms.ac.uk/.
 ### Sources éditées
 - EHEBERG Karl Theodor, *Verfassungs-, Verwaltungs- und Wirtschaftsgeschichte der Stadt Strassburg bis 1681. I. Band : Urkunden und akten*, J. H. Ed. Heitz (Heitz Mündel), Strasbourg, 1899.
