@@ -20,6 +20,11 @@ En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'int�
 
 Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue. Peu de sources permettent de documenter les identités de la totalités des échevins de Strasbourg pour une date donnée. Nous allons nous intéresser aux échevins et à ceux d'entre eux qui accédèrent à des magistratures supérieures : représentants au conseil des corporations et ammeistres.
 
+## Encodage des données
+Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie qui liste chaque année les étrangers ayant acquis le droit de bourgeoisie (par achat ou par mariage). Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations.
+
+<img src="./imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
+
 ## Bibliographie
 ### Monographies et articles scientifiques
 - ALIOTH Martin, *Gruppen an der Macht : Zünfte und Patriziat in Strassburg im 14. und 15. Jahrhundert : Untersuchungen zu Verfassung, Wirtschaftsgefüge und Sozialstruktur*, Helbing Lichtenhahn, Basel, 1988.
@@ -66,7 +71,11 @@ Ludwig Spach, Heitz F. C.*, Strasbourg, 1856.
 - *Dictionnaire Historique des Institutions de l’Alsace*, URL: https://www.alsace-histoire.org/dictionnaire-historique-des-institutions-de-lalsace/.
 - GRANDJEAN MARTIN, URL: http://www.martingrandjean.ch/gephi-introduction/.
 - *People of Medieval Scottland*, URL: https://www.poms.ac.uk/.
+## Sources
 ### Sources éditées
 - EHEBERG Karl Theodor, *Verfassungs-, Verwaltungs- und Wirtschaftsgeschichte der Stadt Strassburg bis 1681. I. Band : Urkunden und akten*, J. H. Ed. Heitz (Heitz Mündel), Strasbourg, 1899.
 - WITTE Hanns & WOLFRAM Karl Georg (ed.), *Urkundenbuch der Stadt Strassburg. Fünfter Band. Politische Urkunden von 1332 bis 1380*, Karl J. Trübner, Strasbourg, 1896.
 - WITTE Hanns (ed.), *Urkundenbuch der Stadt Strassburg. 7. Band. privatrechtliche Urkunden und Rathslisten von 1332 bis 1400*, Karl J. Trübner, Strasbourg, 1900.
+
+### Sources non éditées
+- AVES 4R 103, Premier livre de bourgeoisie, URL: https://archives.strasbourg.eu/ark:/39332/vtaa6e71d677e73ab72/daogrp/0#id:1425915738?gallery=true&brightness=100.00&contrast=100.00&center=2050.000,-1460.000&zoom=5&rotation=0.000.
