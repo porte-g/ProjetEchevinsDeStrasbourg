@@ -1,7 +1,18 @@
 # L'échevinat des métiers strasbourgeois
 Prosopographie numérique, extraction et réconciliation de données, analyse de classe.
-## Démarche et Problématiques
-### Définition
+
+#Table of Contents
+
+1. [Démarche et Problématiques](#DémarcheProblématiques)
+    1. [Définition](#Définition)
+    2. [Problématique](#Problématique)
+2. [Acquisition des données](#Acquisition)
+    1. [Présentation des Sources](#Présentation)
+    2. [Transcription](#Transcription)
+    3. [Encodage XML](#Encodage)
+4. s
+## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
+### Définition<a name="Définition"></a>
 L'échevin strasbourgeois était à l'origine un office attribué par l'évêque à des notables strasbourgeois pour l'assister à gouverner la ville dont il était le seigneur. L'office était attribué à vie et non héréditaire.
 L'émancipation de la communauté des bourgeois vis-à-vis de son seigneur temporel et la reconnaissance de son statut de ville libre par l'empereur transformèrent profondément le paysage institutionnel de la ville. Elle dut se doter d'un appareil institutionnel permettant aux bourgeois de gouverner leur ville. Les constitutions successivent (*Schwörbriefe*) et leurs différences permettent de détailler l'évolution des rapports de force au sein de la société urbaine. Aux lignages nobles urbains qui assurèrent initialement le gouvernement de la ville suite à l'éviction de l'évêque succèdent les patriciens non-nobles (financiers et grands marchands). Après un nouvel épisode de violences urbaines en 1349, les bourgeois des Métiers constitués en corporations professionnelles et politiques confisquent définitivement le pouvoir aux patriciens.
 
@@ -13,14 +24,16 @@ L'échevinat des Métiers acquiert à Strasbourg plusieurs fonctions politiques 
 Les échevins acquièrent de nouvelles prérogatives en 1433. La nouvelle constitution prévoit une augmentation du nombre d'échevins jusqu'à ce qu'on en compte 15 par corporation. Les échevins de chaque corporation doivent désormais élire leur représentant au conseil parmis leurs pairs.
 Nous avons pu toutefois constater que cette mesure était encore loin d'être appliquée plus d'une décennie après la promulgation de la constitution de 1433. Les échevins étaient au nombre de 381 et étaient très inégalement répartis entre les corporations.
 Dans un effort continu de rationnalisation de son système institutionnel, la ville réduit le nombre de corporation à trois reprises (1462, 1470 et 1482). Les membres d'une corporation supprimée intègrent une autre corporation ou sont répartis entre plusieurs d'entre elles. On peut imaginer qu'il en va de même pour les échevins puisque leur nombre au des corporations les moins importantes augmente progressivement au cours de la seconde moitié du XVe siècle jusqu'à atteindre 15 alors que les collèges échevinaux des corporations les plus importantes se réduisent à 15.
-### Problématique
+
+### Problématique<a name="Problématique"></a>
 L'évolution institutionnelle de l'office d'échevin a été étudié en détail dans le cadre des études sur l'organisation politique, sociale et institutionnelle de la ville libre, mais toujours par le prisme des textes de loi. Nous souhaitons aborder le groupe social constitué par les échevins par le bas en en proposant une prosopographie. Nous allons analyser les sources à notre disposition afin d'identifier les fonctions tacites de l'échevinat et les dynamiques internes aux collèges échinaux corporatifs.
 
 En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'intègre à la société strasbourgeoise médiévale. Tous les échevins finissent-ils par briguer les plus hautes magistratures du système institutionnel strasbourgeois ? L'ascension politique concerne-t-elle une majorité des échevins, ou au contraire seulement une minortié d'entre eux ? Existe-t-il une discrimination entre les carrières des échevins selon leur métier et leur corporation ?
 
 Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue. Peu de sources permettent de documenter les identités de la totalités des échevins de Strasbourg pour une date donnée. Nous allons nous intéresser aux échevins et à ceux d'entre eux qui accédèrent à des magistratures supérieures : représentants au conseil des corporations et ammeistres.
 
-## Encodage des données
+## Acquisition des données<a name="Acquisition"></a>
+### Présentation des sources<a name="Présentation"></a>
 Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie ; il liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage. Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations. Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963. Très utile, cette édition documente les membres du conseil jusqu'en 1603, mais en raison du très grand nombre de magistrats mentionnés, le travail de réconciliation manuel des occurences en autorité a souffert de quelques erreurs. Ces listes nous permettent de créer un référentiel contenant l'identité de tous les échevins ayant exercé une magistrature au conseil .
 
 <img src="imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
@@ -30,6 +43,24 @@ Notre seconde source est une liste d'armement datée de 1444. Ces listes nomment
 <img src="imagesMD/aves_aa_195_69v_70r.JPG" style="display: block; margin: auto;" />
 
 Croiser ces deux documents en identifiant les individus nommés nous permettrait d'analyser l'évolution des carrières de chaque échevin mentionné en 1444 dans le temps, avant et après.
+
+### Transcription<a name="Transcription"></a>
+
+J'envisageais au départ d'employer la technologie HTR de [Kraken](http://kraken.re/master/index.html) via [Escriptorium](https://gitlab.inria.fr/scripta/escriptorium) pour transcrire automatiquement mon corpus. Cependant, en raison de la pluralité des mains et du volume documentaire restreint disponible pour chacune d'elles rendent, investir du temps à entrainer un modèle par main, ou un modèle multimain aurait été contre-productif.
+
+Nous avons donc procédé à la transcription des 100 listes du conseil (1400-1499) et des listes d'armement des échevins des métiers (1444) manuellement. Nous avons transcrit l'intégralité des liste du conseil dans une perspective de données ouverte et de réutilisation. Nous avons choisi de développer les abbréviations et de ne pas normaliser la graphie des mots, pourtant marquée fortement pas les géolectes et les idiolectes. Dans un contexte orthographique à géométrie variable, nous avons choisi de repousser la normalisation des noms de nos échevins à une étape ultérieure.
+
+### Encodage XML<a name="Encodage"></a>
+
+| balise | contenu                           | attributs                   |
+| ------ | --------------------------------- | --------------------------- |
+| div    | nouveau sous ensemble d’individus | type(sous-ensemble), n(nom) |
+| pb     | nouvelle page                     | n(nombre)                   |
+| cb     | nouvelle colonne                  | n(nombre)                   |
+| lb     | nouvelle ligne                    | n(nombre)                   |
+| p      | paragraphe                        |                             |
+
+
 
 ## Bibliographie
 ### Monographies et articles scientifiques
@@ -84,4 +115,5 @@ Ludwig Spach, Heitz F. C.*, Strasbourg, 1856.
 - WITTE Hanns (ed.), *Urkundenbuch der Stadt Strassburg. 7. Band. privatrechtliche Urkunden und Rathslisten von 1332 bis 1400*, Karl J. Trübner, Strasbourg, 1900.
 
 ### Sources non éditées
+- AVES AA 195, f. 69r-77r, liste d'armement de 1444.
 - AVES 4R 103, Premier livre de bourgeoisie, URL: https://archives.strasbourg.eu/ark:/39332/vtaa6e71d677e73ab72/daogrp/0#id:1425915738?gallery=true&brightness=100.00&contrast=100.00&center=2050.000,-1460.000&zoom=5&rotation=0.000.
