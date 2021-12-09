@@ -21,9 +21,15 @@ En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'int�
 Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue. Peu de sources permettent de documenter les identités de la totalités des échevins de Strasbourg pour une date donnée. Nous allons nous intéresser aux échevins et à ceux d'entre eux qui accédèrent à des magistratures supérieures : représentants au conseil des corporations et ammeistres.
 
 ## Encodage des données
-Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie qui liste chaque année les étrangers ayant acquis le droit de bourgeoisie (par achat ou par mariage). Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations.
+Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie ; il liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage. Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations. Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963. Très utile, cette édition documente les membres du conseil jusqu'en 1603, mais en raison du très grand nombre de magistrats mentionnés, le travail de réconciliation manuel des occurences en autorité a souffert de quelques erreurs. Ces listes nous permettent de créer un référentiel contenant l'identité de tous les échevins ayant exercé une magistrature au conseil .
 
 <img src="imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
+
+Notre seconde source est une liste d'armement datée de 1444. Ces listes nomment tous les bourgeois dans l'obligation de participer à l'effort de guerre, en servant sous les bannières ou en fournissant du matériel et un remplaçant. Elle liste tous les échevins des métiers, par corporation.
+
+<img src="imagesMD/aves_aa_195_69v_70r.JPG" style="display: block; margin: auto;" />
+
+Croiser ces deux documents en identifiant les individus nommés nous permettrait d'analyser l'évolution des carrières de chaque échevin mentionné en 1444 dans le temps, avant et après.
 
 ## Bibliographie
 ### Monographies et articles scientifiques
