@@ -12,8 +12,7 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
     3. [Encodage XML](#Encodage)
     4. [Normalisation](#Normalisation)
     5. [Parsing](#Parsing)
-    6. 
-4. s
+4. [Traitement des données](#Traitement)
 
 
 ## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
@@ -105,14 +104,29 @@ Le [second](./Referentiels/EnrichissementCsvNoms.ipynb) permet de créer un [ré
 Le choix des formes normalisées est empirique et tente d'harmoniser au mieux la graphie tout en restant le plus proches de la forme dominante.
 Il repose donc sur des choix qui nous sont personnels et peuvent être discutés, mais permettent en l'état de travailler plus efficacement nos données dans les étapes suivantes de notre projet.
 
-
+Les enrichissements relatifs à la typologie, à la traduction et aux renvois toponymiques ont été réalisés dans le but de faciliter la réutilisation des référentiels à diverses fins, par exemple une analyse des renvois toponymiques des noms de la totalité ou d'un sous-ensemble donnée de la population strasbourgeoise médiévale.
 
 ### Parsing<a name="Parsing"></a>
-Nous avons élaboré un [script python](./Analyse/AnalyseListesConseil.ipynb)
+Nous avons élaboré un [script python](./Analyse/AnalyseListesConseil.ipynb) pour extraire les données relatives à chaque occurence d'individu.
+Notre script compare notamment les formes rejetées des anthroponymes avec nos fichiers référentiels pour en tirer la forme normalisée.
+Nous avons utilisé le module [Beautiful Soup (BS4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) pour parser notre document. Il est équipé du parseur [lxml](https://lxml.de/) et plus adapté aux documents irréguliers que ce dernier.
+Il produit en sortie un [fichier csv](./Sources/ListesConseil) par année.
+Ces fichiers contiennent le rang de l'individu au conseil de l'année donnée, l'identifiant temporaire attribué à l'occurence, l'année de la magistrature, la magistrature exercée, l'occurence, le prénom normalisé, le nom normalisé, le surnom, le surnom générationnel, les titres et rôles, le corps civique, le poêle, la page, la colonne et la ligne de la mention.
+Ce sont des éditions des listes du conseil au format csv.
+
+| **Unnamed: 0** | **id**                   | **anneeMagistrature** | **magistrature**            | **occurence**                      | **prenom** | **nom**     | **surnom**     | **genName** | **titres\_roles**      | **corps civique** | **corporation**              | **poele** | **page** | **colonne** | **ligne** |
+| -------------- | ------------------------ | --------------------- | --------------------------- | ---------------------------------- | ---------- | ----------- | -------------- | ----------- | ---------------------- | ----------------- | ---------------------------- | --------- | -------- | ----------- | --------- |
+| 5              | aves\_aa\_4R\_1400\_0005 | 1400                  | ammeister                   | her Wilhelm Metziger der ammeister | wilhelm    | metziger    |                |             | \['her', 'ammeister'\] | echevinat         |                              |           | 131      | 1           | 5         |
+| 30             | aves\_aa\_4R\_1400\_0030 | 1400                  | conseiller\_des\_marchands  | Hanman von Colmar                  | hannemann  | colmar, von |                |             |                        | echevinat         | corporation\_des\_marchands  |           | 131      | 1           | 30        |
+| 31             | aves\_aa\_4R\_1400\_0031 | 1400                  | conseiller\_des\_boulangers | Gerung inn Judengasse              |            | gerung      | judengasse, in |             |                        | echevinat         | corporation\_des\_boulangers |           | 131      | 1           | 31        |
+| 32             | aves\_aa\_4R\_1400\_0032 | 1400                  | conseiller\_des\_bouchers   | Wilhelm Rotschilt                  | wilhelm    | rotschilt   |                |             |                        | echevinat         | corporation\_des\_bouchers   |           | 131      | 1           | 32        |
+
+## Traitement des données<a name="Traitement"></a>
+À partir de ces fichiers csv, nous avons compilé à l'aide d'un autre [script](./Analyse/CompilationEchevins.ipynb) toutes les occurences relatives aux différents représentants des Métiers (conseillers des corporations et ammeistres) en un seul [fichier csv](./Analyse/Data/OccEch.csv ).
 
 
 
-## Bibliographie
+## Bibliographie<a name="Bibliographie"></a>
 ### Monographies et articles scientifiques
 - ALIOTH Martin, *Gruppen an der Macht : Zünfte und Patriziat in Strassburg im 14. und 15. Jahrhundert : Untersuchungen zu Verfassung, Wirtschaftsgefüge und Sozialstruktur*, Helbing Lichtenhahn, Basel, 1988.
 - ALVAREZ-ALTMAN Grace, « Literary Onomastics Typology : Analytic Guidelines to Literary Onomastics Studies », dans *Literary Onomastics Studies*, 8, art. 21, 1981, URL : https://digitalcommons.brockport.edu/los/vol8/iss1/21/?utm_source=digitalcommons.brockport.edu (page consultée le 7 mai 2021).
