@@ -10,6 +10,9 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
     1. [Présentation des Sources](#Présentation)
     2. [Transcription](#Transcription)
     3. [Encodage XML](#Encodage)
+    4. [Normalisation](#Normalisation)
+    5. [Parsing](#Parsing)
+    6. 
 4. s
 
 
@@ -64,8 +67,48 @@ La traçabilité des informations collectées est assurée par un premier jeu de
 | [lb](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-lb.html)     | nouvelle ligne                    | n(nombre)                   |
 | [p](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-p.html)      | paragraphe                        |                             |
 
-Un second jeu de balises permet d'encoder les données relatives aux informations prosopographiques disponibles pour chaque individu.
+Un second jeu de balises encode les données relatives aux informations prosopographiques disponibles dans les sources pour chaque individu. Elles concernent l'anthroponymie, mais également de l'appartenance professionnelle, sociale et politique de l'individu.
 
+| balise   | contenu                           | attributs                   |
+| -------- | --------------------------------- | --------------------------- |
+| [div](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-div.html)      | nouveau sous ensemble d’individus | type(sous-ensemble), n(nom) |
+| [persname](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-persname.html) | nom complet                       |                             |
+| [forename](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-forename.html) | prénom                            |                             |
+| [surname](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-surname.html)  | nom de famille                    |                             |
+| [genName](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-genName.html)  | surnom générationnel              |                             |
+| [addName](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-addName.html)   | surnom                            |                             |
+
+### Normalisation<a name="Normalisation"></a>
+L'irrégularité des anthroponymes due à l'absence d'orthographe est un problème récurent pour tout historien s'intéressant aux langues vernaculaires.
+Nous avons constitué des référentiels au format csv contenant au minimum un dictionnaire dont la clé est la forme normalisée et la valeur une liste des formes rejetées.
+Nous avons rédigé deux scripts qui permettent de les enrichir à partir de documents xml qui comportent des balises contenant des formes rejetées.
+Le [premier](./Referentiels/EnrichissementCsvPrenom.ipynb) permet de créer un [référentiel](./Referentiels/ReferentielPrenoms.csv) pour les prénoms.
+Le référentiel des prénoms propose pour chaque forme normalisée, la traduction française, un essai de typologie ainsi que la liste des formes rejetées.
+
+| **PrénomNormalisé** | **PrénomFrançais** | **Types**                | **FormesNonNormalisées**                                                                                       |
+| ------------------- | ------------------ | ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| adalhelm            | alleaume           | \['masc', 'germanique'\] | \['adalhelm', 'adelhelm', 'alhelm'\]                                                                           |
+| adam                | adam               | \['masc', 'hébraïque'\]  | \['adam'\]                                                                                                     |
+| anthenie            | antoine            | \['masc', 'latin'\]      | \['anthenie', 'anthenig', 'anthenye', 'anthenige', 'anthonie', 'anthonye', 'anthenÿe', 'anthonÿe', 'thenige'\] |
+| arbogast            |                    | \['masc', 'germanique'\] | \['arbgast', 'arbogast', 'ärbgäst'\]                                                                           |
+
+Le [second](./Referentiels/EnrichissementCsvNoms.ipynb) permet de créer un [référentiel](./Referentiels/ReferentielNoms.csv) pour les nom et les surnoms. Pour chaque forme normalisée il propose un essai de typologie, une liste des formes rejetées, et dans le cas d'un nom toponymique, le nom du lieu auquel le nom fait référence lorsqu'il est connu.
+
+| **NomNormalisé** | **Types**        | **FormesNonNormalisées**              | **RenvoiToponymique** |
+| ---------------- | ---------------- | ------------------------------------- | --------------------- |
+| aarau, von       | \['toponymic'\]  | \['von arowe', 'aarau, von'\]         | Aarau                 |
+| achenheim        | \['toponymic'\]  | \['achenheim'\]                       | Achenheim             |
+| achenheim, von   | \['toponymic'\]  | \['von achenheim', 'achenheim, von'\] | Achenheim             |
+| achtjahre        | \['cognominal'\] | \['acht jore', 'achtjahre'\]          |                       |
+| acker            | \['cognominal'\] | \['acker', 'ackel'\]                  |                       |
+
+Le choix des formes normalisées est empirique et tente d'harmoniser au mieux la graphie tout en restant le plus proches de la forme dominante.
+Il repose donc sur des choix qui nous sont personnels et peuvent être discutés, mais permettent en l'état de travailler plus efficacement nos données dans les étapes suivantes de notre projet.
+
+
+
+### Parsing<a name="Parsing"></a>
+Nous avons élaboré un [script python](./Analyse/AnalyseListesConseil.ipynb)
 
 
 
