@@ -11,6 +11,8 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
     2. [Transcription](#Transcription)
     3. [Encodage XML](#Encodage)
 4. s
+
+
 ## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
 ### Définition<a name="Définition"></a>
 L'échevin strasbourgeois était à l'origine un office attribué par l'évêque à des notables strasbourgeois pour l'assister à gouverner la ville dont il était le seigneur. L'office était attribué à vie et non héréditaire.
@@ -51,14 +53,19 @@ J'envisageais au départ d'employer la technologie HTR de [Kraken](http://kraken
 Nous avons donc procédé à la transcription des 100 listes du conseil (1400-1499) et des listes d'armement des échevins des métiers (1444) manuellement. Nous avons transcrit l'intégralité des liste du conseil dans une perspective de données ouverte et de réutilisation. Nous avons choisi de développer les abbréviations et de ne pas normaliser la graphie des mots, pourtant marquée fortement pas les géolectes et les idiolectes. Dans un contexte orthographique à géométrie variable, nous avons choisi de repousser la normalisation des noms de nos échevins à une étape ultérieure. Normaliser dès la transcription un texte sujet à la trascription automatique et donc fortement inféodé aux idiolectes et géolectes de l'auteur augmente fortement les risques d'erreur et de faux négatif lors de la réunion des différentes mentions du même échevin en une autorité.
 
 ### Encodage XML<a name="Encodage"></a>
+Le but premier de l'encodage des documents est d'en extraire toutes les informations prosopographiques disponibles.
+Nous avons ensuite encodé notre document en XML en reprenant des balises de la grammaire développée par le consortium [TEI](https://tei-c.org/).
+La traçabilité des informations collectées est assurée par un premier jeu de balises mobilisé afin d'accéder aux métadonnées relatives à chaque mention d'échevin. Ces métadonnées permettent de localiser l'information dans la source.
 
 | balise | contenu                           | attributs                   |
 | ------ | --------------------------------- | --------------------------- |
-| div    | nouveau sous ensemble d’individus | type(sous-ensemble), n(nom) |
-| pb     | nouvelle page                     | n(nombre)                   |
-| cb     | nouvelle colonne                  | n(nombre)                   |
-| lb     | nouvelle ligne                    | n(nombre)                   |
-| p      | paragraphe                        |                             |
+| [pb](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-pb.html)     | nouvelle page                     | n(nombre)                   |
+| [cb](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-cb.html)     | nouvelle colonne                  | n(nombre)                   |
+| [lb](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-lb.html)     | nouvelle ligne                    | n(nombre)                   |
+| [p](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-p.html)      | paragraphe                        |                             |
+
+Un second jeu de balises permet d'encoder les données relatives aux informations prosopographiques disponibles pour chaque individu.
+
 
 
 
