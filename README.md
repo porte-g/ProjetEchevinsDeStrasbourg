@@ -13,6 +13,7 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
     4. [Normalisation](#Normalisation)
     5. [Parsing](#Parsing)
 4. [Traitement des données](#Traitement)
+5. [Analyse de Réseau](#NetworkAnalysis)
 
 
 ## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
@@ -141,8 +142,9 @@ Nous avons décidé d'employer la [distance de Jaro-Winkler](https://fr.wikipedi
 
 Lors de la première projection de notre réseau nous avons constaté la présence de faux-positifs.
 Nous avons donc réalisé deux petites fonctions qui permettent de détecter les faux-négatifs en se basant sur les noms et les faux-positifs en se basant sur les différentes magistratures exercées par un individu.
-Il faut veiller à utiliser le déctecteur de faux négatifs avant le détecteur de faux-positifs sans quoi le script détectera toutes les autorités déjà corrigées.
+Il faut toutefois veiller à utiliser le déctecteur de faux négatifs avant le détecteur de faux-positifs, sans quoi le script détectera toutes les autorités déjà corrigées.
 
+## Analyse de réseau<a name="NetworkAnalysis"></a>
 
 
 ## Bibliographie<a name="Bibliographie"></a>
