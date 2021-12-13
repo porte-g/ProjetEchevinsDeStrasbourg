@@ -129,6 +129,9 @@ Nous avons comparé une colonne de notre tableau avec elle-même (la concaténat
 Il serait possible d'améliorer ce script en ne générant que la moitié de la matrice en excluant la diagonale principale.
 Nous avons décidé d'employer la [distance de Jaro-Winkler](https://fr.wikipedia.org/wiki/Distance_de_Jaro-Winkler) car elle s'avère particulièrement bien adaptée au traitement de noms et de chaînes de caractères courtes de manière générale.
 
+<img src="imagesMD/jaro_distance.svg" style="display: block; margin: auto;" />
+<img src="imagesMD/winkler.svg" style="display: block; margin: auto;" />
+
 À partir de cette matrice, nous créons grâce à un [script](./Analyse/Matrixeconciliation.ipynb) un tableur de réconciliation où nous réunissons les identifiants temporaires des occurences par autorité identifiée.
 À partir de ce tableur, nous avons extrait les informations relatives à chaque occurence et nous les avons mises en série dans une seule ligne d'un tableur dédié aux autorités.
 
