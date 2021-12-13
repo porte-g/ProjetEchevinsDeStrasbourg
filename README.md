@@ -1,7 +1,7 @@
 # L'échevinat des métiers strasbourgeois
 Prosopographie numérique, extraction et réconciliation de données, analyse de classe.
 
-#Table of Contents
+# Table des matières
 
 1. [Démarche et Problématiques](#DémarcheProblématiques)
     1. [Définition](#Définition)
@@ -145,6 +145,7 @@ Nous avons donc réalisé deux petites fonctions qui permettent de détecter les
 Il faut toutefois veiller à utiliser le déctecteur de faux négatifs avant le détecteur de faux-positifs, sans quoi le script détectera toutes les autorités déjà corrigées.
 
 ## Analyse de réseau<a name="NetworkAnalysis"></a>
+
 
 
 ## Bibliographie<a name="Bibliographie"></a>
