@@ -47,7 +47,8 @@ Aucune source sérielle documentant l'identité des échevins de chaque corporat
 Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie ; il liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage. Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations. Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963. Très utile, cette édition documente les membres du conseil jusqu'en 1603, mais en raison du très grand nombre de magistrats mentionnés, le travail de réconciliation manuel des occurences en autorité a souffert de quelques erreurs. Ces listes nous permettent de créer un référentiel contenant l'identité de tous les échevins ayant exercé une magistrature au conseil .
 
 <img src="imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
-
+<em>AVES 4R, liste des conseils de 1445 et 1446.</em>
+    
 Notre seconde source est une liste d'armement datée de 1444. Ces listes nomment tous les bourgeois dans l'obligation de participer à l'effort de guerre, en servant sous les bannières ou en fournissant du matériel et un remplaçant. Elle liste tous les échevins des métiers, par corporation.
 
 <img src="imagesMD/aves_aa_195_69v_70r.JPG" style="display: block; margin: auto;" />
@@ -195,6 +196,33 @@ Le réseau ne représente désormais plus les liens entre les échevins présent
 
 Après avoir appliqué à notre réseau un algorithme de projection (ici *Force Atlas 2*), il adopte une forme allongée. Ce phénomène est logique puisque notre réseau s'inscrit dans le temps long.
 En calculant les classes de modularité les plus grandes possibles de notre réseau, elles sont au nombre de 4 et correspondent aux quarts de siècles.
+
+<img src="imagesMD/Diametre/Betweenness Centrality Distribution.png" style="display: block; margin: auto;" />
+
+Intéressons nous à la centralité intermédiaire des points de notre graphe. Sans suprise, un très grand nombre d'individus ne sont pas centraux dans notre graphe.
+Ce sont les échevins aux marges; ceux qui ne participent qu'à un conseil au cours de leur carrière au conseil ou dont celle-ci s'achève au début ou à la fin du siècle étudié.
+Certains individus sont au contraire caractérisé par une centralité très élevée, mais celle dernière chute très vite lorsqu'on fait défiler les individus.
+
+| Label                     | corporation                             | betweenesscentrality |
+| ------------------------- | --------------------------------------- | -------------------- |
+| spete, johanns            | corporation\_des\_jardiniers            | 0.069852             |
+| vendenheim, johanns       | corporation\_des\_tanneurs              | 0.065344             |
+| geispoltzheim, von, jacob | corporation\_des\_boulangers            | 0.063818             |
+| schanlit, claus           | corporation\_des\_tonneliers            | 0.050048             |
+| baumgarter, claus         | corporation\_des\_cabaretiers           | 0.046429             |
+| linzer, claus             | corporation\_des\_boulangers            | 0.038742             |
+| lumbart, johanns          | corporation\_des\_bateliers             | 0.037288             |
+| claus, johanns            | corporation\_des\_charrons              | 0.030223             |
+| schalk, obrecht           | corporation\_des\_bateliers             | 0.029365             |
+| melbrühe, claus           | corporation\_des\_marchands\_de\_grains | 0.025289             |
+
+Bien que certains individus soient centraux, les corporation auxquelle ils appartiennent ne sont pas un facteur décisif de centralité.
+Au contraire, l'individu à la centralité la plus central appartient à la corporation des jardiniers, une corporation de second rang en ce qui concerne l'influence politique.
+C'est du à sa carrière politique exceptionnellement longue : il représente sa corporation 13 fois au conseil entre 1416 et 1473.
+Bien qu'il soit identifié comme une seule personne par les ouvrages de référence en prosopographie strasbourgeoise (Jacques Hatt et Sabine von Heusinger), une carrière politique de 57 ans semble improbable, sauf longévité exceptionnelle.
+Faute de rupture nette entre les différentes nominations au conseil (1416, 1424, 1429, 1436, 1444, 1449, 1453, 1458, 1459, 1466, 1467, 1472, 1473) ou d'informations supplémentaire à son sujet, il demeure plus prudent de ne pas le séparer en deux individus.
+
+Celle-ci est plutôt liée
 
 <img src="Analyse/AnalyseRéseau/Rendus/SVG/conseil_15e_classesModularite.svg" style="display: block; margin: auto;" />
 
