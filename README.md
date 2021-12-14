@@ -308,7 +308,7 @@ Ludwig Spach, Heitz F. C.*, Strasbourg, 1856.
 ### Sitographie
 - *CIDOC CRM*, URL: https://www.cidoc-crm.org/.
 - *Dictionnaire Historique des Institutions de l’Alsace*, URL: https://www.alsace-histoire.org/dictionnaire-historique-des-institutions-de-lalsace/.
-- GRANDJEAN MARTIN, URL: http://www.martingrandjean.ch/gephi-introduction/.
+- GRANDJEAN Martin, URL: http://www.martingrandjean.ch/gephi-introduction/.
 - *People of Medieval Scottland*, URL: https://www.poms.ac.uk/.
 ## Sources
 ### Sources éditées
