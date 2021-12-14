@@ -202,13 +202,14 @@ La rotation de l'effectif complet représentait forcément une rupture dans la c
 Après 1456, ce sont chaque année la moitié des corporations qui élisent de nouveaux représentants ; ceux des corporations restantes, élus l'année précédente, assurant la continuité du conseil.
 
 À cela s'ajoute la réduction du nombre de corporations.
-Les corporations aux effectifs les moins importants sont intégrées au plus grandes. Leur nombre se réduit de 28 à 20.
+Celles aux effectifs les moins importants sont intégrées au plus grandes.
+Des 28 corporations constituées en 1349, il n'en reste plus que 20 à la fin du XVe siècle.
 
 <img src="imagesMD/AnnéesReprésentant.png" style="display: block; margin: auto;" />
 
-<img src="Analyse/AnalyseRéseau/Rendus/PNG/graphebiparti.png" style="display: block; margin: auto;" />
+<img src="Analyse/AnalyseRéseau/Rendus/SVG/graphebiparti.svg" style="display: block; margin: auto;" />
 
-
+En nous intéressant au au graphe biparti des échevins siégeant au conseil et des instances du conseil, nous remarquons que le nombre d'individus liés à un seul conseil diminue considérablement au cours de la seconde moitié du XVe siècle.
 
 
 ## Bibliographie<a name="Bibliographie"></a>
