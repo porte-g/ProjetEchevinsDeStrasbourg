@@ -15,7 +15,10 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
 4. [Traitement des données](#Traitement)
 5. [Analyse de Réseau](#NetworkAnalysis)
     1. [Création du jeu de données](#Creation)
-7. d
+    2. [Analyse](#Analysis)
+7. [Perspectives](#Perspectives)
+    1. [Poursuite du projet de recherche](#Poursuite)
+    2. [Poursuite de la recherche sur le Conseil et ses membres](#PlusLoin)
 
 
 ## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
@@ -184,6 +187,7 @@ Voici la projection du réseau avant traitement :
 
 <img src="Analyse/AnalyseRéseau/Rendus/PNG/Reseauconseillersraw.png" style="display: block; margin: auto;" />
 
+### Analyse<a name="Analysis"></a>
 Nous avons réduit la dimensionalité de notre graphe à l'aide d'un module gephi [MultiMode Projections](https://github.com/jaroslav-kuchar/Multimode-Networks).
 Le réseau ne représente désormais plus les liens entre les échevins présents au conseil et les instances de celui-ci, mais les liens entre tous les échevins des Métiers ayant siégés simultanément au conseil de la ville. Nous sommes passés d'un graphe biparti à un graphe monoparti.
 
@@ -210,6 +214,26 @@ Des 28 corporations constituées en 1349, il n'en reste plus que 20 à la fin du
 <img src="Analyse/AnalyseRéseau/Rendus/SVG/graphebiparti.svg" style="display: block; margin: auto;" />
 
 En nous intéressant au au graphe biparti des échevins siégeant au conseil et des instances du conseil, nous remarquons que le nombre d'individus liés à un seul conseil diminue considérablement au cours de la seconde moitié du XVe siècle.
+
+## Perspectives<a name="Perspectives"></a>
+### Poursuite du projet de recherche<a name="Poursuite"></a>
+
+Nous avons déjà extrait les occurences de nos échevins dans la liste d'armement de 1444 (voir le [tableur](./Sources/ListeArmement/1444ListeArmement.csv)), mais la structure du jeu de donnée doit être revue pour permettre une meilleure intégration aux données existantes.
+
+Nous souhaitons visualiser un réseau constitué des échevins des Métiers de la liste d'armement de 1444 et de ceux représentant les Métiers au conseil entre 1424 et 1464.
+
+Lors de la projection du graphe biparti, nous pourrons déterminer quel sous-ensemble de notre population est exclue de la participation politique au conseil.
+Nous souhaiterions également proposer une analyse statistique pour identifier différents pattern selon les corporations.
+
+Nous envisageons également si nécessaire de verser nos données prosopographiques dans une base SQL créée à cet effet.
+
+### Poursuite de la recherche sur le Conseil et ses membres<a name="PlusLoin"></a>
+
+Notre travail d'édition des listes du conseil documente la totalité des membres du conseil sur tout le XVe siècle et pourrait nous permettre d'étudier les effets de certains évênements (notamment politiques et diplomatiques) sur sa composition.
+Nous souhaiterions notamment nous intéresser à la [guerre de Dachstein](https://fr.wikipedia.org/wiki/Guerre_de_Dachstein), conflit opposant la ville à l'évêque allié à des nobles strasbourgeois.
+Les Métiers en sortent confortés dans leur dominance politique de la ville contrairement aux patriciens qui en sortent affaiblis, notamment par la démolition de l'un de leurs deux poêles ayant survécu au XIVe siècle.
+Analyser une éventuelle rupture entre représentant des patriciens au conseil avant et après 1420 nous permettrait d'en savoir plus sur les trajectoires des individus et des lignages nobles strasbourgeois.
+
 
 
 ## Bibliographie<a name="Bibliographie"></a>
