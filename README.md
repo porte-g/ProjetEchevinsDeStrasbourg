@@ -14,6 +14,8 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
     5. [Parsing](#Parsing)
 4. [Traitement des données](#Traitement)
 5. [Analyse de Réseau](#NetworkAnalysis)
+    1. [Création du jeu de données](#Creation)
+7. d
 
 
 ## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
@@ -124,7 +126,7 @@ Ce sont des éditions des listes du conseil au format csv.
 
 ## Traitement des données<a name="Traitement"></a>
 À partir de ces fichiers csv, nous avons compilé à l'aide d'un autre [script](./Analyse/CompilationEchevins.ipynb) toutes les occurences relatives aux différents représentants des Métiers (conseillers des corporations et ammeistres) en un seul [fichier csv](./Analyse/Data/OccEch.csv ).
-Nous avons utilisé le module python [Jellyfish](https://pypi.org/project/jellyfish/), qui propose plusieurs algorythme permettant de calculer la distance ou la similarité entre des chaînes de caractères sur des chaînes de caractères.
+Nous avons utilisé le module python [Jellyfish](https://pypi.org/project/jellyfish/), qui propose plusieurs algorithme permettant de calculer la distance ou la similarité entre des chaînes de caractères sur des chaînes de caractères.
 Nous avons comparé une colonne de notre tableau avec elle-même (la concaténation du nom et du prénom normalisé) et généré plusieurs matrices de similarité et de distance à l'aide s'un [script](./Analyse/Recon.ipynb) python.
 Il serait possible d'améliorer ce script en ne générant que la moitié de la matrice en excluant la diagonale principale.
 Nous avons décidé d'employer la [distance de Jaro-Winkler](https://fr.wikipedia.org/wiki/Distance_de_Jaro-Winkler) car elle s'avère particulièrement bien adaptée au traitement de noms et de chaînes de caractères courtes de manière générale.
@@ -150,6 +152,7 @@ Nous avons donc réalisé deux petites fonctions qui permettent de détecter les
 Il faut toutefois veiller à utiliser le déctecteur de faux négatifs avant le détecteur de faux-positifs, sans quoi le script détectera toutes les autorités déjà corrigées.
 
 ## Analyse de réseau<a name="NetworkAnalysis"></a>
+### Création du jeu de données<a name="Creation"></a>
 Pour créer un jeu de données analysable à l'aide de la théorie des graphes, il faut générer deux tableurs : un tableur de liens (*edges*) et un tableur de noeuds (*summits*).
 Pour ce faire nous avons commencé par générer le tableur de liens à partir de notre tableur d'autorités.
 Pour chaque autorité, nous créons un lien avec chaque conseil au sein duquel elle fut magistrat.
@@ -175,7 +178,34 @@ En ouvrant cette table des liens avec le logiciel [gephi](https://gephi.org/), n
 | aves\_aa\_4R\_auth\_0001 | metziger, wilhelm      | personne | corporation\_des\_bouchers  |
 | aves\_aa\_4R\_auth\_0002 | colmar, von, hannemann | personne | corporation\_des\_marchands |
 
-Nous pouvons dès lors générer un réseau à partir duquel il est possible de travailler. Il s'agit d'un réseau biparti documentant les liens entre les conseillers et les ammeistres (nos échevins) et les instances annuelles du conseil.
+Nous pouvons dès lors générer un réseau à partir duquel il est possible de travailler.
+Il s'agit d'un réseau biparti qui représente les liens entre les conseillers et ammeistres (nos échevins) et les instances annuelles du conseil.
+Voici la projection du réseau avant traitement :
+
+<img src="Analyse/AnalyseRéseau/Rendus/PNG/Reseauconseillersraw.png" style="display: block; margin: auto;" />
+
+Nous avons réduit la dimensionalité de notre graphe à l'aide d'un module gephi [MultiMode Projections](https://github.com/jaroslav-kuchar/Multimode-Networks).
+Le réseau ne représente désormais plus les liens entre les échevins présents au conseil et les instances de celui-ci, mais les liens entre tous les échevins des Métiers ayant siégés simultanément au conseil de la ville. Nous sommes passés d'un graphe biparti à un graphe monoparti.
+
+<img src="Analyse/AnalyseRéseau/Rendus/SVG/conseil_15e_corpo.svg" style="display: block; margin: auto;" />
+
+Après avoir appliqué à notre réseau un algorithme de projection (ici *Force Atlas 2*), il adopte une forme allongée. Ce phénomène est logique puisque notre réseau s'inscrit dans le temps long.
+En calculant les classes de modularité les plus grandes possibles de notre réseau, elles sont au nombre de 4 et correspondent aux quarts de siècles.
+
+<img src="Analyse/AnalyseRéseau/Rendus/SVG/conseil_15e_classesModularite.svg" style="display: block; margin: auto;" />
+
+Les échevins sont plus nombreux à siéger au conseil au début qu'à la fin du siècle.
+Nous constatons une première décroissance du nombre d'échevins siégeant au conseil au milieu de notre graphe.
+En effet, le conseil de Strasbourg décide en 1456 de nommer les conseillers biannuellement pour remédier aux inconvénients de la nomination annuelle.
+Les conseillers des corporations les moins prestigieuses avaient parfois du mal à se rendre disponibles pour se rendre aux séances (cf. principe de disponibilité, Max Weber).
+La rotation de l'effectif complet représentait forcément une rupture dans la continuité institutionnelle.
+Après 1456, ce sont chaque année la moitié des corporations qui élisent de nouveaux représentants ; ceux des corporations restantes, élus l'année précédente, assurant la continuité du conseil.
+
+<img src="imagesMD/AnnéesReprésentant.png" style="display: block; margin: auto;" />
+
+<img src="Analyse/AnalyseRéseau/Rendus/PNG/graphebiparti.png" style="display: block; margin: auto;" />
+
+
 
 
 ## Bibliographie<a name="Bibliographie"></a>
