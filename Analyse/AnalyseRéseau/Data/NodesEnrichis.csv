@@ -1,0 +1,986 @@
+Id,type,Label,corporation,betweenesscentrality,modularity_class,weighted degree,eigencentrality,Eccentricity,closnesscentrality,harmonicclosnesscentrality
+aves_aa_4R_auth_0275,personne,"spete, johanns",corporation_des_jardiniers,0.069852,2,352,0.873993,3,0.571761,0.625847
+aves_aa_4R_auth_0608,personne,"vendenheim, johanns",corporation_des_tanneurs,0.065344,3,361,0.62147,3,0.522016,0.589939
+aves_aa_4R_auth_0082,personne,"geispoltzheim, von, jacob",corporation_des_boulangers,0.063818,1,538,1,3,0.574096,0.653117
+aves_aa_4R_auth_0139,personne,"schanlit, claus",corporation_des_tonneliers,0.050048,0,447,0.912729,3,0.572426,0.640752
+aves_aa_4R_auth_0589,personne,"baumgarter, claus",corporation_des_cabaretiers,0.046429,2,382,0.740654,3,0.52452,0.593496
+aves_aa_4R_auth_0371,personne,"linzer, claus",corporation_des_boulangers,0.038742,2,360,0.902341,3,0.564544,0.623137
+aves_aa_4R_auth_0385,personne,"lumbart, johanns",corporation_des_bateliers,0.037288,2,223,0.684865,3,0.54185,0.588415
+aves_aa_4R_auth_0587,personne,"claus, johanns",corporation_des_charrons,0.030223,3,136,0.27618,3,0.483301,0.523374
+aves_aa_4R_auth_0375,personne,"schalk, obrecht",corporation_des_bateliers,0.029365,2,448,0.908919,3,0.564544,0.628557
+aves_aa_4R_auth_0131,personne,"melbrühe, claus",corporation_des_marchands_de_grains,0.025289,0,423,0.82905,4,0.532756,0.617124
+aves_aa_4R_auth_0372,personne,"armbruster, konrat",corporation_des_drapiers,0.025055,1,393,0.891054,3,0.561323,0.623476
+aves_aa_4R_auth_0763,personne,"ammelung, jacob",corporation_des_tonneliers,0.020577,3,368,0.507689,3,0.471264,0.553184
+aves_aa_4R_auth_0028,personne,"klige, hug",corporation_des_constructeurs_de_bateaux,0.020008,0,279,0.604329,4,0.504615,0.577405
+aves_aa_4R_auth_0133,personne,"lamb, johanns",corporation_des_pêcheurs,0.019103,0,196,0.535255,3,0.517895,0.569783
+aves_aa_4R_auth_0057,personne,"bobst, lienhart",corporation_des_constructeurs_de_bateaux,0.019056,0,307,0.56479,4,0.510638,0.583926
+aves_aa_4R_auth_0176,personne,"dreitzehn, hug",corporation_des_charrons,0.018838,0,369,0.753699,4,0.525641,0.605776
+aves_aa_4R_auth_0031,personne,"barpfennig, ruhlemann",corporation_des_marchands,0.018374,0,336,0.621451,4,0.515994,0.589007
+aves_aa_4R_auth_0157,personne,"schrotbanck, konrat",corporation_des_tailleurs,0.01636,0,168,0.506101,3,0.518714,0.561484
+aves_aa_4R_auth_0022,personne,"gosse, ulrich",corporation_des_sauniers,0.015968,0,307,0.4807,4,0.491263,0.566988
+aves_aa_4R_auth_0335,personne,fritsch,corporation_des_charpentiers,0.015741,1,252,0.674525,3,0.54185,0.588753
+aves_aa_4R_auth_0357,personne,"trachenfeils, lienhart",corporation_des_sauniers,0.015303,1,337,0.778549,3,0.537999,0.599763
+aves_aa_4R_auth_0250,personne,"bechtolt, johanns",corporation_des_bouchers,0.015283,0,309,0.660588,4,0.516535,0.58562
+aves_aa_4R_auth_0332,personne,"trüchtersheim, von, ruhlemann",corporation_des_forgerons,0.01401,1,256,0.673124,3,0.533623,0.585705
+aves_aa_4R_auth_0794,personne,"ganther, johanns",corporation_des_boulangers,0.012041,3,107,0.192861,3,0.43139,0.476118
+aves_aa_4R_auth_0802,personne,"kerling, marx",corporation_des_bouchers,0.011594,3,297,0.4017,3,0.459169,0.527947
+aves_aa_4R_auth_0553,personne,"spielmann, johanns",corporation_des_charrons,0.011153,2,234,0.575743,3,0.509053,0.559451
+aves_aa_4R_auth_0234,personne,"saltzmütter, dietrich",corporation_des_sauniers,0.011047,0,167,0.497565,3,0.51981,0.559451
+aves_aa_4R_auth_0318,personne,"dossenheim, hug",corporation_des_cabaretiers,0.010707,1,280,0.673455,3,0.525641,0.58164
+aves_aa_4R_auth_0528,personne,"trachenfeils, johanns",corporation_des_sauniers,0.010313,2,332,0.707129,3,0.514644,0.577236
+aves_aa_4R_auth_0629,personne,"riffe, konrat",corporation_des_marchands,0.009894,3,270,0.49251,3,0.472169,0.536585
+aves_aa_4R_auth_0452,personne,"hettemann, johanns",corporation_des_constructeurs_de_bateaux,0.009819,1,281,0.697458,3,0.525922,0.581131
+aves_aa_4R_auth_0554,personne,"schwencker, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0.009771,2,156,0.454012,3,0.495468,0.536585
+aves_aa_4R_auth_0523,personne,"rippel, michel",corporation_des_charpentiers,0.009624,2,336,0.748639,3,0.518167,0.584519
+aves_aa_4R_auth_0039,personne,"trüchtersheim, von, eberhart",corporation_des_forgerons,0.008591,0,196,0.48369,4,0.485207,0.544207
+aves_aa_4R_auth_0113,personne,"pfau, johanns",corporation_des_cordonniers,0.008503,0,225,0.528518,4,0.483301,0.549204
+aves_aa_4R_auth_0348,personne,"duntzenheim, claus",corporation_des_tanneurs,0.008441,1,196,0.613459,3,0.515183,0.563347
+aves_aa_4R_auth_0410,personne,"berse, von, johanns",corporation_des_bouchers,0.008278,1,167,0.528583,3,0.517078,0.557419
+aves_aa_4R_auth_0771,personne,"weidlich, claus",corporation_des_cordonniers,0.008183,3,236,0.401984,3,0.455345,0.515752
+aves_aa_4R_auth_0566,personne,"kork, von, peter",corporation_des_tisserands,0.007958,2,218,0.592694,3,0.497221,0.550982
+aves_aa_4R_auth_0449,personne,"rohrer, marx",corporation_des_barbiers_et_baigneurs,0.007677,1,226,0.6166,3,0.519535,0.568428
+aves_aa_4R_auth_0386,personne,"riffe, adam",corporation_des_marchands,0.007666,1,285,0.703447,3,0.526485,0.582825
+aves_aa_4R_auth_0198,personne,"villinger, peter",corporation_des_forgerons,0.007541,1,197,0.530451,4,0.497221,0.550728
+aves_aa_4R_auth_0620,personne,"müseler, reimbolt",corporation_des_bateliers,0.00737,3,76,0.233652,3,0.467458,0.500169
+aves_aa_4R_auth_0107,personne,"spirer, anshelm",corporation_des_cabaretiers,0.007073,0,144,0.395997,4,0.479299,0.528794
+aves_aa_4R_auth_0024,personne,"diether, johanns",corporation_des_gourmets_et_courtiers,0.007051,0,112,0.312419,4,0.48,0.521426
+aves_aa_4R_auth_0781,personne,"schott, peter",corporation_des_marchands_de_grains,0.007032,3,282,0.401649,3,0.46089,0.525915
+aves_aa_4R_auth_0267,personne,"renner, johanns",corporation_des_drapiers,0.006959,1,173,0.547949,3,0.51357,0.557588
+aves_aa_4R_auth_0535,personne,"meiger, heinrich",corporation_des_forgerons,0.006948,1,282,0.645631,3,0.515994,0.573001
+aves_aa_4R_auth_0557,personne,"wormser, jacob",corporation_des_marchands,0.006847,2,304,0.681077,3,0.501274,0.56521
+aves_aa_4R_auth_0541,personne,"brant, diebolt",corporation_des_gourmets_et_courtiers,0.006697,2,226,0.62514,3,0.51735,0.566396
+aves_aa_4R_auth_0505,personne,"rohr, von, peter",corporation_des_marchands_de_grains,0.006402,3,76,0.292816,3,0.491018,0.517276
+aves_aa_4R_auth_0203,personne,"frankenheim, ottemann",corporation_des_marchands_de_grains,0.006203,0,169,0.49024,4,0.489552,0.540396
+aves_aa_4R_auth_0076,personne,"schenck, johanns",corporation_des_gourmets_et_courtiers,0.006157,0,140,0.383081,4,0.470363,0.521765
+aves_aa_4R_auth_0622,personne,"ross, johanns",corporation_des_orfevres,0.006031,2,212,0.539733,3,0.489309,0.543191
+aves_aa_4R_auth_0598,personne,"reimbolt, diebolt",corporation_des_tanneurs,0.005984,2,246,0.594496,3,0.497976,0.553184
+aves_aa_4R_auth_0059,personne,"barpfennig, johanns",corporation_des_marchands,0.005867,0,140,0.310688,4,0.470363,0.519394
+aves_aa_4R_auth_0764,personne,"messner, adam",corporation_des_cabaretiers,0.005698,3,188,0.374314,3,0.455978,0.509485
+aves_aa_4R_auth_0244,personne,"kenen, zur, jacob",corporation_des_crieurs_et_mesureurs_de_vin,0.005533,0,196,0.508121,4,0.496218,0.549035
+aves_aa_4R_auth_0482,personne,"paulus, johanns",corporation_des_coltineurs_de_tonneaux,0.005431,1,169,0.525811,3,0.501274,0.546917
+aves_aa_4R_auth_0544,personne,"bechtolt, wilhelm",corporation_des_bouchers,0.005391,2,277,0.648307,3,0.507216,0.563347
+aves_aa_4R_auth_0188,personne,"renner, diebolt",corporation_des_tisserands,0.005228,1,168,0.496789,4,0.490528,0.541413
+aves_aa_4R_auth_0440,personne,"weipolt, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0.005227,2,168,0.499388,3,0.499239,0.544207
+aves_aa_4R_auth_0816,personne,"offenburg, bechtolt",corporation_des_bouchers,0.005003,3,250,0.333779,4,0.418902,0.490684
+aves_aa_4R_auth_0834,personne,"müge, jacob",corporation_des_marchands,0.004984,3,108,0.194644,3,0.423408,0.468496
+aves_aa_4R_auth_0540,personne,"spiegel, johanns",corporation_des_tisserands,0.004909,2,224,0.592269,3,0.510109,0.55979
+aves_aa_4R_auth_0073,personne,"obrecht, johanns",corporation_des_barbiers_et_baigneurs,0.004875,0,56,0.186328,4,0.469018,0.497036
+aves_aa_4R_auth_0036,personne,"hanseler, johanns",corporation_des_tanneurs,0.004669,0,111,0.298992,4,0.479532,0.52041
+aves_aa_4R_auth_0391,personne,"rotgebe, jacob",corporation_des_tailleurs,0.004492,1,173,0.578045,3,0.506694,0.551491
+aves_aa_4R_auth_0584,personne,"melbrühe, johanns",corporation_des_marchands_de_grains,0.004406,2,309,0.656533,3,0.496468,0.558266
+aves_aa_4R_auth_0258,personne,"flöss, heintz",corporation_des_cordonniers,0.004337,1,112,0.396929,4,0.480234,0.521257
+aves_aa_4R_auth_0583,personne,"wissensee, claus",corporation_des_pelletiers,0.004254,2,252,0.599225,3,0.492492,0.552168
+aves_aa_4R_auth_0605,personne,"förster, symont",corporation_des_coltineurs_de_tonneaux,0.004156,2,253,0.593263,3,0.493728,0.552337
+aves_aa_4R_auth_0610,personne,"molsheim, von, michel",corporation_des_maçons,0.004112,2,163,0.443737,3,0.485446,0.529302
+aves_aa_4R_auth_0310,personne,"stacheler, johanns",corporation_des_orfevres,0.003986,1,172,0.474849,4,0.485686,0.538787
+aves_aa_4R_auth_0095,personne,"melbrühe, michel",corporation_des_marchands_de_grains,0.003972,0,168,0.35241,4,0.47285,0.527354
+aves_aa_4R_auth_0880,personne,"waldener, johanns",corporation_des_boulangers,0.003918,3,209,0.213811,4,0.396614,0.461382
+aves_aa_4R_auth_0607,personne,"dürr, walther",corporation_des_boulangers,0.003871,2,192,0.518664,3,0.494472,0.542005
+aves_aa_4R_auth_0684,personne,"beingewant, claus",corporation_des_crieurs_et_mesureurs_de_vin,0.003846,2,273,0.56975,3,0.471942,0.5354
+aves_aa_4R_auth_0167,personne,"voltz, claus",corporation_des_coltineurs_de_tonneaux,0.003805,0,196,0.409047,4,0.450962,0.518208
+aves_aa_4R_auth_0037,personne,"kranich, heinrich",corporation_des_cabaretiers,0.003729,0,139,0.302216,4,0.443443,0.499407
+aves_aa_4R_auth_0268,personne,"vetter, claus",corporation_des_tonneliers,0.00364,0,112,0.377402,4,0.491018,0.528879
+aves_aa_4R_auth_0001,personne,"metziger, wilhelm",corporation_des_bouchers,0.003544,0,167,0.275591,4,0.442049,0.502964
+aves_aa_4R_auth_0128,personne,"seelose, heintz",corporation_des_pelletiers,0.003418,0,167,0.389128,4,0.467015,0.523374
+aves_aa_4R_auth_0005,personne,"spielmann, claus",corporation_des_drapiers,0.003388,0,139,0.334636,4,0.446056,0.503303
+aves_aa_4R_auth_0208,personne,"burkhart, heintz",corporation_des_regrattiers_cordiers_et_fruitiers,0.003384,0,116,0.364088,4,0.480938,0.52312
+aves_aa_4R_auth_0065,personne,"sporer, stefan",corporation_des_forgerons,0.003354,0,167,0.332109,4,0.431201,0.496443
+aves_aa_4R_auth_0242,personne,"stoltz, peter",corporation_des_tailleurs,0.003327,0,112,0.35352,4,0.485686,0.524136
+aves_aa_4R_auth_0081,personne,"heilmann, johanns",corporation_des_drapiers,0.00327,0,224,0.382175,4,0.449931,0.518716
+aves_aa_4R_auth_0815,personne,"ottemann, diebolt",corporation_des_boulangers,0.003157,3,230,0.32335,4,0.416596,0.484079
+aves_aa_4R_auth_0864,personne,"trüchtersheim, von, johanns",corporation_des_forgerons,0.003139,3,145,0.150196,4,0.389549,0.444275
+aves_aa_4R_auth_0728,personne,"wolle, claus",corporation_des_tisserands,0.003126,2,128,0.356844,3,0.453456,0.499322
+aves_aa_4R_auth_0300,personne,"basel, von, diebolt",corporation_des_tisserands,0.003111,0,172,0.452234,4,0.482826,0.536416
+aves_aa_4R_auth_0120,personne,"willgottheim, claus",corporation_des_coltineurs_de_tonneaux,0.003083,0,140,0.310684,4,0.462841,0.512619
+aves_aa_4R_auth_0827,personne,"berlin, johanns",corporation_des_bateliers,0.003075,3,136,0.239069,3,0.429319,0.476626
+aves_aa_4R_auth_0702,personne,"burer, ulrich",corporation_des_boulangers,0.003073,2,234,0.461747,3,0.461755,0.518123
+aves_aa_4R_auth_0453,personne,"kempf, claus",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.00307,1,168,0.521694,3,0.495718,0.541836
+aves_aa_4R_auth_0753,personne,"arge, heinrich",corporation_des_orfevres,0.003059,2,231,0.459461,3,0.462841,0.521341
+aves_aa_4R_auth_0484,personne,"bidermann, claus",corporation_des_drapiers,0.003056,2,84,0.318763,3,0.484252,0.51355
+aves_aa_4R_auth_0741,personne,"scholle, bernhart",corporation_des_charpentiers,0.002949,2,157,0.369408,3,0.460243,0.507791
+aves_aa_4R_auth_0405,personne,"reimbolt,",corporation_des_cordonniers,0.00292,1,141,0.476059,3,0.497976,0.538279
+aves_aa_4R_auth_0009,personne,"kindelin, erhart",corporation_des_maçons,0.002841,0,84,0.185552,4,0.434054,0.478066
+aves_aa_4R_auth_0125,personne,"wormser, claus",corporation_des_cabaretiers,0.002803,1,84,0.312005,4,0.475592,0.509739
+aves_aa_4R_auth_0636,personne,"hettemann, diebolt",corporation_des_charpentiers,0.002716,2,193,0.509368,3,0.46613,0.522866
+aves_aa_4R_auth_0075,personne,"ingenheim, claus",corporation_des_tisserands,0.002667,0,83,0.217367,4,0.459169,0.497205
+aves_aa_4R_auth_0326,personne,"dürr, claus",corporation_des_coltineurs_de_tonneaux,0.002665,0,168,0.476729,4,0.491508,0.539719
+aves_aa_4R_auth_0659,personne,"kacheler, johanns",corporation_des_maçons,0.002543,2,186,0.44552,3,0.460243,0.512534
+aves_aa_4R_auth_0820,personne,"trachenfeils, mattern",corporation_des_sauniers,0.002499,3,226,0.318471,4,0.416244,0.483062
+aves_aa_4R_auth_0182,personne,"armbruster, konrat",corporation_des_bateliers,0.002484,0,113,0.373501,4,0.47767,0.519055
+aves_aa_4R_auth_0455,personne,"klein, johanns",corporation_des_maçons,0.002468,1,140,0.466803,3,0.507478,0.54353
+aves_aa_4R_auth_0711,personne,"wolff, friedrich",corporation_des_jardiniers,0.00243,2,157,0.404573,3,0.454503,0.504573
+aves_aa_4R_auth_0027,personne,"stachel, küntz",corporation_des_coltineurs_de_tonneaux,0.002419,0,140,0.268218,4,0.433289,0.492378
+aves_aa_4R_auth_0657,personne,"voltz, johanns",corporation_des_charrons,0.002405,2,160,0.445094,3,0.469466,0.517954
+aves_aa_4R_auth_0660,personne,"holniet, johanns",corporation_des_forgerons,0.002398,2,136,0.416599,3,0.458314,0.507283
+aves_aa_4R_auth_0353,personne,"heide, küntz",corporation_des_cordonniers,0.002366,1,116,0.420056,3,0.499492,0.533875
+aves_aa_4R_auth_0700,personne,"herbst, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0.002341,2,185,0.421153,3,0.459384,0.510163
+aves_aa_4R_auth_0556,personne,"klige, küntz",corporation_des_constructeurs_de_bateaux,0.002313,2,168,0.458759,3,0.500509,0.540989
+aves_aa_4R_auth_0441,personne,"mentz, von, küntz",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.002301,1,84,0.32185,3,0.49348,0.523035
+aves_aa_4R_auth_0735,personne,"herbst, johanns",corporation_des_sauniers,0.002251,2,134,0.367674,3,0.456613,0.501524
+aves_aa_4R_auth_0346,personne,"klige, johanns",corporation_des_constructeurs_de_bateaux,0.002224,1,84,0.322799,3,0.491754,0.521511
+aves_aa_4R_auth_0893,personne,"trense, andres",corporation_des_jardiniers,0.002167,3,125,0.157502,4,0.390167,0.442243
+aves_aa_4R_auth_0194,personne,"zirtzer, ulrich",corporation_des_drapiers,0.002163,0,112,0.316809,4,0.464151,0.509824
+aves_aa_4R_auth_0537,personne,"birbaum, heinrich",corporation_des_marchands_de_grains,0.002159,2,140,0.446272,3,0.486406,0.527608
+aves_aa_4R_auth_0333,personne,"zoller, johanns",corporation_des_tailleurs,0.002143,1,112,0.337602,3,0.484729,0.521341
+aves_aa_4R_auth_0325,personne,"träger, oberlin",corporation_des_charrons,0.002109,1,113,0.366831,4,0.480703,0.518208
+aves_aa_4R_auth_0903,personne,"trachenfeils, lienhart",corporation_des_sauniers,0.002072,3,141,0.149264,4,0.389549,0.443936
+aves_aa_4R_auth_0688,personne,"umb und umb, johanns",corporation_des_tisserands,0.002036,2,180,0.401611,3,0.454084,0.503557
+aves_aa_4R_auth_0508,personne,"freund, claus",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.002035,2,112,0.400499,3,0.488823,0.524898
+aves_aa_4R_auth_0546,personne,"zerig, sifrit",corporation_des_tailleurs,0.002011,2,141,0.447893,3,0.493728,0.533367
+aves_aa_4R_auth_0030,personne,"sünner, peter",corporation_des_bateliers,0.001991,0,140,0.279556,4,0.438698,0.494326
+aves_aa_4R_auth_0007,personne,"issenhausen, ulrich",corporation_des_tanneurs,0.00198,0,112,0.235501,5,0.402289,0.465312
+aves_aa_4R_auth_0053,personne,"schrotbanck, walther",corporation_des_gourmets_et_courtiers,0.001918,0,110,0.275072,4,0.439875,0.490261
+aves_aa_4R_auth_0436,personne,johanns,corporation_des_barbiers_et_baigneurs,0.001911,2,84,0.31943,3,0.483538,0.515075
+aves_aa_4R_auth_0775,personne,"odratzheim, von, johanns",corporation_des_gourmets_et_courtiers,0.001895,3,170,0.329377,4,0.434245,0.48645
+aves_aa_4R_auth_0476,personne,"klaue, jacob",corporation_des_jardiniers,0.001887,1,113,0.438684,3,0.478832,0.519817
+aves_aa_4R_auth_0367,personne,"missbach, peter",corporation_des_orfevres,0.001879,1,85,0.322204,3,0.484729,0.515583
+aves_aa_4R_auth_0117,personne,"messinger, heintz",corporation_des_tisserands,0.001877,0,112,0.28177,4,0.440072,0.490769
+aves_aa_4R_auth_0901,personne,"wisebach, jacob",corporation_des_bouchers,0.00184,3,141,0.128171,4,0.379923,0.433096
+aves_aa_4R_auth_0857,personne,"schott, heinrich",corporation_des_pelletiers,0.001832,3,148,0.190168,4,0.385882,0.442581
+aves_aa_4R_auth_0779,personne,"meiger, johanns",corporation_des_pelletiers,0.001824,3,196,0.338292,3,0.44911,0.499831
+aves_aa_4R_auth_0317,personne,"gerbot, johanns",corporation_des_tanneurs,0.001822,1,140,0.428925,4,0.484014,0.527693
+aves_aa_4R_auth_0738,personne,"duntzenheim, konrat",corporation_des_cabaretiers,0.001801,2,104,0.284063,3,0.445854,0.486958
+aves_aa_4R_auth_0115,personne,"natteler, andres",corporation_des_jardiniers,0.001788,0,112,0.259624,4,0.435977,0.487212
+aves_aa_4R_auth_0769,personne,"seelig, andres",corporation_des_tonneliers,0.00177,3,197,0.343038,4,0.433671,0.487636
+aves_aa_4R_auth_0298,personne,"würtzel, johanns",corporation_des_pêcheurs,0.001765,0,112,0.361545,4,0.485446,0.523628
+aves_aa_4R_auth_0240,personne,"gerbot, claus",corporation_des_tanneurs,0.001725,0,112,0.318691,4,0.442446,0.493479
+aves_aa_4R_auth_0512,personne,"hechde, johanns",corporation_des_crieurs_et_mesureurs_de_vin,0.001718,1,169,0.459454,3,0.487853,0.532351
+aves_aa_4R_auth_0213,personne,"sprenger, claus",corporation_des_drapiers,0.001716,0,84,0.307669,4,0.475362,0.510247
+aves_aa_4R_auth_0270,personne,"arnolt, konrat",corporation_des_tailleurs,0.001663,1,56,0.221857,3,0.48,0.505081
+aves_aa_4R_auth_0016,personne,"laubeck, johanns",corporation_des_cordonniers,0.001658,0,112,0.221673,4,0.42268,0.475356
+aves_aa_4R_auth_0586,personne,"seidenfaden, friedrich",corporation_des_gourmets_et_courtiers,0.001631,2,138,0.41863,3,0.479532,0.520325
+aves_aa_4R_auth_0450,personne,"koch, johanns",corporation_des_tisserands,0.001626,1,112,0.413579,3,0.505133,0.535569
+aves_aa_4R_auth_0376,personne,"hellen, zur, claus",corporation_des_pelletiers,0.001617,1,112,0.352228,3,0.496719,0.529302
+aves_aa_4R_auth_0025,personne,"dingsheim, claus",corporation_des_charrons,0.001593,0,111,0.210905,4,0.434054,0.483486
+aves_aa_4R_auth_0038,personne,"gans, johanns",corporation_des_maçons,0.001569,0,112,0.261973,4,0.425422,0.481792
+aves_aa_4R_auth_0253,personne,"göffde, von, claus",corporation_des_tonneliers,0.001565,0,112,0.323828,4,0.463932,0.507707
+aves_aa_4R_auth_0245,personne,"harnescher, blesin",corporation_des_orfevres,0.001539,0,84,0.241931,4,0.44545,0.488906
+aves_aa_4R_auth_0752,personne,"volk, andres",corporation_des_tailleurs,0.001517,2,156,0.343543,3,0.445652,0.492886
+aves_aa_4R_auth_0678,personne,"metziger, heinrich",corporation_des_pêcheurs,0.001508,2,132,0.393595,3,0.460459,0.505589
+aves_aa_4R_auth_0347,personne,bechtolt,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.001474,1,112,0.399171,4,0.481174,0.521596
+aves_aa_4R_auth_0747,personne,"leitgast, johanns",corporation_des_maçons,0.001468,3,72,0.192921,4,0.417657,0.456386
+aves_aa_4R_auth_0639,personne,"kacheler, friedrich",corporation_des_maçons,0.001458,2,80,0.280519,3,0.455134,0.49187
+aves_aa_4R_auth_0774,personne,"medinger, heinrich",corporation_des_sauniers,0.001394,3,148,0.317327,3,0.446259,0.493733
+aves_aa_4R_auth_0717,personne,"vogt, walther",corporation_des_pelletiers,0.001392,2,157,0.386646,3,0.465028,0.51084
+aves_aa_4R_auth_0555,personne,"dürningen, von, sigel",corporation_des_coltineurs_de_tonneaux,0.001322,1,140,0.429181,3,0.49848,0.534214
+aves_aa_4R_auth_0237,personne,"brucker, peter",corporation_des_marchands,0.001302,0,56,0.210342,4,0.458741,0.49043
+aves_aa_4R_auth_0255,personne,"wild, küntz",corporation_des_maçons,0.0013,0,84,0.288215,4,0.474217,0.508723
+aves_aa_4R_auth_0463,personne,gabriel,corporation_des_coltineurs_de_tonneaux,0.001289,1,140,0.440673,4,0.488337,0.529048
+aves_aa_4R_auth_0704,personne,"wingersheim, stefan",corporation_des_drapiers,0.001272,2,182,0.400824,3,0.456189,0.506267
+aves_aa_4R_auth_0648,personne,"marckoltzheim, von, johanns",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.001258,2,141,0.398458,3,0.454713,0.503388
+aves_aa_4R_auth_0673,personne,"bitsch, claus",corporation_des_tanneurs,0.001257,2,80,0.259137,3,0.430446,0.469173
+aves_aa_4R_auth_0446,personne,"bleiweger, diebolt",corporation_des_pelletiers,0.001254,1,140,0.411181,4,0.483301,0.524136
+aves_aa_4R_auth_0122,personne,"hagenau, von, wernher",corporation_des_boulangers,0.001241,0,112,0.286436,4,0.450549,0.496612
+aves_aa_4R_auth_0801,personne,"berse, von, johanns",corporation_des_bateliers,0.001231,3,173,0.326534,4,0.433099,0.487127
+aves_aa_4R_auth_0144,personne,"hagenau, von, götze",corporation_des_pelletiers,0.001229,0,83,0.203351,4,0.433862,0.477558
+aves_aa_4R_auth_0058,personne,"ölmann, walther",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.00122,0,112,0.224299,4,0.429132,0.481199
+aves_aa_4R_auth_0130,personne,"arge, claus",corporation_des_orfevres,0.001215,0,141,0.290562,4,0.430446,0.487297
+aves_aa_4R_auth_0297,personne,"kilwart, johanns",corporation_des_jardiniers,0.001179,0,140,0.392115,4,0.474446,0.518801
+aves_aa_4R_auth_0504,personne,"altzheim, von, johanns",corporation_des_orfevres,0.001173,1,84,0.33385,3,0.487611,0.517615
+aves_aa_4R_auth_0083,personne,"müseler, peter",corporation_des_bouchers,0.001167,0,110,0.245579,4,0.437333,0.486704
+aves_aa_4R_auth_0581,personne,"minner, johanns",corporation_des_tanneurs,0.001162,2,140,0.422668,3,0.474446,0.516599
+aves_aa_4R_auth_0067,personne,obrecht,corporation_des_charpentiers,0.00116,0,84,0.203232,4,0.426159,0.473069
+aves_aa_4R_auth_0755,personne,"gries, peter",corporation_des_charrons,0.00116,2,104,0.294973,3,0.446866,0.487466
+aves_aa_4R_auth_0571,personne,"walt, johanns",corporation_des_maçons,0.001153,2,112,0.360028,3,0.479532,0.515583
+aves_aa_4R_auth_0102,personne,"hühnerer, lauwel",corporation_des_regrattiers_cordiers_et_fruitiers,0.00115,0,84,0.229718,4,0.457462,0.495512
+aves_aa_4R_auth_0932,personne,"gerbot, jacob",corporation_des_cabaretiers,0.00115,3,81,0.09017,4,0.376435,0.422171
+aves_aa_4R_auth_0570,personne,"wormser, völtz",corporation_des_bouchers,0.001148,1,112,0.344007,3,0.478134,0.514905
+aves_aa_4R_auth_0205,personne,"brüchelin, hansekint",corporation_des_pêcheurs,0.001132,0,56,0.196388,4,0.44545,0.48103
+aves_aa_4R_auth_0301,personne,"hüter, johanns",corporation_des_gourmets_et_courtiers,0.001081,0,84,0.30732,4,0.471039,0.507791
+aves_aa_4R_auth_0501,personne,"dingsheim, johanns",corporation_des_tonneliers,0.00107,1,84,0.31039,3,0.481409,0.512534
+aves_aa_4R_auth_0088,personne,"ruhlmann, lauwel",corporation_des_maçons,0.00104,0,84,0.221951,4,0.459169,0.49585
+aves_aa_4R_auth_0093,personne,"herring, oberlin",corporation_des_cordonniers,0.001039,0,111,0.237839,4,0.434437,0.483147
+aves_aa_4R_auth_0158,personne,"lumbart, johanns",corporation_des_bateliers,0.001037,0,84,0.208594,4,0.454084,0.491785
+aves_aa_4R_auth_0414,personne,"meiger, johanns",corporation_des_crieurs_et_mesureurs_de_vin,0.00103,1,112,0.342495,4,0.470813,0.513381
+aves_aa_4R_auth_0160,personne,"oberkirch, von, claus",corporation_des_charpentiers,0.001015,0,56,0.169875,4,0.443243,0.477473
+aves_aa_4R_auth_0207,personne,"blumenstein, johanns",corporation_des_sauniers,0.001006,0,56,0.202914,4,0.468795,0.496528
+aves_aa_4R_auth_0611,personne,"spirer, johanns",corporation_des_pelletiers,0.00099,2,113,0.376094,3,0.477207,0.515244
+aves_aa_4R_auth_0264,personne,"reichwein, walther",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000982,0,113,0.305602,4,0.439678,0.489753
+aves_aa_4R_auth_0137,personne,"riffe, peter",corporation_des_marchands,0.000978,0,83,0.244339,4,0.440466,0.483316
+aves_aa_4R_auth_0722,personne,"steinhart, johanns",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000971,2,137,0.394136,3,0.462841,0.507114
+aves_aa_4R_auth_0777,personne,"rohr, von, walther",corporation_des_cabaretiers,0.000967,3,100,0.237565,3,0.440072,0.479336
+aves_aa_4R_auth_0516,personne,"träger, johanns",corporation_des_charrons,0.000963,2,84,0.315413,3,0.473304,0.506606
+aves_aa_4R_auth_0498,personne,"herbst, peter",corporation_des_regrattiers_cordiers_et_fruitiers,0.000944,1,84,0.309822,3,0.483063,0.51372
+aves_aa_4R_auth_0336,personne,"üsenberg, heintz",corporation_des_cordonniers,0.000935,1,84,0.27711,4,0.471039,0.505335
+aves_aa_4R_auth_0345,personne,"mentzer, adam",corporation_des_coltineurs_de_tonneaux,0.000919,1,84,0.277443,4,0.470813,0.506182
+aves_aa_4R_auth_0259,personne,"roser, heintz",corporation_des_pêcheurs,0.000901,0,84,0.281802,4,0.464589,0.500085
+aves_aa_4R_auth_0412,personne,"kücheler, bartholomeus",corporation_des_tanneurs,0.000869,1,84,0.303203,4,0.473988,0.507199
+aves_aa_4R_auth_0329,personne,"kalt, johanns",corporation_des_bouchers,0.000866,1,84,0.28645,4,0.464151,0.501186
+aves_aa_4R_auth_0928,personne,"missbach, johanns",corporation_des_tanneurs,0.000864,3,82,0.090535,4,0.367164,0.410061
+aves_aa_4R_auth_0219,personne,"schmalriem, andres",corporation_des_orfevres,0.00086,0,84,0.288397,4,0.463059,0.500339
+aves_aa_4R_auth_0051,personne,"saltzmütter, johanns",corporation_des_sauniers,0.000852,0,84,0.209179,4,0.422862,0.468496
+aves_aa_4R_auth_0515,personne,"hirtzfelder, johanns",corporation_des_sauniers,0.000835,1,84,0.326377,3,0.473077,0.507114
+aves_aa_4R_auth_0032,personne,johanns,corporation_des_boulangers,0.0008,0,84,0.161791,4,0.408468,0.454522
+aves_aa_4R_auth_0559,personne,"brettler, johanns",corporation_des_tonneliers,0.000799,1,113,0.397807,3,0.467236,0.507453
+aves_aa_4R_auth_0830,personne,"ammeister, lienhart",corporation_des_forgerons,0.000788,3,144,0.256396,3,0.428385,0.474424
+aves_aa_4R_auth_0097,personne,"mönchelin, küntz",corporation_des_pêcheurs,0.000782,0,83,0.205849,4,0.431768,0.476033
+aves_aa_4R_auth_0895,personne,"armbruster, obrecht",corporation_des_drapiers,0.000775,3,140,0.152654,4,0.371461,0.426406
+aves_aa_4R_auth_0943,personne,"müseler, peter",corporation_des_bateliers,0.000773,3,81,0.078282,4,0.373293,0.415142
+aves_aa_4R_auth_0947,personne,"frank, johanns",corporation_des_tonneliers,0.000773,3,81,0.078282,4,0.373293,0.415142
+aves_aa_4R_auth_0948,personne,"freiburg, von, jost",corporation_des_forgerons,0.000773,3,81,0.078282,4,0.373293,0.415142
+aves_aa_4R_auth_0887,personne,"rebestock, marx",corporation_des_charrons,0.000772,3,108,0.165729,4,0.374287,0.426067
+aves_aa_4R_auth_0936,personne,"bilger, johanns",corporation_des_jardiniers,0.000766,3,81,0.084296,4,0.367164,0.410061
+aves_aa_4R_auth_0828,personne,"renner, claus",corporation_des_sauniers,0.000744,3,68,0.174982,3,0.420873,0.456301
+aves_aa_4R_auth_0665,personne,"dossenheim, claus",corporation_des_marchands_de_grains,0.000743,2,108,0.342719,3,0.452622,0.494241
+aves_aa_4R_auth_0842,personne,"burkhart, johanns",corporation_des_cordonniers,0.00074,3,136,0.212857,4,0.3936,0.448001
+aves_aa_4R_auth_0392,personne,"ammelung, johanns",corporation_des_bateliers,0.00073,1,88,0.337488,4,0.471039,0.507029
+aves_aa_4R_auth_0521,personne,wernher,corporation_des_tonneliers,0.000725,1,84,0.315484,3,0.481881,0.512873
+aves_aa_4R_auth_0140,personne,"kraft, johanns",corporation_des_cabaretiers,0.000718,0,83,0.19461,4,0.450756,0.48772
+aves_aa_4R_auth_0254,personne,"arner, heinrich",corporation_des_cabaretiers,0.000716,0,56,0.211827,4,0.468571,0.49602
+aves_aa_4R_auth_0204,personne,"müntzer, burkhart",corporation_des_jardiniers,0.000715,0,56,0.173983,4,0.435206,0.470528
+aves_aa_4R_auth_0514,personne,"diebolt, johanns",corporation_des_pêcheurs,0.000714,1,56,0.227476,3,0.469018,0.496612
+aves_aa_4R_auth_0435,personne,"schertzheim, jerge",corporation_des_pêcheurs,0.000712,1,56,0.211457,4,0.455134,0.486196
+aves_aa_4R_auth_0924,personne,"happmacher, andres",corporation_des_marchands,0.000707,3,81,0.097562,4,0.367713,0.412093
+aves_aa_4R_auth_0562,personne,"zabern, von, sifrit",corporation_des_maçons,0.000701,1,113,0.398727,3,0.460028,0.501863
+aves_aa_4R_auth_0337,personne,"stefan, heinrich",corporation_des_orfevres,0.000696,1,84,0.299975,4,0.465468,0.501101
+aves_aa_4R_auth_0243,personne,"spirer, claus",corporation_des_pelletiers,0.000695,0,84,0.261539,4,0.441454,0.484163
+aves_aa_4R_auth_0580,personne,"holtzhauser, heintz",corporation_des_tonneliers,0.000693,2,112,0.361548,3,0.468571,0.506436
+aves_aa_4R_auth_0364,personne,"phye, reimbolt",corporation_des_bateliers,0.000682,1,84,0.296019,4,0.465909,0.501186
+aves_aa_4R_auth_0782,personne,"baltener, diebolt",corporation_des_pêcheurs,0.000672,2,100,0.24587,3,0.437528,0.477812
+aves_aa_4R_auth_0381,personne,"kesselring, johanns",corporation_des_marchands_de_grains,0.000669,1,84,0.320024,4,0.480234,0.511772
+aves_aa_4R_auth_0494,personne,"peter, johanns",corporation_des_jardiniers,0.000658,1,56,0.235665,3,0.466351,0.49458
+aves_aa_4R_auth_0283,personne,"kacheler, sifrit",corporation_des_maçons,0.000655,0,57,0.208599,4,0.452622,0.483486
+aves_aa_4R_auth_0590,personne,"weidemann, johanns",corporation_des_forgerons,0.000652,2,112,0.349979,3,0.468348,0.505589
+aves_aa_4R_auth_0603,personne,"wile, von, johanns",corporation_des_tisserands,0.000648,1,85,0.322504,4,0.446056,0.486196
+aves_aa_4R_auth_0196,personne,"sturm, johanns",corporation_des_tanneurs,0.000647,0,60,0.192572,4,0.444444,0.479336
+aves_aa_4R_auth_0311,personne,"götze, bechtolt",corporation_des_jardiniers,0.000637,0,84,0.271021,4,0.441454,0.484163
+aves_aa_4R_auth_0931,personne,"minner, veltin",corporation_des_maçons,0.000637,3,61,0.075631,4,0.365392,0.405488
+aves_aa_4R_auth_0958,personne,"konrat, johanns",corporation_des_tonneliers,0.000629,3,81,0.07648,4,0.363502,0.405403
+aves_aa_4R_auth_0563,personne,"spirer, diebolt",corporation_des_pelletiers,0.000623,1,85,0.283967,3,0.460459,0.495427
+aves_aa_4R_auth_0493,personne,"reimbolt, johanns",corporation_des_cordonniers,0.000614,1,56,0.218152,3,0.477207,0.502033
+aves_aa_4R_auth_0618,personne,"bisinger, heinrich",corporation_des_cabaretiers,0.000613,1,84,0.286687,3,0.456825,0.493225
+aves_aa_4R_auth_0899,personne,"ulrich, claus",corporation_des_pêcheurs,0.000602,3,120,0.135955,4,0.380216,0.428354
+aves_aa_4R_auth_0078,personne,"steingewerck, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0.000601,0,84,0.142806,4,0.405941,0.450627
+aves_aa_4R_auth_0600,personne,"brettler, heinrich",corporation_des_bateliers,0.000599,2,85,0.311197,3,0.455978,0.49187
+aves_aa_4R_auth_0290,personne,"obrecht, johanns",corporation_des_constructeurs_de_bateaux,0.000588,0,61,0.20474,4,0.443443,0.478828
+aves_aa_4R_auth_0917,personne,"jerger, claus",corporation_des_marchands_de_grains,0.000588,3,120,0.131137,4,0.360044,0.411585
+aves_aa_4R_auth_0860,personne,"ducheler, johanns",corporation_des_charrons,0.000587,3,108,0.16523,4,0.382582,0.431402
+aves_aa_4R_auth_0033,personne,"berse, von, wilhelm",corporation_des_bouchers,0.000583,0,84,0.19124,4,0.420513,0.464939
+aves_aa_4R_auth_0739,personne,"schlecht, johanns",corporation_des_tailleurs,0.000578,2,109,0.294296,3,0.452414,0.491362
+aves_aa_4R_auth_0780,personne,"hüss, johanns",corporation_des_charpentiers,0.000575,3,100,0.243472,3,0.43617,0.47561
+aves_aa_4R_auth_0926,personne,"rummeler, florentz",corporation_des_marchands_de_grains,0.000575,3,100,0.112578,4,0.377011,0.424204
+aves_aa_4R_auth_0530,personne,"seger, johanns",corporation_des_gourmets_et_courtiers,0.000573,1,84,0.311749,3,0.475133,0.507622
+aves_aa_4R_auth_0510,personne,"leistmann, dietrich",corporation_des_tailleurs,0.000561,2,56,0.249071,3,0.465468,0.493902
+aves_aa_4R_auth_0017,personne,"honau, peter",corporation_des_orfevres,0.000542,0,84,0.142041,4,0.409829,0.453845
+aves_aa_4R_auth_0177,personne,"hohenhaus, zum, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0.000542,0,85,0.264291,4,0.437333,0.480945
+aves_aa_4R_auth_0796,personne,"brant, johanns",corporation_des_cabaretiers,0.000541,2,101,0.224707,3,0.437528,0.476457
+aves_aa_4R_auth_0248,personne,"pfluger, ottemann",corporation_des_charrons,0.000531,0,56,0.200329,4,0.442844,0.477304
+aves_aa_4R_auth_0154,personne,"kücheler, peter",corporation_des_tanneurs,0.000527,0,83,0.209609,4,0.43139,0.475017
+aves_aa_4R_auth_0806,personne,"ersam, andres",corporation_des_jardiniers,0.000526,3,101,0.235112,4,0.422862,0.464939
+aves_aa_4R_auth_0819,personne,"schedeler, johanns",corporation_des_barbiers_et_baigneurs,0.000517,3,146,0.261072,4,0.408299,0.460027
+aves_aa_4R_auth_0066,personne,"schön, heintz",corporation_des_tailleurs,0.000506,0,56,0.134671,4,0.402948,0.446816
+aves_aa_4R_auth_0228,personne,"epfig, von, hannemann",corporation_des_forgerons,0.000505,0,83,0.227057,4,0.43348,0.476541
+aves_aa_4R_auth_0671,personne,"pfaffenheim, sifrit",corporation_des_tonneliers,0.000505,2,113,0.339304,3,0.438894,0.483062
+aves_aa_4R_auth_0533,personne,"böschwiller, claus",corporation_des_marchands,0.0005,1,56,0.223883,3,0.463932,0.492039
+aves_aa_4R_auth_0645,personne,"dreitzehn, claus",corporation_des_charrons,0.000497,2,112,0.334704,3,0.447476,0.489329
+aves_aa_4R_auth_0884,personne,"morsmünster, von, gangolff",corporation_des_maçons,0.000488,3,88,0.15191,4,0.388319,0.434451
+aves_aa_4R_auth_0404,personne,"volmar, fritsch",corporation_des_crieurs_et_mesureurs_de_vin,0.000486,0,84,0.259135,4,0.465689,0.501016
+aves_aa_4R_auth_0149,personne,"frei, johanns",corporation_des_tisserands,0.00048,0,55,0.183333,4,0.442446,0.476287
+aves_aa_4R_auth_0272,personne,"rhinau, johanns",corporation_des_pelletiers,0.000476,0,56,0.167343,4,0.44707,0.478574
+aves_aa_4R_auth_0278,personne,"buchswiller, von, burkhart",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000476,0,56,0.167343,4,0.44707,0.478574
+aves_aa_4R_auth_0015,personne,"heischer, lienhart",corporation_des_crieurs_et_mesureurs_de_vin,0.000474,0,84,0.134488,5,0.381543,0.434485
+aves_aa_4R_auth_0029,personne,"rhinau, walther",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000474,0,84,0.134488,5,0.381543,0.434485
+aves_aa_4R_auth_0098,personne,"rohrer, marx",corporation_des_barbiers_et_baigneurs,0.000464,0,84,0.184686,4,0.427454,0.471883
+aves_aa_4R_auth_0592,personne,"studel, johanns",corporation_des_crieurs_et_mesureurs_de_vin,0.000461,1,84,0.337998,3,0.474217,0.507283
+aves_aa_4R_auth_0393,personne,"hellen, zur, johanns",corporation_des_pelletiers,0.000453,1,88,0.302642,4,0.460674,0.498645
+aves_aa_4R_auth_0749,personne,"scherer, bernhart",corporation_des_barbiers_et_baigneurs,0.000445,2,104,0.29723,3,0.432908,0.474085
+aves_aa_4R_auth_0223,personne,"mentzer, johanns",corporation_des_charrons,0.000441,0,57,0.17369,4,0.417834,0.457317
+aves_aa_4R_auth_0889,personne,"hohenburg, von, götze",corporation_des_bateliers,0.00043,3,104,0.152232,4,0.380805,0.430979
+aves_aa_4R_auth_0652,personne,"heiligenstein, von, anthenie",corporation_des_crieurs_et_mesureurs_de_vin,0.000427,2,112,0.324162,3,0.436364,0.480183
+aves_aa_4R_auth_0676,personne,"krosswiller, johanns",corporation_des_tailleurs,0.000426,2,80,0.261424,3,0.441454,0.477812
+aves_aa_4R_auth_0869,personne,"rottweil, von, johanns-erhart",corporation_des_marchands,0.000425,3,128,0.171892,4,0.38273,0.433943
+aves_aa_4R_auth_0052,personne,"dolde, johanns",corporation_des_tisserands,0.000416,0,57,0.145967,5,0.388626,0.436518
+aves_aa_4R_auth_0849,personne,"vogelsberg, bechtolt",corporation_des_tailleurs,0.000416,3,116,0.206571,4,0.389857,0.440549
+aves_aa_4R_auth_0308,personne,"beildeck, adam",corporation_des_crieurs_et_mesureurs_de_vin,0.000414,0,56,0.162788,4,0.429319,0.46604
+aves_aa_4R_auth_0485,personne,"winsticher, erhart",corporation_des_charpentiers,0.000411,1,85,0.297526,4,0.465689,0.499238
+aves_aa_4R_auth_0363,personne,"breitthor, johanns",corporation_des_tailleurs,0.000409,1,56,0.240267,4,0.461755,0.491531
+aves_aa_4R_auth_0143,personne,"meiger, johanns",corporation_des_bateliers,0.000405,0,83,0.183279,4,0.417657,0.462229
+aves_aa_4R_auth_0397,personne,"messer, johanns",corporation_des_sauniers,0.000393,1,88,0.298501,4,0.457249,0.496274
+aves_aa_4R_auth_0142,personne,"überhang, zum, hermann",corporation_des_tailleurs,0.000391,0,82,0.210322,4,0.430635,0.472984
+aves_aa_4R_auth_0041,personne,"nellesheim, johanns",corporation_des_bateliers,0.000388,0,56,0.109525,5,0.370482,0.416277
+aves_aa_4R_auth_0344,personne,"dettwiller, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0.000386,1,56,0.208997,4,0.468571,0.49602
+aves_aa_4R_auth_0360,personne,"schultheiss, johanns",corporation_des_boulangers,0.000383,1,56,0.198999,4,0.44185,0.477388
+aves_aa_4R_auth_0933,personne,"trachenfeils, andres",corporation_des_sauniers,0.000383,3,80,0.094454,4,0.375429,0.418614
+aves_aa_4R_auth_0374,personne,"monschein, johanns",corporation_des_tailleurs,0.000379,0,84,0.310292,4,0.476975,0.508723
+aves_aa_4R_auth_0470,personne,"mentz, von,",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000379,1,56,0.258325,4,0.465689,0.494157
+aves_aa_4R_auth_0324,personne,"brüchelin, johanns",corporation_des_pêcheurs,0.000378,0,56,0.223253,4,0.468571,0.49602
+aves_aa_4R_auth_0273,personne,"klein, dietrich",corporation_des_charpentiers,0.000376,1,60,0.198829,4,0.465248,0.494495
+aves_aa_4R_auth_0804,personne,"hage, frantz",corporation_des_bateliers,0.000374,3,101,0.221799,4,0.415716,0.457148
+aves_aa_4R_auth_0445,personne,"ludemann, claus",corporation_des_drapiers,0.000367,1,56,0.232252,3,0.470139,0.496443
+aves_aa_4R_auth_0545,personne,"baumgarter, erhart",corporation_des_cabaretiers,0.00036,1,85,0.347495,3,0.467681,0.502033
+aves_aa_4R_auth_0232,personne,"kriegsheim, von, johanns",corporation_des_orfevres,0.000356,0,55,0.180207,4,0.453875,0.484502
+aves_aa_4R_auth_0050,personne,"pfennigmann, johanns",corporation_des_barbiers_et_baigneurs,0.000354,0,55,0.139258,4,0.421053,0.458503
+aves_aa_4R_auth_0922,personne,"frank, johanns",corporation_des_tailleurs,0.000353,3,80,0.100702,4,0.365663,0.409807
+aves_aa_4R_auth_0655,personne,"ersam, johanns",corporation_des_jardiniers,0.000348,2,112,0.305868,3,0.43617,0.477642
+aves_aa_4R_auth_0904,personne,"storck, konrat",corporation_des_gourmets_et_courtiers,0.000347,3,80,0.098932,4,0.375286,0.416836
+aves_aa_4R_auth_0929,personne,"dietrich, michel",corporation_des_tailleurs,0.000347,3,80,0.104463,4,0.376723,0.418191
+aves_aa_4R_auth_0079,personne,"mörlin, johanns",corporation_des_coltineurs_de_tonneaux,0.000344,0,55,0.112881,4,0.403444,0.441396
+aves_aa_4R_auth_0217,personne,"kerb, johanns",corporation_des_charpentiers,0.000343,0,56,0.169612,4,0.419259,0.458333
+aves_aa_4R_auth_0281,personne,"müntzenberg, johanns",corporation_des_tanneurs,0.000339,0,57,0.185766,4,0.439875,0.473747
+aves_aa_4R_auth_0074,personne,"schmied, lienhart",corporation_des_sauniers,0.000332,0,56,0.112041,4,0.401797,0.440295
+aves_aa_4R_auth_0369,personne,"wissemburg, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0.00033,0,84,0.291434,4,0.460243,0.497036
+aves_aa_4R_auth_0575,personne,"sasbach, konrat",corporation_des_charrons,0.00033,2,56,0.219246,4,0.446056,0.477388
+aves_aa_4R_auth_0018,personne,"hühnerer, ulrich",corporation_des_marchands_de_grains,0.000324,0,55,0.116077,4,0.406276,0.444275
+aves_aa_4R_auth_0858,personne,"büre, von, oberlin",corporation_des_tanneurs,0.000321,3,88,0.168191,4,0.381691,0.428354
+aves_aa_4R_auth_0043,personne,"münch, ottemann",corporation_des_pelletiers,0.000318,0,56,0.117424,4,0.406108,0.4469
+aves_aa_4R_auth_0853,personne,"ersam, claus",corporation_des_jardiniers,0.000317,3,88,0.162782,4,0.389703,0.434282
+aves_aa_4R_auth_0745,personne,"ingolt, claus",corporation_des_marchands,0.000316,2,81,0.235273,3,0.441652,0.477642
+aves_aa_4R_auth_0034,personne,"herbst, johanns",corporation_des_drapiers,0.000315,0,56,0.124026,4,0.403775,0.442666
+aves_aa_4R_auth_0918,personne,"rotschilt, stefan",corporation_des_orfevres,0.000314,3,100,0.125063,4,0.337796,0.391514
+aves_aa_4R_auth_0163,personne,walther,corporation_des_barbiers_et_baigneurs,0.000311,0,56,0.165992,4,0.424138,0.461636
+aves_aa_4R_auth_0812,personne,"bietenheim, sifrit",corporation_des_marchands_de_grains,0.000309,3,148,0.241314,4,0.393128,0.444783
+aves_aa_4R_auth_0531,personne,"liebkint, oberlin",corporation_des_charrons,0.000304,1,56,0.23351,3,0.472396,0.498476
+aves_aa_4R_auth_0615,personne,"seiler, zum, johanns",corporation_des_gourmets_et_courtiers,0.000297,2,56,0.217514,3,0.456401,0.485772
+aves_aa_4R_auth_0195,personne,"bidermann, johanns",corporation_des_tonneliers,0.000294,0,56,0.180807,4,0.43139,0.467903
+aves_aa_4R_auth_0174,personne,schweicker,corporation_des_pêcheurs,0.000291,0,56,0.178894,4,0.44952,0.480606
+aves_aa_4R_auth_0821,personne,"gemersheim, von, laurentz",corporation_des_regrattiers_cordiers_et_fruitiers,0.000288,3,122,0.237015,4,0.404273,0.451558
+aves_aa_4R_auth_0361,personne,"kerling, jacob",corporation_des_bouchers,0.000275,1,56,0.215155,4,0.445854,0.479505
+aves_aa_4R_auth_0420,personne,"herde, von, andres",corporation_des_charrons,0.000275,1,56,0.220742,4,0.463932,0.492124
+aves_aa_4R_auth_0247,personne,"hug, johanns",corporation_des_pêcheurs,0.00027,0,56,0.185325,4,0.43139,0.467903
+aves_aa_4R_auth_0524,personne,johanns,corporation_des_crieurs_et_mesureurs_de_vin,0.00027,1,84,0.275818,4,0.465689,0.498222
+aves_aa_4R_auth_0099,personne,"rüllin, claus",corporation_des_sauniers,0.000268,0,57,0.149059,4,0.412406,0.453845
+aves_aa_4R_auth_0121,personne,"rottweil, von, erhart",corporation_des_marchands,0.000263,0,56,0.161805,4,0.41748,0.456301
+aves_aa_4R_auth_0551,personne,"molsheim, von, johanns",corporation_des_barbiers_et_baigneurs,0.000263,2,56,0.230153,4,0.45283,0.482639
+aves_aa_4R_auth_0146,personne,"seifenmacher, hug",corporation_des_orfevres,0.000261,0,55,0.168886,4,0.423955,0.461128
+aves_aa_4R_auth_0848,personne,"hungerstein, konrat",corporation_des_gourmets_et_courtiers,0.00026,3,64,0.132181,4,0.378899,0.419377
+aves_aa_4R_auth_0897,personne,"vendenheim, laurentz",corporation_des_tanneurs,0.000259,3,80,0.10444,4,0.359649,0.402947
+aves_aa_4R_auth_0809,personne,"hegel, heinrich",corporation_des_gourmets_et_courtiers,0.000258,3,101,0.214332,4,0.41449,0.454268
+aves_aa_4R_auth_0765,personne,"bösch, claus",corporation_des_charpentiers,0.000257,2,104,0.272808,3,0.434629,0.473916
+aves_aa_4R_auth_0634,personne,"trense, johanns",corporation_des_jardiniers,0.000256,2,84,0.283675,3,0.439875,0.477812
+aves_aa_4R_auth_0964,personne,"wingersheim, diebolt",corporation_des_drapiers,0.000253,3,60,0.071616,4,0.353575,0.392615
+aves_aa_4R_auth_0911,personne,"dolde, blesin",corporation_des_bateliers,0.00025,3,80,0.108772,4,0.373718,0.41565
+aves_aa_4R_auth_0916,personne,"lötschel, claus",corporation_des_maçons,0.00025,3,80,0.108772,4,0.373718,0.41565
+aves_aa_4R_auth_0087,personne,"wassicher, heilmann",corporation_des_cabaretiers,0.000247,0,56,0.12943,4,0.408468,0.449272
+aves_aa_4R_auth_0642,personne,"bosterer, johanns",corporation_des_crieurs_et_mesureurs_de_vin,0.000246,1,56,0.201602,3,0.435206,0.468327
+aves_aa_4R_auth_0628,personne,"kiebel, ulrich",corporation_des_regrattiers_cordiers_et_fruitiers,0.000242,1,56,0.204648,3,0.447883,0.478489
+aves_aa_4R_auth_0366,personne,"kühn, johanns",corporation_des_crieurs_et_mesureurs_de_vin,0.000238,1,60,0.217792,4,0.449726,0.483401
+aves_aa_4R_auth_0362,personne,"sturmel, peter",corporation_des_maçons,0.000232,0,56,0.189968,4,0.446461,0.479167
+aves_aa_4R_auth_0181,personne,"seltz, von, johanns",corporation_des_tailleurs,0.000231,0,56,0.172074,4,0.419616,0.460789
+aves_aa_4R_auth_0612,personne,"griffe, heinrich",corporation_des_marchands_de_grains,0.000231,1,56,0.220268,3,0.461538,0.489837
+aves_aa_4R_auth_0890,personne,"trüchtersheim, von, ruhlemann",corporation_des_forgerons,0.000227,3,84,0.134447,4,0.378753,0.423865
+aves_aa_4R_auth_0432,personne,bernhart,corporation_des_cordonniers,0.000226,1,56,0.199872,4,0.443643,0.477049
+aves_aa_4R_auth_0573,personne,"hirt, johanns",corporation_des_jardiniers,0.000225,1,56,0.198265,3,0.463932,0.490346
+aves_aa_4R_auth_0638,personne,"bruder, stoffelus",corporation_des_cabaretiers,0.000223,2,84,0.258024,3,0.432148,0.469343
+aves_aa_4R_auth_0096,personne,"martin, johanns",corporation_des_jardiniers,0.000221,0,56,0.146881,4,0.417126,0.457741
+aves_aa_4R_auth_0014,personne,"westermann, johanns",corporation_des_pelletiers,0.000218,0,56,0.094208,5,0.374714,0.420088
+aves_aa_4R_auth_0169,personne,"colmar, von, bechtolt",corporation_des_marchands,0.000218,0,56,0.194515,4,0.440072,0.473577
+aves_aa_4R_auth_0165,personne,"pfaffenhoffen, johanns",corporation_des_gourmets_et_courtiers,0.000214,0,56,0.137229,4,0.407791,0.446392
+aves_aa_4R_auth_0166,personne,"kistner, reinhart",corporation_des_charrons,0.000214,0,56,0.137229,4,0.407791,0.446392
+aves_aa_4R_auth_0927,personne,"pfutzer, mattern",corporation_des_pelletiers,0.000213,3,80,0.100323,4,0.375573,0.419123
+aves_aa_4R_auth_0161,personne,"rhinau, ottemann",corporation_des_crieurs_et_mesureurs_de_vin,0.00021,0,56,0.142403,4,0.425238,0.461636
+aves_aa_4R_auth_0474,personne,"rohr, von, claus",corporation_des_cabaretiers,0.00021,1,56,0.246297,4,0.442645,0.477812
+aves_aa_4R_auth_0856,personne,"brun, claus",corporation_des_marchands_de_grains,0.00021,3,88,0.14972,4,0.38051,0.424289
+aves_aa_4R_auth_0123,personne,"schanlit, walther",corporation_des_tonneliers,0.000208,0,56,0.147973,4,0.414665,0.453506
+aves_aa_4R_auth_0438,personne,"ricker, claus",corporation_des_gourmets_et_courtiers,0.000207,1,56,0.209622,4,0.435784,0.471799
+aves_aa_4R_auth_0460,personne,"pfaffe, claus",corporation_des_pêcheurs,0.000207,1,56,0.229418,4,0.461538,0.490684
+aves_aa_4R_auth_0539,personne,"graff, anshelm",corporation_des_pêcheurs,0.000202,1,56,0.226,3,0.456613,0.485264
+aves_aa_4R_auth_0595,personne,"trachenfeils, diebolt",corporation_des_sauniers,0.000201,2,56,0.246521,3,0.457037,0.486619
+aves_aa_4R_auth_0817,personne,"sanselmann, anthenie",corporation_des_tonneliers,0.000197,3,98,0.203832,4,0.399513,0.442243
+aves_aa_4R_auth_0426,personne,"lahr, von, johanns",corporation_des_tanneurs,0.000196,1,56,0.189811,4,0.439678,0.474255
+aves_aa_4R_auth_0954,personne,"löwe, konrat",corporation_des_orfevres,0.000195,3,60,0.066436,4,0.363502,0.401677
+aves_aa_4R_auth_0955,personne,"russer, johanns",corporation_des_pêcheurs,0.000195,3,60,0.066436,4,0.363502,0.401677
+aves_aa_4R_auth_0252,personne,"meiger, jeckel",corporation_des_boulangers,0.000194,0,56,0.174606,4,0.418902,0.457317
+aves_aa_4R_auth_0413,personne,"messner, andres",corporation_des_cabaretiers,0.000193,0,56,0.217261,4,0.455556,0.486958
+aves_aa_4R_auth_0654,personne,"hertzog, johanns",corporation_des_orfevres,0.000187,2,84,0.264592,3,0.438307,0.474763
+aves_aa_4R_auth_0529,personne,"könig, claus",corporation_des_tisserands,0.000186,1,56,0.234036,3,0.467903,0.494411
+aves_aa_4R_auth_0687,personne,"scheubelin, peter",corporation_des_barbiers_et_baigneurs,0.000186,2,82,0.283504,3,0.442049,0.47832
+aves_aa_4R_auth_0402,personne,"wingersheim, dielmann",corporation_des_pelletiers,0.000185,0,84,0.269435,4,0.464151,0.497459
+aves_aa_4R_auth_0757,personne,"armbruster, johanns",corporation_des_drapiers,0.000182,2,80,0.25038,3,0.440072,0.475949
+aves_aa_4R_auth_0759,personne,"bisinger, heinrich",corporation_des_bateliers,0.000182,2,80,0.25038,3,0.440072,0.475949
+aves_aa_4R_auth_0206,personne,"flach, johanns",corporation_des_barbiers_et_baigneurs,0.000179,0,56,0.151702,5,0.3936,0.440921
+aves_aa_4R_auth_0542,personne,"gerbot, peter",corporation_des_charrons,0.000178,1,56,0.256524,3,0.463495,0.491701
+aves_aa_4R_auth_0577,personne,"hügeler, bechtolt",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000178,1,57,0.252117,4,0.450549,0.48247
+aves_aa_4R_auth_0192,personne,"martin, johanns",corporation_des_boulangers,0.000176,0,56,0.148782,5,0.390942,0.438042
+aves_aa_4R_auth_0193,personne,"meister, heintz",corporation_des_bouchers,0.000176,0,56,0.148782,5,0.390942,0.438042
+aves_aa_4R_auth_0201,personne,"haslach von, peter",corporation_des_charpentiers,0.000176,0,56,0.148782,5,0.390942,0.438042
+aves_aa_4R_auth_0699,personne,"sankt-arbogast, ulrich",corporation_des_pêcheurs,0.000174,2,84,0.250838,3,0.428945,0.466463
+aves_aa_4R_auth_0940,personne,"meiger, lexius",corporation_des_gourmets_et_courtiers,0.000171,3,61,0.067847,4,0.331202,0.374915
+aves_aa_4R_auth_0114,personne,"berner, johanns",corporation_des_marchands_de_grains,0.000168,0,56,0.127107,5,0.384375,0.43042
+aves_aa_4R_auth_0116,personne,"albrecht, johanns",corporation_des_barbiers_et_baigneurs,0.000168,0,56,0.127107,5,0.384375,0.43042
+aves_aa_4R_auth_0885,personne,"happmacher, andres",corporation_des_orfevres,0.000168,3,88,0.148174,4,0.38051,0.424966
+aves_aa_4R_auth_0651,personne,"hage, jacob",corporation_des_bateliers,0.000167,2,84,0.28572,3,0.432718,0.470528
+aves_aa_4R_auth_0701,personne,"arge, peter",corporation_des_marchands,0.000167,2,85,0.264236,3,0.437333,0.473577
+aves_aa_4R_auth_0588,personne,"gottfriet, fritsch",corporation_des_regrattiers_cordiers_et_fruitiers,0.000166,1,56,0.240304,3,0.460459,0.488652
+aves_aa_4R_auth_0222,personne,"mannertrieb, diebolt",corporation_des_tisserands,0.000161,0,56,0.141488,4,0.412752,0.450373
+aves_aa_4R_auth_0569,personne,"meistersheim, johanns",corporation_des_bouchers,0.000161,1,56,0.215919,3,0.460459,0.487974
+aves_aa_4R_auth_0898,personne,"esslinger, matheus",corporation_des_tailleurs,0.000155,3,80,0.102739,4,0.339427,0.386602
+aves_aa_4R_auth_0229,personne,"meiger, claus",corporation_des_bateliers,0.000154,0,55,0.159017,4,0.422862,0.459858
+aves_aa_4R_auth_0682,personne,"berse, von, claus",corporation_des_bouchers,0.000153,2,84,0.280737,3,0.431201,0.469173
+aves_aa_4R_auth_0373,personne,"rosemberg, küntz",corporation_des_forgerons,0.000152,1,56,0.235115,4,0.468795,0.495512
+aves_aa_4R_auth_0279,personne,"schwob, johanns",corporation_des_boulangers,0.000151,0,57,0.174006,4,0.412579,0.454268
+aves_aa_4R_auth_0289,personne,diebolt,corporation_des_gourmets_et_courtiers,0.000151,0,57,0.174006,4,0.412579,0.454268
+aves_aa_4R_auth_0835,personne,"westhoffen, claus",corporation_des_tanneurs,0.000148,3,48,0.126747,3,0.407285,0.438008
+aves_aa_4R_auth_0837,personne,"raubel, martin",corporation_des_charpentiers,0.000148,3,48,0.126747,3,0.407285,0.438008
+aves_aa_4R_auth_0709,personne,"wolff, claus",corporation_des_cordonniers,0.000147,2,85,0.261606,3,0.431201,0.468496
+aves_aa_4R_auth_0513,personne,"duntzenheim, claus",corporation_des_jardiniers,0.000145,1,56,0.22129,4,0.452414,0.482639
+aves_aa_4R_auth_0967,personne,"bechtolt, diebolt",corporation_des_bouchers,0.000143,3,41,0.035842,4,0.342023,0.370935
+aves_aa_4R_auth_0969,personne,"hungerstein, johanns",corporation_des_gourmets_et_courtiers,0.000143,3,41,0.035842,4,0.342023,0.370935
+aves_aa_4R_auth_0970,personne,"hüseler, rudolff",corporation_des_cordonniers,0.000143,3,41,0.035842,4,0.342023,0.370935
+aves_aa_4R_auth_0971,personne,"kupfer, johanns",corporation_des_maçons,0.000143,3,41,0.035842,4,0.342023,0.370935
+aves_aa_4R_auth_0488,personne,"sporer, jacob",corporation_des_boulangers,0.00014,1,56,0.215531,4,0.442446,0.476626
+aves_aa_4R_auth_0495,personne,"siffermann, burkhart",corporation_des_sauniers,0.00014,1,56,0.215531,4,0.442446,0.476626
+aves_aa_4R_auth_0224,personne,"seiler, ruhlemann",corporation_des_regrattiers_cordiers_et_fruitiers,0.000139,0,56,0.152311,4,0.415015,0.452913
+aves_aa_4R_auth_0291,personne,"voltz, claus",corporation_des_bouchers,0.000139,0,56,0.177556,4,0.423773,0.46062
+aves_aa_4R_auth_0020,personne,"schwicker, johanns",corporation_des_pêcheurs,0.000138,0,56,0.101069,5,0.378316,0.423306
+aves_aa_4R_auth_0944,personne,"wurm, jacob",corporation_des_cabaretiers,0.000131,3,62,0.055347,4,0.327236,0.368733
+aves_aa_4R_auth_0839,personne,"slapp, johanns",corporation_des_pelletiers,0.00013,3,72,0.1347,4,0.380216,0.421917
+aves_aa_4R_auth_0490,personne,"eckboltzheim, johanns",corporation_des_maçons,0.000128,1,56,0.222113,4,0.439678,0.474255
+aves_aa_4R_auth_0863,personne,"seebott, ulrich",corporation_des_orfevres,0.000128,3,64,0.110748,4,0.378899,0.418699
+aves_aa_4R_auth_0145,personne,"lamb, heitz",corporation_des_charpentiers,0.000127,0,55,0.156947,4,0.41449,0.452066
+aves_aa_4R_auth_0690,personne,"gemersheim, von, andres",corporation_des_regrattiers_cordiers_et_fruitiers,0.000127,2,84,0.27242,3,0.434437,0.471037
+aves_aa_4R_auth_0818,personne,"säckingen, von, johanns",corporation_des_drapiers,0.000127,3,98,0.210037,4,0.399675,0.442073
+aves_aa_4R_auth_0395,personne,"büttener, claus",corporation_des_pêcheurs,0.000126,1,60,0.229244,4,0.457249,0.488652
+aves_aa_4R_auth_0400,personne,gebhart,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000126,1,60,0.229244,4,0.457249,0.488652
+aves_aa_4R_auth_0876,personne,"bülle, johanns",corporation_des_pêcheurs,0.000126,3,88,0.129445,4,0.37759,0.420224
+aves_aa_4R_auth_0129,personne,"hechde, claus",corporation_des_crieurs_et_mesureurs_de_vin,0.000124,0,55,0.143108,4,0.42579,0.461128
+aves_aa_4R_auth_0444,personne,"meiger, heinrich",corporation_des_tonneliers,0.000122,1,56,0.20767,4,0.454503,0.483655
+aves_aa_4R_auth_0358,personne,"rheinstett, von, fritsch",corporation_des_charrons,0.000121,0,56,0.220867,4,0.454503,0.485349
+aves_aa_4R_auth_0257,personne,"wilgen, zur, jacob",corporation_des_crieurs_et_mesureurs_de_vin,0.000117,0,57,0.156119,5,0.394231,0.44126
+aves_aa_4R_auth_0492,personne,"rippel, michel",corporation_des_charpentiers,0.000114,1,56,0.192712,4,0.447476,0.478913
+aves_aa_4R_auth_0464,personne,"meister, johanns",corporation_des_bouchers,0.000112,1,56,0.242643,4,0.451998,0.484333
+aves_aa_4R_auth_0407,personne,"villinger, bertsch",corporation_des_regrattiers_cordiers_et_fruitiers,0.000111,0,56,0.225273,4,0.450343,0.482215
+aves_aa_4R_auth_0170,personne,"werde, claus",corporation_des_tanneurs,0.00011,0,56,0.159925,4,0.415716,0.453252
+aves_aa_4R_auth_0862,personne,"armbruster, konrat",corporation_des_drapiers,0.000109,3,72,0.157886,4,0.385882,0.42937
+aves_aa_4R_auth_0200,personne,"wasselnheim, von, johanns",corporation_des_pelletiers,0.000108,0,57,0.136534,5,0.386792,0.432791
+aves_aa_4R_auth_0480,personne,"schindeler, konrat",corporation_des_gourmets_et_courtiers,0.000108,1,56,0.213957,4,0.452414,0.481623
+aves_aa_4R_auth_0549,personne,"stumpf, johanns",corporation_des_marchands_de_grains,0.000103,1,56,0.232696,3,0.465909,0.492209
+aves_aa_4R_auth_0875,personne,"gisebrecht, erhart",corporation_des_cordonniers,0.000101,3,64,0.09924,4,0.375716,0.413957
+aves_aa_4R_auth_0877,personne,"rohrbosch, johanns",corporation_des_jardiniers,0.000101,3,64,0.09924,4,0.375716,0.413957
+aves_aa_4R_auth_0691,personne,"keinne, bechtolt",corporation_des_coltineurs_de_tonneaux,0.000098,2,56,0.247567,3,0.434437,0.467988
+aves_aa_4R_auth_0939,personne,"krug, claus",corporation_des_tanneurs,0.000093,3,60,0.075005,4,0.334012,0.377117
+aves_aa_4R_auth_0403,personne,michel,corporation_des_charpentiers,0.000085,0,56,0.201987,4,0.454084,0.484079
+aves_aa_4R_auth_0946,personne,"wolff, lienhart",corporation_des_boulangers,0.000084,3,40,0.052113,4,0.361499,0.395071
+aves_aa_4R_auth_0949,personne,martin,corporation_des_cordonniers,0.000084,3,40,0.052113,4,0.361499,0.395071
+aves_aa_4R_auth_0950,personne,"grimmel, kühne",corporation_des_jardiniers,0.000084,3,40,0.052113,4,0.361499,0.395071
+aves_aa_4R_auth_0951,personne,"heil, peter",corporation_des_maçons,0.000084,3,40,0.052113,4,0.361499,0.395071
+aves_aa_4R_auth_0633,personne,"ernst, martin",corporation_des_orfevres,0.000083,2,56,0.212888,3,0.430635,0.462907
+aves_aa_4R_auth_0935,personne,"heinrich, johanns",corporation_des_cordonniers,0.000083,3,40,0.058401,4,0.363771,0.397358
+aves_aa_4R_auth_0406,personne,"müsinger, johanns",corporation_des_barbiers_et_baigneurs,0.000078,0,56,0.228333,4,0.457674,0.487636
+aves_aa_4R_auth_0824,personne,"hug, burkhart",corporation_des_forgerons,0.000078,3,48,0.127089,4,0.392971,0.427507
+aves_aa_4R_auth_0790,personne,"olwisheim, von, peter",corporation_des_tisserands,0.000073,2,50,0.161595,3,0.42268,0.454607
+aves_aa_4R_auth_0865,personne,"wachenheimer, peter",corporation_des_barbiers_et_baigneurs,0.000069,3,48,0.109296,4,0.386489,0.42395
+aves_aa_4R_auth_0867,personne,"seelig, khurin",corporation_des_regrattiers_cordiers_et_fruitiers,0.000069,3,48,0.109296,4,0.386489,0.42395
+aves_aa_4R_auth_0868,personne,"scholle, konrat",corporation_des_maçons,0.000069,3,48,0.109296,4,0.386489,0.42395
+aves_aa_4R_auth_0811,personne,"bisinger, heinrich",corporation_des_orfevres,0.000064,3,76,0.1831,4,0.379923,0.424204
+aves_aa_4R_auth_0822,personne,"villinger, erhart",corporation_des_marchands,0.000064,3,48,0.163528,3,0.417126,0.448001
+aves_aa_4R_auth_0823,personne,"duntzenheim, von, symont",corporation_des_tailleurs,0.000064,3,48,0.163528,3,0.417126,0.448001
+aves_aa_4R_auth_0785,personne,"rotschilt, wilhelm",corporation_des_bouchers,0.000062,2,52,0.175356,3,0.430446,0.461721
+aves_aa_4R_auth_0788,personne,ulrich,corporation_des_barbiers_et_baigneurs,0.000062,2,52,0.175356,3,0.430446,0.461721
+aves_aa_4R_auth_0791,personne,"rörich, claus",corporation_des_gourmets_et_courtiers,0.000062,2,52,0.175356,3,0.430446,0.461721
+aves_aa_4R_auth_0792,personne,"riber, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0.000062,2,52,0.175356,3,0.430446,0.461721
+aves_aa_4R_auth_0776,personne,"renner, claus",corporation_des_marchands,0.000061,2,52,0.161115,3,0.43007,0.460027
+aves_aa_4R_auth_0778,personne,"brümath, von, marx",corporation_des_tailleurs,0.000061,2,52,0.161115,3,0.43007,0.460027
+aves_aa_4R_auth_0960,personne,"merckel, jost",corporation_des_cordonniers,0.000059,3,40,0.053852,4,0.360176,0.393377
+aves_aa_4R_auth_0961,personne,"wolff, claus",corporation_des_jardiniers,0.000059,3,40,0.053852,4,0.360176,0.393377
+aves_aa_4R_auth_0798,personne,"gosse, johanns",corporation_des_crieurs_et_mesureurs_de_vin,0.000057,2,53,0.154909,3,0.430635,0.460196
+aves_aa_4R_auth_0799,personne,"hage, jacob",corporation_des_marchands_de_grains,0.000057,2,53,0.154909,3,0.430635,0.460196
+aves_aa_4R_auth_0800,personne,"ruhlmann, kühne",corporation_des_pêcheurs,0.000057,2,53,0.154909,3,0.430635,0.460196
+aves_aa_4R_auth_0900,personne,"jerger, johanns",corporation_des_bateliers,0.000051,3,40,0.070261,4,0.371742,0.404133
+aves_aa_4R_auth_0905,personne,"württemberg, johanns",corporation_des_forgerons,0.000051,3,40,0.070261,4,0.371742,0.404133
+aves_aa_4R_auth_0906,personne,"fallwehenne, konrat",corporation_des_maçons,0.000051,3,40,0.070261,4,0.371742,0.404133
+aves_aa_4R_auth_0962,personne,"ingolt, johanns",corporation_des_marchands,0.000051,3,40,0.051332,4,0.350677,0.383299
+aves_aa_4R_auth_0963,personne,"wernlin, claus",corporation_des_cabaretiers,0.000051,3,40,0.051332,4,0.350677,0.383299
+aves_aa_4R_auth_0965,personne,"slapp, bernhart",corporation_des_pelletiers,0.000051,3,40,0.051332,4,0.350677,0.383299
+aves_aa_4R_auth_0921,personne,"müge, florentz",corporation_des_tonneliers,0.000043,3,40,0.068933,4,0.36431,0.398374
+aves_aa_4R_auth_0715,personne,"bechtolt, friedrich",corporation_des_bouchers,0.000037,2,56,0.202236,3,0.419795,0.451897
+aves_aa_4R_auth_0718,personne,"schultheiss, claus",corporation_des_cordonniers,0.000037,2,56,0.202236,3,0.419795,0.451897
+aves_aa_4R_auth_0720,personne,"worms, von, claus",corporation_des_barbiers_et_baigneurs,0.000037,2,56,0.202236,3,0.419795,0.451897
+aves_aa_4R_auth_0803,personne,"bir, claus",corporation_des_forgerons,0.000036,2,53,0.156228,4,0.408299,0.440041
+aves_aa_4R_auth_0805,personne,"bitsch, von, konrat",corporation_des_cordonniers,0.000036,2,53,0.156228,4,0.408299,0.440041
+aves_aa_4R_auth_0807,personne,"brachenheim, von, peter",corporation_des_barbiers_et_baigneurs,0.000036,2,53,0.156228,4,0.408299,0.440041
+aves_aa_4R_auth_0808,personne,"bisinger, johanns",corporation_des_sauniers,0.000036,2,53,0.156228,4,0.408299,0.440041
+aves_aa_4R_auth_0902,personne,"armbruster, konrat",corporation_des_cabaretiers,0.000035,3,40,0.068002,4,0.333559,0.372713
+aves_aa_4R_auth_0723,personne,"desche, johanns-heinrich",corporation_des_marchands,0.000034,2,56,0.188992,3,0.420513,0.451558
+aves_aa_4R_auth_0725,personne,"dolle, bechtolt",corporation_des_tailleurs,0.000034,2,56,0.188992,3,0.420513,0.451558
+aves_aa_4R_auth_0727,personne,"helwig, sifrit",corporation_des_pêcheurs,0.000034,2,56,0.188992,3,0.420513,0.451558
+aves_aa_4R_auth_0730,personne,"lot, peter",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000034,2,56,0.188992,3,0.420513,0.451558
+aves_aa_4R_auth_0892,personne,"flöss, johanns",corporation_des_cordonniers,0.000034,3,44,0.091978,4,0.365799,0.401507
+aves_aa_4R_auth_0912,personne,"bechtolt, claus",corporation_des_bouchers,0.000031,3,40,0.07001,4,0.369786,0.401762
+aves_aa_4R_auth_0913,personne,"vetter, claus",corporation_des_tonneliers,0.000031,3,40,0.07001,4,0.369786,0.401762
+aves_aa_4R_auth_0914,personne,"rörich, johanns",corporation_des_gourmets_et_courtiers,0.000031,3,40,0.07001,4,0.369786,0.401762
+aves_aa_4R_auth_0915,personne,"dachstein, von, johanns",corporation_des_forgerons,0.000031,3,40,0.07001,4,0.369786,0.401762
+aves_aa_4R_auth_0750,personne,"volmar, thoman",corporation_des_tanneurs,0.000029,2,56,0.189117,3,0.419259,0.450373
+aves_aa_4R_auth_0754,personne,"brüchelin, johanns-diebolt",corporation_des_pêcheurs,0.000029,2,56,0.189117,3,0.419259,0.450373
+aves_aa_4R_auth_0740,personne,"brant, johanns",corporation_des_pelletiers,0.000028,2,56,0.175415,3,0.419795,0.450881
+aves_aa_4R_auth_0742,personne,"bintz, claus",corporation_des_crieurs_et_mesureurs_de_vin,0.000028,2,56,0.175415,3,0.419795,0.450881
+aves_aa_4R_auth_0743,personne,"schertzheim, johanns",corporation_des_charrons,0.000028,2,56,0.175415,3,0.419795,0.450881
+aves_aa_4R_auth_0744,personne,"illkirch, von, laurentz",corporation_des_coltineurs_de_tonneaux,0.000028,2,56,0.175415,3,0.419795,0.450881
+aves_aa_4R_auth_0981,personne,"arge, peter",corporation_des_bateliers,0.000026,3,41,0.037418,4,0.312977,0.347561
+aves_aa_4R_auth_0982,personne,"riffe, jerge",corporation_des_sauniers,0.000026,3,41,0.037418,4,0.312977,0.347561
+aves_aa_4R_auth_0983,personne,"schultheiss, martin",corporation_des_cordonniers,0.000026,3,41,0.037418,4,0.312977,0.347561
+aves_aa_4R_auth_0838,personne,"pfeffinger, bernhart",corporation_des_drapiers,0.000023,3,48,0.111767,4,0.374287,0.408875
+aves_aa_4R_auth_0843,personne,"rebestock, fritsch",corporation_des_jardiniers,0.000023,3,48,0.111767,4,0.374287,0.408875
+aves_aa_4R_auth_0845,personne,"scholle, johanns",corporation_des_maçons,0.000023,3,48,0.111767,4,0.374287,0.408875
+aves_aa_4R_auth_0956,personne,"strubel, symont",corporation_des_charrons,0.000023,3,40,0.051915,4,0.361632,0.395241
+aves_aa_4R_auth_0937,personne,"ingolt, heinrich",corporation_des_marchands,0.000022,3,40,0.055493,4,0.33232,0.369495
+aves_aa_4R_auth_0941,personne,"ebel, jerge",corporation_des_pêcheurs,0.000022,3,40,0.055493,4,0.33232,0.369495
+aves_aa_4R_auth_0942,personne,"wangen, von, konrat",corporation_des_charrons,0.000022,3,40,0.055493,4,0.33232,0.369495
+aves_aa_4R_auth_0972,personne,"riffe, jeronimus",corporation_des_marchands,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0973,personne,"küller, jacob",corporation_des_drapiers,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0974,personne,"molsheim, von, jacob",corporation_des_marchands_de_grains,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0975,personne,"büre, von, oberlin",corporation_des_orfevres,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0976,personne,"kornman, thoman",corporation_des_pelletiers,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0977,personne,"lume, konrat",corporation_des_tailleurs,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0978,personne,"schwende, johanns",corporation_des_pêcheurs,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0979,personne,"schwende, johanns",corporation_des_pêcheurs,0.000022,3,42,0.035136,4,0.315486,0.349255
+aves_aa_4R_auth_0766,personne,"weipolt, adam",corporation_des_crieurs_et_mesureurs_de_vin,0.000021,2,52,0.168644,3,0.427826,0.457317
+aves_aa_4R_auth_0767,personne,"gisebrecht, jacob",corporation_des_orfevres,0.000021,2,52,0.168644,3,0.427826,0.457317
+aves_aa_4R_auth_0768,personne,"habermüller, claus",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000021,2,52,0.168644,3,0.427826,0.457317
+aves_aa_4R_auth_0746,personne,"schnell, peter",corporation_des_tonneliers,0.000019,2,56,0.186352,4,0.402454,0.435213
+aves_aa_4R_auth_0748,personne,"frankenheim, ludwig",corporation_des_forgerons,0.000019,2,56,0.186352,4,0.402454,0.435213
+aves_aa_4R_auth_0756,personne,"dalheim, von, johanns",corporation_des_tonneliers,0.000019,2,54,0.186196,3,0.428012,0.458164
+aves_aa_4R_auth_0758,personne,"kannengiesser, ludwig",corporation_des_forgerons,0.000019,2,54,0.186196,3,0.428012,0.458164
+aves_aa_4R_auth_0760,personne,"bitsch, konrat",corporation_des_cordonniers,0.000019,2,54,0.186196,3,0.428012,0.458164
+aves_aa_4R_auth_0761,personne,"schoffmeiger, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0.000019,2,54,0.186196,3,0.428012,0.458164
+aves_aa_4R_auth_0770,personne,"kniebes, claus",corporation_des_forgerons,0.000018,2,52,0.164731,4,0.413272,0.444614
+aves_aa_4R_auth_0772,personne,"wirich, claus",corporation_des_jardiniers,0.000018,2,52,0.164731,4,0.413272,0.444614
+aves_aa_4R_auth_0773,personne,"molsheim, von, konrat",corporation_des_barbiers_et_baigneurs,0.000018,2,52,0.164731,4,0.413272,0.444614
+aves_aa_4R_auth_0855,personne,"riffe, johanns",corporation_des_marchands,0.000017,3,48,0.116668,4,0.376579,0.412602
+aves_aa_4R_auth_0859,personne,"mennichin, johanns",corporation_des_pêcheurs,0.000017,3,48,0.116668,4,0.376579,0.412602
+aves_aa_4R_auth_0861,personne,"ruhlmann, johanns",corporation_des_charpentiers,0.000017,3,48,0.116668,4,0.376579,0.412602
+aves_aa_4R_auth_0881,personne,"dahlheim, anthenie",corporation_des_tonneliers,0.000017,3,48,0.107872,4,0.376867,0.412602
+aves_aa_4R_auth_0882,personne,"beger, johanns",corporation_des_gourmets_et_courtiers,0.000017,3,48,0.107872,4,0.376867,0.412602
+aves_aa_4R_auth_0883,personne,"schwencker, heinrich",corporation_des_regrattiers_cordiers_et_fruitiers,0.000017,3,48,0.107872,4,0.376867,0.412602
+aves_aa_4R_auth_0829,personne,"zabern, von, ulrich",corporation_des_gourmets_et_courtiers,0.000016,2,48,0.139781,3,0.414316,0.443598
+aves_aa_4R_auth_0831,personne,"wolffach, konrat",corporation_des_cordonniers,0.000016,2,48,0.139781,3,0.414316,0.443598
+aves_aa_4R_auth_0833,personne,"sivester, johanns",corporation_des_maçons,0.000016,2,48,0.139781,3,0.414316,0.443598
+aves_aa_4R_auth_0870,personne,"hohenburg, von, götze",corporation_des_drapiers,0.000014,3,48,0.098206,4,0.374429,0.409383
+aves_aa_4R_auth_0871,personne,"frankfurt, von, johanns",corporation_des_orfevres,0.000014,3,48,0.098206,4,0.374429,0.409383
+aves_aa_4R_auth_0873,personne,"müller, heinrich",corporation_des_tailleurs,0.000014,3,48,0.098206,4,0.374429,0.409383
+aves_aa_4R_auth_0878,personne,"wile, von, konrat",corporation_des_tisserands,0.000014,3,48,0.098206,4,0.374429,0.409383
+aves_aa_4R_auth_0879,personne,"morsmünster, von, peter",corporation_des_charpentiers,0.000014,3,48,0.098206,4,0.374429,0.409383
+aves_aa_4R_auth_0731,personne,"ehenheim, von, veltin",corporation_des_drapiers,0.000013,2,56,0.183143,3,0.417834,0.448679
+aves_aa_4R_auth_0732,personne,"ziegler, claus",corporation_des_maçons,0.000013,2,56,0.183143,3,0.417834,0.448679
+aves_aa_4R_auth_0733,personne,"hennenberg, diebolt",corporation_des_cordonniers,0.000013,2,56,0.183143,3,0.417834,0.448679
+aves_aa_4R_auth_0734,personne,"schiesel, peter",corporation_des_barbiers_et_baigneurs,0.000013,2,56,0.183143,3,0.417834,0.448679
+aves_aa_4R_auth_0736,personne,"dalheim, von, johanns",corporation_des_gourmets_et_courtiers,0.000013,2,56,0.183143,3,0.417834,0.448679
+aves_aa_4R_auth_0737,personne,"klige, konrat",corporation_des_constructeurs_de_bateaux,0.000013,2,56,0.183143,3,0.417834,0.448679
+aves_aa_4R_auth_0852,personne,"meiger, johanns",corporation_des_barbiers_et_baigneurs,0.000013,3,48,0.115173,4,0.376291,0.410569
+aves_aa_4R_auth_0854,personne,"molsheim, von, peter",corporation_des_maçons,0.000013,3,48,0.115173,4,0.376291,0.410569
+aves_aa_4R_auth_0810,personne,"sarburg, von, peter",corporation_des_pelletiers,0.000012,2,52,0.147494,4,0.377156,0.415904
+aves_aa_4R_auth_0813,personne,"lehmann, martin",corporation_des_pêcheurs,0.000012,2,52,0.147494,4,0.377156,0.415904
+aves_aa_4R_auth_0814,personne,"spiess, hilarius",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0.000012,2,52,0.147494,4,0.377156,0.415904
+aves_aa_4R_auth_0846,personne,"andlau, von, peter",corporation_des_orfevres,0.000012,3,48,0.123968,4,0.374714,0.409383
+aves_aa_4R_auth_0847,personne,"duntzenheim, claus",corporation_des_tanneurs,0.000012,3,48,0.123968,4,0.374714,0.409383
+aves_aa_4R_auth_0851,personne,"peter, mathis",corporation_des_pêcheurs,0.000012,3,48,0.123968,4,0.374714,0.409383
+aves_aa_4R_auth_0886,personne,"burggraf, wirich",corporation_des_pêcheurs,0.000012,3,48,0.107665,4,0.368677,0.405742
+aves_aa_4R_auth_0888,personne,"mornhinweg, johanns",corporation_des_tisserands,0.000012,3,48,0.107665,4,0.368677,0.405742
+aves_aa_4R_auth_0907,personne,"meiger, johanns",corporation_des_cabaretiers,0.000012,3,40,0.07241,4,0.371742,0.404133
+aves_aa_4R_auth_0908,personne,"renner, peter",corporation_des_drapiers,0.000012,3,40,0.07241,4,0.371742,0.404133
+aves_aa_4R_auth_0909,personne,"pfutzer, claus",corporation_des_pelletiers,0.000012,3,40,0.07241,4,0.371742,0.404133
+aves_aa_4R_auth_0910,personne,"hug, peter",corporation_des_tailleurs,0.000012,3,40,0.07241,4,0.371742,0.404133
+aves_aa_4R_auth_0894,personne,"duntzenheim, von, konrat",corporation_des_cabaretiers,0.000011,3,40,0.071188,4,0.336525,0.373899
+aves_aa_4R_auth_0896,personne,"pfarrer, heinrich",corporation_des_orfevres,0.000011,3,40,0.071188,4,0.336525,0.373899
+aves_aa_4R_auth_0919,personne,"burnherr, arbogast",corporation_des_pelletiers,0.000011,3,40,0.067698,4,0.332995,0.370173
+aves_aa_4R_auth_0920,personne,"volk, diebolt",corporation_des_pêcheurs,0.000011,3,40,0.067698,4,0.332995,0.370173
+aves_aa_4R_auth_0925,personne,"brümath, von, johanns",corporation_des_drapiers,0.000008,3,40,0.070076,4,0.363771,0.397358
+aves_aa_4R_auth_0930,personne,"krebs, peter",corporation_des_charrons,0.000008,3,40,0.070076,4,0.363771,0.397358
+aves_aa_4R_auth_0002,personne,"colmar, von, hannemann",corporation_des_marchands,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0003,personne,"gerung,",corporation_des_boulangers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0004,personne,"rotschilt, wilhelm",corporation_des_bouchers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0006,personne,"schott, claus",corporation_des_tonneliers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0008,personne,sigel,corporation_des_cabaretiers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0010,personne,andres,corporation_des_forgerons,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0011,personne,"gumbrecht, von, diebolt",corporation_des_tailleurs,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0012,personne,"boppe, küntz",corporation_des_bateliers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0013,personne,"tummeler, dietrich",corporation_des_charpentiers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0019,personne,"nattener, andres",corporation_des_jardiniers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0021,personne,heintz,corporation_des_barbiers_et_baigneurs,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0023,personne,"ingenheim, von, claus",corporation_des_tisserands,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0026,personne,"hagenau, von, peter",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,28,0.055428,5,0.36648,0.402304
+aves_aa_4R_auth_0035,personne,"langneffe, johanns",corporation_des_tonneliers,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0040,personne,heilmann,corporation_des_tailleurs,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0042,personne,"seelose, heintz",corporation_des_charpentiers,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0044,personne,"beildeck, fritsch",corporation_des_crieurs_et_mesureurs_de_vin,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0045,personne,christian,corporation_des_cordonniers,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0046,personne,"henneckin, claus",corporation_des_orfevres,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0047,personne,"rhinau, andres",corporation_des_marchands_de_grains,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0048,personne,"stacheler, johanns",corporation_des_jardiniers,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0049,personne,stoffelus,corporation_des_pêcheurs,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0054,personne,"wigang,",corporation_des_charrons,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0055,personne,"kleinhanns, diethmar",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0056,personne,"kornbick, claus",corporation_des_coltineurs_de_tonneaux,0,0,28,0.062078,5,0.363905,0.399001
+aves_aa_4R_auth_0060,personne,küntz,corporation_des_boulangers,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0061,personne,"färber, johanns",corporation_des_drapiers,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0062,personne,"heinrich, johanns",corporation_des_tonneliers,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0063,personne,"stumpf, heintz",corporation_des_tanneurs,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0064,personne,"bergheim, johanns",corporation_des_maçons,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0068,personne,"schultheiss, küntz",corporation_des_cordonniers,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0069,personne,"klammann, andres",corporation_des_orfevres,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0070,personne,"rickersheim, küntz",corporation_des_marchands_de_grains,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0071,personne,"bock, johanns",corporation_des_jardiniers,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0072,personne,"lamb, hensel",corporation_des_pêcheurs,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0077,personne,"steck, johanns",corporation_des_charrons,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0080,personne,"altheim, claus",corporation_des_constructeurs_de_bateaux,0,0,28,0.052245,5,0.354978,0.388753
+aves_aa_4R_auth_0084,personne,"armbruster, obrecht",corporation_des_drapiers,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0085,personne,"küntzlin, diethmar",corporation_des_tonneliers,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0086,personne,"kirwiller, von, gerbot",corporation_des_tanneurs,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0089,personne,"lorer, hermann",corporation_des_forgerons,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0090,personne,"miltenberg, johanns",corporation_des_tailleurs,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0091,personne,"vogt, johanns",corporation_des_charpentiers,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0092,personne,"beildeck, jacob",corporation_des_crieurs_et_mesureurs_de_vin,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0094,personne,"waltenheim, johanns",corporation_des_orfevres,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0100,personne,"wecker, jeckel",corporation_des_tisserands,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0101,personne,"nesselbach, erhart",corporation_des_gourmets_et_courtiers,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0103,personne,"altheim, jacob",corporation_des_constructeurs_de_bateaux,0,0,28,0.0696,4,0.395022,0.426914
+aves_aa_4R_auth_0104,personne,"friedel, lauwel",corporation_des_bouchers,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0105,personne,"wingersheim, peter",corporation_des_drapiers,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0106,personne,"kammerer, johanns",corporation_des_tonneliers,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0108,personne,"lorer, johanns",corporation_des_forgerons,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0109,personne,"menniger, johanns",corporation_des_tailleurs,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0110,personne,"kacheler, johanns",corporation_des_bateliers,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0111,personne,"mönchelin, johanns",corporation_des_pelletiers,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0112,personne,"oberkirch, von, lauwel",corporation_des_charpentiers,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0118,personne,"girbaden, hensel",corporation_des_gourmets_et_courtiers,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0119,personne,reinhart,corporation_des_charrons,0,0,28,0.065938,5,0.367576,0.40332
+aves_aa_4R_auth_0124,personne,"weissgerber, fritsch",corporation_des_tanneurs,0,0,28,0.086376,4,0.392658,0.426829
+aves_aa_4R_auth_0126,personne,"hagenau, von, erhart",corporation_des_maçons,0,0,28,0.086376,4,0.392658,0.426829
+aves_aa_4R_auth_0127,personne,"stegemann, eberhart",corporation_des_forgerons,0,0,28,0.086376,4,0.392658,0.426829
+aves_aa_4R_auth_0132,personne,"wintzler, peter",corporation_des_jardiniers,0,0,28,0.086376,4,0.392658,0.426829
+aves_aa_4R_auth_0134,personne,"messerer, claus",corporation_des_sauniers,0,0,28,0.086376,4,0.392658,0.426829
+aves_aa_4R_auth_0135,personne,"frei, uhlmann",corporation_des_tisserands,0,0,28,0.086376,4,0.392658,0.426829
+aves_aa_4R_auth_0136,personne,"fritschmann, hug",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,28,0.086376,4,0.392658,0.426829
+aves_aa_4R_auth_0138,personne,"gerter, küntz",corporation_des_boulangers,0,0,27,0.074712,4,0.398058,0.427337
+aves_aa_4R_auth_0141,personne,"kindelin, mewus",corporation_des_maçons,0,0,27,0.074712,4,0.398058,0.427337
+aves_aa_4R_auth_0147,personne,"grossstein, johanns",corporation_des_jardiniers,0,0,27,0.074712,4,0.398058,0.427337
+aves_aa_4R_auth_0148,personne,"stollhofen, hensel",corporation_des_barbiers_et_baigneurs,0,0,27,0.074712,4,0.398058,0.427337
+aves_aa_4R_auth_0150,personne,"gosse, peter",corporation_des_charrons,0,0,27,0.074712,4,0.398058,0.427337
+aves_aa_4R_auth_0151,personne,"seiler, peter",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,27,0.074712,4,0.398058,0.427337
+aves_aa_4R_auth_0152,personne,"dürningen, von, johanns",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,27,0.074712,4,0.398058,0.427337
+aves_aa_4R_auth_0153,personne,"leimer, heinrich",corporation_des_marchands,0,0,28,0.071795,4,0.396295,0.426067
+aves_aa_4R_auth_0155,personne,"bergheim, von, johanns",corporation_des_maçons,0,0,28,0.071795,4,0.396295,0.426067
+aves_aa_4R_auth_0156,personne,"gast, ludwig",corporation_des_forgerons,0,0,28,0.071795,4,0.396295,0.426067
+aves_aa_4R_auth_0159,personne,"vogt, johanns",corporation_des_pelletiers,0,0,28,0.071795,4,0.396295,0.426067
+aves_aa_4R_auth_0162,personne,"rotenschilt, zum, wolff",corporation_des_marchands_de_grains,0,0,28,0.071795,4,0.396295,0.426067
+aves_aa_4R_auth_0164,personne,"marlen, peter",corporation_des_tisserands,0,0,28,0.071795,4,0.396295,0.426067
+aves_aa_4R_auth_0168,personne,"nordhausen, johanns",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.071795,4,0.396295,0.426067
+aves_aa_4R_auth_0171,personne,"michelin, johanns",corporation_des_pelletiers,0,0,28,0.102903,4,0.407453,0.437331
+aves_aa_4R_auth_0172,personne,"beildeck, jeckel",corporation_des_crieurs_et_mesureurs_de_vin,0,0,28,0.102903,4,0.407453,0.437331
+aves_aa_4R_auth_0173,personne,"düpigheim, johanns",corporation_des_jardiniers,0,0,28,0.102903,4,0.407453,0.437331
+aves_aa_4R_auth_0175,personne,johanns,corporation_des_barbiers_et_baigneurs,0,0,28,0.102903,4,0.407453,0.437331
+aves_aa_4R_auth_0178,personne,"dürninger, johanns",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.102903,4,0.407453,0.437331
+aves_aa_4R_auth_0179,personne,"herrhorn, zum, thoman",corporation_des_tonneliers,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0180,personne,"mommenheim, von, johanns",corporation_des_cabaretiers,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0183,personne,"mahler, hermann",corporation_des_orfevres,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0184,personne,"bere, hensel",corporation_des_marchands_de_grains,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0185,personne,"hertzog, johanns",corporation_des_jardiniers,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0186,personne,"gauch, johanns",corporation_des_pêcheurs,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0187,personne,"scherer, rudolff",corporation_des_barbiers_et_baigneurs,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0189,personne,"wachsmann, zum, fritsch",corporation_des_gourmets_et_courtiers,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0190,personne,"dreitzehn, reimbolt",corporation_des_charrons,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0191,personne,"burkhart, riffe",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,28,0.089968,4,0.405439,0.437754
+aves_aa_4R_auth_0197,personne,"ammeister, johanns",corporation_des_maçons,0,0,28,0.075932,5,0.373576,0.409756
+aves_aa_4R_auth_0199,personne,"schwert, johanns",corporation_des_tailleurs,0,0,28,0.075932,5,0.373576,0.409756
+aves_aa_4R_auth_0202,personne,"merckwiller, küntz",corporation_des_crieurs_et_mesureurs_de_vin,0,0,28,0.075932,5,0.373576,0.409756
+aves_aa_4R_auth_0209,personne,"spitznagel, johanns",corporation_des_constructeurs_de_bateaux,0,0,28,0.075932,5,0.373576,0.409756
+aves_aa_4R_auth_0210,personne,"wibolsheim, johanns",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.075932,5,0.373576,0.409756
+aves_aa_4R_auth_0211,personne,"hermann, jacob",corporation_des_boulangers,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0212,personne,"berse, johanns",corporation_des_bouchers,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0214,personne,"mommenheim, johanns",corporation_des_cabaretiers,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0215,personne,"kacheler, anthenie",corporation_des_maçons,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0216,personne,"armbruster, johanns",corporation_des_bateliers,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0218,personne,"kenen, zur, jeckel",corporation_des_crieurs_et_mesureurs_de_vin,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0220,personne,"zender, johanns",corporation_des_jardiniers,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0221,personne,"scherer, walther",corporation_des_barbiers_et_baigneurs,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0225,personne,"tuchscherer, ottemann",corporation_des_drapiers,0,0,28,0.083108,4,0.403444,0.433266
+aves_aa_4R_auth_0226,personne,"voltz,",corporation_des_marchands,0,0,27,0.092365,4,0.413967,0.443259
+aves_aa_4R_auth_0227,personne,"willgottheim, johanns",corporation_des_tonneliers,0,0,27,0.092365,4,0.413967,0.443259
+aves_aa_4R_auth_0230,personne,"jeckelin, symont",corporation_des_charpentiers,0,0,27,0.092365,4,0.413967,0.443259
+aves_aa_4R_auth_0231,personne,"rawensburg, johanns",corporation_des_cordonniers,0,0,27,0.092365,4,0.413967,0.443259
+aves_aa_4R_auth_0233,personne,"brüchelin, claus",corporation_des_pêcheurs,0,0,27,0.092365,4,0.413967,0.443259
+aves_aa_4R_auth_0235,personne,"wurant, rudolff",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,27,0.092365,4,0.413967,0.443259
+aves_aa_4R_auth_0236,personne,"lampertheim, von, peter",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,27,0.092365,4,0.413967,0.443259
+aves_aa_4R_auth_0238,personne,"nussmann, peter",corporation_des_drapiers,0,0,28,0.08203,5,0.377735,0.414668
+aves_aa_4R_auth_0239,personne,"heimburg, küntz",corporation_des_tonneliers,0,0,28,0.08203,5,0.377735,0.414668
+aves_aa_4R_auth_0241,personne,"dannenfels, johanns",corporation_des_cabaretiers,0,0,28,0.08203,5,0.377735,0.414668
+aves_aa_4R_auth_0246,personne,"bock, ludwig",corporation_des_jardiniers,0,0,28,0.08203,5,0.377735,0.414668
+aves_aa_4R_auth_0249,personne,"kutteltzheim, michel",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.08203,5,0.377735,0.414668
+aves_aa_4R_auth_0251,personne,"rüllin,",corporation_des_marchands,0,0,28,0.088372,5,0.386792,0.425
+aves_aa_4R_auth_0256,personne,"meiger, heinrich",corporation_des_bateliers,0,0,28,0.088372,5,0.386792,0.425
+aves_aa_4R_auth_0260,personne,"ingenheim, küntz",corporation_des_tisserands,0,0,28,0.088372,5,0.386792,0.425
+aves_aa_4R_auth_0261,personne,"dolde, bechtolt",corporation_des_gourmets_et_courtiers,0,0,28,0.088372,5,0.386792,0.425
+aves_aa_4R_auth_0262,personne,"wernher, claus",corporation_des_charrons,0,0,28,0.088372,5,0.386792,0.425
+aves_aa_4R_auth_0263,personne,"giger, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,28,0.088372,5,0.386792,0.425
+aves_aa_4R_auth_0265,personne,"gerter, konrat",corporation_des_boulangers,0,0,28,0.092344,4,0.431768,0.456894
+aves_aa_4R_auth_0266,personne,"kerling, claus",corporation_des_bouchers,0,0,28,0.092344,4,0.431768,0.456894
+aves_aa_4R_auth_0269,personne,"schnipper, claus",corporation_des_forgerons,0,0,28,0.092344,4,0.431768,0.456894
+aves_aa_4R_auth_0271,personne,"siffermann, riffe",corporation_des_bateliers,0,0,28,0.092344,4,0.431768,0.456894
+aves_aa_4R_auth_0274,personne,"müntzenberg, heinrich",corporation_des_cordonniers,0,0,28,0.092344,4,0.431768,0.456894
+aves_aa_4R_auth_0276,personne,"schluch, im, johanns",corporation_des_barbiers_et_baigneurs,0,0,28,0.092344,4,0.431768,0.456894
+aves_aa_4R_auth_0277,personne,"nothalden, von, heinrich",corporation_des_gourmets_et_courtiers,0,0,28,0.092344,4,0.431768,0.456894
+aves_aa_4R_auth_0280,personne,"lampertheim, von, johanns",corporation_des_tonneliers,0,0,29,0.09249,5,0.381248,0.419072
+aves_aa_4R_auth_0282,personne,"dossenheim, von, hug",corporation_des_cabaretiers,0,0,29,0.09249,5,0.381248,0.419072
+aves_aa_4R_auth_0284,personne,"waldeck, konrat",corporation_des_tailleurs,0,0,29,0.09249,5,0.381248,0.419072
+aves_aa_4R_auth_0285,personne,"schnell, johanns",corporation_des_charpentiers,0,0,29,0.09249,5,0.381248,0.419072
+aves_aa_4R_auth_0286,personne,"risser, claus",corporation_des_orfevres,0,0,29,0.09249,5,0.381248,0.419072
+aves_aa_4R_auth_0287,personne,"peter, johanns",corporation_des_pêcheurs,0,0,29,0.09249,5,0.381248,0.419072
+aves_aa_4R_auth_0288,personne,"bader, johanns",corporation_des_barbiers_et_baigneurs,0,0,29,0.09249,5,0.381248,0.419072
+aves_aa_4R_auth_0292,personne,"gerbot, küntz",corporation_des_tanneurs,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0293,personne,"honau, von, claus",corporation_des_tailleurs,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0294,personne,"spirer,",corporation_des_pelletiers,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0295,personne,adam,corporation_des_charpentiers,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0296,personne,"pfluger, heintz",corporation_des_cordonniers,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0299,personne,rudolff,corporation_des_barbiers_et_baigneurs,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0302,personne,"kride, heintz",corporation_des_constructeurs_de_bateaux,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0303,personne,"krapp, johanns",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.093919,4,0.407622,0.4375
+aves_aa_4R_auth_0304,personne,"pfettisheim, johanns",corporation_des_marchands,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0305,personne,"eckboltzheim, von, claus",corporation_des_cabaretiers,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0306,personne,"leistmann,",corporation_des_tailleurs,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0307,personne,"lang, fritsch",corporation_des_charpentiers,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0309,personne,"pfluger, oberlin",corporation_des_cordonniers,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0312,personne,"risser, konrat",corporation_des_sauniers,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0313,personne,"ingenheim, konrat",corporation_des_tisserands,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0314,personne,"kutteltzheim, michel",corporation_des_gourmets_et_courtiers,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0315,personne,"giger, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,28,0.093465,5,0.385731,0.423814
+aves_aa_4R_auth_0316,personne,"meiger, claus",corporation_des_drapiers,0,0,28,0.101607,4,0.405272,0.438516
+aves_aa_4R_auth_0319,personne,"lauwelin, ruhlemann",corporation_des_maçons,0,0,28,0.101607,4,0.405272,0.438516
+aves_aa_4R_auth_0320,personne,"bülle, johanns",corporation_des_bateliers,0,0,28,0.101607,4,0.405272,0.438516
+aves_aa_4R_auth_0321,personne,"hugelin,",corporation_des_charpentiers,0,0,28,0.101607,4,0.405272,0.438516
+aves_aa_4R_auth_0322,personne,"stacheler, claus",corporation_des_marchands_de_grains,0,0,28,0.101607,4,0.405272,0.438516
+aves_aa_4R_auth_0323,personne,"dreitzehn, diebolt",corporation_des_jardiniers,0,0,28,0.101607,4,0.405272,0.438516
+aves_aa_4R_auth_0327,personne,"landolff, jacob",corporation_des_marchands,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0328,personne,"scheubelin, johanns",corporation_des_boulangers,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0330,personne,"willgottheim, von, johanns",corporation_des_tonneliers,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0331,personne,"dentener, johanns",corporation_des_cabaretiers,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0334,personne,"ettenheim, von, claus",corporation_des_bateliers,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0338,personne,"nüffer, behremann",corporation_des_marchands_de_grains,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0339,personne,"spete, claus",corporation_des_jardiniers,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0340,personne,oswalt,corporation_des_barbiers_et_baigneurs,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0341,personne,"schmerwer, andres",corporation_des_sauniers,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0342,personne,"lichtenberg, heinrich",corporation_des_tisserands,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0343,personne,"harrer, oberlin",corporation_des_gourmets_et_courtiers,0,1,28,0.086591,4,0.414665,0.443513
+aves_aa_4R_auth_0349,personne,"eckboltzheim, von, johanns",corporation_des_maçons,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0350,personne,"welsch, lienhart",corporation_des_forgerons,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0351,personne,"phye, heintz",corporation_des_bateliers,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0352,personne,"bergheim, von, claus",corporation_des_charpentiers,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0354,personne,"gotzgans, johanns",corporation_des_orfevres,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0355,personne,"frankenheim, von, ottemann",corporation_des_marchands_de_grains,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0356,personne,,corporation_des_barbiers_et_baigneurs,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0359,personne,konrat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.125079,4,0.428012,0.456047
+aves_aa_4R_auth_0365,personne,"hirtzfelder, heinrich",corporation_des_pelletiers,0,0,28,0.114702,4,0.422136,0.450627
+aves_aa_4R_auth_0368,personne,marx,corporation_des_barbiers_et_baigneurs,0,0,28,0.114702,4,0.422136,0.450627
+aves_aa_4R_auth_0370,personne,"kint, heintz",corporation_des_constructeurs_de_bateaux,0,0,28,0.114702,4,0.422136,0.450627
+aves_aa_4R_auth_0377,personne,"scheubelin, johanns",corporation_des_charpentiers,0,0,28,0.136105,4,0.462841,0.482808
+aves_aa_4R_auth_0378,personne,"grünwalt, jacob",corporation_des_crieurs_et_mesureurs_de_vin,0,0,28,0.136105,4,0.462841,0.482808
+aves_aa_4R_auth_0379,personne,"neuwiller, johanns",corporation_des_cordonniers,0,0,28,0.136105,4,0.462841,0.482808
+aves_aa_4R_auth_0380,personne,"armbruster, johanns",corporation_des_orfevres,0,0,28,0.136105,4,0.462841,0.482808
+aves_aa_4R_auth_0382,personne,"giger, johanns",corporation_des_charrons,0,0,28,0.136105,4,0.462841,0.482808
+aves_aa_4R_auth_0383,personne,"heiligenstein, von, behremann",[nan],0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0384,personne,"bauman, walther",[nan],0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0387,personne,"rotschilt, wilhelm",corporation_des_bouchers,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0388,personne,"bischoff, johanns",corporation_des_tonneliers,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0389,personne,"gerbot, konrat",corporation_des_tanneurs,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0390,personne,"siffermann,",corporation_des_maçons,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0394,personne,"egen, claus",corporation_des_jardiniers,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0396,personne,"rohrer, peter",corporation_des_barbiers_et_baigneurs,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0398,personne,"hochfelden, von, walther",corporation_des_gourmets_et_courtiers,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0399,personne,"voltz, küntz",corporation_des_coltineurs_de_tonneaux,0,1,32,0.122708,4,0.433671,0.460874
+aves_aa_4R_auth_0401,personne,"ruhlmann, claus",corporation_des_maçons,0,0,28,0.120446,4,0.429882,0.45647
+aves_aa_4R_auth_0408,personne,"peter,",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.120446,4,0.429882,0.45647
+aves_aa_4R_auth_0409,personne,"voltz, peter",corporation_des_marchands,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0411,personne,"wangen, von, johanns",corporation_des_drapiers,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0415,personne,"regisheim, claus",corporation_des_cordonniers,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0416,personne,"hüter, marx",corporation_des_orfevres,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0417,personne,"bader, oswalt",corporation_des_barbiers_et_baigneurs,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0418,personne,walther,corporation_des_sauniers,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0419,personne,"schindeler, küntz",corporation_des_gourmets_et_courtiers,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0421,personne,"bergheim, von, hug",corporation_des_regrattiers_cordiers_et_fruitiers,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0422,personne,"altheim, küntz",corporation_des_constructeurs_de_bateaux,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0423,personne,"müller, thoman",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,0,28,0.099941,4,0.423044,0.450034
+aves_aa_4R_auth_0424,personne,"happmacher, jacob",corporation_des_marchands,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0425,personne,"leimer, heinrich",corporation_des_drapiers,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0427,personne,"dreitzehn, reimbolt",corporation_des_cabaretiers,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0428,personne,"morsmünster, von, claus",corporation_des_maçons,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0429,personne,"gerlach,",corporation_des_forgerons,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0430,personne,"diener, claus",corporation_des_tailleurs,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0431,personne,"dusche, fritsch",corporation_des_charpentiers,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0433,personne,"hühnerer, küntz",corporation_des_marchands_de_grains,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0434,personne,"henneckin, johanns",corporation_des_jardiniers,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0437,personne,"messner, wernher",corporation_des_sauniers,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0439,personne,"dreitzehn, jerge",corporation_des_charrons,0,1,28,0.096255,4,0.418545,0.447239
+aves_aa_4R_auth_0442,personne,"seltz, von, johanns",corporation_des_marchands,0,1,28,0.136381,4,0.438503,0.462822
+aves_aa_4R_auth_0443,personne,"berse, von, lexius",corporation_des_bouchers,0,1,28,0.136381,4,0.438503,0.462822
+aves_aa_4R_auth_0447,personne,sifrit,corporation_des_charpentiers,0,1,28,0.136381,4,0.438503,0.462822
+aves_aa_4R_auth_0448,personne,"brant, lauwel",corporation_des_crieurs_et_mesureurs_de_vin,0,1,28,0.136381,4,0.438503,0.462822
+aves_aa_4R_auth_0451,personne,"haffener, sixt",corporation_des_gourmets_et_courtiers,0,1,28,0.136381,4,0.438503,0.462822
+aves_aa_4R_auth_0454,personne,"bitsch, johanns",corporation_des_tanneurs,0,0,28,0.122444,4,0.437333,0.463161
+aves_aa_4R_auth_0456,personne,"weinbeck, heinrich",corporation_des_tailleurs,0,0,28,0.122444,4,0.437333,0.463161
+aves_aa_4R_auth_0457,personne,"desche, heinrich",corporation_des_bateliers,0,0,28,0.122444,4,0.437333,0.463161
+aves_aa_4R_auth_0458,personne,"kiebel, johanns",corporation_des_orfevres,0,0,28,0.122444,4,0.437333,0.463161
+aves_aa_4R_auth_0459,personne,"speich, andres",corporation_des_marchands_de_grains,0,0,28,0.122444,4,0.437333,0.463161
+aves_aa_4R_auth_0461,personne,konrat,corporation_des_barbiers_et_baigneurs,0,0,28,0.122444,4,0.437333,0.463161
+aves_aa_4R_auth_0462,personne,"binnting, walther",corporation_des_gourmets_et_courtiers,0,0,28,0.122444,4,0.437333,0.463161
+aves_aa_4R_auth_0465,personne,"dahlheim, heinrich",corporation_des_tonneliers,0,1,28,0.126074,4,0.41908,0.447747
+aves_aa_4R_auth_0466,personne,"bergheim, von, johanns",corporation_des_maçons,0,1,28,0.126074,4,0.41908,0.447747
+aves_aa_4R_auth_0467,personne,"leutesheim, johanns",corporation_des_bateliers,0,1,28,0.126074,4,0.41908,0.447747
+aves_aa_4R_auth_0468,personne,"hüter, johanns-marx",corporation_des_orfevres,0,1,28,0.126074,4,0.41908,0.447747
+aves_aa_4R_auth_0469,personne,"wolff, johanns",corporation_des_barbiers_et_baigneurs,0,1,28,0.126074,4,0.41908,0.447747
+aves_aa_4R_auth_0471,personne,"barpfennig, marx",corporation_des_marchands,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0472,personne,"lamperter, johanns",corporation_des_tonneliers,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0473,personne,"kücheler, claus",corporation_des_tanneurs,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0475,personne,"wild,",corporation_des_maçons,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0477,personne,"diebolt, peter",corporation_des_pêcheurs,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0478,personne,"schüffel, heintz",corporation_des_barbiers_et_baigneurs,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0479,personne,"girbaden, johanns",corporation_des_tisserands,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0481,personne,"lang, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0483,personne,"kress, konrat",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,1,28,0.130443,4,0.423044,0.451474
+aves_aa_4R_auth_0486,personne,"altheim,",corporation_des_constructeurs_de_bateaux,0,1,28,0.135694,4,0.436557,0.462483
+aves_aa_4R_auth_0487,personne,"schlempe, heinrich",corporation_des_marchands,0,1,28,0.113435,4,0.424504,0.452829
+aves_aa_4R_auth_0489,personne,"lang, claus",corporation_des_tanneurs,0,1,28,0.113435,4,0.424504,0.452829
+aves_aa_4R_auth_0491,personne,"wile, von, sifrit",corporation_des_tailleurs,0,1,28,0.113435,4,0.424504,0.452829
+aves_aa_4R_auth_0496,personne,"hebnagel, johanns",corporation_des_tisserands,0,1,28,0.113435,4,0.424504,0.452829
+aves_aa_4R_auth_0497,personne,"haffener, jacob",corporation_des_gourmets_et_courtiers,0,1,28,0.113435,4,0.424504,0.452829
+aves_aa_4R_auth_0499,personne,"fuchs, oberlin",corporation_des_coltineurs_de_tonneaux,0,1,28,0.113435,4,0.424504,0.452829
+aves_aa_4R_auth_0500,personne,ulrich,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,1,28,0.113435,4,0.424504,0.452829
+aves_aa_4R_auth_0502,personne,"bösch, bechtolt",corporation_des_maçons,0,1,28,0.141662,4,0.44545,0.46875
+aves_aa_4R_auth_0503,personne,"flöss, heinrich",corporation_des_cordonniers,0,1,28,0.141662,4,0.44545,0.46875
+aves_aa_4R_auth_0506,personne,michel,corporation_des_barbiers_et_baigneurs,0,1,28,0.141662,4,0.44545,0.46875
+aves_aa_4R_auth_0507,personne,"rhinau, johanns",corporation_des_tisserands,0,1,28,0.141662,4,0.44545,0.46875
+aves_aa_4R_auth_0509,personne,"brechter, bechtolt",corporation_des_drapiers,0,1,28,0.130542,4,0.432718,0.459096
+aves_aa_4R_auth_0511,personne,götze,corporation_des_pelletiers,0,1,28,0.130542,4,0.432718,0.459096
+aves_aa_4R_auth_0517,personne,"sturm, erhart",corporation_des_regrattiers_cordiers_et_fruitiers,0,1,28,0.130542,4,0.432718,0.459096
+aves_aa_4R_auth_0518,personne,sigel,corporation_des_coltineurs_de_tonneaux,0,1,28,0.130542,4,0.432718,0.459096
+aves_aa_4R_auth_0519,personne,"herrenstein, johanns",corporation_des_constructeurs_de_bateaux,0,1,28,0.130542,4,0.432718,0.459096
+aves_aa_4R_auth_0520,personne,jacob,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,1,28,0.130542,4,0.432718,0.459096
+aves_aa_4R_auth_0522,personne,"bösch, friedrich",corporation_des_maçons,0,1,28,0.131256,4,0.428198,0.454099
+aves_aa_4R_auth_0525,personne,"schnabel, heinrich",corporation_des_orfevres,0,1,28,0.131256,4,0.428198,0.454099
+aves_aa_4R_auth_0526,personne,"lamprecht, peter",corporation_des_jardiniers,0,1,28,0.131256,4,0.428198,0.454099
+aves_aa_4R_auth_0527,personne,"oberkirch, von, johanns",corporation_des_barbiers_et_baigneurs,0,1,28,0.131256,4,0.428198,0.454099
+aves_aa_4R_auth_0532,personne,"ernoltzheim, von, claus",corporation_des_regrattiers_cordiers_et_fruitiers,0,1,28,0.131256,4,0.428198,0.454099
+aves_aa_4R_auth_0534,personne,"ettenheim, von, mathis",corporation_des_boulangers,0,1,28,0.137024,4,0.422862,0.45105
+aves_aa_4R_auth_0536,personne,"berner, frantz",corporation_des_bateliers,0,1,28,0.137024,4,0.422862,0.45105
+aves_aa_4R_auth_0538,personne,"steinstrasse, an der, khurin",corporation_des_jardiniers,0,1,28,0.137024,4,0.422862,0.45105
+aves_aa_4R_auth_0543,personne,"klein, johanns",corporation_des_constructeurs_de_bateaux,0,1,28,0.137024,4,0.422862,0.45105
+aves_aa_4R_auth_0547,personne,"lahr, von, mathis",corporation_des_cordonniers,0,1,28,0.145676,4,0.446664,0.469766
+aves_aa_4R_auth_0548,personne,"ott, johanns",corporation_des_orfevres,0,1,28,0.145676,4,0.446664,0.469766
+aves_aa_4R_auth_0550,personne,"fachmann, claus",corporation_des_pêcheurs,0,1,28,0.145676,4,0.446664,0.469766
+aves_aa_4R_auth_0552,personne,"klaumann, claus",corporation_des_gourmets_et_courtiers,0,1,28,0.145676,4,0.446664,0.469766
+aves_aa_4R_auth_0558,personne,"berse, von, konrat",corporation_des_bouchers,0,1,28,0.129394,4,0.426343,0.45232
+aves_aa_4R_auth_0560,personne,"odratzheim, johanns",corporation_des_drapiers,0,1,28,0.129394,4,0.426343,0.45232
+aves_aa_4R_auth_0561,personne,"issenhausen, von, erhart",corporation_des_tanneurs,0,1,28,0.129394,4,0.426343,0.45232
+aves_aa_4R_auth_0564,personne,"freiburger, jacob",corporation_des_orfevres,0,1,28,0.129394,4,0.426343,0.45232
+aves_aa_4R_auth_0565,personne,"hage, walther",corporation_des_pêcheurs,0,1,28,0.129394,4,0.426343,0.45232
+aves_aa_4R_auth_0567,personne,"schuttern, von, wilhelm",corporation_des_gourmets_et_courtiers,0,1,28,0.129394,4,0.426343,0.45232
+aves_aa_4R_auth_0568,personne,"gemersheim, von, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0,1,28,0.129394,4,0.426343,0.45232
+aves_aa_4R_auth_0572,personne,"schmalriem, adolff",corporation_des_orfevres,0,1,28,0.127826,4,0.419795,0.449018
+aves_aa_4R_auth_0574,personne,"brümath, von, peter",corporation_des_barbiers_et_baigneurs,0,1,28,0.127826,4,0.419795,0.449018
+aves_aa_4R_auth_0576,personne,"hesse, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0,1,28,0.127826,4,0.419795,0.449018
+aves_aa_4R_auth_0578,personne,"happmacher, andres",corporation_des_marchands,0,1,28,0.131842,3,0.435784,0.460366
+aves_aa_4R_auth_0579,personne,"haslach von, mathis",corporation_des_bouchers,0,1,28,0.131842,3,0.435784,0.460366
+aves_aa_4R_auth_0582,personne,"lumbart, stefan",corporation_des_bateliers,0,1,28,0.131842,3,0.435784,0.460366
+aves_aa_4R_auth_0585,personne,andres,corporation_des_barbiers_et_baigneurs,0,1,28,0.131842,3,0.435784,0.460366
+aves_aa_4R_auth_0591,personne,"armbruster, johanns",corporation_des_bateliers,0,1,28,0.142909,3,0.446664,0.469682
+aves_aa_4R_auth_0593,personne,"schlettstadt, von, johanns",corporation_des_orfevres,0,1,28,0.142909,3,0.446664,0.469682
+aves_aa_4R_auth_0594,personne,"sankt-thoman, walther",corporation_des_barbiers_et_baigneurs,0,1,28,0.142909,3,0.446664,0.469682
+aves_aa_4R_auth_0596,personne,"lampertheim, von, ulrich",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,1,28,0.142909,3,0.446664,0.469682
+aves_aa_4R_auth_0597,personne,"barpfennig, rudolff",corporation_des_marchands,0,1,29,0.140901,4,0.425238,0.451643
+aves_aa_4R_auth_0599,personne,"bellheim, von, claus",corporation_des_forgerons,0,1,29,0.140901,4,0.425238,0.451643
+aves_aa_4R_auth_0601,personne,"kriegsheim, claus",corporation_des_marchands_de_grains,0,1,29,0.140901,4,0.425238,0.451643
+aves_aa_4R_auth_0602,personne,"pfaffe, johanns",corporation_des_pêcheurs,0,1,29,0.140901,4,0.425238,0.451643
+aves_aa_4R_auth_0604,personne,johanns,corporation_des_regrattiers_cordiers_et_fruitiers,0,1,29,0.140901,4,0.425238,0.451643
+aves_aa_4R_auth_0606,personne,"sachsen, stefan",corporation_des_marchands,0,1,28,0.127072,3,0.44768,0.470528
+aves_aa_4R_auth_0609,personne,"trüchtersheim, von, eberhart",corporation_des_cabaretiers,0,1,28,0.127072,3,0.44768,0.470528
+aves_aa_4R_auth_0613,personne,"lusche, claus",corporation_des_pêcheurs,0,1,28,0.127072,3,0.44768,0.470528
+aves_aa_4R_auth_0614,personne,"wurtzgarten, johanns",corporation_des_barbiers_et_baigneurs,0,1,28,0.127072,3,0.44768,0.470528
+aves_aa_4R_auth_0616,personne,"bellheim, von, jacob",corporation_des_drapiers,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0617,personne,"schnabel, heinrich",corporation_des_tanneurs,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0619,personne,"ganser, michel",corporation_des_maçons,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0621,personne,"götze, johanns",corporation_des_cordonniers,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0623,personne,khurin,corporation_des_jardiniers,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0624,personne,"mönchelin, bernhart",corporation_des_pêcheurs,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0625,personne,"thann, von, johanns",corporation_des_tisserands,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0626,personne,"klammann, oswalt",corporation_des_gourmets_et_courtiers,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0627,personne,"rhein, zum, johanns",corporation_des_charrons,0,1,28,0.126868,4,0.429507,0.454861
+aves_aa_4R_auth_0630,personne,"erfurt, von, claus",corporation_des_pelletiers,0,2,28,0.139786,3,0.422318,0.448171
+aves_aa_4R_auth_0631,personne,"geispoltzheim, von, wilhelm",corporation_des_charpentiers,0,2,28,0.139786,3,0.422318,0.448171
+aves_aa_4R_auth_0632,personne,"zweibrücken, von, johanns",corporation_des_cordonniers,0,2,28,0.139786,3,0.422318,0.448171
+aves_aa_4R_auth_0635,personne,"sundheim, michel",corporation_des_pêcheurs,0,2,28,0.139786,3,0.422318,0.448171
+aves_aa_4R_auth_0637,personne,"wormser, bernhart",corporation_des_marchands,0,1,28,0.11741,4,0.412233,0.438601
+aves_aa_4R_auth_0640,personne,"hüss, johanns",corporation_des_tailleurs,0,1,28,0.11741,4,0.412233,0.438601
+aves_aa_4R_auth_0641,personne,"doppeler, caspar",corporation_des_bateliers,0,1,28,0.11741,4,0.412233,0.438601
+aves_aa_4R_auth_0643,personne,"löwe, jacob",corporation_des_orfevres,0,1,28,0.11741,4,0.412233,0.438601
+aves_aa_4R_auth_0644,personne,"schiltigheim, von, andres",corporation_des_barbiers_et_baigneurs,0,1,28,0.11741,4,0.412233,0.438601
+aves_aa_4R_auth_0646,personne,"hartung, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0,1,28,0.11741,4,0.412233,0.438601
+aves_aa_4R_auth_0647,personne,"ersam, johanns",corporation_des_constructeurs_de_bateaux,0,1,28,0.11741,4,0.412233,0.438601
+aves_aa_4R_auth_0649,personne,"waldener, jacob",corporation_des_boulangers,0,2,28,0.137691,3,0.419437,0.445461
+aves_aa_4R_auth_0650,personne,"ackerfuss, claus",corporation_des_drapiers,0,2,28,0.137691,3,0.419437,0.445461
+aves_aa_4R_auth_0653,personne,"joham, konrat",corporation_des_cordonniers,0,2,28,0.137691,3,0.419437,0.445461
+aves_aa_4R_auth_0656,personne,"ammeler, ebelin",corporation_des_pêcheurs,0,2,28,0.137691,3,0.419437,0.445461
+aves_aa_4R_auth_0658,personne,"nüger, claus",corporation_des_bouchers,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0661,personne,"doppeler, johanns-jerge",corporation_des_bateliers,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0662,personne,"münster, heinrich",corporation_des_charpentiers,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0663,personne,"wentscher, johanns",corporation_des_cordonniers,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0664,personne,"berner, peter",corporation_des_orfevres,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0666,personne,"bülher, johanns",corporation_des_jardiniers,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0667,personne,"schiltigheim, andres",corporation_des_barbiers_et_baigneurs,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0668,personne,"ostertag, völtz",corporation_des_sauniers,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0669,personne,"neuenburg, von der, johanns",corporation_des_charrons,0,1,28,0.108832,3,0.411199,0.4375
+aves_aa_4R_auth_0670,personne,"frank, johanns",corporation_des_boulangers,0,2,28,0.114372,4,0.395339,0.421663
+aves_aa_4R_auth_0672,personne,"odratzheim, von, johanns",corporation_des_drapiers,0,2,28,0.114372,4,0.395339,0.421663
+aves_aa_4R_auth_0674,personne,"barpfennig, rudolff",corporation_des_cabaretiers,0,2,28,0.114372,4,0.395339,0.421663
+aves_aa_4R_auth_0675,personne,"messerschmit, johanns-erhart",corporation_des_forgerons,0,2,28,0.114372,4,0.395339,0.421663
+aves_aa_4R_auth_0677,personne,"lohel, burkhart",corporation_des_cordonniers,0,2,28,0.114372,4,0.395339,0.421663
+aves_aa_4R_auth_0679,personne,"wolff, jerge",corporation_des_barbiers_et_baigneurs,0,2,28,0.114372,4,0.395339,0.421663
+aves_aa_4R_auth_0680,personne,"gengenbach, von, claus",corporation_des_sauniers,0,2,28,0.114372,4,0.395339,0.421663
+aves_aa_4R_auth_0681,personne,"nordhausen, von, johanns",corporation_des_marchands,0,2,28,0.132881,3,0.419437,0.445461
+aves_aa_4R_auth_0683,personne,"vetter,",corporation_des_charpentiers,0,2,28,0.132881,3,0.419437,0.445461
+aves_aa_4R_auth_0685,personne,"lahr, von, johanns",corporation_des_cordonniers,0,2,28,0.132881,3,0.419437,0.445461
+aves_aa_4R_auth_0686,personne,"lamb, bechtolt",corporation_des_pêcheurs,0,2,28,0.132881,3,0.419437,0.445461
+aves_aa_4R_auth_0689,personne,"recker, ulrich",corporation_des_gourmets_et_courtiers,0,2,28,0.132881,3,0.419437,0.445461
+aves_aa_4R_auth_0692,personne,"stange, erhart",corporation_des_marchands,0,2,28,0.123216,4,0.402948,0.429285
+aves_aa_4R_auth_0693,personne,"diebolt, johanns",corporation_des_boulangers,0,2,28,0.123216,4,0.402948,0.429285
+aves_aa_4R_auth_0694,personne,"barre, von, claus",corporation_des_tonneliers,0,2,28,0.123216,4,0.402948,0.429285
+aves_aa_4R_auth_0695,personne,"renner, claus",corporation_des_drapiers,0,2,28,0.123216,4,0.402948,0.429285
+aves_aa_4R_auth_0696,personne,"jungeling, heinrich",corporation_des_tailleurs,0,2,28,0.123216,4,0.402948,0.429285
+aves_aa_4R_auth_0697,personne,"reimbolt, oberlin",corporation_des_cordonniers,0,2,28,0.123216,4,0.402948,0.429285
+aves_aa_4R_auth_0698,personne,"vendenheim, claus",corporation_des_marchands_de_grains,0,2,28,0.123216,4,0.402948,0.429285
+aves_aa_4R_auth_0703,personne,"offenburg, götze",corporation_des_bouchers,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0705,personne,"freiburger, jacob",corporation_des_cabaretiers,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0706,personne,"bösch, engelhart",corporation_des_maçons,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0707,personne,"ammelung, jacob",corporation_des_bateliers,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0708,personne,"weinsacher, erhart",corporation_des_charpentiers,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0710,personne,"fergesheim, johanns",corporation_des_orfevres,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0712,personne,"brüchelin,",corporation_des_pêcheurs,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0713,personne,"ernoltzheim, von, claus",corporation_des_sauniers,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0714,personne,"bergheim, von, johanns",corporation_des_regrattiers_cordiers_et_fruitiers,0,2,29,0.128191,3,0.419259,0.44563
+aves_aa_4R_auth_0716,personne,"rippel, michel",corporation_des_drapiers,0,2,28,0.130714,3,0.415015,0.441226
+aves_aa_4R_auth_0719,personne,"graff, johanns",corporation_des_orfevres,0,2,28,0.130714,3,0.415015,0.441226
+aves_aa_4R_auth_0721,personne,"dürningen, von, wernher",corporation_des_gourmets_et_courtiers,0,2,28,0.130714,3,0.415015,0.441226
+aves_aa_4R_auth_0724,personne,"rippel, bernhart",corporation_des_drapiers,0,2,28,0.119673,4,0.397255,0.42539
+aves_aa_4R_auth_0726,personne,"vetter, jerge",corporation_des_charpentiers,0,2,28,0.119673,4,0.397255,0.42539
+aves_aa_4R_auth_0729,personne,wernher,corporation_des_gourmets_et_courtiers,0,2,28,0.119673,4,0.397255,0.42539
+aves_aa_4R_auth_0751,personne,"leitgast, claus",corporation_des_maçons,0,2,28,0.131206,4,0.397415,0.424543
+aves_aa_4R_auth_0762,personne,"spitznagel, lienhart",corporation_des_constructeurs_de_bateaux,0,2,28,0.128785,3,0.41519,0.441396
+aves_aa_4R_auth_0783,personne,peter,corporation_des_tisserands,0,2,26,0.10568,4,0.404439,0.431064
+aves_aa_4R_auth_0784,personne,marx,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,2,26,0.10568,4,0.404439,0.431064
+aves_aa_4R_auth_0786,personne,"allewelt, bernhart",corporation_des_forgerons,0,2,26,0.099004,3,0.416244,0.441734
+aves_aa_4R_auth_0787,personne,"lamprecht, jacob",corporation_des_cordonniers,0,2,26,0.099004,3,0.416244,0.441734
+aves_aa_4R_auth_0789,personne,johanns,corporation_des_sauniers,0,2,26,0.099004,3,0.416244,0.441734
+aves_aa_4R_auth_0793,personne,"rastetten, von, marx",corporation_des_huiliers_meuniers_et_tondeurs_de_draps,0,2,26,0.099004,3,0.416244,0.441734
+aves_aa_4R_auth_0795,personne,"issenhausen, von, claus",corporation_des_drapiers,0,2,26,0.10226,3,0.415892,0.441396
+aves_aa_4R_auth_0797,personne,"stange, gilge",corporation_des_bateliers,0,2,26,0.10226,3,0.415892,0.441396
+aves_aa_4R_auth_0825,personne,"weldel, johanns",corporation_des_pêcheurs,0,3,24,0.090638,4,0.38786,0.416159
+aves_aa_4R_auth_0826,personne,"meiger, johanns",corporation_des_charrons,0,3,24,0.090638,4,0.38786,0.416159
+aves_aa_4R_auth_0832,personne,"hüss, jerge",corporation_des_charpentiers,0,2,24,0.100283,3,0.41,0.434959
+aves_aa_4R_auth_0836,personne,"grewalt, michel",corporation_des_tailleurs,0,2,24,0.086824,3,0.401469,0.426321
+aves_aa_4R_auth_0840,personne,"kochersberg, erhart",corporation_des_gourmets_et_courtiers,0,3,24,0.063284,4,0.359518,0.387873
+aves_aa_4R_auth_0841,personne,"reck, diebolt",corporation_des_tailleurs,0,3,24,0.063284,4,0.359518,0.387873
+aves_aa_4R_auth_0844,personne,"olwisheim, peter",corporation_des_tisserands,0,3,24,0.063284,4,0.359518,0.387873
+aves_aa_4R_auth_0850,personne,"büre, claus",corporation_des_forgerons,0,3,24,0.079059,4,0.371742,0.401084
+aves_aa_4R_auth_0866,personne,"ulrich, wilhelm",corporation_des_cordonniers,0,3,24,0.069254,4,0.374429,0.40498
+aves_aa_4R_auth_0872,personne,"odratzheim, johanns",corporation_des_gourmets_et_courtiers,0,3,24,0.063881,4,0.370482,0.400237
+aves_aa_4R_auth_0874,personne,"wehel, johanns",corporation_des_forgerons,0,3,24,0.063881,4,0.370482,0.400237
+aves_aa_4R_auth_0891,personne,"meiger, jacob",corporation_des_barbiers_et_baigneurs,0,3,24,0.071466,4,0.364175,0.395749
+aves_aa_4R_auth_0923,personne,"friedrich, blesin",corporation_des_maçons,0,3,20,0.044213,4,0.331313,0.363567
+aves_aa_4R_auth_0934,personne,"hannemann, johanns",corporation_des_gourmets_et_courtiers,0,3,20,0.045223,4,0.362031,0.39143
+aves_aa_4R_auth_0938,personne,"hohenburg, von, jerge",corporation_des_drapiers,0,3,20,0.037921,4,0.328109,0.360688
+aves_aa_4R_auth_0945,personne,"hohenburg, jerge",corporation_des_drapiers,0,3,20,0.028128,4,0.321884,0.351541
+aves_aa_4R_auth_0952,personne,"rottweil, von, johanns",corporation_des_marchands,0,3,20,0.033465,4,0.359518,0.388465
+aves_aa_4R_auth_0953,personne,"hochstett, von, johanns",corporation_des_sauniers,0,3,20,0.033465,4,0.359518,0.388465
+aves_aa_4R_auth_0957,personne,"rottweil, von, johanns-wilhelm",corporation_des_marchands,0,3,20,0.03543,4,0.355363,0.383045
+aves_aa_4R_auth_0959,personne,"stösser, konrat",corporation_des_gourmets_et_courtiers,0,3,20,0.03543,4,0.355363,0.383045
+aves_aa_4R_auth_0966,personne,"stösser, johanns",corporation_des_gourmets_et_courtiers,0,3,20,0.03376,4,0.32572,0.356877
+aves_aa_4R_auth_0968,personne,"seebott, lamprecht",corporation_des_orfevres,0,3,20,0.027121,4,0.340602,0.364837
+aves_aa_4R_auth_0980,personne,"rüttel, jerge",corporation_des_charrons,0,3,21,0.020776,4,0.310117,0.336806
+aves_aa_4R_auth_0984,personne,"arbogast, johanns-claus",corporation_des_charrons,0,3,21,0.021229,5,0.290009,0.321274
+aves_aa_4R_auth_0985,personne,"barpfennig, bartholomeus",corporation_des_cabaretiers,0,3,20,0.028764,4,0.311688,0.341294
