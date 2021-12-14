@@ -220,7 +220,7 @@ Bien que certains individus soient centraux, les corporation auxquelle ils appar
 Au contraire, l'individu à la centralité la plus central appartient à la corporation des jardiniers, une corporation de second rang en ce qui concerne l'influence politique.
 C'est du à sa carrière politique exceptionnellement longue : il représente sa corporation 13 fois au conseil entre 1416 et 1473.
 Bien qu'il soit identifié comme une seule personne par les ouvrages de référence en prosopographie strasbourgeoise (Jacques Hatt et Sabine von Heusinger), une carrière politique de 57 ans semble improbable, sauf longévité exceptionnelle.
-Faute de rupture nette entre les différentes nominations au conseil (1416, 1424, 1429, 1436, 1444, 1449, 1453, 1458, 1459, 1466, 1467, 1472, 1473) ou d'informations supplémentaire à son sujet, il demeure plus prudent de ne pas le séparer en deux individus.
+Faute de rupture nette entre les différentes nominations au conseil (1416, 1424, 1429, 1436, 1444, 1449, 1453, 1458, 1459, 1466, 1467, 1472, 1473) ou d'information supplémentaire à son sujet, il demeure plus prudent de ne pas le séparer en deux individus.
 
 Celle-ci est plutôt liée
 
