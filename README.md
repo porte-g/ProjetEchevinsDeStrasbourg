@@ -197,9 +197,12 @@ En calculant les classes de modularité les plus grandes possibles de notre rés
 Les échevins sont plus nombreux à siéger au conseil au début qu'à la fin du siècle.
 Nous constatons une première décroissance du nombre d'échevins siégeant au conseil au milieu de notre graphe.
 En effet, le conseil de Strasbourg décide en 1456 de nommer les conseillers biannuellement pour remédier aux inconvénients de la nomination annuelle.
-Les conseillers des corporations les moins prestigieuses avaient parfois du mal à se rendre disponibles pour se rendre aux séances (cf. principe de disponibilité, Max Weber).
+Les conseillers des corporations les moins prestigieuses avaient parfois du mal à se rendre disponibles pour assister aux séances (cf. principe de disponibilité, Max Weber).
 La rotation de l'effectif complet représentait forcément une rupture dans la continuité institutionnelle.
 Après 1456, ce sont chaque année la moitié des corporations qui élisent de nouveaux représentants ; ceux des corporations restantes, élus l'année précédente, assurant la continuité du conseil.
+
+À cela s'ajoute la réduction du nombre de corporations.
+Les corporations aux effectifs les moins importants sont intégrées au plus grandes. Leur nombre se réduit de 28 à 20.
 
 <img src="imagesMD/AnnéesReprésentant.png" style="display: block; margin: auto;" />
 
