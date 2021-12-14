@@ -130,6 +130,8 @@ Il serait possible d'améliorer ce script en ne générant que la moitié de la 
 Nous avons décidé d'employer la [distance de Jaro-Winkler](https://fr.wikipedia.org/wiki/Distance_de_Jaro-Winkler) car elle s'avère particulièrement bien adaptée au traitement de noms et de chaînes de caractères courtes de manière générale.
 
 <img src="imagesMD/jaro_distance.svg" style="display: block; margin: auto;" />
+|s_{i}| est la longueur de la chaîne de caractères s i {\displaystyle s_{i}} s_{i} ;
+
 <img src="imagesMD/winkler.svg" style="display: block; margin: auto;" />
 
 À partir de cette matrice, nous créons grâce à un [script](./Analyse/Matrixeconciliation.ipynb) un tableur de réconciliation où nous réunissons les identifiants temporaires des occurences par autorité identifiée.
@@ -148,7 +150,32 @@ Nous avons donc réalisé deux petites fonctions qui permettent de détecter les
 Il faut toutefois veiller à utiliser le déctecteur de faux négatifs avant le détecteur de faux-positifs, sans quoi le script détectera toutes les autorités déjà corrigées.
 
 ## Analyse de réseau<a name="NetworkAnalysis"></a>
+Pour créer un jeu de données analysable à l'aide de la théorie des graphes, il faut générer deux tableurs : un tableur de liens (*edges*) et un tableur de noeuds (*summits*).
+Pour ce faire nous avons commencé par générer le tableur de liens à partir de notre tableur d'autorités.
+Pour chaque autorité, nous créons un lien avec chaque conseil au sein duquel elle fut magistrat.
 
+| Recid                    | subid                                                                                                                                                                      | Unnamed: 0              | anneeMagistrature                      | magistrature                                                                                                                                        | occurence                                                                                                                                                                                    | prenom                                                               | nom                                                                        | surnom                           | genName                          | titres\_roles                                                                                                           | corps\_civique                                                                   | corporation                                                                                                                                              | poele                            | page                             | colonne                          | ligne                   | AuthNameForename       | Length |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | ----------------------- | ---------------------- | ------ |
+| aves\_aa\_4R\_auth\_0001 | \['aves\_aa\_4R\_1400\_0005', 'aves\_aa\_4R\_1402\_0031', 'aves\_aa\_4R\_1404\_0005', 'aves\_aa\_4R\_1406\_0005', 'aves\_aa\_4R\_1408\_0032', 'aves\_aa\_4R\_1410\_0032'\] | \[5, 31, 5, 5, 32, 32\] | \[1400, 1402, 1404, 1406, 1408, 1410\] | \['ammeister', 'conseiller\_des\_bouchers', 'ammeister', 'ammeister', 'conseiller\_des\_bouchers', 'conseiller\_des\_bouchers'\]                    | \['her Wilhelm Metziger der ammeister', 'her Wilhelm Metziger', 'her Wilhelm Metziger der ammeister', 'her Wilhelm Metziger der ammeister', 'her Wilhelm Metziger', 'her Wilhelm Metziger'\] | \['wilhelm', 'wilhelm', 'wilhelm', 'wilhelm', 'wilhelm', 'wilhelm'\] | \['metziger', 'metziger', 'metziger', 'metziger', 'metziger', 'metziger'\] | \[nan, nan, nan, nan, nan, nan\] | \[nan, nan, nan, nan, nan, nan\] | \["\['her', 'ammeister'\]", "\['her'\]", "\['her', 'ammeister'\]", "\['her', 'ammeister'\]", "\['her'\]", "\['her'\]"\] | \['echevinat', 'echevinat', 'echevinat', 'echevinat', 'echevinat', 'echevinat'\] | \[nan, 'corporation\_des\_bouchers', nan, nan, 'corporation\_des\_bouchers', 'corporation\_des\_bouchers'\]                                              | \[nan, nan, nan, nan, nan, nan\] | \[131, 133, 135, 137, 139, 141\] | \[1.0, 1.0, 1.0, 1.0, 1.0, 1.0\] | \[5, 31, 5, 5, 32, 32\] | metziger, wilhelm      | 6      |
+
+Dans le cas de Wilhelm Metziger (aves\_aa\_4R\_auth\_0001), conseiller des boucher et ammeistre, nous avons créé 6 liens, un avec chaque conseil auquel il siégea : 1400, 1402, 1404, 1406, 1408, 1410.
+Nous obtenons le [tableur](./Analyse/AnalyseRéseau/Data/edge.csv) suivant :
+
+| Source                   | Target | nature\_lien | label             |
+| ------------------------ | ------ | ------------ | ----------------- |
+| aves\_aa\_4R\_auth\_0001 | 1400   | ammeister    | metziger, wilhelm |
+| aves\_aa\_4R\_auth\_0001 | 1402   | conseiller   | metziger, wilhelm |
+| aves\_aa\_4R\_auth\_0001 | 1404   | ammeister    | metziger, wilhelm |
+
+En ouvrant cette table des liens avec le logiciel [gephi](https://gephi.org/), nous pouvons exporter la table des noeuds, puis l'enrichir.
+
+| Id                       | Label                  | type     | corporation                 |
+| ------------------------ | ---------------------- | -------- | --------------------------- |
+| 1400                     | 1400                   | annee    |                             |
+| aves\_aa\_4R\_auth\_0001 | metziger, wilhelm      | personne | corporation\_des\_bouchers  |
+| aves\_aa\_4R\_auth\_0002 | colmar, von, hannemann | personne | corporation\_des\_marchands |
+
+Nous pouvons dès lors générer un réseau à partir duquel il est possible de travailler. Il s'agit d'un réseau biparti documentant les liens entre les conseillers et les ammeistres (nos échevins) et les instances annuelles du conseil.
 
 
 ## Bibliographie<a name="Bibliographie"></a>
