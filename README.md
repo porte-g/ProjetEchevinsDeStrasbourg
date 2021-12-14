@@ -208,7 +208,7 @@ En calculant les classes de modularité les plus grandes possibles de notre rés
 
 Intéressons nous à la centralité intermédiaire des points de notre graphe. Sans suprise, un très grand nombre d'individus ne sont pas centraux dans notre graphe.
 Ce sont les échevins aux marges; ceux qui ne participent qu'à un conseil au cours de leur carrière au conseil ou dont celle-ci s'achève au début ou à la fin du siècle étudié.
-Certains individus sont au contraire caractérisé par une centralité très élevée, mais celle dernière chute très vite lorsqu'on fait défiler les individus.
+Certains individus sont au contraire caractérisé par une centralité très élevée, mais cette dernière chute très vite lorsqu'on fait défiler les individus.
 
 | Label                     | corporation                             | betweenesscentrality |
 | ------------------------- | --------------------------------------- | -------------------- |
