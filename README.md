@@ -213,7 +213,7 @@ Des 28 corporations constituées en 1349, il n'en reste plus que 20 à la fin du
 
 <img src="Analyse/AnalyseRéseau/Rendus/SVG/graphebiparti.svg" style="display: block; margin: auto;" />
 
-En nous intéressant au au graphe biparti des échevins siégeant au conseil et des instances du conseil, nous remarquons que le nombre d'individus liés à un seul conseil diminue considérablement au cours de la seconde moitié du XVe siècle.
+En nous intéressant au graphe biparti des échevins siégeant au conseil et des instances du conseil, nous constatons effectivement que le nombre d'individus liés à une seule instance du conseil diminue considérablement au cours de la seconde moitié du XVe siècle.
 
 ## Perspectives<a name="Perspectives"></a>
 ### Poursuite du projet de recherche<a name="Poursuite"></a>
