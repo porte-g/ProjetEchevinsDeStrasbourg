@@ -19,6 +19,13 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
 7. [Perspectives](#Perspectives)
     1. [Poursuite du projet de recherche](#Poursuite)
     2. [Poursuite de la recherche sur le Conseil et ses membres](#PlusLoin)
+8. [Bibliographie](#Bibliographie)
+    1. [Monographies et articles scientifiques](#Mono)
+    2. [Usuels](#Usuels)
+    3. [Sitographie](#Sito)
+9. [Sources](#Sources)
+    1. [Source éditées](#Sources1)
+    2. [Sources non éditées](#Sources2)
 
 
 ## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
@@ -265,7 +272,7 @@ Analyser une éventuelle rupture entre représentant des patriciens au conseil a
 
 
 ## Bibliographie<a name="Bibliographie"></a>
-### Monographies et articles scientifiques
+### Monographies et articles scientifiques<a name="Mono"></a>
 - ALIOTH Martin, *Gruppen an der Macht : Zünfte und Patriziat in Strassburg im 14. und 15. Jahrhundert : Untersuchungen zu Verfassung, Wirtschaftsgefüge und Sozialstruktur*, Helbing Lichtenhahn, Basel, 1988.
 - ALVAREZ-ALTMAN Grace, « Literary Onomastics Typology : Analytic Guidelines to Literary Onomastics Studies », dans *Literary Onomastics Studies*, 8, art. 21, 1981, URL : https://digitalcommons.brockport.edu/los/vol8/iss1/21/?utm_source=digitalcommons.brockport.edu (page consultée le 7 mai 2021).
 - BUCHHOLZER Laurence & LACHAUD Frédérique, « Le serment dans les villes du bas Moyen Âge », dans *Histoire urbaine*, 39 1, mai 2014, pp. 7-27.
@@ -300,22 +307,22 @@ Ludwig Spach, Heitz F. C.*, Strasbourg, 1856.
 - SOCIN Adolf, *Mittelhochdeutsches Namenbuch Nach oberrheinischen Quellen des zwölften und dreizehnten Jahrhunderts*, Basel, Helbing & Lichtenhahn, 1903, URL : https://archive.org/details/bub_gb_Y-BRAAAAcAAJ/page/n5/mode/2up (page consultée le 7 mai 2021).
 - WINCKELMANN O., « Strassburgs Verfassung und Verwaltung im 16. Jahrhundert », dans *Zeitschrift für Geschichte des Oberrheins*, 52, 1903, pp. 518-522.
 - ZECH Kristin, « Le « Schwörbrief »de 1482 : L’origine et les conséquences de l’exclusion du Grand conseil pour les baigneurs de Strasbourg », dans *Revue d’Alsace*, v. 52 2, 2005.
-### Usuels
+### Usuels<a name="Usuels"></a>
 - GREISSLER Paul, *Liste des échevins et des directeurs des tribus de métiers de Strasbourg : 1640-1790*, Archives municipales de Strasbourg, Strasbourg, 1990.
 - HIMLY François J., *Dictionnaire ancien alsacien-français : XIIIe-XVIIIe siècles*, Archives départementales du Bas-Rhin, Strasbourg, 1983.
 - HATT Jacques, *Liste des membres du Grand Sénat de Strasbourg, du XIIIe siècle à 1789 : des stettmeistres, des ammeistres, des conseils des XXI, XIII et des XV*, s. n., Strasbourg, 1963, 677 p.
 - FERRIERE Claus Joseph de, *Dictionnaire de droit et de pratique, contenant l’explication des termes de droit, d’ordonnances, de coutumes et de pratique avec les juridictions de France*, Paris, Saint-Etienne, 1771.
-### Sitographie
+### Sitographie<a name="Sito"></a>
 - *CIDOC CRM*, URL: https://www.cidoc-crm.org/.
 - *Dictionnaire Historique des Institutions de l’Alsace*, URL: https://www.alsace-histoire.org/dictionnaire-historique-des-institutions-de-lalsace/.
 - GRANDJEAN Martin, URL: http://www.martingrandjean.ch/gephi-introduction/.
 - *People of Medieval Scottland*, URL: https://www.poms.ac.uk/.
-## Sources
-### Sources éditées
+## Sources<a name="Sources"></a>
+### Sources éditées<a name="Sources1"></a>
 - EHEBERG Karl Theodor, *Verfassungs-, Verwaltungs- und Wirtschaftsgeschichte der Stadt Strassburg bis 1681. I. Band : Urkunden und akten*, J. H. Ed. Heitz (Heitz Mündel), Strasbourg, 1899.
 - WITTE Hanns & WOLFRAM Karl Georg (ed.), *Urkundenbuch der Stadt Strassburg. Fünfter Band. Politische Urkunden von 1332 bis 1380*, Karl J. Trübner, Strasbourg, 1896.
 - WITTE Hanns (ed.), *Urkundenbuch der Stadt Strassburg. 7. Band. privatrechtliche Urkunden und Rathslisten von 1332 bis 1400*, Karl J. Trübner, Strasbourg, 1900.
 
-### Sources non éditées
+### Sources non éditées<a name="Sources2"></a>
 - AVES AA 195, f. 69r-77r, liste d'armement de 1444.
 - AVES 4R 103, Premier livre de bourgeoisie, URL: https://archives.strasbourg.eu/ark:/39332/vtaa6e71d677e73ab72/daogrp/0#id:1425915738?gallery=true&brightness=100.00&contrast=100.00&center=2050.000,-1460.000&zoom=5&rotation=0.000.
