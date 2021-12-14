@@ -1,0 +1,380 @@
+id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+aves_aa_195_1444_0001,1444,echevin,her Obreht Schalck der ammeister,obrecht,schalk,,,"['her', 'ammeister']",,corporation_des_bateliers,,69r,,2
+aves_aa_195_1444_0002,1444,echevin,Cünrat Armbruster In Brantgasse,konrat,armbruster in brantgasse,,,,,corporation_des_bateliers,,69r,,3
+aves_aa_195_1444_0003,1444,echevin,Hanns Amlung,johanns,ammelung,,,,,corporation_des_bateliers,,69r,,4
+aves_aa_195_1444_0004,1444,echevin,Reimbolt Phige,reimbolt,phye,,,,,corporation_des_bateliers,,69r,,5
+aves_aa_195_1444_0005,1444,echevin,Hanns Lumbart,johanns,lumbart,,,,,corporation_des_bateliers,,69r,,6
+aves_aa_195_1444_0006,1444,echevin,Steffan Lumbart,stefan,lumbart,,,,,corporation_des_bateliers,,69r,,7
+aves_aa_195_1444_0007,1444,echevin,Hanns Armbruster der rotherre,johanns,armbruster,,,['rotherre'],,corporation_des_bateliers,,69r,,8
+aves_aa_195_1444_0008,1444,echevin,Heinrich Bisinger,heinrich,bisinger,,,,,corporation_des_bateliers,,69r,,9
+aves_aa_195_1444_0009,1444,echevin,Hanns Wissenburg,johanns,wissemburg,,,,,corporation_des_bateliers,,69r,,10
+aves_aa_195_1444_0010,1444,echevin,Hanns von Lutesheim,johanns,"leutesheim, von",,,,,corporation_des_bateliers,,69r,,11
+aves_aa_195_1444_0011,1444,echevin,Jacop Hage,jacob,hage,,,,,corporation_des_bateliers,,69r,,12
+aves_aa_195_1444_0012,1444,echevin,Cüntzel Merckel,küntz,merckel,,,,,corporation_des_bateliers,,69r,,13
+aves_aa_195_1444_0013,1444,echevin,Frantz Berner,frantz,berner,,,,,corporation_des_bateliers,,69r,,14
+aves_aa_195_1444_0014,1444,echevin,Heintz Jude,heintz,jude,,,,,corporation_des_bateliers,,69r,,15
+aves_aa_195_1444_0015,1444,echevin,Jacob Amlung,jacob,ammelung,,,,,corporation_des_bateliers,,69r,,16
+aves_aa_195_1444_0016,1444,echevin,der zinsmeister,,,,,['zinsmeister'],,corporation_des_bateliers,,69r,,17
+aves_aa_195_1444_0017,1444,echevin,Laulin Rebe,lauwel,rebe,,,,,,,69r,,19
+aves_aa_195_1444_0018,1444,echevin,Hanns Schaffener,johanns,schaffner,,,,,,,69r,,20
+aves_aa_195_1444_0019,1444,echevin,Panteleon Schultheiss,pantheleon,schultheiss,,,,,,,69r,,21
+aves_aa_195_1444_0020,1444,echevin,Lawelin Erbe,lauwel,erbe,,,,,,,69r,,22
+aves_aa_195_1444_0021,1444,echevin,Hensel Reb,hensel,rebe,,,,,,,69r,,23
+aves_aa_195_1444_0022,1444,echevin,Cüne,kühne,,,,,,,,69r,,24
+aves_aa_195_1444_0023,1444,echevin,Hensel Cüne,hensel,kühn,,,,,,,69r,,25
+aves_aa_195_1444_0024,1444,echevin,Heinrich Lise,heinrich,lise,,,,,,,69r,,26
+aves_aa_195_1444_0025,1444,echevin,Peter Wiss,peter,weiss,,,,,,,69r,,28
+aves_aa_195_1444_0026,1444,echevin,Diebolt Diether,diebolt,diether,,,,,,,69r,,29
+aves_aa_195_1444_0027,1444,echevin,Hanseman Jeger,johanns,jäger,,,,,,,69r,,30
+aves_aa_195_1444_0028,1444,echevin,Heintz Hirse,heintz,hirse,,,,,,,69r,,32
+aves_aa_195_1444_0029,,,her Adam Riffe altammeister der rotherre,adam,riffe,,,"['her', 'altammeister', 'rotherre']",,corporation_des_marchands,,69v,,2
+aves_aa_195_1444_0030,,,Peter Voltz der alte,peter,voltz,,der alte,,,corporation_des_marchands,,69v,,3
+aves_aa_195_1444_0031,,,Marx Barpfennig,marx,barpfennig,,,,,corporation_des_marchands,,69v,,4
+aves_aa_195_1444_0032,,,Rüdolff Barpfennig,rudolff,barpfennig,,,,,corporation_des_marchands,,69v,,5
+aves_aa_195_1444_0033,,,Peter Brucker,peter,brucker,,,,,corporation_des_marchands,,69v,,6
+aves_aa_195_1444_0034,,,Peter Riffe,peter,riffe,,,,,corporation_des_marchands,,69v,,7
+aves_aa_195_1444_0035,,,Andres Hapmacher,andres,happmacher,,,,,corporation_des_marchands,,69v,,8
+aves_aa_195_1444_0036,,,Claus Böschwiller,claus,böschwiller,,,,,corporation_des_marchands,,69v,,9
+aves_aa_195_1444_0037,,,Heinrich Slempe,heinrich,schlempe,,,,,corporation_des_marchands,,69v,,10
+aves_aa_195_1444_0038,,,Bernhart Scholle,bernhart,scholle,,,,,corporation_des_marchands,,69v,,11
+aves_aa_195_1444_0039,,,Fridel von Seckingen,friedrich,"säckingen, von",,,,,corporation_des_marchands,,69v,,12
+aves_aa_195_1444_0040,,,Jacop Wormsser,jacob,wormser,,,,,corporation_des_marchands,,69v,,13
+aves_aa_195_1444_0041,,,Erhart Stange,erhart,stange,,,,,corporation_des_marchands,,69v,,14
+aves_aa_195_1444_0042,,,Gilge Stange,gilge,stange,,,,,corporation_des_marchands,,69v,,15
+aves_aa_195_1444_0043,,,Claus Würant,claus,wurant,,,,,corporation_des_marchands,,69v,,16
+aves_aa_195_1444_0044,,,Hanns Menser,johanns,mentzer,,,,,corporation_des_marchands,,69v,,17
+aves_aa_195_1444_0045,,,Peter von Cölne,peter,köln von,,,,,corporation_des_marchands,,69v,,18
+aves_aa_195_1444_0046,,,Hanns von Northus,johanns,"nordhausen, von",,,,,corporation_des_marchands,,69v,,19
+aves_aa_195_1444_0047,,,Peter Arge,peter,arge,,,,,corporation_des_marchands,,69v,,20
+aves_aa_195_1444_0048,,,Peter Ofentürer,peter,ofentürer,,,,,corporation_des_marchands,,69v,,21
+aves_aa_195_1444_0049,,,Hanns Dundenheim,johanns,dundenheim,,,,,corporation_des_marchands,,69v,,22
+aves_aa_195_1444_0050,,,Peter Dundenheim,peter,dundenheim,,,,,corporation_des_marchands,,69v,,23
+aves_aa_195_1444_0051,,,Steffan Sahsse,stefan,sachsen,,,,,corporation_des_marchands,,69v,,24
+aves_aa_195_1444_0052,,,Diebolt von Marle,diebolt,"marlenheim, von",,,,,corporation_des_marchands,,69v,,25
+aves_aa_195_1444_0053,,,Erhart Vilinger,erhart,villinger,,,,,corporation_des_marchands,,69v,,26
+aves_aa_195_1444_0054,,,her Hanns Meistersheim altammeister der rotherre,johanns,meistersheim,,,"['her', 'altammeister', 'rotherre']",,corporation_des_bouchers,,70r,,2
+aves_aa_195_1444_0055,,,Wilhelm Rotschilt,wilhelm,rotschilt,,,,,corporation_des_bouchers,,70r,,3
+aves_aa_195_1444_0056,,,Hanns von Berse,johanns,"berse, von",,,,,corporation_des_bouchers,,70r,,4
+aves_aa_195_1444_0057,,,Conrat von Berse,konrat,"berse, von",,,,,corporation_des_bouchers,,70r,,5
+aves_aa_195_1444_0058,,,Wilhelm Betscholt,wilhelm,bechtolt,,,,,corporation_des_bouchers,,70r,,6
+aves_aa_195_1444_0059,,,Mathis von Hasela,mathis,haslach von,,,,,corporation_des_bouchers,,70r,,7
+aves_aa_195_1444_0060,,,Voltz Wormsser,völtz,wormser,,,,,corporation_des_bouchers,,70r,,8
+aves_aa_195_1444_0061,,,Hanns Kalt,johanns,kalt,,,,,corporation_des_bouchers,,70r,,9
+aves_aa_195_1444_0062,,,Jacob Volmar,jacob,volmar,,,,,corporation_des_bouchers,,70r,,10
+aves_aa_195_1444_0063,,,Heinrich Museler,heinrich,müseler,,,,,corporation_des_bouchers,,70r,,11
+aves_aa_195_1444_0064,,,Götze Offenburg,götze,offenburg,,,,,corporation_des_bouchers,,70r,,12
+aves_aa_195_1444_0065,,,Hanns Behtolt,johanns,bechtolt,,,,,corporation_des_bouchers,,70r,,13
+aves_aa_195_1444_0066,,,Claus Lügerlin,claus,lugerlin,,,,,corporation_des_bouchers,,70r,,14
+aves_aa_195_1444_0067,,,her Hug Dossenheim altammeister,hug,dossenheim,,,"['her', 'altammeister']",,corporation_des_cabarretiers,,70v,,2
+aves_aa_195_1444_0068,,,Andres Mesener,andres,messner,,,,,corporation_des_cabarretiers,,70v,,3
+aves_aa_195_1444_0069,,,Claus Ackenfüs,claus,ackerfuss,,,,,corporation_des_cabarretiers,,70v,,4
+aves_aa_195_1444_0070,,,Eberhart von Truhtersheim,eberhart,"trüchtersheim, von",,,,,corporation_des_cabarretiers,,70v,,5
+aves_aa_195_1444_0071,,,Erhart Bömgarter,erhart,baumgarter,,,,,corporation_des_cabarretiers,,70v,,6
+aves_aa_195_1444_0072,,,Stoffelus Brüder,stoffelus,bruder,,,,,corporation_des_cabarretiers,,70v,,7
+aves_aa_195_1444_0073,,,Claus Dossenheim,claus,dossenheim,,,,,corporation_des_cabarretiers,,70v,,8
+aves_aa_195_1444_0074,,,Heinrich Stocker,heinrich,stocker,,,,,corporation_des_cabarretiers,,70v,,9
+aves_aa_195_1444_0075,,,Claus Bömgarter der rotherre,claus,baumgarter,,,['rotherre'],,corporation_des_cabarretiers,,70v,,10
+aves_aa_195_1444_0076,,,Wilhelm von Schaffoltzheim,wilhelm,"schaeffolsheim, von",,,,,corporation_des_cabarretiers,,70v,,11
+aves_aa_195_1444_0077,,,Fritsch von Hirtingheim,fritsch,"hürtigheim, von",,,,,corporation_des_cabarretiers,,70v,,12
+aves_aa_195_1444_0078,,,her Conrat Armbruster altammeister der rotherre,konrat,armbruster,,,"['her', 'altammeister', 'rotherre']",,corporation_des_drapiers,,71r,,2
+aves_aa_195_1444_0079,,,Heinrich Lymer,heinrich,leimer,,,,,corporation_des_drapiers,,71r,,3
+aves_aa_195_1444_0080,,,Hanns Renner der alte,johanns,renner,,der alte,,,corporation_des_drapiers,,71r,,4
+aves_aa_195_1444_0081,,,Hanns Renner der junge,johanns,renner,,der junge,,,corporation_des_drapiers,,71r,,5
+aves_aa_195_1444_0082,,,Jacob von Belheim,jacob,"bellheim, von",,,,,corporation_des_drapiers,,71r,,6
+aves_aa_195_1444_0083,,,Cüne Düringer der alte,kühne,düringer,,der alte,,,corporation_des_drapiers,,71r,,7
+aves_aa_195_1444_0084,,,Cüne Düringer der junge,kühne,düringer,,der junge,,,corporation_des_drapiers,,71r,,8
+aves_aa_195_1444_0085,,,Claus Biderman,claus,bidermann,,,,,corporation_des_drapiers,,71r,,9
+aves_aa_195_1444_0086,,,Jacob von Wantzen,jacob,"wantzen, von",,,,,corporation_des_drapiers,,71r,,10
+aves_aa_195_1444_0087,,,Hanns Odertzheim,johanns,odratzheim,,,,,corporation_des_drapiers,,71r,,11
+aves_aa_195_1444_0088,,,Hanns Steinbach,johanns,steinbach,,,,,corporation_des_drapiers,,71r,,12
+aves_aa_195_1444_0089,,,Claus Weber,claus,weber,,,,,corporation_des_drapiers,,71r,,13
+aves_aa_195_1444_0090,,,Claus von Rore,claus,"rohr, von",,,,,corporation_des_drapiers,,71r,,14
+aves_aa_195_1444_0091,,,Ottman Franckenheim,ottemann,frankenheim,,,,,corporation_des_marchands_de_grains,,71r,,16
+aves_aa_195_1444_0092,,,Hanns Kesselring,johanns,kesselring,,,,,corporation_des_marchands_de_grains,,71r,,17
+aves_aa_195_1444_0093,,,Hanns Melbrüge,johanns,melbrühe,,,,,corporation_des_marchands_de_grains,,71r,,18
+aves_aa_195_1444_0094,,,Berman von Nüfer,behremann,"nüffer, von",,,,,corporation_des_marchands_de_grains,,71r,,19
+aves_aa_195_1444_0095,,,Claus Kriegesheim,claus,kriegsheim,,,,,corporation_des_marchands_de_grains,,71r,,20
+aves_aa_195_1444_0096,,,Hanns Stumpff der rotherre,johanns,stumpf,,,['rotherre'],,corporation_des_marchands_de_grains,,71r,,21
+aves_aa_195_1444_0097,,,Peter von Rore,peter,"rohr, von",,,,,corporation_des_marchands_de_grains,,71r,,22
+aves_aa_195_1444_0098,,,Hanns Günter,johanns,gunther,,,,,corporation_des_marchands_de_grains,,71r,,23
+aves_aa_195_1444_0099,,,Heinrich Birböm,heinrich,birbaum,,,,,corporation_des_marchands_de_grains,,71r,,24
+aves_aa_195_1444_0100,,,Heinrich Griffe,heinrich,griffe,,,,,corporation_des_marchands_de_grains,,71r,,25
+aves_aa_195_1444_0101,,,Claus Vendenheim,claus,vendenheim,,,,,corporation_des_marchands_de_grains,,71r,,26
+aves_aa_195_1444_0102,,,Peter Metziger,peter,metziger,,,,,corporation_des_marchands_de_grains,,71r,,27
+aves_aa_195_1444_0103,,,her Lienhart Trachenfeils altammeister,lienhart,trachenfeils,,,"['her', 'altammeister']",,corporation_des_sauniers,,71v,,2
+aves_aa_195_1444_0104,,,Andres Smerwer,andres,schmerwer,,,,,corporation_des_sauniers,,71v,,3
+aves_aa_195_1444_0105,,,Dietherman Saltzmütter,dietrich,saltzmütter,,,,,corporation_des_sauniers,,71v,,4
+aves_aa_195_1444_0106,,,Hanns Trachenfeils,johanns,trachenfeils,,,,,corporation_des_sauniers,,71v,,5
+aves_aa_195_1444_0107,,,Hanns Hitzvelder,johanns,hirtzfelder,,,,,corporation_des_sauniers,,71v,,6
+aves_aa_195_1444_0108,,,Diebolt Trachenfeils der rotherre,diebolt,trachenfeils,,,['rotherre'],,corporation_des_sauniers,,71v,,7
+aves_aa_195_1444_0109,,,Florentz Willekin,florentz,willekin,,,,,corporation_des_sauniers,,71v,,8
+aves_aa_195_1444_0110,,,Burkhart Siferman,burkhart,siffermann,,,,,corporation_des_sauniers,,71v,,9
+aves_aa_195_1444_0111,,,Veltin Helle,veltin,hell,,,,,corporation_des_sauniers,,71v,,10
+aves_aa_195_1444_0112,,,Hanns von Crützenach,johanns,"kreutzenach, von",,,,,corporation_des_sauniers,,71v,,11
+aves_aa_195_1444_0113,,,Heinrich Leheman,heinrich,lehmann,,,,,corporation_des_sauniers,,71v,,12
+aves_aa_195_1444_0114,,,Claus von Ernoltzheim,claus,"ernoltzheim, von",,,,,corporation_des_sauniers,,71v,,13
+aves_aa_195_1444_0115,,,Claus Kannengiesser,claus,kannengiesser,,,,,corporation_des_sauniers,,71v,,14
+aves_aa_195_1444_0116,,,Mertz in Krutenouwe,mertz,,,,,,corporation_des_sauniers,,71v,,15
+aves_aa_195_1444_0117,,,Jerge Anshelm,jerge,anshelm,,,,,corporation_des_orfevres,,71v,,17
+aves_aa_195_1444_0118,,,Peter Missebach,peter,missbach,,,,,corporation_des_orfevres,,71v,,18
+aves_aa_195_1444_0119,,,Hanns Newiller,johanns,neuwiller,,,,,corporation_des_orfevres,,71v,,19
+aves_aa_195_1444_0120,,,Jacob Friburger,jacob,freiburger,,,,,corporation_des_orfevres,,71v,,20
+aves_aa_195_1444_0121,,,Hanns von Sletstat,johanns,"schlettstadt, von",,,,,corporation_des_orfevres,,71v,,21
+aves_aa_195_1444_0122,,,Peter Arige,peter,arge,,,,,corporation_des_orfevres,,71v,,22
+aves_aa_195_1444_0123,,,Hanns Vegersheim,johanns,fergesheim,,,,,corporation_des_orfevres,,71v,,23
+aves_aa_195_1444_0124,,,Hanns Clein müntzmeister,johanns,klein,,,['müntzmeister'],,corporation_des_orfevres,,71v,,24
+aves_aa_195_1444_0125,,,Jacop Lowe,jacob,löwe,,,,,corporation_des_orfevres,,71v,,25
+aves_aa_195_1444_0126,,,Peter Berner,peter,berner,,,,,corporation_des_orfevres,,71v,,26
+aves_aa_195_1444_0127,,,Andres Smalriem,andres,schmalriem,,,,,corporation_des_orfevres,,71v,,27
+aves_aa_195_1444_0128,,,Hirtz Meister,hirtz,meister,,,,,corporation_des_orfevres,,71v,,28
+aves_aa_195_1444_0129,,,Hanns Ott,johanns,ott,,,,,corporation_des_orfevres,,71v,,29
+aves_aa_195_1444_0130,,,Hanns von Sletstat der rotherre,johanns,"schlettstadt, von",,,['rotherre'],,corporation_des_orfevres,,71v,,30
+aves_aa_195_1444_0131,,,Heinrich Snewel,heinrich,schnabel,,,,,corporation_des_orfevres,,71v,,31
+aves_aa_195_1444_0132,,,Adolff Smalriem,adolff,schmalriem,,,,,corporation_des_orfevres,,71v,,32
+aves_aa_195_1444_0133,,,Claus von Mentz,claus,"mentz, von",,,,,corporation_des_orfevres,,71v,,33
+aves_aa_195_1444_0134,,,Hanns von Molsheim armbruster,johanns,"molsheim, von",,,['armbruster'],,corporation_des_orfevres,,71v,,34
+aves_aa_195_1444_0135,,,Ülrich Glaser,ulrich,glaser,,,,,corporation_des_orfevres,,71v,,35
+aves_aa_195_1444_0136,,,Martin Ernst,martin,ernst,,,,,corporation_des_orfevres,,71v,,36
+aves_aa_195_1444_0137,,,Hertzog Glaser,herzog,glaser,,,,,corporation_des_orfevres,,71v,,37
+aves_aa_195_1444_0138,,,Hanns von Altzheim,johanns,"altzheim, von",,,,,corporation_des_orfevres,,71v,,38
+aves_aa_195_1444_0139,,,her Jacob von Geistpoltzheim altammeister,jacob,"geispoltzheim, von",,,"['her', 'altammeister']",,corporation_des_boulangers,,72r,,2
+aves_aa_195_1444_0140,,,Claus Linser der rotherre,claus,linzer,,,['rotherre'],,corporation_des_boulangers,,72r,,3
+aves_aa_195_1444_0141,,,Mathis von Ettenheim,mathis,"ettenheim, von",,,,,corporation_des_boulangers,,72r,,4
+aves_aa_195_1444_0142,,,Fritsch Hapmacher,fritsch,happmacher,,,,,corporation_des_boulangers,,72r,,5
+aves_aa_195_1444_0143,,,Adam von Molsheim,adam,"molsheim, von",,,,,corporation_des_boulangers,,72r,,6
+aves_aa_195_1444_0144,,,Walther Dür,walther,dürr,,,,,corporation_des_boulangers,,72r,,7
+aves_aa_195_1444_0145,,,Jacop Sporer,jacob,sporer,,,,,corporation_des_boulangers,,72r,,8
+aves_aa_195_1444_0146,,,Cüntz zü dem Tröschen,küntz,"tröschen, zum",,,,,corporation_des_boulangers,,72r,,9
+aves_aa_195_1444_0147,,,Hanns Sporer,johanns,sporer,,,,,corporation_des_boulangers,,72r,,10
+aves_aa_195_1444_0148,,,Jacob Waldener,jacob,waldener,,,,,corporation_des_boulangers,,72r,,11
+aves_aa_195_1444_0149,,,Hanns Franck,johanns,frank,,,,,corporation_des_boulangers,,72r,,12
+aves_aa_195_1444_0150,,,Gilge,gilge,,,,,,corporation_des_boulangers,,72r,,13
+aves_aa_195_1444_0151,,,Claus Zür Hellen der rotherre,claus,"hellen, zur",,,['rotherre'],,corporation_des_pelletiers,,72r,,15
+aves_aa_195_1444_0152,,,Götze von Hagenowe,götze,"hagenau, von",,,,,corporation_des_pelletiers,,72r,,16
+aves_aa_195_1444_0153,,,Claus Wissensel,claus,wissensel,,,,,corporation_des_pelletiers,,72r,,17
+aves_aa_195_1444_0154,,,Diebolt Spirer,diebolt,spirer,,,,,corporation_des_pelletiers,,72r,,18
+aves_aa_195_1444_0155,,,Hanns Spirer,johanns,spirer,,,,,corporation_des_pelletiers,,72r,,19
+aves_aa_195_1444_0156,,,Hanns von Jenff,johanns,"genf, von",,,,,corporation_des_pelletiers,,72r,,20
+aves_aa_195_1444_0157,,,Niclaus von Erffürt,claus,"erfurt, von",,,,,corporation_des_pelletiers,,72r,,21
+aves_aa_195_1444_0158,,,Heinrich Rosegart,heinrich,rosegart,,,,,corporation_des_pelletiers,,72r,,22
+aves_aa_195_1444_0159,,,Symont von Ehenheim,symont,"ehenheim, von",,,,,corporation_des_pelletiers,,72r,,23
+aves_aa_195_1444_0160,,,"Andres, Martin Hensels sün",andres,,,,,,corporation_des_pelletiers,,72r,,24
+aves_aa_195_1444_0161,,,Veltin von Ehenheim,veltin,"ehenheim, von",,,,,corporation_des_pelletiers,,72r,,25
+aves_aa_195_1444_0162,,,Martin Westerman,martin,westermann,,,,,corporation_des_pelletiers,,72r,,26
+aves_aa_195_1444_0163,,,Lauwelin Dolde,lauwel,dolde,,,,,corporation_des_pelletiers,,72r,,27
+aves_aa_195_1444_0164,,,her Claus Schanlit altammeister,claus,schanlit,,,"['her', 'altammeister']",,corporation_des_tonneliers,,72v,,2
+aves_aa_195_1444_0165,,,Claus Vetter,claus,vetter,,,,,corporation_des_tonneliers,,72v,,3
+aves_aa_195_1444_0166,,,Hanns Bretteler,johanns,brettler,,,,,corporation_des_tonneliers,,72v,,4
+aves_aa_195_1444_0167,,,Hanns Dingesheim,johanns,dingsheim,,,,,corporation_des_tonneliers,,72v,,5
+aves_aa_195_1444_0168,,,Heintzeman Holtzhüser,heintz,holtzhauser,,,,,corporation_des_tonneliers,,72v,,6
+aves_aa_195_1444_0169,,,Wernlin an Steinstrosse,wernher,,"steinstrasse, an der",,,,corporation_des_tonneliers,,72v,,7
+aves_aa_195_1444_0170,,,Hanns Güngesheim uff Sant Elizabet gasse,johanns,gingsheim,,,,,corporation_des_tonneliers,,72v,,8
+aves_aa_195_1444_0171,,,Hans Dalheim under Kürsener,johanns,dahlheim,,,,,corporation_des_tonneliers,,72v,,9
+aves_aa_195_1444_0172,,,Claus von Barre,claus,"barre, von",,,,,corporation_des_tonneliers,,72v,,10
+aves_aa_195_1444_0173,,,Peter Selig,peter,seelig,,,,,corporation_des_tonneliers,,72v,,11
+aves_aa_195_1444_0174,,,Martzolff,martzolff,,,,,,corporation_des_tonneliers,,72v,,12
+aves_aa_195_1444_0175,,,Hanns Nefe,johanns,neffe,,,,,corporation_des_tonneliers,,72v,,13
+aves_aa_195_1444_0176,,,Claus Duntzenheim der rotherre,claus,duntzenheim,,,['rotherre'],,corporation_des_tanneurs,,72v,,15
+aves_aa_195_1444_0177,,,Hanns Bitsch,johanns,bitsch,,,,,corporation_des_tanneurs,,72v,,16
+aves_aa_195_1444_0178,,,Hanns Lore,johanns,lore,,,,,corporation_des_tanneurs,,72v,,17
+aves_aa_195_1444_0179,,,Erhart von Isenhusen,erhart,"issenhausen, von",,,,,corporation_des_tanneurs,,72v,,18
+aves_aa_195_1444_0180,,,Claus Lange,claus,lang,,,,,corporation_des_tanneurs,,72v,,19
+aves_aa_195_1444_0181,,,Claus Kücheler,claus,kücheler,,,,,corporation_des_tanneurs,,72v,,20
+aves_aa_195_1444_0182,,,Hanns Mynner,johanns,minner,,,,,corporation_des_tanneurs,,72v,,21
+aves_aa_195_1444_0183,,,Hanns Vendenheim,johanns,vendenheim,,,,,corporation_des_tanneurs,,72v,,22
+aves_aa_195_1444_0184,,,Diebolt von Sant,diebolt,"sant, von",,,,,corporation_des_tanneurs,,72v,,23
+aves_aa_195_1444_0185,,,Peter von Molsheim,peter,"molsheim, von",,,,,corporation_des_tanneurs,,72v,,24
+aves_aa_195_1444_0186,,,Hanns Schenck der alte,johanns,schenck,,der alte,,,corporation_des_gourmets_et_courtiers,,73r,,2
+aves_aa_195_1444_0187,,,Sitze der stallmeister,sixt,,,,['stallmeister'],,corporation_des_gourmets_et_courtiers,,73r,,3
+aves_aa_195_1444_0188,,,Jacob Hafener kouffhusherre,jacob,haffener,,,['kouffhusherre'],,corporation_des_gourmets_et_courtiers,,73r,,4
+aves_aa_195_1444_0189,,,Hanns Seger der rotherre,johanns,seger,,,['rotherre'],,corporation_des_gourmets_et_courtiers,,73r,,5
+aves_aa_195_1444_0190,,,Diebolt Brant,diebolt,brant,,,,,corporation_des_gourmets_et_courtiers,,73r,,6
+aves_aa_195_1444_0191,,,Wilhelm von Schuttern,wilhelm,"schuttern, von",,,,,corporation_des_gourmets_et_courtiers,,73r,,7
+aves_aa_195_1444_0192,,,Fridel Sidenfaden,friedrich,seidenfaden,,,,,corporation_des_gourmets_et_courtiers,,73r,,8
+aves_aa_195_1444_0193,,,Bernhart züm Rade,bernhart,"rad, zum",,,,,corporation_des_gourmets_et_courtiers,,73r,,9
+aves_aa_195_1444_0194,,,Hanns von Ütenheim,johanns,"uttenheim, von",,,,,corporation_des_gourmets_et_courtiers,,73r,,10
+aves_aa_195_1444_0195,,,Peter zür Kronen,peter,,,,,,corporation_des_gourmets_et_courtiers,,73r,,11
+aves_aa_195_1444_0196,,,Alhelm von Worms,adalhelm,"worms, von",,,,,corporation_des_gourmets_et_courtiers,,73r,,12
+aves_aa_195_1444_0197,,,Hanns Kipkorn schaffener,johanns,kipkorn,,,['schaffener'],,corporation_des_gourmets_et_courtiers,,73r,,13
+aves_aa_195_1444_0198,,,Sifrit Zerig der rotherre,sifrit,zerig,,,['rotherre'],,corporation_des_tailleurs,,73r,,15
+aves_aa_195_1444_0199,,,Jacob Rotgebe,jacob,rotgebe,,,,,corporation_des_tailleurs,,73r,,16
+aves_aa_195_1444_0200,,,Monschin,monschein,,,,,,corporation_des_tailleurs,,73r,,17
+aves_aa_195_1444_0201,,,Hanns Zoller,johanns,zoller,,,,,corporation_des_tailleurs,,73r,,18
+aves_aa_195_1444_0202,,,Heinrich Eckendorff,heinrich,eckendorf,,,,,corporation_des_tailleurs,,73r,,19
+aves_aa_195_1444_0203,,,Conrat Arnolt,konrat,arnolt,,,,,corporation_des_tailleurs,,73r,,20
+aves_aa_195_1444_0204,,,Conrat Schrotbanck,konrat,schrotbanck,,,,,corporation_des_tailleurs,,73r,,21
+aves_aa_195_1444_0205,,,Dietrich Leistman,dietrich,leistmann,,,,,corporation_des_tailleurs,,73r,,22
+aves_aa_195_1444_0206,,,Heinrich von Dürnyngen,heinrich,"dürningen, von",,,,,corporation_des_tailleurs,,73r,,23
+aves_aa_195_1444_0207,,,Ortliep Schrotbanck,ortlieb,schrotbanck,,,,,corporation_des_tailleurs,,73r,,24
+aves_aa_195_1444_0208,,,Hanns von Lutern,johanns,"lautern, von",,,,,corporation_des_tailleurs,,73r,,25
+aves_aa_195_1444_0209,,,Krafft von Mentz,kraft,"mentz, von",,,,,corporation_des_tailleurs,,73r,,26
+aves_aa_195_1444_0210,,,Hanns Hüsz,johanns,hüss,,,,,corporation_des_tailleurs,,73r,,27
+aves_aa_195_1444_0211,,,Hanns von Sungouwe,johanns,"sundgau, von",,,,,corporation_des_tailleurs,,73r,,28
+aves_aa_195_1444_0212,,,Heinrich Meiger,heinrich,meiger,,,,,corporation_des_forgerons,,73v,,2
+aves_aa_195_1444_0213,,,Peter Vilinger,peter,villinger,,,,,corporation_des_forgerons,,73v,,3
+aves_aa_195_1444_0214,,,Rüle von Truhtersheim,ruhlemann,"trüchtersheim, von",,,,,corporation_des_forgerons,,73v,,4
+aves_aa_195_1444_0215,,,Lienhart Welsh,lienhart,welsch,,,,,corporation_des_forgerons,,73v,,5
+aves_aa_195_1444_0216,,,Cüntz Rosenberg,küntz,rosemberg,,,,,corporation_des_forgerons,,73v,,6
+aves_aa_195_1444_0217,,,Claus Lembelin,claus,lembelin,,,,,corporation_des_forgerons,,73v,,7
+aves_aa_195_1444_0218,,,Götze Omeder,götze,ohmeter,,,,,corporation_des_forgerons,,73v,,8
+aves_aa_195_1444_0219,,,Heinrich Erstenberg,heinrich,erstenberg,,,,,corporation_des_forgerons,,73v,,9
+aves_aa_195_1444_0220,,,Hanns Wideman der rotherre,johanns,weidemann,,,['rotherre'],,corporation_des_forgerons,,73v,,10
+aves_aa_195_1444_0221,,,Hanns Glockengiesser,johanns,glockengiesser,,,,,corporation_des_forgerons,,73v,,11
+aves_aa_195_1444_0222,,,Hanns Wiszysen,johanns,weisseisen,,,,,corporation_des_forgerons,,73v,,12
+aves_aa_195_1444_0223,,,Peter Adam,peter,adam,,,,,corporation_des_forgerons,,73v,,13
+aves_aa_195_1444_0224,,,Hanns Allewelt,johanns,allewelt,,,,,corporation_des_forgerons,,73v,,14
+aves_aa_195_1444_0225,,,Ludeman am vischmercket,ludwig,,,,,,corporation_des_forgerons,,73v,,15
+aves_aa_195_1444_0226,,,Claus von Belheim,claus,"bellheim, von",,,,,corporation_des_forgerons,,73v,,16
+aves_aa_195_1444_0227,,,Behtolt Stückgarter,bechtolt,stückgarter,,,,,corporation_des_forgerons,,73v,,17
+aves_aa_195_1444_0228,,,Hanns Hechede,johanns,hechde,,,,,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,20
+aves_aa_195_1444_0229,,,Richart von Heiligenstein,richart,"heiligenstein, von",,,,,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,21
+aves_aa_195_1444_0230,,,Hanseman Stalle,johanns,stalle,,,,,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,22
+aves_aa_195_1444_0231,,,Jost Lötysen,jost,loteisen,,,,,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,23
+aves_aa_195_1444_0232,,,Hanns Stüdel der rotherre,johanns,studel,,,['rotherre'],,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,24
+aves_aa_195_1444_0233,,,Claus Bintzel,claus,bintz,,,,,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,25
+aves_aa_195_1444_0234,,,Jeckel Swartz,jeckel,schwartz,,,,,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,26
+aves_aa_195_1444_0235,,,Veltin,veltin,,,,,,corporation_des_crieurs_et_mesureurs_de_vin,,73v,,27
+aves_aa_195_1444_0236,,,Rüdolff,rudolff,,,,,,corporation_des_barbiers_et_baigneurs,,74r,,2
+aves_aa_195_1444_0237,,,Walther zü Sant Thoman der rotherre,walther,,,,['rotherre'],,corporation_des_barbiers_et_baigneurs,,74r,,3
+aves_aa_195_1444_0238,,,Peter von Brümat,peter,"brümath, von",,,,,corporation_des_barbiers_et_baigneurs,,74r,,4
+aves_aa_195_1444_0239,,,Wurtzgart,,wurtzgarten,,,,,corporation_des_barbiers_et_baigneurs,,74r,,5
+aves_aa_195_1444_0240,,,Hanns züm Sluch,johanns,,,,,,corporation_des_barbiers_et_baigneurs,,74r,,6
+aves_aa_195_1444_0241,,,Hanns von Molsheim,johanns,"molsheim, von",,,,,corporation_des_barbiers_et_baigneurs,,74r,,7
+aves_aa_195_1444_0242,,,Richart,richart,,,,,,corporation_des_barbiers_et_baigneurs,,74r,,8
+aves_aa_195_1444_0243,,,Michel zü Sant Steffan,michel,,"sankt-stefan, zu",,,,corporation_des_barbiers_et_baigneurs,,74r,,9
+aves_aa_195_1444_0244,,,Jörge Wolff,jerge,wolff,,,,,corporation_des_barbiers_et_baigneurs,,74r,,10
+aves_aa_195_1444_0245,,,Hanns Müsung,johanns,müsung,,,,,corporation_des_barbiers_et_baigneurs,,74r,,11
+aves_aa_195_1444_0246,,,Claus by der Metzigen,claus,,,,,,corporation_des_barbiers_et_baigneurs,,74r,,12
+aves_aa_195_1444_0247,,,Heinrich by Sant Martin,heinrich,,,,,,corporation_des_barbiers_et_baigneurs,,74r,,13
+aves_aa_195_1444_0248,,,Andres am Pfennigturn,andres,,,,,,corporation_des_barbiers_et_baigneurs,,74r,,15
+aves_aa_195_1444_0249,,,Ohswalt Flach,oswalt,flach,,,,,corporation_des_barbiers_et_baigneurs,,74r,,16
+aves_aa_195_1444_0250,,,Marx Rorer,marx,rohrer,,,,,corporation_des_barbiers_et_baigneurs,,74r,,17
+aves_aa_195_1444_0251,,,Peter Rorer,peter,rohrer,,,,,corporation_des_barbiers_et_baigneurs,,74r,,18
+aves_aa_195_1444_0252,,,Hanseman Wolff,johanns,wolff,,,,,corporation_des_barbiers_et_baigneurs,,74r,,19
+aves_aa_195_1444_0253,,,Üntzel uff dem Graben,üntzel,,"graben, auf dem",,,,corporation_des_barbiers_et_baigneurs,,74r,,20
+aves_aa_195_1444_0254,,,Andres under Kürsenern,andres,,,,,,corporation_des_barbiers_et_baigneurs,,74r,,21
+aves_aa_195_1444_0255,,,Peter von Lampertheim,peter,"lampertheim, von",,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,23
+aves_aa_195_1444_0256,,,Ülrich von Lampertheim,ulrich,"lampertheim, von",,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,24
+aves_aa_195_1444_0257,,,Claus von Lampertheim,claus,"lampertheim, von",,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,25
+aves_aa_195_1444_0258,,,Claus Kempff,claus,kempf,,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,26
+aves_aa_195_1444_0259,,,Lentzel am Vischmercket,laurentz,,,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,27
+aves_aa_195_1444_0260,,,Cüntz von Mentze,küntz,"mentz, von",,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,28
+aves_aa_195_1444_0261,,,Gabehert,gebhart,,,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,29
+aves_aa_195_1444_0262,,,Jerge Schaffener,jerge,schaffner,,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,30
+aves_aa_195_1444_0263,,,Behtolt Hügeler,bechtolt,hügeler,,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,31
+aves_aa_195_1444_0264,,,Claus Fründe,claus,freund,,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,32
+aves_aa_195_1444_0265,,,Hanns Knapp,johanns,knapp,,,,,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,74r,,33
+aves_aa_195_1444_0266,,,Hanns Pfowe,johanns,pfau,,,,,corporation_des_cordonniers,,74v,,2
+aves_aa_195_1444_0267,,,Cüntze Heiden der rotherre,küntz,heide,,,['rotherre'],,corporation_des_cordonniers,,74v,,3
+aves_aa_195_1444_0268,,,Bernhart Hasenore,bernhart,hasenohr,,,,,corporation_des_cordonniers,,74v,,4
+aves_aa_195_1444_0269,,,Obreht Bender,obrecht,bender,,,,,corporation_des_cordonniers,,74v,,5
+aves_aa_195_1444_0270,,,Reimbolt von Wile,reimbolt,"wile, von",,,,,corporation_des_cordonniers,,74v,,6
+aves_aa_195_1444_0271,,,Heintz Üsenberg,heintz,üsenberg,,,,,corporation_des_cordonniers,,74v,,7
+aves_aa_195_1444_0272,,,der schultheiss                            von Molsheim,,,molsheim,,['schultheiss'],,corporation_des_cordonniers,,74v,,8
+aves_aa_195_1444_0273,,,Claus Smyt,claus,schmied,,,,,corporation_des_cordonniers,,74v,,9
+aves_aa_195_1444_0274,,,Adolff Stumpf,adolff,stumpf,,,,,corporation_des_cordonniers,,74v,,10
+aves_aa_195_1444_0275,,,Burckart Lehel,burkhart,lehel,,,,,corporation_des_cordonniers,,74v,,11
+aves_aa_195_1444_0276,,,Hanns Günther,johanns,gunther,,,,,corporation_des_cordonniers,,74v,,12
+aves_aa_195_1444_0277,,,Hanns Kum noch Hint,johanns,komm nach hinten,,,,,corporation_des_cordonniers,,74v,,13
+aves_aa_195_1444_0278,,,Erhart von Wangen,erhart,"wangen, von",,,,,corporation_des_cordonniers,,74v,,14
+aves_aa_195_1444_0279,,,Hanns Hennenberg,johanns,hennenberg,,,,,corporation_des_cordonniers,,74v,,15
+aves_aa_195_1444_0280,,,Hanns Götze,johanns,götze,,,,,corporation_des_cordonniers,,74v,,16
+aves_aa_195_1444_0281,,,meister Flösz,,flöss,,,['meister'],,corporation_des_cordonniers,,74v,,17
+aves_aa_195_1444_0282,,,Claus Pfaffe,claus,pfaffe,,,,,corporation_des_pêcheurs,,74v,,19
+aves_aa_195_1444_0283,,,Laulin Butte,lauwel,butte,,,,,corporation_des_pêcheurs,,74v,,20
+aves_aa_195_1444_0284,,,Mathis Ülrich,mathis,ulrich,,,,,corporation_des_pêcheurs,,74v,,21
+aves_aa_195_1444_0285,,,Hensel Röttel,hensel,röttel,,,,,corporation_des_pêcheurs,,74v,,22
+aves_aa_195_1444_0286,,,Hanns Diebolt,johanns,diebolt,,,,,corporation_des_pêcheurs,,74v,,23
+aves_aa_195_1444_0287,,,Hanns Leheman,johanns,lehmann,,,,,corporation_des_pêcheurs,,74v,,24
+aves_aa_195_1444_0288,,,Michel Suntheim,michel,sundheim,,,,,corporation_des_pêcheurs,,74v,,25
+aves_aa_195_1444_0289,,,Hanns Lamb der rotherre,johanns,lamb,,,['rotherre'],,corporation_des_pêcheurs,,74v,,26
+aves_aa_195_1444_0290,,,Jerge Schertzheim,jerge,schertzheim,,,,,corporation_des_pêcheurs,,74v,,27
+aves_aa_195_1444_0291,,,Behtolt Lamb,bechtolt,lamb,,,,,corporation_des_pêcheurs,,74v,,28
+aves_aa_195_1444_0292,,,Claus Vachman,claus,fachmann,,,,,corporation_des_pêcheurs,,74v,,29
+aves_aa_195_1444_0293,,,Dietrich Münich,dietrich,münch,,,,,corporation_des_pêcheurs,,74v,,30
+aves_aa_195_1444_0294,,,Claus Lusche,claus,lusche,,,,,corporation_des_pêcheurs,,74v,,31
+aves_aa_195_1444_0295,,,Anshelm Grave,anshelm,graff,,,,,corporation_des_pêcheurs,,74v,,32
+aves_aa_195_1444_0296,,,Laulin Bentze,lauwel,bentz,,,,,corporation_des_pêcheurs,,74v,,33
+aves_aa_195_1444_0297,,,Hanns Klige der rotherre,johanns,klige,,,['rotherre'],,constructeurs_de_bateaux,,75r,,2
+aves_aa_195_1444_0298,,,Hanns Hetteman,johanns,hettemann,,,,,constructeurs_de_bateaux,,75r,,3
+aves_aa_195_1444_0299,,,Cüntz Klie,küntz,klige,,,,,constructeurs_de_bateaux,,75r,,4
+aves_aa_195_1444_0300,,,Jerge Dritzehen der schultheisse,jerge,dreitzehn,,,['schultheisse'],,corporation_des_charrons,,75r,,6
+aves_aa_195_1444_0301,,,Peter Gerbott der rotherre,peter,gerbot,,,['rotherre'],,corporation_des_charrons,,75r,,7
+aves_aa_195_1444_0302,,,Fritsch Rinstett,fritsch,"rheinstett, von",,,,,corporation_des_charrons,,75r,,8
+aves_aa_195_1444_0303,,,Oberlin Treger,oberlin,träger,,,,,corporation_des_charrons,,75r,,9
+aves_aa_195_1444_0304,,,Hanns Treger,johanns,träger,,,,,corporation_des_charrons,,75r,,10
+aves_aa_195_1444_0305,,,Hanns Reinhart,johanns,reinhart,,,,,corporation_des_charrons,,75r,,11
+aves_aa_195_1444_0306,,,Hanns zür Nuwenbürge,johanns,,,,,,corporation_des_charrons,,75r,,12
+aves_aa_195_1444_0307,,,Oberlin Liebekint,oberlin,liebkint,,,,,corporation_des_charrons,,75r,,13
+aves_aa_195_1444_0308,,,Conrat Sahsbach,konrat,sassbach,,,,,corporation_des_charrons,,75r,,14
+aves_aa_195_1444_0309,,,Hanns Claus,johanns,claus,,,,,corporation_des_charrons,,75r,,15
+aves_aa_195_1444_0310,,,Hanns Spilman,johanns,spielmann,,,,,corporation_des_charrons,,75r,,16
+aves_aa_195_1444_0311,,,Jacob Fursenbach,jacob,fürsenbach,,,,,corporation_des_charrons,,75r,,17
+aves_aa_195_1444_0312,,,Hanseman Kiebel,johanns,kiebel,,,,,corporation_des_charrons,,75r,,18
+aves_aa_195_1444_0313,,,Hanns Spete der rotherre,johanns,spete,,,['rotherre'],,corporation_des_jardiniers,,75v,,3
+aves_aa_195_1444_0314,,,Jacob Clowe,jacob,klaue,,,,,corporation_des_jardiniers,,75v,,4
+aves_aa_195_1444_0315,,,Claus Duntzenheim,claus,duntzenheim,,,,,corporation_des_jardiniers,,75v,,5
+aves_aa_195_1444_0316,,,Cüntzel Fleisch der alte,küntz,fleisch,,der alte,,,corporation_des_jardiniers,,75v,,6
+aves_aa_195_1444_0317,,,Hanns Henckin,johanns,henneckin,,,,,corporation_des_jardiniers,,75v,,7
+aves_aa_195_1444_0318,,,Henselin Drens,hensel,drens,,,,,corporation_des_jardiniers,,75v,,8
+aves_aa_195_1444_0319,,,Hanns Peter,johanns,peter,,,,,corporation_des_jardiniers,,75v,,10
+aves_aa_195_1444_0320,,,Kürin,kürin,,,,,,corporation_des_jardiniers,,75v,,11
+aves_aa_195_1444_0321,,,Peter Lampreht,peter,lamprecht,,,,,corporation_des_jardiniers,,75v,,13
+aves_aa_195_1444_0322,,,Hanns Hirte,johanns,hirt,,,,,corporation_des_jardiniers,,75v,,14
+aves_aa_195_1444_0323,,,Hanns Ersam,johanns,ersam,,,,,corporation_des_jardiniers,,75v,,15
+aves_aa_195_1444_0324,,,Hanns Kilwart der junge,johanns,kilwart,,der junge,,,corporation_des_jardiniers,,75v,,16
+aves_aa_195_1444_0325,,,Mennel,männel,,,,,,corporation_des_jardiniers,,75v,,18
+aves_aa_195_1444_0326,,,Hensel Mynne,hensel,minner,,,,,corporation_des_jardiniers,,75v,,19
+aves_aa_195_1444_0327,,,Claus Künig der rotherre,claus,könig,,,['rotherre'],,corporation_des_tisserands,,76r,,2
+aves_aa_195_1444_0328,,,Hanns Spiegel,johanns,spiegel,,,,,corporation_des_tisserands,,76r,,3
+aves_aa_195_1444_0329,,,Diebolt Renner,diebolt,renner,,,,,corporation_des_tisserands,,76r,,4
+aves_aa_195_1444_0330,,,Hanns Koch der alte,johanns,koch,,der alte,,,corporation_des_tisserands,,76r,,5
+aves_aa_195_1444_0331,,,Hanns Koch der junge,johanns,koch,,der junge,,,corporation_des_tisserands,,76r,,6
+aves_aa_195_1444_0332,,,Hanns Girbaden,johanns,girbaden,,,,,corporation_des_tisserands,,76r,,7
+aves_aa_195_1444_0333,,,Hanseman Morung,johanns,morung,,,,,corporation_des_tisserands,,76r,,8
+aves_aa_195_1444_0334,,,Hanns von Wile,johanns,"wile, von",,,,,corporation_des_tisserands,,76r,,9
+aves_aa_195_1444_0335,,,Hanns Wyldersynn,johanns,wildersinn,,,,,corporation_des_tisserands,,76r,,10
+aves_aa_195_1444_0336,,,Hanns Hebenagel,johanns,hebnagel,,,,,corporation_des_tisserands,,76r,,11
+aves_aa_195_1444_0337,,,Hanns von Than,johanns,"thann, von",,,,,corporation_des_tisserands,,76r,,12
+aves_aa_195_1444_0338,,,Peter von Korck,peter,"kork, von",,,,,corporation_des_tisserands,,76r,,13
+aves_aa_195_1444_0339,,,Hanns von Sletstat,johanns,"schlettstadt, von",,,,,corporation_des_tisserands,,76r,,14
+aves_aa_195_1444_0340,,,Lütoltz Michel,lütholt,michel,,,,,corporation_des_tisserands,,76r,,15
+aves_aa_195_1444_0341,,,Hanns Wipolt der rotherre,johanns,weipolt,,,['rotherre'],,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,17
+aves_aa_195_1444_0342,,,Fritsch Volmar,fritsch,volmar,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,18
+aves_aa_195_1444_0343,,,Claus Volmar,claus,volmar,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,19
+aves_aa_195_1444_0344,,,Hanns Swencker,johanns,schwencker,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,20
+aves_aa_195_1444_0345,,,Fritsch Götfrit,fritsch,gottfriet,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,21
+aves_aa_195_1444_0346,,,Six,sixt,,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,22
+aves_aa_195_1444_0347,,,Peter Herbest,peter,herbst,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,23
+aves_aa_195_1444_0348,,,Veltin Mittelhus,veltin,mittelhausen,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,24
+aves_aa_195_1444_0349,,,Hanns Butze,johanns,butze,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,25
+aves_aa_195_1444_0350,,,Ülrich Kiebel,ulrich,kiebel,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,26
+aves_aa_195_1444_0351,,,Hanns Porte,johanns,porte,,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,27
+aves_aa_195_1444_0352,,,Hanns von Bergheim,johanns,"bergheim, von",,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,28
+aves_aa_195_1444_0353,,,Ülrich Weidelich der schreiber,ulrich,weidlich,,,['schreiber'],,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,29
+aves_aa_195_1444_0354,,,Andres von Gemer,andres,"gemersheim, von",,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,30
+aves_aa_195_1444_0355,,,Hanns von Molsheim,johanns,"molsheim, von",,,,,corporation_des_regrattiers_cordiers_et_fruitiers,,76r,,31
+aves_aa_195_1444_0356,,,Michel Ripel der alte,michel,rippel,,der alte,,,corporation_des_charpentiers,,76v,,2
+aves_aa_195_1444_0357,,,Michel Ripel der junge der rotherre,michel,rippel,,der junge,['rotherre'],,corporation_des_charpentiers,,76v,,3
+aves_aa_195_1444_0358,,,Fritsch uff dem Werde,fritsch,,"werde, uff dem",,,,corporation_des_charpentiers,,76v,,4
+aves_aa_195_1444_0359,,,Bernhart Ripel,bernhart,rippel,,,,,corporation_des_charpentiers,,76v,,5
+aves_aa_195_1444_0360,,,Claus Graseck,claus,grasseck,,,,,corporation_des_charpentiers,,76v,,6
+aves_aa_195_1444_0361,,,Erhart Winsticher,erhart,winsticher,,,,,corporation_des_charpentiers,,76v,,7
+aves_aa_195_1444_0362,,,Wilhelm von Geispoltzheim,wilhelm,"geispoltzheim, von",,,,,corporation_des_charpentiers,,76v,,8
+aves_aa_195_1444_0363,,,Conrat Swartz,konrat,schwartz,,,,,corporation_des_charpentiers,,76v,,9
+aves_aa_195_1444_0364,,,Hanns von Berckheim,johanns,"bergheim, von",,,,,corporation_des_charpentiers,,76v,,10
+aves_aa_195_1444_0365,,,Hanns Walt der rotherre,johanns,walt,,,['rotherre'],,corporation_des_maçons,,76v,,12
+aves_aa_195_1444_0366,,,meister Ammeister,,ammeister,,,['meister'],,corporation_des_maçons,,76v,,13
+aves_aa_195_1444_0367,,,Claus Estericher,claus,österreicher,,,,,corporation_des_maçons,,76v,,14
+aves_aa_195_1444_0368,,,Hanns Clein der kacheler,johanns,klein,,,['kacheler'],,corporation_des_maçons,,76v,,15
+aves_aa_195_1444_0369,,,Peter Estericher,peter,österreicher,,,,,corporation_des_maçons,,76v,,16
+aves_aa_195_1444_0370,,,Michel Ganser der kacheler,michel,ganser,,,['kacheler'],,corporation_des_maçons,,76v,,17
+aves_aa_195_1444_0371,,,Sifrit von Zabern,sifrit,"zabern, von",,,,,corporation_des_maçons,,76v,,18
+aves_aa_195_1444_0372,,,Hanns Smyde,johanns,schmied,,,,,corporation_des_maçons,,76v,,19
+aves_aa_195_1444_0373,,,Friderich Bösch,friedrich,bösch,,,,,corporation_des_maçons,,76v,,20
+aves_aa_195_1444_0374,,,Stoffelus Wernlin,stoffelus,wernlin,,,,,corporation_des_maçons,,76v,,21
+aves_aa_195_1444_0375,,,Friderich der kacheler,friedrich,,,,['kacheler'],,corporation_des_maçons,,76v,,22
+aves_aa_195_1444_0376,,,Sigel von Dürnyngen der rotherre,sigel,"dürningen, von",,,['rotherre'],,corporation_des_coltineurs_de_tonneaux,,77r,,2
+aves_aa_195_1444_0377,,,Hanns Paulus,johanns,paulus,,,,,corporation_des_coltineurs_de_tonneaux,,77r,,3
+aves_aa_195_1444_0378,,,Hanns Hirt der alte,johanns,hirt,,der alte,,,corporation_des_coltineurs_de_tonneaux,,77r,,4
+aves_aa_195_1444_0379,,,Symont Förster,symont,förster,,,,,corporation_des_coltineurs_de_tonneaux,,77r,,5
