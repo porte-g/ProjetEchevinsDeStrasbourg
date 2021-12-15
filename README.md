@@ -56,23 +56,40 @@ Les échevins étaient au nombre de 381 et étaient inégalement répartis entre
 
 <img src="imagesMD/echevinscorpo.png" style="display: block; margin: auto;" />
 
-Dans un effort continu de rationnalisation de son système institutionnel, la ville réduit le nombre de corporation à trois reprises (1462, 1470 et 1482). Les membres d'une corporation supprimée intègrent une autre corporation ou sont répartis entre plusieurs d'entre elles. On peut imaginer qu'il en va de même pour les échevins puisque leur nombre au des corporations les moins importantes augmente progressivement au cours de la seconde moitié du XVe siècle jusqu'à atteindre 15 alors que les collèges échevinaux des corporations les plus importantes se réduisent à 15.
+Dans un effort continu de rationnalisation de son système institutionnel, la ville réduit le nombre de corporation à trois reprises (1462, 1470 et 1482).
+Les membres d'une corporation supprimée intègrent une autre corporation ou sont répartis entre plusieurs autres.
+Il en va de même pour les échevins : leur nombre augmente progressivement au sein des corporations les moins importantes tout au long de la seconde moitié du XVe siècle jusqu'à en atteindre 15, alors que les collèges échevinaux des corporations les plus importantes se réduisent à 15.
 
 ### Problématique<a name="Problématique"></a>
-L'évolution institutionnelle de l'office d'échevin a été étudié en détail dans le cadre des études sur l'organisation politique, sociale et institutionnelle de la ville libre, mais toujours par le prisme des textes de loi. Nous souhaitons aborder le groupe social constitué par les échevins par le bas en en proposant une prosopographie. Nous allons analyser les sources à notre disposition afin d'identifier les fonctions tacites de l'échevinat et les dynamiques internes aux collèges échinaux corporatifs.
+L'évolution institutionnelle de l'office d'échevin a été étudié en détail dans le cadre d'études sur l'organisation politique et institutionnelle de la ville libre, mais toujours par le prisme des textes de loi. Nous souhaitons aborder le groupe social des échevins par les sources administratives et en en proposant une prosopographie.
+Nous analyserons les sources à notre disposition pour identifier les fonctions tacites de l'échevinat et les dynamiques internes aux collèges échinaux corporatifs.
 
-En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'intègre à la société strasbourgeoise médiévale. Tous les échevins finissent-ils par briguer les plus hautes magistratures du système institutionnel strasbourgeois ? L'ascension politique concerne-t-elle une majorité des échevins, ou au contraire seulement une minortié d'entre eux ? Existe-t-il une discrimination entre les carrières des échevins selon leur métier et leur corporation ?
+En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'intègre à la société strasbourgeoise médiévale.
+Tous les échevins finissent-ils par briguer les plus hautes magistratures du système institutionnel strasbourgeois ?
+L'ascension politique concerne-t-elle une majorité des échevins, ou au contraire seulement une minortié d'entre eux ?
+Existe-t-il une discrimination entre les carrières politique selon le métier et la corporation ?
 
-Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue. Peu de sources permettent de documenter les identités de la totalités des échevins de Strasbourg pour une date donnée. Nous allons nous intéresser aux échevins et à ceux d'entre eux qui accédèrent à des magistratures supérieures : représentants au conseil des corporations et ammeistres.
+Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue.
+Peu de documents permettent de retracer l'identités de la totalité des échevins de Strasbourg pour une date donnée.
+Nous intéresser aux échevins les plus influents politiquement permet de contourner cette obstacle pour une partie des individus ayant exercé l'office.
+En effet les représentants des corporations au conseil et l'ammeistre sont tous issus de l'échevinat et la constitution du conseil a été documentée en détail pour toute la durée du XVe siècle.
 
 ## Acquisition des données<a name="Acquisition"></a>
 ### Présentation des sources<a name="Présentation"></a>
-Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie ; il liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage. Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations. Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963. Très utile, cette édition documente les membres du conseil jusqu'en 1603, mais en raison du très grand nombre de magistrats mentionnés, le travail de réconciliation manuel des occurences en autorité a souffert de quelques erreurs. Ces listes nous permettent de créer un référentiel contenant l'identité de tous les échevins ayant exercé une magistrature au conseil .
+Nous avons exploité deux sources principales.
+La première source est le premier livre de bourgeoisie.
+Ce codex liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage.
+Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiées au début du registre au cours du XVe siècle.
+Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations.
+Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963.
+Très utile, cette édition documente les membres du conseil jusqu'en 1603, mais en raison du très grand nombre de magistrats mentionnés, le travail de réconciliation manuel des occurences en autorité a souffert de quelques erreurs.
+Ces listes nous permettent de créer un référentiel contenant l'identité de tous les échevins ayant exercé une magistrature au conseil.
 
 <img src="imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
-<em>AVES 4R, liste des conseils de 1445 et 1446.</em>
     
-Notre seconde source est une liste d'armement datée de 1444. Ces listes nomment tous les bourgeois dans l'obligation de participer à l'effort de guerre, en servant sous les bannières ou en fournissant du matériel et un remplaçant. Elle liste tous les échevins des métiers, par corporation.
+Notre seconde source est une liste d'armement datée de 1444.
+Ces listes rédigées dans un livret nomment tous les bourgeois dans l'obligation de participer à l'effort de guerre, en servant sous les bannières (corporatives ou patriciennes) ou en fournissant du matériel et un remplaçant.
+Elle présente la particularité de lister tous les échevins des métiers nominalement, par corporation.
 
 <img src="imagesMD/aves_aa_195_69v_70r.JPG" style="display: block; margin: auto;" />
 
@@ -80,14 +97,18 @@ Croiser ces deux documents en identifiant les individus nommés nous permettrait
 
 ### Transcription<a name="Transcription"></a>
 
-J'envisageais au départ d'employer la technologie HTR de [Kraken](http://kraken.re/master/index.html) via [Escriptorium](https://gitlab.inria.fr/scripta/escriptorium) pour transcrire automatiquement mon corpus. Cependant, en raison de la pluralité des mains et du volume documentaire restreint disponible pour chacune d'elles rendent, investir du temps à entrainer un modèle par main, ou un modèle multimain aurait été contre-productif.
+J'envisageais au départ d'employer la technologie HTR de [Kraken](http://kraken.re/master/index.html) via [Escriptorium](https://gitlab.inria.fr/scripta/escriptorium) pour transcrire automatiquement mon corpus.
+Cependant, en raison de la pluralité des mains et du volume documentaire restreint disponible pour chacune d'elles rendent, investir du temps à entrainer un modèle par main, ou un modèle multimain aurait été contre-productif.
 
-Nous avons donc procédé à la transcription des 100 listes du conseil (1400-1499) et des listes d'armement des échevins des métiers (1444) manuellement. Nous avons transcrit l'intégralité des liste du conseil dans une perspective de données ouverte et de réutilisation. Nous avons choisi de développer les abbréviations et de ne pas normaliser la graphie des mots, pourtant marquée fortement pas les géolectes et les idiolectes. Dans un contexte orthographique à géométrie variable, nous avons choisi de repousser la normalisation des noms de nos échevins à une étape ultérieure. Normaliser dès la transcription un texte sujet à la trascription automatique et donc fortement inféodé aux idiolectes et géolectes de l'auteur augmente fortement les risques d'erreur et de faux négatif lors de la réunion des différentes mentions du même échevin en une autorité.
+Nous avons donc procédé à la transcription des 100 listes du conseil (1400-1499) et des listes d'armement des échevins des métiers (1444) manuellement.
+Nous avons transcrit l'intégralité des liste du conseil dans une perspective de données ouverte et de réutilisation.
+Nous avons choisi de développer les abbréviations et de ne pas normaliser la graphie des mots, pourtant marquée fortement pas les géolectes et les idiolectes. Dans un contexte sans norme orthographe, nous avons choisi de repousser la normalisation des noms de nos échevins à une étape ultérieure.
+Normaliser dès la transcription un document sujet à des variations dues aux idiolectes et géolectes des rédacteurs augmente fortement les risques d'erreur (notamment celui des faux négatifs) lors de la réunion des différentes mentions du même échevin en une autorité.
 
 ### Encodage XML<a name="Encodage"></a>
 Le but premier de l'encodage des documents est d'en extraire toutes les informations prosopographiques disponibles.
 Nous avons ensuite encodé notre document en XML en reprenant des balises de la grammaire développée par le consortium [TEI](https://tei-c.org/).
-La traçabilité des informations collectées est assurée par un premier jeu de balises mobilisé afin d'accéder aux métadonnées relatives à chaque mention d'échevin. Ces métadonnées permettent de localiser l'information dans la source.
+La traçabilité des informations collectées est assurée par un premier jeu de balises mobilisé afin d'accéder aux métadonnées relatives à chaque mention d'échevin. Ces métadonnées permettent de localiser l'information dans la source :
 
 | balise | contenu                           | attributs                   |
 | ------ | --------------------------------- | --------------------------- |
@@ -96,7 +117,8 @@ La traçabilité des informations collectées est assurée par un premier jeu de
 | [lb](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-lb.html)     | nouvelle ligne                    | n(nombre)                   |
 | [p](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-p.html)      | paragraphe                        |                             |
 
-Un second jeu de balises encode les données relatives aux informations prosopographiques disponibles dans les sources pour chaque individu. Elles concernent l'anthroponymie, mais également de l'appartenance professionnelle, sociale et politique de l'individu.
+Un second jeu de balises encode les données relatives aux informations prosopographiques disponibles dans les sources pour chaque individu.
+Elles concernent l'anthroponymie, mais également de l'appartenance professionnelle, sociale et politique de l'individu.
 
 | balise   | contenu                           | attributs                   |
 | -------- | --------------------------------- | --------------------------- |
@@ -108,9 +130,9 @@ Un second jeu de balises encode les données relatives aux informations prosopog
 | [addName](https://tei-c.org/release/doc/tei-p5-doc/fr/html/ref-addName.html)   | surnom                            |                             |
 
 ### Normalisation<a name="Normalisation"></a>
-L'irrégularité des anthroponymes due à l'absence d'orthographe est un problème récurent pour tout historien s'intéressant aux langues vernaculaires.
+L'irrégularité des anthroponymes due à l'absence d'orthographe est un problème récurent pour de nombreux historien travaillant sur des sources rédigées en langues vernaculaires.
 Nous avons constitué des référentiels au format csv contenant au minimum un dictionnaire dont la clé est la forme normalisée et la valeur une liste des formes rejetées.
-Nous avons rédigé deux scripts qui permettent de les enrichir à partir de documents xml qui comportent des balises contenant des formes rejetées.
+Nous avons rédigé deux scripts qui permettent de les enrichir à partir de documents xml contenant dans des balises des formes non normalisées.
 Le [premier](./Referentiels/EnrichissementCsvPrenom.ipynb) permet de créer un [référentiel](./Referentiels/ReferentielPrenoms.csv) pour les prénoms.
 Le référentiel des prénoms propose pour chaque forme normalisée, la traduction française, un essai de typologie ainsi que la liste des formes rejetées.
 
@@ -134,12 +156,13 @@ Le [second](./Referentiels/EnrichissementCsvNoms.ipynb) permet de créer un [ré
 Le choix des formes normalisées est empirique et tente d'harmoniser au mieux la graphie tout en restant le plus proches de la forme dominante.
 Il repose donc sur des choix qui nous sont personnels et peuvent être discutés, mais permettent en l'état de travailler plus efficacement nos données dans les étapes suivantes de notre projet.
 
-Les enrichissements relatifs à la typologie, à la traduction et aux renvois toponymiques ont été réalisés dans le but de faciliter la réutilisation des référentiels à diverses fins, par exemple une analyse des renvois toponymiques des noms de la totalité ou d'un sous-ensemble donnée de la population strasbourgeoise médiévale.
+Les enrichissements relatifs à la typologie, à la traduction et aux renvois toponymiques ont été réalisés dans le but de faciliter la réutilisation des référentiels à des fins diverses, par exemple une analyse des renvois toponymiques des noms de la totalité ou d'un sous-ensemble de la population strasbourgeoise médiévale.
 
 ### Parsing<a name="Parsing"></a>
 Nous avons élaboré un [script python](./Analyse/AnalyseListesConseil.ipynb) pour extraire les données relatives à chaque occurence d'individu.
 Notre script compare notamment les formes rejetées des anthroponymes avec nos fichiers référentiels pour en tirer la forme normalisée.
-Nous avons utilisé le module [Beautiful Soup (BS4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) pour parser notre document. Il est équipé du parseur [lxml](https://lxml.de/) et plus adapté aux documents irréguliers que ce dernier.
+Nous avons utilisé le module [Beautiful Soup (BS4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) pour parser notre document.
+Il est équipé du parseur [lxml](https://lxml.de/) et est plus adapté aux documents irréguliers que ce dernier.
 Il produit en sortie un [fichier csv](./Sources/ListesConseil) par année.
 Ces fichiers contiennent le rang de l'individu au conseil de l'année donnée, l'identifiant temporaire attribué à l'occurence, l'année de la magistrature, la magistrature exercée, l'occurence, le prénom normalisé, le nom normalisé, le surnom, le surnom générationnel, les titres et rôles, le corps civique, le poêle, la page, la colonne et la ligne de la mention.
 Ce sont des éditions des listes du conseil au format csv.
@@ -152,14 +175,13 @@ Ce sont des éditions des listes du conseil au format csv.
 | 32             | aves\_aa\_4R\_1400\_0032 | 1400                  | conseiller\_des\_bouchers   | Wilhelm Rotschilt                  | wilhelm    | rotschilt   |                |             |                        | echevinat         | corporation\_des\_bouchers   |           | 131      | 1           | 32        |
 
 ## Traitement des données<a name="Traitement"></a>
-À partir de ces fichiers csv, nous avons compilé à l'aide d'un autre [script](./Analyse/CompilationEchevins.ipynb) toutes les occurences relatives aux différents représentants des Métiers (conseillers des corporations et ammeistres) en un seul [fichier csv](./Analyse/Data/OccEch.csv ).
-Nous avons utilisé le module python [Jellyfish](https://pypi.org/project/jellyfish/), qui propose plusieurs algorithme permettant de calculer la distance ou la similarité entre des chaînes de caractères sur des chaînes de caractères.
+À partir de ces fichiers, nous avons compilé à l'aide d'un autre [script](./Analyse/CompilationEchevins.ipynb) toutes les occurences relatives aux différents représentants des Métiers (conseillers des corporations et ammeistres) en un seul [fichier csv](./Analyse/Data/OccEch.csv ).
+Nous avons ensuite utilisé le module python [Jellyfish](https://pypi.org/project/jellyfish/), qui propose plusieurs algorithme permettant de calculer la distance ou la similarité entre des chaînes de caractères sur des chaînes de caractères.
 Nous avons comparé une colonne de notre tableau avec elle-même (la concaténation du nom et du prénom normalisé) et généré plusieurs matrices de similarité et de distance à l'aide s'un [script](./Analyse/Recon.ipynb) python.
 Il serait possible d'améliorer ce script en ne générant que la moitié de la matrice en excluant la diagonale principale.
 Nous avons décidé d'employer la [distance de Jaro-Winkler](https://fr.wikipedia.org/wiki/Distance_de_Jaro-Winkler) car elle s'avère particulièrement bien adaptée au traitement de noms et de chaînes de caractères courtes de manière générale.
 
 <img src="imagesMD/jaro_distance.svg" style="display: block; margin: auto;" />
-|s_{i}| est la longueur de la chaîne de caractères s i {\displaystyle s_{i}} s_{i} ;
 
 <img src="imagesMD/winkler.svg" style="display: block; margin: auto;" />
 
@@ -174,15 +196,15 @@ Nous avons décidé d'employer la [distance de Jaro-Winkler](https://fr.wikipedi
 | aves\_aa\_4R\_auth\_0004 | \['aves\_aa\_4R\_1400\_0032'\]                                                                                                                                             | \[32\]                  | \[1400\]                               | \['conseiller\_des\_bouchers'\]                                                                                                                     | \['Wilhelm Rotschilt'\]                                                                                                                                                                      | \['wilhelm'\]                                                        | \['rotschilt'\]                                                            | \[nan\]                          | \[nan\]                          | \[nan\]                                                                                                                 | \['echevinat'\]                                                                  | \['corporation\_des\_bouchers'\]                                                                                                                         | \[nan\]                          | \[131\]                          | \[1.0\]                          | \[32\]                  | rotschilt, wilhelm     | 1      |
 | aves\_aa\_4R\_auth\_0005 | \['aves\_aa\_4R\_1400\_0033', 'aves\_aa\_4R\_1406\_0033', 'aves\_aa\_4R\_1410\_0033', 'aves\_aa\_4R\_1418\_0033', 'aves\_aa\_4R\_1422\_0020'\]                             | \[33, 33, 33, 33, 20\]  | \[1400, 1406, 1410, 1418, 1422\]       | \['conseiller\_des\_drapiers', 'conseiller\_des\_drapiers', 'conseiller\_des\_drapiers', 'conseiller\_des\_drapiers', 'conseiller\_des\_drapiers'\] | \['Claus Spilman', 'Claus Spilman', 'Claus Spilman', 'Claus Spilman', 'Claus Spilman'\]                                                                                                      | \['claus', 'claus', 'claus', 'claus', 'claus'\]                      | \['spielmann', 'spielmann', 'spielmann', 'spielmann', 'spielmann'\]        | \[nan, nan, nan, nan, nan\]      | \[nan, nan, nan, nan, nan\]      | \[nan, nan, nan, nan, nan\]                                                                                             | \['echevinat', 'echevinat', 'echevinat', 'echevinat', 'echevinat'\]              | \['corporation\_des\_drapiers', 'corporation\_des\_drapiers', 'corporation\_des\_drapiers', 'corporation\_des\_drapiers', 'corporation\_des\_drapiers'\] | \[nan, nan, nan, nan, nan\]      | \[131, 137, 141, 149, 153\]      | \[1.0, 1.0, 1.0, 1.0, 1.0\]      | \[33, 33, 33, 33, 20\]  | spielmann, claus       | 5      |
 
-Lors de la première projection de notre réseau nous avons constaté la présence de faux-positifs.
-Nous avons donc réalisé deux petites fonctions qui permettent de détecter les faux-négatifs en se basant sur les noms et les faux-positifs en se basant sur les différentes magistratures exercées par un individu.
-Il faut toutefois veiller à utiliser le déctecteur de faux négatifs avant le détecteur de faux-positifs, sans quoi le script détectera toutes les autorités déjà corrigées.
+Lors de la première projection de notre réseau nous avons constaté la présence de faux positifs.
+Nous avons donc réalisé deux petites fonctions qui permettent de détecter les faux négatifs en se basant sur les noms et les faux positifs en se basant sur les différentes magistratures exercées par un individu.
+Il faut veiller à utiliser le déctecteur de faux négatifs avant le détecteur de faux positifs, sans quoi le script détectera toutes les autorités déjà corrigées.
 
 ## Analyse de réseau<a name="NetworkAnalysis"></a>
 ### Création du jeu de données<a name="Creation"></a>
-Pour créer un jeu de données analysable à l'aide de la théorie des graphes, il faut générer deux tableurs : un tableur de liens (*edges*) et un tableur de noeuds (*summits*).
-Pour ce faire nous avons commencé par générer le tableur de liens à partir de notre tableur d'autorités.
-Pour chaque autorité, nous créons un lien avec chaque conseil au sein duquel elle fut magistrat.
+Pour créer un jeu de données que nous puissions analyser en nous servant de la théorie des graphes, il faut générer deux tableurs : un tableur de liens (*edges*) et un tableur de noeuds (*summits*).
+Nous avons commencé par générer le tableur de liens à partir de notre tableur d'autorités.
+Pour chaque autorité, nous créons un lien avec chaque conseil au sein duquel l'échevin fut magistrat.
 
 | Recid                    | subid                                                                                                                                                                      | Unnamed: 0              | anneeMagistrature                      | magistrature                                                                                                                                        | occurence                                                                                                                                                                                    | prenom                                                               | nom                                                                        | surnom                           | genName                          | titres\_roles                                                                                                           | corps\_civique                                                                   | corporation                                                                                                                                              | poele                            | page                             | colonne                          | ligne                   | AuthNameForename       | Length |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | ----------------------- | ---------------------- | ------ |
@@ -213,17 +235,20 @@ Voici la projection du réseau avant traitement :
 
 ### Analyse<a name="Analysis"></a>
 Nous avons réduit la dimensionalité de notre graphe à l'aide d'un module gephi [MultiMode Projections](https://github.com/jaroslav-kuchar/Multimode-Networks).
-Le réseau ne représente désormais plus les liens entre les échevins présents au conseil et les instances de celui-ci, mais les liens entre tous les échevins des Métiers ayant siégés simultanément au conseil de la ville. Nous sommes passés d'un graphe biparti à un graphe monoparti.
+Le réseau ne représente désormais plus les liens entre les échevins présents au conseil et les instances de celui-ci, mais les liens entre tous les échevins des Métiers ayant siégés simultanément au conseil de la ville.
+Nous sommes passés d'un graphe biparti à un graphe monoparti.
 
 <img src="Analyse/AnalyseRéseau/Rendus/SVG/conseil_15e_corpo.svg" style="display: block; margin: auto;" />
 
 Après avoir appliqué à notre réseau un algorithme de projection (ici *Force Atlas 2*), il adopte une forme allongée. Ce phénomène est logique puisque notre réseau s'inscrit dans le temps long.
-En calculant les classes de modularité les plus grandes possibles de notre réseau, elles sont au nombre de 4 et correspondent aux quarts de siècles.
+Plus un individu commence à exercer des magistratures tôt, moins ils ont de chance de croiser au conseil un individu commençant à exercer des magistratures tard.
+Les générations de magistrats et la continuité entre celles-ci sont structurantes pour notre réseau.
 
 <img src="imagesMD/Diametre/Betweenness Centrality Distribution.png" style="display: block; margin: auto;" />
 
-Intéressons nous à la centralité intermédiaire des points de notre graphe. Sans suprise, un très grand nombre d'individus ne sont pas centraux dans notre graphe.
-Ce sont les échevins aux marges; ceux qui ne participent qu'à un conseil au cours de leur carrière au conseil ou dont celle-ci s'achève au début ou à la fin du siècle étudié.
+Intéressons nous à la centralité intermédiaire des points de notre graphe.
+Sans suprise, un très grand nombre d'individus ne sont pas centraux dans notre graphe.
+Ce sont les échevins en marge ; ceux qui ne participent qu'à un conseil au cours de leur carrière au conseil ou dont celle-ci s'achève au début ou à la fin du siècle étudié.
 Certains individus sont au contraire caractérisé par une centralité très élevée, mais cette dernière chute très vite lorsqu'on fait défiler les individus.
 
 | Label                     | corporation                             | betweenesscentrality |
@@ -239,22 +264,22 @@ Certains individus sont au contraire caractérisé par une centralité très él
 | schalk, obrecht           | corporation\_des\_bateliers             | 0.029365             |
 | melbrühe, claus           | corporation\_des\_marchands\_de\_grains | 0.025289             |
 
-Bien que certains individus soient centraux, les corporation auxquelle ils appartiennent ne sont pas un facteur décisif de centralité.
-Au contraire, l'individu à la centralité la plus central appartient à la corporation des jardiniers, une corporation de second rang en ce qui concerne l'influence politique.
-C'est du à sa carrière politique exceptionnellement longue : il représente sa corporation 13 fois au conseil entre 1416 et 1473.
+Bien que certains individus soient centraux, les corporation auxquelles ils appartiennent ne sont pas un facteur décisif de cette centralité.
+Au contraire, l'individu à la centralité intermédiaire la plus élevée appartient à la corporation des jardiniers, une corporation de second rang en ce qui concerne l'influence politique.
+C'est dû à sa carrière politique exceptionnellement longue : il représente sa corporation 13 fois au conseil entre 1416 et 1473.
 Bien qu'il soit identifié comme une seule personne par les ouvrages de référence en prosopographie strasbourgeoise (Jacques Hatt et Sabine von Heusinger), une carrière politique de 57 ans semble improbable, sauf longévité exceptionnelle.
 Faute de rupture nette entre les différentes nominations au conseil (1416, 1424, 1429, 1436, 1444, 1449, 1453, 1458, 1459, 1466, 1467, 1472, 1473) ou d'information supplémentaire à son sujet, il demeure plus prudent de ne pas le séparer en deux individus.
 
-Celle-ci est plutôt liée
 
 <img src="Analyse/AnalyseRéseau/Rendus/SVG/conseil_15e_classesModularite.svg" style="display: block; margin: auto;" />
 
+En calculant les classes de modularité les plus grandes possibles de notre réseau, elles sont au nombre de 4 et correspondent aux quarts de siècles.
 Les échevins sont plus nombreux à siéger au conseil au début qu'à la fin du siècle.
 Nous constatons une première décroissance du nombre d'échevins siégeant au conseil au milieu de notre graphe.
 En effet, le conseil de Strasbourg décide en 1456 de nommer les conseillers biannuellement pour remédier aux inconvénients de la nomination annuelle.
 Les conseillers des corporations les moins prestigieuses avaient parfois du mal à se rendre disponibles pour assister aux séances (cf. principe de disponibilité, Max Weber).
 La rotation de l'effectif complet représentait forcément une rupture dans la continuité institutionnelle.
-Après 1456, ce sont chaque année la moitié des corporations qui élisent de nouveaux représentants ; ceux des corporations restantes, élus l'année précédente, assurant la continuité du conseil.
+Après 1456, ce sont chaque année la moitié des corporations qui élisent de nouveaux représentants ; ceux des corporations restantes, élus l'année précédente, assurent la transition.
 
 À cela s'ajoute la réduction du nombre de corporations.
 Celles aux effectifs les moins importants sont intégrées au plus grandes.
