@@ -78,7 +78,7 @@ En effet les représentants des corporations au conseil et l'ammeistre sont tous
 ### Présentation des sources<a name="Présentation"></a>
 Nous avons exploité deux sources principales.
 La première source est le premier livre de bourgeoisie.
-Il liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage.
+Ce codex liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage.
 Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiées au début du registre au cours du XVe siècle.
 Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations.
 Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963.
@@ -88,7 +88,7 @@ Ces listes nous permettent de créer un référentiel contenant l'identité de t
 <img src="imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
     
 Notre seconde source est une liste d'armement datée de 1444.
-Ces listes nomment tous les bourgeois dans l'obligation de participer à l'effort de guerre, en servant sous les bannières (corporatives ou patriciennes) ou en fournissant du matériel et un remplaçant.
+Ces listes rédigées dans un livret nomment tous les bourgeois dans l'obligation de participer à l'effort de guerre, en servant sous les bannières (corporatives ou patriciennes) ou en fournissant du matériel et un remplaçant.
 Elle présente la particularité de lister tous les échevins des métiers nominalement, par corporation.
 
 <img src="imagesMD/aves_aa_195_69v_70r.JPG" style="display: block; margin: auto;" />
