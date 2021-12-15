@@ -30,16 +30,29 @@ Prosopographie numérique, extraction et réconciliation de données, analyse de
 
 ## Démarche et Problématiques<a name="DémarcheProblématiques"></a>
 ### Définition<a name="Définition"></a>
-L'échevin strasbourgeois était à l'origine un office attribué par l'évêque à des notables strasbourgeois pour l'assister à gouverner la ville dont il était le seigneur. L'office était attribué à vie et non héréditaire.
-L'émancipation de la communauté des bourgeois vis-à-vis de son seigneur temporel et la reconnaissance de son statut de ville libre par l'empereur transformèrent profondément le paysage institutionnel de la ville. Elle dut se doter d'un appareil institutionnel permettant aux bourgeois de gouverner leur ville. Les constitutions successivent (*Schwörbriefe*) et leurs différences permettent de détailler l'évolution des rapports de force au sein de la société urbaine. Aux lignages nobles urbains qui assurèrent initialement le gouvernement de la ville suite à l'éviction de l'évêque succèdent les patriciens non-nobles (financiers et grands marchands). Après un nouvel épisode de violences urbaines en 1349, les bourgeois des Métiers constitués en corporations professionnelles et politiques confisquent définitivement le pouvoir aux patriciens.
+L'échevin strasbourgeois était à l'origine un office attribué par l'évêque à des notables urbains pour l'assister à gouverner la ville dont il était le seigneur temporel.
+L'office était attribué à vie et non héréditaire.
+L'émancipation de la communauté des bourgeois vis-à-vis de son évêque et la reconnaissance de son statut de ville libre par l'empereur transformèrent profondément le paysage institutionnel de la ville.
+Elle dut se doter d'un appareil institutionnel permettant aux bourgeois de gouverner leur ville.
+Les constitutions successivent (*Schwörbriefe*) et leurs différences permettent de détailler l'évolution des rapports de force au sein de la société urbaine.
+Aux lignages nobles urbains qui assurèrent initialement le gouvernement de la ville suite à l'éviction de l'évêque succèdent les patriciens non-nobles (financiers et grands marchands).
+Après un nouvel épisode de violences urbaines en 1349, les bourgeois des Métiers constitués en corporations professionnelles et politiques confisquent définitivement le pouvoir aux patriciens.
 
-Il est impossible de discocier l'office d'échevin du système des corporations (*Zünfte*), qui organise la vie politique de la ville libre, et de la magistrature d'ammeistre (*magister scabinorum* ou *Ammeister*), qui détient le pouvoir exécutif, tant ces agents institutionnels participent à rendre unique le gouvernement de la ville de Strasbourg.
+Il est impossible de discocier l'office d'échevin du système des corporations (*Zünfte*), qui organise la vie politique de la ville libre, et de la magistrature d'ammeistre (*magister scabinorum* ou *Ammeister*), qui détient le pouvoir exécutif, tant ces éléments institutionnels caractérisent le gouvernement de la ville de Strasbourg.
 L'ammeistre qui occupe jusqu'en 1349 un rôle secondaire au sein de l'appareil institutionnel est promu à la tête du gouvernement.
-Nommé annuellement parmi les bourgeois des métiers il gouverne la ville au côté de quatre stettmeistres qui se succèdent trimestriellement. L'échevinat qui n'était occupé que par des patriciens s'ouvre aux Métiers dans les années 1330. Il se développe dans la seconde moitié du XIVe siècle jusqu'à dépasser en nombre l'échevinat patricien. Les échevins exercent leurs fonctions judiciaires principalement dans le cadre du tribunal corporatif où ils arbitrent les affaires professionnelles et les conflits entre membres.
-L'échevinat des Métiers acquiert à Strasbourg plusieurs fonctions politiques qui lui sont spécifiques. Lorsqu'une décision difficle doit être prise par l'ammeistre, il peut convoquer et consulter l'assemblée des échevins afin de délibérer avec eux. L'échevinat (*Schöffel und Amman*) est l'instance de représentation la plus étendue des bourgeois de la ville et permet avec l'aval de la majorité d'entre eux de prendre une décision difficile sans mettre en danger l'ordre et l'équilibre de la ville (exemple consultation des échevins).
+Nommé annuellement parmi les bourgeois des métiers il gouverne la ville au côté de quatre stettmeistres patriciens qui se succèdent trimestriellement.
+L'échevinat qui n'était occupé que par des patriciens s'ouvre aux Métiers dans les années 1330.
+Il se développe dans la seconde moitié du XIVe siècle jusqu'à dépasser en nombre l'échevinat patricien.
+Les échevins exercent leurs fonctions judiciaires principalement dans le cadre du tribunal corporatif où ils arbitrent les affaires professionnelles et les internes à la corporation.
+L'échevinat des Métiers acquiert à Strasbourg plusieurs fonctions politiques qui lui sont spécifiques.
+Lorsqu'une décision difficle doit être prise par l'ammeistre et le conseil, ils ont la possibilité de convoquer et consulter l'assemblée des échevins afin de délibérer avec eux.
+L'échevinat (*Schöffel und Amman*) est l'instance de représentation la plus étendue des bourgeois de la ville et permet avec l'aval de la majorité d'entre eux de prendre une décision difficile sans mettre en danger l'ordre et l'équilibre de la ville (exemple consultation des échevins).
 
-Les échevins acquièrent de nouvelles prérogatives en 1433. La nouvelle constitution prévoit une augmentation du nombre d'échevins jusqu'à ce qu'on en compte 15 par corporation. Les échevins de chaque corporation doivent désormais élire leur représentant au conseil parmis leurs pairs.
-Nous avons pu toutefois constater que cette mesure était encore loin d'être appliquée plus d'une décennie après la promulgation de la constitution de 1433. Les échevins étaient au nombre de 381 et étaient très inégalement répartis entre les corporations.
+Les échevins acquièrent de nouvelles prérogatives en 1433.
+La nouvelle constitution prévoit une augmentation du nombre d'échevins jusqu'à ce qu'on en compte 15 par corporation.
+Auparavant, le conseil sortant élisait le conseil entrant, désormais les échevins de chaque corporation doivent élire leur représentant au conseil parmis leurs pairs.
+Nous avons pu toutefois constater que cette mesure était encore loin d'être appliquée plus d'une décennie après la promulgation de la constitution de 1433.
+Les échevins étaient au nombre de 381 et étaient très inégalement répartis entre les corporations.
 Dans un effort continu de rationnalisation de son système institutionnel, la ville réduit le nombre de corporation à trois reprises (1462, 1470 et 1482). Les membres d'une corporation supprimée intègrent une autre corporation ou sont répartis entre plusieurs d'entre elles. On peut imaginer qu'il en va de même pour les échevins puisque leur nombre au des corporations les moins importantes augmente progressivement au cours de la seconde moitié du XVe siècle jusqu'à atteindre 15 alors que les collèges échevinaux des corporations les plus importantes se réduisent à 15.
 
 ### Problématique<a name="Problématique"></a>
