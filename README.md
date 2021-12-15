@@ -52,7 +52,10 @@ Les échevins acquièrent de nouvelles prérogatives en 1433.
 La nouvelle constitution prévoit une augmentation du nombre d'échevins jusqu'à ce qu'on en compte 15 par corporation.
 Auparavant, le conseil sortant élisait le conseil entrant, désormais les échevins de chaque corporation doivent élire leur représentant au conseil parmis leurs pairs.
 Nous avons pu toutefois constater que cette mesure était encore loin d'être appliquée plus d'une décennie après la promulgation de la constitution de 1433.
-Les échevins étaient au nombre de 381 et étaient très inégalement répartis entre les corporations.
+Les échevins étaient au nombre de 381 et étaient inégalement répartis entre les corporations.
+
+<img src="imagesMD/echevinscorpo.png" style="display: block; margin: auto;" />
+
 Dans un effort continu de rationnalisation de son système institutionnel, la ville réduit le nombre de corporation à trois reprises (1462, 1470 et 1482). Les membres d'une corporation supprimée intègrent une autre corporation ou sont répartis entre plusieurs d'entre elles. On peut imaginer qu'il en va de même pour les échevins puisque leur nombre au des corporations les moins importantes augmente progressivement au cours de la seconde moitié du XVe siècle jusqu'à atteindre 15 alors que les collèges échevinaux des corporations les plus importantes se réduisent à 15.
 
 ### Problématique<a name="Problématique"></a>
