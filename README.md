@@ -56,18 +56,34 @@ Les échevins étaient au nombre de 381 et étaient inégalement répartis entre
 
 <img src="imagesMD/echevinscorpo.png" style="display: block; margin: auto;" />
 
-Dans un effort continu de rationnalisation de son système institutionnel, la ville réduit le nombre de corporation à trois reprises (1462, 1470 et 1482). Les membres d'une corporation supprimée intègrent une autre corporation ou sont répartis entre plusieurs d'entre elles. On peut imaginer qu'il en va de même pour les échevins puisque leur nombre au des corporations les moins importantes augmente progressivement au cours de la seconde moitié du XVe siècle jusqu'à atteindre 15 alors que les collèges échevinaux des corporations les plus importantes se réduisent à 15.
+Dans un effort continu de rationnalisation de son système institutionnel, la ville réduit le nombre de corporation à trois reprises (1462, 1470 et 1482).
+Les membres d'une corporation supprimée intègrent une autre corporation ou sont répartis entre plusieurs autres.
+Il en va de même pour les échevins : leur nombre augmente progressivement au sein des corporations les moins importantes tout au long de la seconde moitié du XVe siècle jusqu'à en atteindre 15, alors que les collèges échevinaux des corporations les plus importantes se réduisent à 15.
 
 ### Problématique<a name="Problématique"></a>
-L'évolution institutionnelle de l'office d'échevin a été étudié en détail dans le cadre des études sur l'organisation politique, sociale et institutionnelle de la ville libre, mais toujours par le prisme des textes de loi. Nous souhaitons aborder le groupe social constitué par les échevins par le bas en en proposant une prosopographie. Nous allons analyser les sources à notre disposition afin d'identifier les fonctions tacites de l'échevinat et les dynamiques internes aux collèges échinaux corporatifs.
+L'évolution institutionnelle de l'office d'échevin a été étudié en détail dans le cadre d'études sur l'organisation politique et institutionnelle de la ville libre, mais toujours par le prisme des textes de loi. Nous souhaitons aborder le groupe social des échevins par les sources administratives et en en proposant une prosopographie.
+Nous analyserons les sources à notre disposition pour identifier les fonctions tacites de l'échevinat et les dynamiques internes aux collèges échinaux corporatifs.
 
-En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'intègre à la société strasbourgeoise médiévale. Tous les échevins finissent-ils par briguer les plus hautes magistratures du système institutionnel strasbourgeois ? L'ascension politique concerne-t-elle une majorité des échevins, ou au contraire seulement une minortié d'entre eux ? Existe-t-il une discrimination entre les carrières des échevins selon leur métier et leur corporation ?
+En d'autres termes, nous souhaitons mieux comprendre comment l'échevinat s'intègre à la société strasbourgeoise médiévale.
+Tous les échevins finissent-ils par briguer les plus hautes magistratures du système institutionnel strasbourgeois ?
+L'ascension politique concerne-t-elle une majorité des échevins, ou au contraire seulement une minortié d'entre eux ?
+Existe-t-il une discrimination entre les carrières politique selon le métier et la corporation ?
 
-Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue. Peu de sources permettent de documenter les identités de la totalités des échevins de Strasbourg pour une date donnée. Nous allons nous intéresser aux échevins et à ceux d'entre eux qui accédèrent à des magistratures supérieures : représentants au conseil des corporations et ammeistres.
+Aucune source sérielle documentant l'identité des échevins de chaque corporation ne nous est parvenue.
+Peu de documents permettent de retracer l'identités de la totalité des échevins de Strasbourg pour une date donnée.
+Nous intéresser aux échevins les plus influents politiquement permet de contourner cette obstacle pour une partie des individus ayant exercé l'office.
+En effet les représentants des corporations au conseil et l'ammeistre sont tous issus de l'échevinat et la constitution du conseil a été documentée en détail pour toute la durée du XVe siècle.
 
 ## Acquisition des données<a name="Acquisition"></a>
 ### Présentation des sources<a name="Présentation"></a>
-Nous avons exploité deux sources principales. La première source est le premier livre de bourgeoisie ; il liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage. Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiée au début du registre au cours du XVe siècle. Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations. Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963. Très utile, cette édition documente les membres du conseil jusqu'en 1603, mais en raison du très grand nombre de magistrats mentionnés, le travail de réconciliation manuel des occurences en autorité a souffert de quelques erreurs. Ces listes nous permettent de créer un référentiel contenant l'identité de tous les échevins ayant exercé une magistrature au conseil .
+Nous avons exploité deux sources principales.
+La première source est le premier livre de bourgeoisie.
+Il liste chaque année les étrangers ayant acquis le droit de bourgeoisie par achat ou par mariage.
+Les listes des membres du conseil (grand Sénat) de Strasbourg ont été recopiées au début du registre au cours du XVe siècle.
+Pour chaque année, les listes énumèrent nominalement l'ammeistre, les stettmeistres, les conseillers des constaffel et les conseillers des corporations.
+Ces listes ont fait l'objet d'une édition et d'une indéxation par Jacques Hatt en 1963.
+Très utile, cette édition documente les membres du conseil jusqu'en 1603, mais en raison du très grand nombre de magistrats mentionnés, le travail de réconciliation manuel des occurences en autorité a souffert de quelques erreurs.
+Ces listes nous permettent de créer un référentiel contenant l'identité de tous les échevins ayant exercé une magistrature au conseil.
 
 <img src="imagesMD/livre_bourgeoisie_1445-1446.png" style="display: block; margin: auto;" />
 <em>AVES 4R, liste des conseils de 1445 et 1446.</em>
