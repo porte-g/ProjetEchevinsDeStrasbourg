@@ -40,8 +40,8 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1401_0038,1401,conseiller_des_forgerons,Eberlin von Truhtersheim,eberhart,"trüchtersheim, von",,,,echevinat,corporation_des_forgerons,,132,,37
 ,aves_aa_4R_1401_0039,1401,conseiller_des_tailleurs,Heilman der schnider,heilmann,,,,['schnider'],echevinat,corporation_des_tailleurs,,132,,1
 ,aves_aa_4R_1401_0040,1401,conseiller_des_bateliers,Johanns Nellesheim der jung,johanns,nellesheim,,der junge,,echevinat,corporation_des_bateliers,,132,,2
-,aves_aa_4R_1401_0041,1401,conseiller_des_charpentiers,Heintzeman Selose,heintz,seelose,,,,echevinat,corporation_des_charpentiers,,132,,3
-,aves_aa_4R_1401_0042,1401,conseiller_des_pelletiers,Otman Münch,ottemann,münch,,,,echevinat,corporation_des_pelletiers,,132,,4
+,aves_aa_4R_1401_0041,1401,conseiller_des_pelletiers,Heintzeman Selose,heintz,seelose,,,,echevinat,corporation_des_pelletiers,,132,,3
+,aves_aa_4R_1401_0042,1401,conseiller_des_charpentiers,Otman Münch,ottemann,münch,,,,echevinat,corporation_des_charpentiers,,132,,4
 ,aves_aa_4R_1401_0043,1401,conseiller_des_crieurs_et_mesureurs_de_vin,Fritsch Beildeck,fritsch,beildeck,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,132,,5
 ,aves_aa_4R_1401_0044,1401,conseiller_des_cordonniers,Cristian vor den Barfüsser,christian,,"barfüssern, vor den",,,echevinat,corporation_des_cordonniers,,132,,6
 ,aves_aa_4R_1401_0045,1401,conseiller_des_orfevres,Claus Hennickin der goltschmit,claus,henneckin,,,['goltschmit'],echevinat,corporation_des_orfevres,,132,,7
@@ -98,8 +98,8 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1403_0038,1403,conseiller_des_forgerons,Herman Lorer,hermann,lorer,,,,echevinat,corporation_des_forgerons,,134,,2
 ,aves_aa_4R_1403_0039,1403,conseiller_des_tailleurs,Johanns Miltemberg,johanns,miltenberg,,,,echevinat,corporation_des_tailleurs,,134,,3
 ,aves_aa_4R_1403_0040,1403,conseiller_des_bateliers,her Peter Sünner,peter,sünner,,,['her'],echevinat,corporation_des_bateliers,,134,,4
-,aves_aa_4R_1403_0041,1403,conseiller_des_charpentiers,Hanns Vogt,johanns,vogt,,,,echevinat,corporation_des_charpentiers,,134,,5
-,aves_aa_4R_1403_0042,1403,conseiller_des_pelletiers,Otteman Münch,ottemann,münch,,,,echevinat,corporation_des_pelletiers,,134,,6
+,aves_aa_4R_1403_0041,1403,conseiller_des_pelletiers,Hanns Vogt,johanns,vogt,,,,echevinat,corporation_des_pelletiers,,134,,5
+,aves_aa_4R_1403_0042,1403,conseiller_des_charpentiers,Otteman Münch,ottemann,münch,,,,echevinat,corporation_des_charpentiers,,134,,6
 ,aves_aa_4R_1403_0043,1403,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob Beildeck,jacob,beildeck,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,134,,7
 ,aves_aa_4R_1403_0044,1403,conseiller_des_cordonniers,Oberlin Hering,oberlin,herring,,,,echevinat,corporation_des_cordonniers,,134,,8
 ,aves_aa_4R_1403_0045,1403,conseiller_des_orfevres,Johanns Waltenheim,johanns,waltenheim,,,,echevinat,corporation_des_orfevres,,134,,9
@@ -418,7 +418,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1415_0039,1415,conseiller_des_bateliers,Heinrich Meyer,heinrich,meiger,,,,echevinat,corporation_des_bateliers,,146,,2
 ,aves_aa_4R_1415_0040,1415,conseiller_des_pelletiers,Heintzman Selose,heintz,seelose,,,,echevinat,corporation_des_pelletiers,,146,,3
 ,aves_aa_4R_1415_0041,1415,conseiller_des_charpentiers,Johanns Kerwe,johanns,kerb,,,,echevinat,corporation_des_charpentiers,,146,,4
-,aves_aa_4R_1415_0042,1415,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zͦuͦr Wilgen,jacob,"wilgen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,146,,5
+,aves_aa_4R_1415_0042,1415,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zuͦr Wilgen,jacob,"wilgen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,146,,5
 ,aves_aa_4R_1415_0043,1415,conseiller_des_cordonniers,Heintz Flosse,heintz,flöss,,,,echevinat,corporation_des_cordonniers,,146,,6
 ,aves_aa_4R_1415_0044,1415,conseiller_des_orfevres,Claus Arge,claus,arge,,,,echevinat,corporation_des_orfevres,,146,,7
 ,aves_aa_4R_1415_0045,1415,conseiller_des_marchands_de_grains,Claus Melbruͤge,claus,melbrühe,,,,echevinat,corporation_des_marchands_de_grains,,146,,8
@@ -447,7 +447,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1416_0040,1416,conseiller_des_bateliers,Rufelin Syferman,riffe,siffermann,,,,echevinat,corporation_des_bateliers,,147,,4
 ,aves_aa_4R_1416_0041,1416,conseiller_des_pelletiers,Hanns Rinowe,johanns,rhinau,,,,echevinat,corporation_des_pelletiers,,147,,5
 ,aves_aa_4R_1416_0042,1416,conseiller_des_charpentiers,Dietrich Clein,dietrich,klein,,,,echevinat,corporation_des_charpentiers,,147,,6
-,aves_aa_4R_1416_0043,1416,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zͦuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,147,,7
+,aves_aa_4R_1416_0043,1416,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,147,,7
 ,aves_aa_4R_1416_0044,1416,conseiller_des_cordonniers,Heinrich Mùntzenberg,heinrich,müntzenberg,,,,echevinat,corporation_des_cordonniers,,147,,8
 ,aves_aa_4R_1416_0045,1416,conseiller_des_orfevres,Johanns von Kriegesheim genant Staheler,johanns,"kriegsheim, von",stacheler,,,echevinat,corporation_des_orfevres,,147,,9
 ,aves_aa_4R_1416_0046,1416,conseiller_des_marchands_de_grains,her Michel Melbrù,michel,melbrühe,,,['her'],echevinat,corporation_des_marchands_de_grains,,147,,10
@@ -477,7 +477,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1417_0041,1417,conseiller_des_bateliers,Conrat Armbroster,konrat,armbruster,,,,echevinat,corporation_des_bateliers,,148,,6
 ,aves_aa_4R_1417_0042,1417,conseiller_des_pelletiers,Hanns von Wasselnheim,johanns,"wasselnheim, von",,,,echevinat,corporation_des_pelletiers,,148,,7
 ,aves_aa_4R_1417_0043,1417,conseiller_des_charpentiers,Hanns Snelle,johanns,schnell,,,,echevinat,corporation_des_charpentiers,,148,,8
-,aves_aa_4R_1417_0044,1417,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zͦuͦr Wilgen,jacob,"wilgen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,148,,9
+,aves_aa_4R_1417_0044,1417,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zuͦr Wilgen,jacob,"wilgen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,148,,9
 ,aves_aa_4R_1417_0045,1417,conseiller_des_cordonniers,Hanns Pfowe,johanns,pfau,,,,echevinat,corporation_des_cordonniers,,148,,10
 ,aves_aa_4R_1417_0046,1417,conseiller_des_orfevres,Claus Risser,claus,risser,,,,echevinat,corporation_des_orfevres,,148,,11
 ,aves_aa_4R_1417_0047,1417,conseiller_des_marchands_de_grains,Otteman Franckenheim,ottemann,frankenheim,,,,echevinat,corporation_des_marchands_de_grains,,148,,12
@@ -506,7 +506,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1418_0040,1418,conseiller_des_bateliers,her Johanns Lumbart altammeister,johanns,lumbart,,,"['her', 'altammeister']",echevinat,corporation_des_bateliers,,149,,3
 ,aves_aa_4R_1418_0041,1418,conseiller_des_pelletiers,Spirer,,spirer,,,,echevinat,corporation_des_pelletiers,,149,,4
 ,aves_aa_4R_1418_0042,1418,conseiller_des_charpentiers,Adam der zimmerman,adam,,,,['zimmerman'],echevinat,corporation_des_charpentiers,,149,,5
-,aves_aa_4R_1418_0043,1418,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zͦuͦr Kennen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,149,,6
+,aves_aa_4R_1418_0043,1418,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zuͦr Kennen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,149,,6
 ,aves_aa_4R_1418_0044,1418,conseiller_des_cordonniers,Heintz Pfluͤger,heintz,pfluger,,,,echevinat,corporation_des_cordonniers,,149,,7
 ,aves_aa_4R_1418_0045,1418,conseiller_des_orfevres,Blesin Harnscher,blesin,harnescher,,,,echevinat,corporation_des_orfevres,,149,,8
 ,aves_aa_4R_1418_0046,1418,conseiller_des_marchands_de_grains,her Michel Melbruͤ,michel,melbrühe,,,['her'],echevinat,corporation_des_marchands_de_grains,,149,,9
@@ -558,13 +558,13 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1420_0021,1420,conseiller_des_tonneliers,Claus Vetter,claus,vetter,,,,echevinat,corporation_des_tonneliers,,151,,21
 ,aves_aa_4R_1420_0022,1420,conseiller_des_tanneurs,Hanns Gerbott,johanns,gerbot,,,,echevinat,corporation_des_tanneurs,,151,,22
 ,aves_aa_4R_1420_0023,1420,conseiller_des_cabaretiers,Hug Dohssenheim,hug,dossenheim,,,,echevinat,corporation_des_cabaretiers,,151,,23
-,aves_aa_4R_1420_0024,1420,conseiller_des_maçons,Ruͦlman Laulin der eilter,ruhlemann,lauwelin,,,,echevinat,corporation_des_maçons,,151,,24
+,aves_aa_4R_1420_0024,1420,conseiller_des_maçons,Ruͦlman Laulin der eilter,lauwel,ruhlmann,,,,echevinat,corporation_des_maçons,,151,,24
 ,aves_aa_4R_1420_0025,1420,conseiller_des_forgerons,Eberlin von Truhtersheim,eberhart,"trüchtersheim, von",,,,echevinat,corporation_des_forgerons,,151,,25
 ,aves_aa_4R_1420_0026,1420,conseiller_des_tailleurs,Peter Stoltz,peter,stoltz,,,,echevinat,corporation_des_tailleurs,,151,,26
 ,aves_aa_4R_1420_0027,1420,conseiller_des_bateliers,Hanns Bùle,johanns,bülle,,,,echevinat,corporation_des_bateliers,,151,,27
 ,aves_aa_4R_1420_0028,1420,conseiller_des_pelletiers,Claus Spirer,claus,spirer,,,,echevinat,corporation_des_pelletiers,,151,,28
-,aves_aa_4R_1420_0029,1420,conseiller_des_charpentiers,meister Hùgelin Sant Martin,,hugelin,,,['meister'],echevinat,corporation_des_charpentiers,,151,,29
-,aves_aa_4R_1420_0030,1420,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zͦuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,151,,30
+,aves_aa_4R_1420_0029,1420,conseiller_des_charpentiers,meister Hùgelin Sant Martin,,hugelin,sankt-martin,,['meister'],echevinat,corporation_des_charpentiers,,151,,29
+,aves_aa_4R_1420_0030,1420,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,151,,30
 ,aves_aa_4R_1420_0031,1420,conseiller_des_cordonniers,Hanns Pfowe,johanns,pfau,,,,echevinat,corporation_des_cordonniers,,151,,31
 ,aves_aa_4R_1420_0032,1420,conseiller_des_orfevres,Hug Seiffenmacher,hug,seifenmacher,,,,echevinat,corporation_des_orfevres,,151,,32
 ,aves_aa_4R_1420_0033,1420,conseiller_des_marchands_de_grains,Claus Staheler,claus,stacheler,,,,echevinat,corporation_des_marchands_de_grains,,151,,33
@@ -622,7 +622,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1422_0027,1422,conseiller_des_bateliers,Heintz Phye,heintz,phye,,,,echevinat,corporation_des_bateliers,,153,,27
 ,aves_aa_4R_1422_0028,1422,conseiller_des_pelletiers,Heintzman Selose,heintz,seelose,,,,echevinat,corporation_des_pelletiers,,153,,28
 ,aves_aa_4R_1422_0029,1422,conseiller_des_charpentiers,Claus von Bergheim,claus,"bergheim, von",,,,echevinat,corporation_des_charpentiers,,153,,29
-,aves_aa_4R_1422_0030,1422,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zͦuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,153,,30
+,aves_aa_4R_1422_0030,1422,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,153,,30
 ,aves_aa_4R_1422_0031,1422,conseiller_des_cordonniers,Cuͦntz Heiden,küntz,heide,,,,echevinat,corporation_des_cordonniers,,153,,31
 ,aves_aa_4R_1422_0032,1422,conseiller_des_orfevres,Hanns Gotzgans,johanns,gotzgans,,,,echevinat,corporation_des_orfevres,,153,,32
 ,aves_aa_4R_1422_0033,1422,conseiller_des_marchands_de_grains,Otteman von Franckenheim,ottemann,"frankenheim, von",,,,echevinat,corporation_des_marchands_de_grains,,153,,33
@@ -678,7 +678,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1424_0025,1424,conseiller_des_forgerons,Cuͦntz Rosemberg,küntz,rosemberg,,,,echevinat,corporation_des_forgerons,,155,,25
 ,aves_aa_4R_1424_0026,1424,conseiller_des_tailleurs,meister Hanns Monschin,johanns,monschein,,,['meister'],echevinat,corporation_des_tailleurs,,155,,26
 ,aves_aa_4R_1424_0027,1424,conseiller_des_bateliers,Obreht Schalck,obrecht,schalk,,,,echevinat,corporation_des_bateliers,,155,,28
-,aves_aa_4R_1424_0028,1424,conseiller_des_pelletiers,Claus zͦuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,155,,29
+,aves_aa_4R_1424_0028,1424,conseiller_des_pelletiers,Claus zuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,155,,29
 ,aves_aa_4R_1424_0029,1424,conseiller_des_charpentiers,Hanns Schùbel,johanns,scheubelin,,,,echevinat,corporation_des_charpentiers,,155,,30
 ,aves_aa_4R_1424_0030,1424,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob Gruͤnwalt,jacob,grünwalt,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,155,,31
 ,aves_aa_4R_1424_0031,1424,conseiller_des_cordonniers,Hanns von Nuwilre,johanns,neuwiller,,,,echevinat,corporation_des_cordonniers,,155,,32
@@ -695,10 +695,6 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1424_0042,1424,conseiller_des_coltineurs_de_tonneaux,Claus Dùrre,claus,dürr,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,155,,4
 ,aves_aa_4R_1424_0043,1424,conseiller_des_constructeurs_de_bateaux,Leonhart Bobst,lienhart,bobst,,,,echevinat,corporation_des_constructeurs_de_bateaux,,155,,5
 ,aves_aa_4R_1424_0044,1424,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,Berhtolt der mùller,bechtolt,,,,['mùller'],echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,155,,6
-,aves_aa_4R_1425_0001,1425,stettmeister,her Johanns Sturm von Sturmeck,johanns,sturm,"sturmeck, von",,['her'],echevinat,,,156,,1
-,aves_aa_4R_1425_0002,1425,stettmeister,her Bere von Heiligenstein,behremann,"heiligenstein, von",,,['her'],echevinat,,,156,,2
-,aves_aa_4R_1425_0003,1425,stettmeister,her Walther Buman,walther,bauman,,,['her'],echevinat,,,156,,3
-,aves_aa_4R_1425_0004,1425,stettmeister,her Jacob von Geispoltzheim,jacob,"geispoltzheim, von",,,['her'],echevinat,,,156,,4
 ,aves_aa_4R_1425_0005,1425,ammeister,her Hanns Lumbart der ammeister,johanns,lumbart,,,"['her', 'ammeister']",echevinat,,,156,,5
 ,aves_aa_4R_1425_0017,1425,conseiller_des_marchands,Adam Riffe,adam,riffe,,,,echevinat,corporation_des_marchands,,156,,17
 ,aves_aa_4R_1425_0018,1425,conseiller_des_boulangers,her Jacob von Geispoltzheim obgenant,jacob,"geispoltzheim, von",,,['her'],echevinat,corporation_des_boulangers,,156,,18
@@ -711,7 +707,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1425_0025,1425,conseiller_des_forgerons,Rullin von Druhterßheim,ruhlemann,"trüchtersheim, von",,,,echevinat,corporation_des_forgerons,,156,,25
 ,aves_aa_4R_1425_0026,1425,conseiller_des_tailleurs,Jacob Rotgebe,jacob,rotgebe,,,,echevinat,corporation_des_tailleurs,,156,,26
 ,aves_aa_4R_1425_0027,1425,conseiller_des_bateliers,Hanns Ammelung,johanns,ammelung,,,,echevinat,corporation_des_bateliers,,156,,27
-,aves_aa_4R_1425_0028,1425,conseiller_des_pelletiers,Hanns zͦuͦr Hellen,johanns,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,156,,28
+,aves_aa_4R_1425_0028,1425,conseiller_des_pelletiers,Hanns zuͦr Hellen,johanns,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,156,,28
 ,aves_aa_4R_1425_0029,1425,conseiller_des_charpentiers,Dietrich Clein,dietrich,klein,,,,echevinat,corporation_des_charpentiers,,156,,29
 ,aves_aa_4R_1425_0030,1425,conseiller_des_crieurs_et_mesureurs_de_vin,Hanns Cuͦn,johanns,kühn,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,156,,30
 ,aves_aa_4R_1425_0031,1425,conseiller_des_cordonniers,Cuͦntz Heiden,küntz,heide,,,,echevinat,corporation_des_cordonniers,,156,,31
@@ -798,7 +794,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1428_0024,1428,conseiller_des_forgerons,Gerlach,,gerlach,,,,echevinat,corporation_des_forgerons,,159,,24
 ,aves_aa_4R_1428_0025,1428,conseiller_des_tailleurs,Claus Diener,claus,diener,,,,echevinat,corporation_des_tailleurs,,159,,25
 ,aves_aa_4R_1428_0026,1428,conseiller_des_bateliers,Obreht Schalck,obrecht,schalk,,,,echevinat,corporation_des_bateliers,,159,,26
-,aves_aa_4R_1428_0027,1428,conseiller_des_pelletiers,Claus zͦuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,159,,27
+,aves_aa_4R_1428_0027,1428,conseiller_des_pelletiers,Claus zuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,159,,27
 ,aves_aa_4R_1428_0028,1428,conseiller_des_charpentiers,Fritsch Dùsche,fritsch,dusche,,,,echevinat,corporation_des_charpentiers,,159,,28
 ,aves_aa_4R_1428_0029,1428,conseiller_des_crieurs_et_mesureurs_de_vin,Fritsch Volmar,fritsch,volmar,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,159,,29
 ,aves_aa_4R_1428_0030,1428,conseiller_des_cordonniers,Bernhart inn Kurbengasse,bernhart,,"kurbengasse, in",,,echevinat,corporation_des_cordonniers,,159,,30
@@ -854,7 +850,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1430_0022,1430,conseiller_des_cabaretiers,Anshelm Spirer,anshelm,spirer,,,,echevinat,corporation_des_cabaretiers,,161,,22
 ,aves_aa_4R_1430_0023,1430,conseiller_des_maçons,meister Hanns Clein,johanns,klein,,,['meister'],echevinat,corporation_des_maçons,,161,,23
 ,aves_aa_4R_1430_0024,1430,conseiller_des_forgerons,Eberlin von Truhterßheim,eberhart,"trüchtersheim, von",,,,echevinat,corporation_des_forgerons,,161,,24
-,aves_aa_4R_1430_0025,1430,conseiller_des_tailleurs,Heinrich Winbeck,heinrich,weinbeck,,,,echevinat,corporation_des_tailleurs,,161,,25
+,aves_aa_4R_1430_0025,1430,conseiller_des_tailleurs,Heinrich Windeck,heinrich,windeck,,,,echevinat,corporation_des_tailleurs,,161,,25
 ,aves_aa_4R_1430_0026,1430,conseiller_des_bateliers,Heinrich Desche,heinrich,desche,,,,echevinat,corporation_des_bateliers,,161,,26
 ,aves_aa_4R_1430_0027,1430,conseiller_des_pelletiers,Dielman Wynngersheim,dielmann,wingersheim,,,,echevinat,corporation_des_pelletiers,,161,,27
 ,aves_aa_4R_1430_0028,1430,conseiller_des_charpentiers,meister Michel,,michel,,,['meister'],echevinat,corporation_des_charpentiers,,161,,28
@@ -1002,9 +998,9 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1436_0024,1436,conseiller_des_forgerons,Peter Vilinger,peter,villinger,,,,echevinat,corporation_des_forgerons,,167,,24
 ,aves_aa_4R_1436_0025,1436,conseiller_des_tailleurs,Peter Stoltz,peter,stoltz,,,,echevinat,corporation_des_tailleurs,,167,,25
 ,aves_aa_4R_1436_0026,1436,conseiller_des_bateliers,Hanns Ammelung,johanns,ammelung,,,,echevinat,corporation_des_bateliers,,167,,26
-,aves_aa_4R_1436_0027,1436,conseiller_des_pelletiers,Claus zͦuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,167,,27
+,aves_aa_4R_1436_0027,1436,conseiller_des_pelletiers,Claus zuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,167,,27
 ,aves_aa_4R_1436_0028,1436,conseiller_des_charpentiers,Fritsch uff dem werde,fritsch,,"werde, uff dem",,,echevinat,corporation_des_charpentiers,,167,,28
-,aves_aa_4R_1436_0029,1436,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zͦuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,167,,29
+,aves_aa_4R_1436_0029,1436,conseiller_des_crieurs_et_mesureurs_de_vin,Jacob zuͦr Kenen,jacob,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,167,,29
 ,aves_aa_4R_1436_0030,1436,conseiller_des_cordonniers,Heinrich Floͤsse,heinrich,flöss,,,,echevinat,corporation_des_cordonniers,,167,,30
 ,aves_aa_4R_1436_0031,1436,conseiller_des_orfevres,Hanns von Altzen,johanns,"altzheim, von",,,,echevinat,corporation_des_orfevres,,167,,31
 ,aves_aa_4R_1436_0032,1436,conseiller_des_marchands_de_grains,Peter von Rore,peter,"rohr, von",,,,echevinat,corporation_des_marchands_de_grains,,167,,32
@@ -1089,7 +1085,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1439_0024,1439,conseiller_des_forgerons,Heinrich Meyger,heinrich,meiger,,,,echevinat,corporation_des_forgerons,,170,,21
 ,aves_aa_4R_1439_0025,1439,conseiller_des_tailleurs,Jacob Rotgebe,jacob,rotgebe,,,,echevinat,corporation_des_tailleurs,,170,,22
 ,aves_aa_4R_1439_0026,1439,conseiller_des_bateliers,Frantz Berner,frantz,berner,,,,echevinat,corporation_des_bateliers,,170,,23
-,aves_aa_4R_1439_0027,1439,conseiller_des_pelletiers,Hanns zͦuͦr Hellen,johanns,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,170,,24
+,aves_aa_4R_1439_0027,1439,conseiller_des_pelletiers,Hanns zuͦr Hellen,johanns,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,170,,24
 ,aves_aa_4R_1439_0028,1439,conseiller_des_charpentiers,Fritsch uff dem werde,fritsch,,"werde, uff dem",,,echevinat,corporation_des_charpentiers,,170,,25
 ,aves_aa_4R_1439_0029,1439,conseiller_des_crieurs_et_mesureurs_de_vin,Hanns Hechde,johanns,hechde,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,170,,26
 ,aves_aa_4R_1439_0030,1439,conseiller_des_cordonniers,Cuͦntz Heiden,küntz,heide,,,,echevinat,corporation_des_cordonniers,,170,,27
@@ -1234,7 +1230,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1444_0024,1444,conseiller_des_forgerons,Hanns Wideman,johanns,weidemann,,,,echevinat,corporation_des_forgerons,,175,,24
 ,aves_aa_4R_1444_0025,1444,conseiller_des_tailleurs,Syfrit Zerig,sifrit,zerig,,,,echevinat,corporation_des_tailleurs,,175,,25
 ,aves_aa_4R_1444_0026,1444,conseiller_des_bateliers,Hanns Armbruster inn brantgasse,johanns,armbruster,"brantgasse, in",,,echevinat,corporation_des_bateliers,,175,,26
-,aves_aa_4R_1444_0027,1444,conseiller_des_pelletiers,Claus zͦuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,175,,27
+,aves_aa_4R_1444_0027,1444,conseiller_des_pelletiers,Claus zuͦr Hellen,claus,"hellen, zur",,,,echevinat,corporation_des_pelletiers,,175,,27
 ,aves_aa_4R_1444_0028,1444,conseiller_des_charpentiers,Michel Ripel der jung,michel,rippel,,der junge,,echevinat,corporation_des_charpentiers,,175,,28
 ,aves_aa_4R_1444_0029,1444,conseiller_des_crieurs_et_mesureurs_de_vin,Hanns Stùdel,johanns,studel,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,175,,29
 ,aves_aa_4R_1444_0030,1444,conseiller_des_cordonniers,Cuͦntz Heiden,küntz,heide,,,,echevinat,corporation_des_cordonniers,,175,,30
@@ -1402,7 +1398,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1450_0017,1450,conseiller_des_boulangers,Jacob Waldener,jacob,waldener,,,,echevinat,corporation_des_boulangers,,181,,17
 ,aves_aa_4R_1450_0018,1450,conseiller_des_bouchers,Wilhelm Betscholt,wilhelm,bechtolt,,,,echevinat,corporation_des_bouchers,,181,,18
 ,aves_aa_4R_1450_0019,1450,conseiller_des_tonneliers,Heintzman Holtzhùser,heintz,holtzhauser,,,,echevinat,corporation_des_tonneliers,,181,,19
-,aves_aa_4R_1450_0020,1450,conseiller_des_drapiers,Claus Ackenfͦuͦs,claus,ackerfuss,,,,echevinat,corporation_des_drapiers,,181,,20
+,aves_aa_4R_1450_0020,1450,conseiller_des_drapiers,Claus Ackenfuͦs,claus,ackerfuss,,,,echevinat,corporation_des_drapiers,,181,,20
 ,aves_aa_4R_1450_0021,1450,conseiller_des_tanneurs,Hanns Mynner,johanns,minner,,,,echevinat,corporation_des_tanneurs,,181,,21
 ,aves_aa_4R_1450_0022,1450,conseiller_des_cabaretiers,Claus Boͧmgarter,claus,baumgarter,,,,echevinat,corporation_des_cabaretiers,,181,,22
 ,aves_aa_4R_1450_0023,1450,conseiller_des_maçons,Syfrit von Zabern,sifrit,"zabern, von",,,,echevinat,corporation_des_maçons,,181,,23
@@ -1497,7 +1493,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1453_0025,1453,conseiller_des_tailleurs,Jacob Rotgebe,jacob,rotgebe,,,,echevinat,corporation_des_tailleurs,,184,,25
 ,aves_aa_4R_1453_0026,1453,conseiller_des_bateliers,Hanns Lumbart,johanns,lumbart,,,,echevinat,corporation_des_bateliers,,184,,26
 ,aves_aa_4R_1453_0027,1453,conseiller_des_pelletiers,Hanns Spirer,johanns,spirer,,,,echevinat,corporation_des_pelletiers,,184,,27
-,aves_aa_4R_1453_0028,1453,conseiller_des_charpentiers,Joͤͤrg Vetter,,vetter,,,,echevinat,corporation_des_charpentiers,,184,,28
+,aves_aa_4R_1453_0028,1453,conseiller_des_charpentiers,Joͤrg Vetter,jerge,vetter,,,,echevinat,corporation_des_charpentiers,,184,,28
 ,aves_aa_4R_1453_0029,1453,conseiller_des_crieurs_et_mesureurs_de_vin,Claus Beingewant,claus,beingewant,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,184,,29
 ,aves_aa_4R_1453_0030,1453,conseiller_des_cordonniers,Hanns von Lare,johanns,"lahr, von",,,,echevinat,corporation_des_cordonniers,,184,,30
 ,aves_aa_4R_1453_0031,1453,conseiller_des_orfevres,Hanns Ros,johanns,ross,,,,echevinat,corporation_des_orfevres,,184,,31
@@ -1556,7 +1552,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1455_0026,1455,conseiller_des_tailleurs,Syfrit Zerig,sifrit,zerig,,,,echevinat,corporation_des_tailleurs,,186,,25
 ,aves_aa_4R_1455_0027,1455,conseiller_des_bateliers,Jacob Ammelung,jacob,ammelung,,,,echevinat,corporation_des_bateliers,,186,,26
 ,aves_aa_4R_1455_0028,1455,conseiller_des_pelletiers,Hanns Spirer,johanns,spirer,,,,echevinat,corporation_des_pelletiers,,186,,27
-,aves_aa_4R_1455_0029,1455,conseiller_des_charpentiers,Erhart Winsacher,erhart,weinsacher,,,,echevinat,corporation_des_charpentiers,,186,,28
+,aves_aa_4R_1455_0029,1455,conseiller_des_charpentiers,Erhart Winsticher,erhart,winsticher,,,,echevinat,corporation_des_charpentiers,,186,,28
 ,aves_aa_4R_1455_0030,1455,conseiller_des_crieurs_et_mesureurs_de_vin,Claus Beingewant,claus,beingewant,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,186,,29
 ,aves_aa_4R_1455_0031,1455,conseiller_des_cordonniers,Claus Wolff,claus,wolff,,,,echevinat,corporation_des_cordonniers,,186,,30
 ,aves_aa_4R_1455_0032,1455,conseiller_des_orfevres,Hanns Vegersheim,johanns,fergesheim,,,,echevinat,corporation_des_orfevres,,186,,31
@@ -2536,7 +2532,7 @@ Unnamed: 0,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName
 ,aves_aa_4R_1494_0021,1494,conseiller_des_pelletiers,Matern Pfùtzer,mattern,pfutzer,,,,echevinat,corporation_des_pelletiers,,218,,22
 ,aves_aa_4R_1494_0022,1494,conseiller_des_tonneliers,Hans Conrat,johanns,konrat,,,,echevinat,corporation_des_tonneliers,,218,,23
 ,aves_aa_4R_1494_0023,1494,conseiller_des_tanneurs,Hans Vendenheim,johanns,vendenheim,,,,echevinat,corporation_des_tanneurs,,218,,24
-,aves_aa_4R_1494_0024,1494,conseiller_des_gourmets_et_courtiers,Conrat Stösser,konrat,stösser,,,,echevinat,corporation_des_gourmets_et_courtiers,,218,,26
+,aves_aa_4R_1494_0024,1494,conseiller_des_gourmets_et_courtiers,Hans Stösser,johanns,stösser,,,,echevinat,corporation_des_gourmets_et_courtiers,,218,,26
 ,aves_aa_4R_1494_0025,1494,conseiller_des_tailleurs,Hans Franck,johanns,frank,,,,echevinat,corporation_des_tailleurs,,218,,27
 ,aves_aa_4R_1494_0026,1494,conseiller_des_forgerons,Hans von Druhtersheim,johanns,"trüchtersheim, von",,,,echevinat,corporation_des_forgerons,,218,,28
 ,aves_aa_4R_1494_0027,1494,conseiller_des_cordonniers,Jost Merckel,jost,merckel,,,,echevinat,corporation_des_cordonniers,,218,,29
