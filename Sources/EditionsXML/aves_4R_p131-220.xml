@@ -451,15 +451,15 @@
                            <genName>der jung</genName></persName></p>
                   </div>
                </div>
-               <div type="corporation" n="corporation_des_charpentiers">
-                  <div type="magistrature" n="conseiller_des_charpentiers">
-                     <p><lb n="3"/>Von den zimerlüten : <persName><forename>Heintzeman</forename>
+               <div type="corporation" n="corporation_des_pelletiers">
+                  <div type="magistrature" n="conseiller_des_pelletiers">
+                     <p><lb n="3"/>Von den kürsenern : <persName><forename>Heintzeman</forename>
                            <surname>Selose</surname></persName></p>
                   </div>
                </div>
-               <div type="corporation" n="corporation_des_pelletiers">
-                  <div type="magistrature" n="conseiller_des_pelletiers">
-                     <p><lb n="4"/>Von den kürsenern : <persName><forename>Otman</forename>
+               <div type="corporation" n="corporation_des_charpentiers">
+                  <div type="magistrature" n="conseiller_des_charpentiers">
+                     <p><lb n="4"/>Von den zimerlüten : <persName><forename>Otman</forename>
                            <surname>Münch</surname></persName></p>
                   </div>
                </div>
@@ -999,15 +999,15 @@
                            <surname>Sünner</surname></persName></p>
                   </div>
                </div>
-               <div type="corporation" n="corporation_des_charpentiers">
-                  <div type="magistrature" n="conseiller_des_charpentiers">
-                     <p><lb n="5"/>Von den zimerlüten : <persName><forename>Hanns</forename>
+               <div type="corporation" n="corporation_des_pelletiers">
+                  <div type="magistrature" n="conseiller_des_pelletiers">
+                     <p><lb n="5"/>Von den kürsenern : <persName><forename>Hanns</forename>
                            <surname>Vogt</surname></persName></p>
                   </div>
                </div>
-               <div type="corporation" n="corporation_des_pelletiers">
-                  <div type="magistrature" n="conseiller_des_pelletiers">
-                     <p><lb n="6"/>Von den kürsenern : <persName><forename>Otteman</forename>
+               <div type="corporation" n="corporation_des_charpentiers">
+                  <div type="magistrature" n="conseiller_des_charpentiers">
+                     <p><lb n="6"/>Von den zimerlüten : <persName><forename>Otteman</forename>
                            <surname>Münch</surname></persName></p>
                   </div>
                </div>
@@ -4036,7 +4036,7 @@
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <div type="magistrature" n="conseiller_des_crieurs_et_mesureurs_de_vin">
                      <p><lb n="5"/>Von den winruffern und winmessern : <persName><forename>Jacob</forename>
-                           <surname>zͦuͦr Wilgen</surname></persName></p>
+                           <surname>zuͦr Wilgen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_cordonniers">
@@ -4306,7 +4306,7 @@
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <div type="magistrature" n="conseiller_des_crieurs_et_mesureurs_de_vin">
                      <p><lb n="7"/>Von den winruffern und winmessern : <persName><forename>Jacob</forename>
-                           <surname>zͦuͦr Kenen</surname></persName></p>
+                           <surname>zuͦr Kenen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_cordonniers">
@@ -4586,7 +4586,7 @@
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <div type="magistrature" n="conseiller_des_crieurs_et_mesureurs_de_vin">
                      <p><lb n="9"/>Von den winruffern und winmessern : <persName><forename>Jacob</forename>
-                           <surname>zͦuͦr Wilgen</surname></persName></p>
+                           <surname>zuͦr Wilgen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_cordonniers">
@@ -4758,7 +4758,7 @@
                      <lb n="24"/><persName><forename>Thoman</forename>
                         <surname>Lentzlin</surname></persName>
                      <lb n="25"/><persName><forename>Hanns</forename>
-                        <surname>zͦuͦr Megde</surname></persName>
+                        <surname>zuͦr Megde</surname></persName>
                      <lb n="26"/><persName><forename>Claus Fridrich</forename>
                         <surname>Bùhssener</surname></persName>
                      <lb n="27"/><persName><forename>Jorg</forename>
@@ -4855,7 +4855,7 @@
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <div type="magistrature" n="conseiller_des_crieurs_et_mesureurs_de_vin">
                      <p><lb n="6"/>Von den winruffern und winmessern : <persName><forename>Jacob</forename>
-                           <surname>zͦuͦr Kennen</surname></persName></p>
+                           <surname>zuͦr Kennen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_cordonniers">
@@ -5333,8 +5333,8 @@
                </div>
                <div type="corporation" n="corporation_des_maçons">
                   <div type="magistrature" n="conseiller_des_maçons">
-                     <p><lb n="24"/>Von den murern : <persName><forename>Ruͦlman</forename>
-                           <surname>Laulin</surname>
+                     <p><lb n="24"/>Von den murern : <persName><surname>Ruͦlman</surname>
+                           <forename>Laulin</forename>
                            <genName>der eilter</genName></persName>
                      </p>
                   </div>
@@ -5366,13 +5366,13 @@
                <div type="corporation" n="corporation_des_charpentiers">
                   <div type="magistrature" n="conseiller_des_charpentiers">
                      <p><lb n="29"/>Von den zimerlüten : <persName><roleName>meister</roleName>
-                           <surname>Hùgelin</surname> Sant Martin</persName></p>
+                           <surname>Hùgelin</surname> <addName>Sant Martin</addName></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <div type="magistrature" n="conseiller_des_crieurs_et_mesureurs_de_vin">
                      <p><lb n="30"/>Von den winruffern und winmessern : <persName><forename>Jacob</forename>
-                           <surname>zͦuͦr Kenen</surname></persName></p>
+                           <surname>zuͦr Kenen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_cordonniers">
@@ -5853,7 +5853,7 @@
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <div type="magistrature" n="conseiller_des_crieurs_et_mesureurs_de_vin">
                      <p><lb n="30"/>Von den winruffern und winmessern : <persName><forename>Jacob</forename>
-                           <surname>zͦuͦr Kenen</surname></persName></p>
+                           <surname>zuͦr Kenen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_cordonniers">
@@ -6332,7 +6332,7 @@
                <div type="corporation" n="corporation_des_pelletiers">
                   <div type="magistrature" n="conseiller_des_pelletiers">
                      <p><lb n="29"/>Von den kürsenern : <persName><forename>Claus</forename>
-                           <surname>zͦuͦr Hellen</surname></persName></p>
+                           <surname>zuͦr Hellen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_charpentiers">
@@ -6568,7 +6568,7 @@
                <div type="corporation" n="corporation_des_pelletiers">
                   <div type="magistrature" n="conseiller_des_pelletiers">
                      <p><lb n="28"/>Von den kürsenern : <persName><forename>Hanns</forename>
-                           <surname>zͦuͦr Hellen</surname></persName></p>
+                           <surname>zuͦr Hellen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_charpentiers">
@@ -6962,7 +6962,7 @@
                      <lb n="10"/><persName><forename>Dietrich</forename>
                         <surname>Rebstock</surname></persName>
                      <lb n="11"/><persName><forename>Hanns</forename>
-                        <surname>zͦuͦr Meͣgde</surname></persName>
+                        <surname>zuͦr Meͣgde</surname></persName>
                      <lb n="12"/><persName><forename>Hanns</forename>
                         <surname>Humbreht</surname></persName>
                      <lb n="13"/><persName><forename>Bernhart</forename>
@@ -7287,7 +7287,7 @@
                <div type="corporation" n="corporation_des_pelletiers">
                   <div type="magistrature" n="conseiller_des_pelletiers">
                      <p><lb n="27"/>Von den kürsenern : <persName><forename>Claus</forename>
-                           <surname>zͦuͦr Hellen</surname></persName></p>
+                           <surname>zuͦr Hellen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_charpentiers">
@@ -7752,7 +7752,7 @@
                <div type="corporation" n="corporation_des_tailleurs">
                   <div type="magistrature" n="conseiller_des_tailleurs">
                      <p><lb n="25"/>Von den snydern : <persName><forename>Heinrich</forename>
-                           <surname>Winbeck</surname></persName></p>
+                           <surname>Windeck</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_bateliers">
@@ -8949,7 +8949,7 @@
                      <lb n="10"/><persName><forename>Behtolt</forename>
                         <surname>Zorn</surname> genant <addName>Schultheiss</addName></persName>
                      <lb n="11"/><persName><forename>Hanns</forename>
-                        <surname>zͦuͦr Megde</surname></persName>
+                        <surname>zuͦr Megde</surname></persName>
                      <lb n="12"/><persName><forename>Conrat</forename>
                         <surname>Bock</surname></persName>
                      <lb n="13"/><persName><forename>Peter</forename>
@@ -9037,7 +9037,7 @@
                <div type="corporation" n="corporation_des_pelletiers">
                   <div type="magistrature" n="conseiller_des_pelletiers">
                      <p><lb n="27"/>Von den kürsenern : <persName><forename>Claus</forename>
-                           <surname>zͦuͦr Hellen</surname></persName></p>
+                           <surname>zuͦr Hellen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_charpentiers">
@@ -9049,7 +9049,7 @@
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
                   <div type="magistrature" n="conseiller_des_crieurs_et_mesureurs_de_vin">
                      <p><lb n="29"/>Von den winruffern und winmessern : <persName><forename>Jacob</forename>
-                           <surname>zͦuͦr Kenen</surname></persName></p>
+                           <surname>zuͦr Kenen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_cordonniers">
@@ -9790,7 +9790,7 @@
                <div type="corporation" n="corporation_des_pelletiers">
                   <div type="magistrature" n="conseiller_des_pelletiers">
                      <p><lb n="24"/>Von den kürsenern : <persName><forename>Hanns</forename>
-                           <surname>zͦuͦr Hellen</surname></persName></p>
+                           <surname>zuͦr Hellen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_charpentiers">
@@ -11039,7 +11039,7 @@
                <div type="corporation" n="corporation_des_pelletiers">
                   <div type="magistrature" n="conseiller_des_pelletiers">
                      <p><lb n="27"/>Von den kürsenern : <persName><forename>Claus</forename>
-                           <surname>zͦuͦr Hellen</surname></persName></p>
+                           <surname>zuͦr Hellen</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_charpentiers">
@@ -12472,7 +12472,7 @@
                <div type="corporation" n="corporation_des_drapiers">
                   <div type="magistrature" n="conseiller_des_drapiers">
                      <p><lb n="20"/>Von den düchern : <persName><forename>Claus</forename>
-                           <surname>Ackenfͦuͦs</surname></persName></p>
+                           <surname>Ackenfuͦs</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_tanneurs">
@@ -13254,7 +13254,7 @@
                </div>
                <div type="corporation" n="corporation_des_charpentiers">
                   <div type="magistrature" n="conseiller_des_charpentiers">
-                     <p><lb n="28"/>Von den zimerlüten : <persName><forename>Joͤͤrg</forename>
+                     <p><lb n="28"/>Von den zimerlüten : <persName><forename>Joͤrg</forename>
                            <surname>Vetter</surname></persName></p>
                   </div>
                </div>
@@ -13742,7 +13742,7 @@
                <div type="corporation" n="corporation_des_charpentiers">
                   <div type="magistrature" n="conseiller_des_charpentiers">
                      <p><lb n="28"/>Von den zimerlüten : <persName><forename>Erhart</forename>
-                           <surname>Winsacher</surname></persName></p>
+                           <surname>Winsticher</surname></persName></p>
                   </div>
                </div>
                <div type="corporation" n="corporation_des_crieurs_et_mesureurs_de_vin">
@@ -15128,7 +15128,7 @@
                      <lb n="12"/><persName><forename>Thoman</forename>
                         <surname>Bùssener</surname></persName>
                      <lb n="13"/><persName><forename>Conrat</forename>
-                        <surname>zͦuͦr Megde</surname></persName>
+                        <surname>zuͦr Megde</surname></persName>
                      <lb n="14"/><persName><forename>Peter</forename>
                         <surname>Rebstock</surname></persName>
                      <lb n="15"/><persName><forename>Jacob</forename>
@@ -15370,7 +15370,7 @@
                      <lb n="7"/><persName><forename>Bernhart</forename>
                         <surname>Bock</surname></persName>
                      <lb n="8"/><persName><forename>Caspar</forename>
-                        <surname>zͦuͦr Megde</surname></persName>
+                        <surname>zuͦr Megde</surname></persName>
                      <lb n="9"/><persName><forename>Hanns</forename>
                         <surname>Voͦltsche</surname></persName>
                      <lb n="10"/><persName><forename>Hanns</forename>
@@ -16055,7 +16055,7 @@
                      <lb n="10"/><persName><forename>Hanns</forename>
                         <surname>Sturm</surname></persName>
                      <lb n="11"/><persName><forename>Caspar</forename>
-                        <surname>zͦuͦr Meͣgde</surname></persName>
+                        <surname>zuͦr Meͣgde</surname></persName>
                      <lb n="12"/><persName><forename>Thoman</forename>
                         <surname>Buͤhßener</surname></persName>
                      <lb n="13"/><persName><forename>Peter</forename>
@@ -16294,7 +16294,7 @@
                      <lb n="12"/><persName><forename>Reymbolt</forename>
                         <surname>zuͦm Trùbel</surname></persName>
                      <lb n="13"/><persName><forename>Caspar</forename>
-                        <surname>zͦuͦr Megde</surname></persName>
+                        <surname>zuͦr Megde</surname></persName>
                      <lb n="14"/><persName><forename>Hannsadolff</forename>
                         <surname>Elnhart</surname></persName>
                   </p>
@@ -22081,7 +22081,7 @@
                <div type="corporation" n="corporation_des_gourmets_et_courtiers">
                   <div type="magistrature" n="conseiller_des_gourmets_et_courtiers">
                      <p><lb n="25"/>Von den winstichern und underkoüffern :
-                     <lb n="26"/><persName><forename>Conrat</forename>
+                     <lb n="26"/><persName><forename>Hans</forename>
                            <surname>Stösser</surname></persName></p>
                   </div>
                </div>

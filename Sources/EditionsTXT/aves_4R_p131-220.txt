@@ -112,8 +112,8 @@ Von den steinmetzen und murern : Johanns Ganß der alter
 Von den schmiden : Eberlin von Truhtersheim
 Von den snidern : Heilman der schnider
 Von den schifflüten : Johanns Nellesheim der jung
-Von den zimerlüten : Heintzeman Selose
-Von den kürsenern : Otman Münch
+Von den kürsenern : Heintzeman Selose
+Von den zimerlüten : Otman Münch
 Von den winruffern und winmessern : Fritsch Beildeck
 Von den schümachern : Cristian vor den Barfüsser
 Von den goltschmiden und schiltern : Claus Hennickin der goltschmit
@@ -1832,7 +1832,7 @@ Von den gerwern : Hanns Bitsch
 Von den würten : Anshelm Spirer
 Von den murern : meister Hanns Clein
 Von den schmiden : Eberlin von Truhterßheim
-Von den snydern : Heinrich Winbeck
+Von den snydern : Heinrich Windeck
 Von den schifflüten : Heinrich Desche
 Von den kürsenern : Dielman Wynngersheim
 Von den zimerlüten : meister Michel
@@ -3091,7 +3091,7 @@ Von den schmiden : her Heinrich Meyer
 Von den snydern : Syfrit Zerig
 Von den schifflüten : Jacob Ammelung
 Von den kürsenern : Hanns Spirer
-Von den zimerlüten : Erhart Winsacher
+Von den zimerlüten : Erhart Winsticher
 Von den winruffern und winmessern : Claus Beingewant
 Von den schümachern : Claus Wolff
 Von den goltschmiden und schiltern : Hanns Vegersheim
@@ -4904,7 +4904,7 @@ Von den brotbeckern : Hans Waldener
 Von den kürsenern : Matern Pfùtzer
 Von den küffern : Hans Conrat
 Von den gerwern : Hans Vendenheim
-Von den winstichern und underkoüffern : Conrat Stösser
+Von den winstichern und underkoüffern : Hans Stösser
 Von den snydern : Hans Franck
 Von den smyden : Hans von Druhtersheim
 Von den schümachern : Jost Merckel

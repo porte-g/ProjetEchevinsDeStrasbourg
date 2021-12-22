@@ -1,58 +1,58 @@
-,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
-1,aves_aa_4R_1412_0001,1412,stettmeister,her Claus Zorn Schultheis ritter,claus,zorn,schultheiss,,"['her', 'ritter']",constoffeler,,,143,1,1
-2,aves_aa_4R_1412_0002,1412,stettmeister,her Uͦlrich Bock der jung,ulrich,bock,,der junge,['her'],constoffeler,,,143,1,2
-3,aves_aa_4R_1412_0003,1412,stettmeister,her Conrat zuͦm Ruͦst,konrat,"rust, zum",,,['her'],constoffeler,,,143,1,3
-4,aves_aa_4R_1412_0004,1412,stettmeister,her Claus Merswin,claus,merswin,,,['her'],constoffeler,,,143,1,4
-5,aves_aa_4R_1412_0005,1412,ammeister,her Johanns Meyer der ammeister,johanns,meiger,,,"['her', 'ammeister']",echevinat,,,143,1,5
-6,aves_aa_4R_1412_0006,1412,conseiller_des_constaffel,her Reimbolt Lappe ritter,reimbolt,lapp,,,"['her', 'ritter']",constoffeler,,,143,1,6
-7,aves_aa_4R_1412_0007,1412,conseiller_des_constaffel,her Wilhelm Cloblouch ritter,wilhelm,klobelouch,,,"['her', 'ritter']",constoffeler,,,143,1,7
-8,aves_aa_4R_1412_0008,1412,conseiller_des_constaffel,her Claus von Westhus ritter,claus,westhus,,,"['her', 'ritter']",constoffeler,,,143,1,8
-9,aves_aa_4R_1412_0009,1412,conseiller_des_constaffel,her Reimbolt Wetzel,reimbolt,wetzel,,,['her'],constoffeler,,,143,1,9
-10,aves_aa_4R_1412_0010,1412,conseiller_des_constaffel,her Wilhelm von Mùlnheim,wilhelm,"müllenheim, von",,,['her'],constoffeler,,,143,1,10
-11,aves_aa_4R_1412_0011,1412,conseiller_des_constaffel,Claus Friderich,claus,friedrich,,,,constoffeler,,,143,1,11
-12,aves_aa_4R_1412_0012,1412,conseiller_des_constaffel,Reimbolt Cloͤblouch,reimbolt,klobelouch,,,,constoffeler,,,143,1,12
-13,aves_aa_4R_1412_0013,1412,conseiller_des_constaffel,Otteman von Mùlnheim,ottemann,"müllenheim, von",,,,constoffeler,,,143,1,13
-14,aves_aa_4R_1412_0014,1412,conseiller_des_constaffel,Werlin Hùffelin,wernher,hüffelin,,,,constoffeler,,,143,1,14
-15,aves_aa_4R_1412_0015,1412,conseiller_des_constaffel,Bartholomeus von Mùlnheim,bartholomeus,"müllenheim, von",,,,constoffeler,,,143,1,15
-16,aves_aa_4R_1412_0016,1412,conseiller_des_constaffel,her Johanns Bock,johanns,bock,,,['her'],constoffeler,,,143,1,16
-17,aves_aa_4R_1412_0017,1412,conseiller_des_constaffel,her Hug Voͤltsche,hug,völtsch,,,['her'],constoffeler,,,143,1,17
-18,aves_aa_4R_1412_0018,1412,conseiller_des_constaffel,her Hetzel Rebestock,hetzel,rebestock,,,['her'],constoffeler,,,143,1,18
-19,aves_aa_4R_1412_0019,1412,conseiller_des_constaffel,Götze von Heiligenstein,götze,"heiligenstein, von",,,,constoffeler,,,143,1,19
-20,aves_aa_4R_1412_0020,1412,conseiller_des_constaffel,Heintzman Gùrteler,heintz,gürteler,,,,constoffeler,,,143,1,20
-21,aves_aa_4R_1412_0021,1412,conseiller_des_constaffel,Fridrich Zorn von Epffich,friedrich,zorn,"epfig, von",,,constoffeler,,,143,1,21
-22,aves_aa_4R_1412_0022,1412,conseiller_des_constaffel,Johanns Peterlin,johanns,peterlin,,,,constoffeler,,,143,1,22
-23,aves_aa_4R_1412_0023,1412,conseiller_des_constaffel,Hanman Goͤudertheim,hannemann,geudertheim,,,,constoffeler,,,143,1,23
-24,aves_aa_4R_1412_0024,1412,conseiller_des_constaffel,Johanns Pfettesheim,johanns,pfettisheim,,,,constoffeler,,,143,1,24
-25,aves_aa_4R_1412_0025,1412,conseiller_des_constaffel,Hanns von Wintertur,johanns,"winterthur, von",,,,constoffeler,,,143,1,25
-26,aves_aa_4R_1412_0026,1412,conseiller_des_constaffel,Ruther Foͤrster,ruther,förster,,,,constoffeler,,,143,1,26
-27,aves_aa_4R_1412_0027,1412,conseiller_des_constaffel,Cuͦne zuͦm Truͦbel,kühne,"trübel, zum",,,,constoffeler,,,143,1,27
-28,aves_aa_4R_1412_0028,1412,conseiller_des_constaffel,Jacob Mansse,jacob,manse,,,,constoffeler,,,143,1,28
-29,aves_aa_4R_1412_0029,1412,conseiller_des_constaffel,Johanns von Heiligenstein der jung,johanns,"heiligenstein, von",,der junge,,constoffeler,,,143,1,29
-30,aves_aa_4R_1412_0030,1412,conseiller_des_marchands,Erhart von Rotwil,erhart,"rottweil, von",,,,echevinat,corporation_des_marchands,,143,1,30
-31,aves_aa_4R_1412_0031,1412,conseiller_des_boulangers,Jacob Herman,jacob,hermann,,,,echevinat,corporation_des_boulangers,,143,1,31
-32,aves_aa_4R_1412_0032,1412,conseiller_des_bouchers,Hanns Berse,johanns,berse,,,,echevinat,corporation_des_bouchers,,143,1,32
-33,aves_aa_4R_1412_0033,1412,conseiller_des_drapiers,Claus Sprenger,claus,sprenger,,,,echevinat,corporation_des_drapiers,,143,1,33
-34,aves_aa_4R_1412_0034,1412,conseiller_des_tonneliers,Claus Schanlit,claus,schanlit,,,,echevinat,corporation_des_tonneliers,,143,1,34
-35,aves_aa_4R_1412_0035,1412,conseiller_des_tanneurs,Claus Werder,claus,werde,,,,echevinat,corporation_des_tanneurs,,143,1,35
-36,aves_aa_4R_1412_0036,1412,conseiller_des_cabaretiers,Johanns Mummenheim,johanns,mommenheim,,,,echevinat,corporation_des_cabaretiers,,143,1,36
-37,aves_aa_4R_1412_0037,1412,conseiller_des_maçons,Anthenie Kachler,anthenie,kacheler,,,,echevinat,corporation_des_maçons,,143,1,37
-38,aves_aa_4R_1412_0038,1412,conseiller_des_forgerons,Steffan Sporer,stefan,sporer,,,,echevinat,corporation_des_forgerons,,143,1,38
-39,aves_aa_4R_1412_0039,1412,conseiller_des_tailleurs,Conrat Schrotbanck,konrat,schrotbanck,,,,echevinat,corporation_des_tailleurs,,143,1,39
-40,aves_aa_4R_1412_0040,1412,conseiller_des_bateliers,Johanns Armbroster,johanns,armbruster,,,,echevinat,corporation_des_bateliers,,143,1,40
-41,aves_aa_4R_1412_0041,1412,conseiller_des_pelletiers,Götz von Hagenowe,götze,"hagenau, von",,,,echevinat,corporation_des_pelletiers,,143,2,1
-42,aves_aa_4R_1412_0042,1412,conseiller_des_charpentiers,Johanns Kerbe,johanns,kerb,,,,echevinat,corporation_des_charpentiers,,143,2,2
-43,aves_aa_4R_1412_0043,1412,conseiller_des_crieurs_et_mesureurs_de_vin,Jecklin Kenen,jeckel,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,143,2,3
-44,aves_aa_4R_1412_0044,1412,conseiller_des_orfevres,Andres Samlriem,andres,schmalriem,,,,echevinat,corporation_des_orfevres,,143,2,4
-45,aves_aa_4R_1412_0045,1412,conseiller_des_cordonniers,Oberlin Hering,oberlin,herring,,,,echevinat,corporation_des_cordonniers,,143,2,5
-46,aves_aa_4R_1412_0046,1412,conseiller_des_marchands_de_grains,her Michel Melbrü,michel,melbrühe,,,['her'],echevinat,corporation_des_marchands_de_grains,,143,2,6
-47,aves_aa_4R_1412_0047,1412,conseiller_des_jardiniers,Johanns Zender,johanns,zender,,,,echevinat,corporation_des_jardiniers,,143,2,7
-48,aves_aa_4R_1412_0048,1412,conseiller_des_pêcheurs,Hanns Lamb,johanns,lamb,,,,echevinat,corporation_des_pêcheurs,,143,2,8
-49,aves_aa_4R_1412_0049,1412,conseiller_des_barbiers_et_baigneurs,Walther Scherer,walther,scherer,,,,echevinat,corporation_des_barbiers_et_baigneurs,,143,2,9
-50,aves_aa_4R_1412_0050,1412,conseiller_des_sauniers,her Uͦlrich Gosse,ulrich,gosse,,,['her'],echevinat,corporation_des_sauniers,,143,2,10
-51,aves_aa_4R_1412_0051,1412,conseiller_des_tisserands,Diebolt Mannertrib,diebolt,mannertrieb,,,,echevinat,corporation_des_tisserands,,143,2,11
-52,aves_aa_4R_1412_0052,1412,conseiller_des_gourmets_et_courtiers,Hanns Schenck,johanns,schenck,,,,echevinat,corporation_des_gourmets_et_courtiers,,143,2,12
-53,aves_aa_4R_1412_0053,1412,conseiller_des_charrons,Johanns Mentzer,johanns,mentzer,,,,echevinat,corporation_des_charrons,,143,2,13
-54,aves_aa_4R_1412_0054,1412,conseiller_des_regrattiers_cordiers_et_fruitiers,Ruͦlman Seiler,ruhlemann,seiler,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,143,2,14
-55,aves_aa_4R_1412_0055,1412,conseiller_des_coltineurs_de_tonneaux,Claus Wilgotheim,claus,willgottheim,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,143,2,15
-56,aves_aa_4R_1412_0056,1412,conseiller_des_constructeurs_de_bateaux,Leonhart Bobst,lienhart,bobst,,,,echevinat,corporation_des_constructeurs_de_bateaux,,143,2,16
-57,aves_aa_4R_1412_0057,1412,conseiller_des_drapiers,Otteman dͦuͦchscherer,ottemann,tuchscherer,,,,echevinat,corporation_des_drapiers,,143,2,17
+id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+aves_aa_4R_1412_0001,1412,stettmeister,her Claus Zorn Schultheis ritter,claus,zorn,schultheiss,,"['her', 'ritter']",constoffeler,,,143,,1
+aves_aa_4R_1412_0002,1412,stettmeister,her Uͦlrich Bock der jung,ulrich,bock,,der junge,['her'],constoffeler,,,143,,2
+aves_aa_4R_1412_0003,1412,stettmeister,her Conrat zuͦm Ruͦst,konrat,"rust, zum",,,['her'],constoffeler,,,143,,3
+aves_aa_4R_1412_0004,1412,stettmeister,her Claus Merswin,claus,merswin,,,['her'],constoffeler,,,143,,4
+aves_aa_4R_1412_0005,1412,ammeister,her Johanns Meyer der ammeister,johanns,meiger,,,"['her', 'ammeister']",echevinat,,,143,,5
+aves_aa_4R_1412_0006,1412,conseiller_des_constaffel,her Reimbolt Lappe ritter,reimbolt,lapp,,,"['her', 'ritter']",constoffeler,,,143,,6
+aves_aa_4R_1412_0007,1412,conseiller_des_constaffel,her Wilhelm Cloblouch ritter,wilhelm,klobelouch,,,"['her', 'ritter']",constoffeler,,,143,,7
+aves_aa_4R_1412_0008,1412,conseiller_des_constaffel,her Claus von Westhus ritter,claus,westhus,,,"['her', 'ritter']",constoffeler,,,143,,8
+aves_aa_4R_1412_0009,1412,conseiller_des_constaffel,her Reimbolt Wetzel,reimbolt,wetzel,,,['her'],constoffeler,,,143,,9
+aves_aa_4R_1412_0010,1412,conseiller_des_constaffel,her Wilhelm von Mùlnheim,wilhelm,"müllenheim, von",,,['her'],constoffeler,,,143,,10
+aves_aa_4R_1412_0011,1412,conseiller_des_constaffel,Claus Friderich,claus,friedrich,,,,constoffeler,,,143,,11
+aves_aa_4R_1412_0012,1412,conseiller_des_constaffel,Reimbolt Cloͤblouch,reimbolt,klobelouch,,,,constoffeler,,,143,,12
+aves_aa_4R_1412_0013,1412,conseiller_des_constaffel,Otteman von Mùlnheim,ottemann,"müllenheim, von",,,,constoffeler,,,143,,13
+aves_aa_4R_1412_0014,1412,conseiller_des_constaffel,Werlin Hùffelin,wernher,hüffelin,,,,constoffeler,,,143,,14
+aves_aa_4R_1412_0015,1412,conseiller_des_constaffel,Bartholomeus von Mùlnheim,bartholomeus,"müllenheim, von",,,,constoffeler,,,143,,15
+aves_aa_4R_1412_0016,1412,conseiller_des_constaffel,her Johanns Bock,johanns,bock,,,['her'],constoffeler,,,143,,16
+aves_aa_4R_1412_0017,1412,conseiller_des_constaffel,her Hug Voͤltsche,hug,völtsch,,,['her'],constoffeler,,,143,,17
+aves_aa_4R_1412_0018,1412,conseiller_des_constaffel,her Hetzel Rebestock,hetzel,rebestock,,,['her'],constoffeler,,,143,,18
+aves_aa_4R_1412_0019,1412,conseiller_des_constaffel,Götze von Heiligenstein,götze,"heiligenstein, von",,,,constoffeler,,,143,,19
+aves_aa_4R_1412_0020,1412,conseiller_des_constaffel,Heintzman Gùrteler,heintz,gürteler,,,,constoffeler,,,143,,20
+aves_aa_4R_1412_0021,1412,conseiller_des_constaffel,Fridrich Zorn von Epffich,friedrich,zorn,"epfig, von",,,constoffeler,,,143,,21
+aves_aa_4R_1412_0022,1412,conseiller_des_constaffel,Johanns Peterlin,johanns,peterlin,,,,constoffeler,,,143,,22
+aves_aa_4R_1412_0023,1412,conseiller_des_constaffel,Hanman Goͤudertheim,hannemann,geudertheim,,,,constoffeler,,,143,,23
+aves_aa_4R_1412_0024,1412,conseiller_des_constaffel,Johanns Pfettesheim,johanns,pfettisheim,,,,constoffeler,,,143,,24
+aves_aa_4R_1412_0025,1412,conseiller_des_constaffel,Hanns von Wintertur,johanns,"winterthur, von",,,,constoffeler,,,143,,25
+aves_aa_4R_1412_0026,1412,conseiller_des_constaffel,Ruther Foͤrster,ruther,förster,,,,constoffeler,,,143,,26
+aves_aa_4R_1412_0027,1412,conseiller_des_constaffel,Cuͦne zuͦm Truͦbel,kühne,"trübel, zum",,,,constoffeler,,,143,,27
+aves_aa_4R_1412_0028,1412,conseiller_des_constaffel,Jacob Mansse,jacob,manse,,,,constoffeler,,,143,,28
+aves_aa_4R_1412_0029,1412,conseiller_des_constaffel,Johanns von Heiligenstein der jung,johanns,"heiligenstein, von",,der junge,,constoffeler,,,143,,29
+aves_aa_4R_1412_0030,1412,conseiller_des_marchands,Erhart von Rotwil,erhart,"rottweil, von",,,,echevinat,corporation_des_marchands,,143,,30
+aves_aa_4R_1412_0031,1412,conseiller_des_boulangers,Jacob Herman,jacob,hermann,,,,echevinat,corporation_des_boulangers,,143,,31
+aves_aa_4R_1412_0032,1412,conseiller_des_bouchers,Hanns Berse,johanns,berse,,,,echevinat,corporation_des_bouchers,,143,,32
+aves_aa_4R_1412_0033,1412,conseiller_des_drapiers,Claus Sprenger,claus,sprenger,,,,echevinat,corporation_des_drapiers,,143,,33
+aves_aa_4R_1412_0034,1412,conseiller_des_tonneliers,Claus Schanlit,claus,schanlit,,,,echevinat,corporation_des_tonneliers,,143,,34
+aves_aa_4R_1412_0035,1412,conseiller_des_tanneurs,Claus Werder,claus,werde,,,,echevinat,corporation_des_tanneurs,,143,,35
+aves_aa_4R_1412_0036,1412,conseiller_des_cabaretiers,Johanns Mummenheim,johanns,mommenheim,,,,echevinat,corporation_des_cabaretiers,,143,,36
+aves_aa_4R_1412_0037,1412,conseiller_des_maçons,Anthenie Kachler,anthenie,kacheler,,,,echevinat,corporation_des_maçons,,143,,37
+aves_aa_4R_1412_0038,1412,conseiller_des_forgerons,Steffan Sporer,stefan,sporer,,,,echevinat,corporation_des_forgerons,,143,,38
+aves_aa_4R_1412_0039,1412,conseiller_des_tailleurs,Conrat Schrotbanck,konrat,schrotbanck,,,,echevinat,corporation_des_tailleurs,,143,,39
+aves_aa_4R_1412_0040,1412,conseiller_des_bateliers,Johanns Armbroster,johanns,armbruster,,,,echevinat,corporation_des_bateliers,,143,,40
+aves_aa_4R_1412_0041,1412,conseiller_des_pelletiers,Götz von Hagenowe,götze,"hagenau, von",,,,echevinat,corporation_des_pelletiers,,143,,1
+aves_aa_4R_1412_0042,1412,conseiller_des_charpentiers,Johanns Kerbe,johanns,kerb,,,,echevinat,corporation_des_charpentiers,,143,,2
+aves_aa_4R_1412_0043,1412,conseiller_des_crieurs_et_mesureurs_de_vin,Jecklin Kenen,jeckel,"kenen, zur",,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,143,,3
+aves_aa_4R_1412_0044,1412,conseiller_des_orfevres,Andres Samlriem,andres,schmalriem,,,,echevinat,corporation_des_orfevres,,143,,4
+aves_aa_4R_1412_0045,1412,conseiller_des_cordonniers,Oberlin Hering,oberlin,herring,,,,echevinat,corporation_des_cordonniers,,143,,5
+aves_aa_4R_1412_0046,1412,conseiller_des_marchands_de_grains,her Michel Melbrü,michel,melbrühe,,,['her'],echevinat,corporation_des_marchands_de_grains,,143,,6
+aves_aa_4R_1412_0047,1412,conseiller_des_jardiniers,Johanns Zender,johanns,zender,,,,echevinat,corporation_des_jardiniers,,143,,7
+aves_aa_4R_1412_0048,1412,conseiller_des_pêcheurs,Hanns Lamb,johanns,lamb,,,,echevinat,corporation_des_pêcheurs,,143,,8
+aves_aa_4R_1412_0049,1412,conseiller_des_barbiers_et_baigneurs,Walther Scherer,walther,scherer,,,,echevinat,corporation_des_barbiers_et_baigneurs,,143,,9
+aves_aa_4R_1412_0050,1412,conseiller_des_sauniers,her Uͦlrich Gosse,ulrich,gosse,,,['her'],echevinat,corporation_des_sauniers,,143,,10
+aves_aa_4R_1412_0051,1412,conseiller_des_tisserands,Diebolt Mannertrib,diebolt,mannertrieb,,,,echevinat,corporation_des_tisserands,,143,,11
+aves_aa_4R_1412_0052,1412,conseiller_des_gourmets_et_courtiers,Hanns Schenck,johanns,schenck,,,,echevinat,corporation_des_gourmets_et_courtiers,,143,,12
+aves_aa_4R_1412_0053,1412,conseiller_des_charrons,Johanns Mentzer,johanns,mentzer,,,,echevinat,corporation_des_charrons,,143,,13
+aves_aa_4R_1412_0054,1412,conseiller_des_regrattiers_cordiers_et_fruitiers,Ruͦlman Seiler,ruhlemann,seiler,,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,143,,14
+aves_aa_4R_1412_0055,1412,conseiller_des_coltineurs_de_tonneaux,Claus Wilgotheim,claus,willgottheim,,,,echevinat,corporation_des_coltineurs_de_tonneaux,,143,,15
+aves_aa_4R_1412_0056,1412,conseiller_des_constructeurs_de_bateaux,Leonhart Bobst,lienhart,bobst,,,,echevinat,corporation_des_constructeurs_de_bateaux,,143,,16
+aves_aa_4R_1412_0057,1412,conseiller_des_drapiers,Otteman dͦuͦchscherer,ottemann,tuchscherer,,,,echevinat,corporation_des_drapiers,,143,,17

@@ -1,41 +1,41 @@
-,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
-1,aves_aa_4R_1470_0001,1470,stettmeister,her Hanns Rͦuͦdolff von Endingen ritter,,"endingen, von",,,"['her', 'ritter']",constoffeler,,,201,1,1
-2,aves_aa_4R_1470_0002,1470,stettmeister,her Hanns Boͤckel ritter,johanns,böckel,,,"['her', 'ritter']",constoffeler,,,201,1,2
-3,aves_aa_4R_1470_0003,1470,stettmeister,her Philips von Mùlnheim ritter,philipp,"müllenheim, von",,,"['her', 'ritter']",constoffeler,,,201,1,3
-4,aves_aa_4R_1470_0004,1470,stettmeister,her Dietrich Burggrafe,dietrich,burggraf,,,['her'],constoffeler,,,201,1,4
-5,aves_aa_4R_1470_0005,1470,ammeister,her Peter Schott der ammeister,peter,schott,,,"['her', 'ammeister']",echevinat,,,201,1,5
-6,aves_aa_4R_1470_0006,1470,conseiller_des_constaffel,her Ffriderich Bock ritter,friedrich,bock,,,"['her', 'ritter']",constoffeler,,,201,1,6
-7,aves_aa_4R_1470_0007,1470,conseiller_des_constaffel,her Hanns Conrat Bock,johanns-konrat,bock,,,['her'],constoffeler,,,201,1,7
-8,aves_aa_4R_1470_0008,1470,conseiller_des_constaffel,Claus Spender,claus,spender,,,,constoffeler,,,201,1,8
-9,aves_aa_4R_1470_0009,1470,conseiller_des_constaffel,Hanns Adolff Elnhart,johanns-adolff,ellenhart,,,,constoffeler,,,201,1,9
-10,aves_aa_4R_1470_0010,1470,conseiller_des_constaffel,Bernhart Bock,bernhart,bock,,,,constoffeler,,,201,1,10
-11,aves_aa_4R_1470_0011,1470,conseiller_des_constaffel,Hanns Voltsche,johanns,völtsch,,,,constoffeler,,,201,1,11
-12,aves_aa_4R_1470_0012,1470,conseiller_des_constaffel,Caspar von Mùlnheim genant                         Hiltebrant,caspar,"müllenheim, von",hiltebrant,,,constoffeler,,,201,1,12
-13,aves_aa_4R_1470_0013,1470,conseiller_des_constaffel,Ulrich Bock,ulrich,bock,,,,constoffeler,,,201,1,13
-14,aves_aa_4R_1470_0014,1470,conseiller_des_constaffel,Bernhart Vener,bernhart,vener,,,,constoffeler,,,201,1,14
-15,aves_aa_4R_1470_0015,1470,conseiller_des_marchands,her Conrat Riff altammeister,konrat,riffe,,,"['her', 'altammeister']",echevinat,corporation_des_marchands,,201,1,15
-16,aves_aa_4R_1470_0016,1470,conseiller_des_boulangers,Diebolt Otman,diebolt,ottemann,,,,echevinat,corporation_des_boulangers,,201,1,16
-17,aves_aa_4R_1470_0017,1470,conseiller_des_bouchers,Bechtolt Offenburg,bechtolt,offenburg,,,,echevinat,corporation_des_bouchers,,201,1,17
-18,aves_aa_4R_1470_0018,1470,conseiller_des_tonneliers,Anthonie Sansselman,anthenie,sanselmann,,,,echevinat,corporation_des_tonneliers,,201,1,18
-19,aves_aa_4R_1470_0019,1470,conseiller_des_drapiers,Hanns von Seckingen,johanns,"säckingen, von",,,,echevinat,corporation_des_drapiers,,201,1,19
-20,aves_aa_4R_1470_0020,1470,conseiller_des_tanneurs,Claus Bitsche,claus,bitsch,,,,echevinat,corporation_des_tanneurs,,201,1,20
-21,aves_aa_4R_1470_0021,1470,conseiller_des_cabaretiers,her Claus Boͧmgarter altammeister,claus,baumgarter,,,"['her', 'altammeister']",echevinat,corporation_des_cabaretiers,,201,1,21
-22,aves_aa_4R_1470_0022,1470,conseiller_des_maçons,Hans Kacheler,johanns,kacheler,,,,echevinat,corporation_des_maçons,,201,1,22
-23,aves_aa_4R_1470_0023,1470,conseiller_des_forgerons,Hanns Holnyet,johanns,holniet,,,,echevinat,corporation_des_forgerons,,201,1,23
-24,aves_aa_4R_1470_0024,1470,conseiller_des_tailleurs,Andres Volck,andres,volk,,,,echevinat,corporation_des_tailleurs,,201,1,24
-25,aves_aa_4R_1470_0025,1470,conseiller_des_bateliers,her Hans von Berse altammeister,johanns,"berse, von",,,"['her', 'altammeister']",echevinat,corporation_des_bateliers,,201,1,25
-26,aves_aa_4R_1470_0026,1470,conseiller_des_pelletiers,Peter von Sarburg,peter,"sarburg, von",,,,echevinat,corporation_des_pelletiers,,201,1,26
-27,aves_aa_4R_1470_0027,1470,conseiller_des_charpentiers,Claus Bosche,claus,bösch,,,,echevinat,corporation_des_charpentiers,,201,1,28
-28,aves_aa_4R_1470_0028,1470,conseiller_des_crieurs_et_mesureurs_de_vin,Claus Beingewant,claus,beingewant,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,201,1,30
-29,aves_aa_4R_1470_0029,1470,conseiller_des_cordonniers,Claus Weidelich,claus,weidlich,,,,echevinat,corporation_des_cordonniers,,201,1,31
-30,aves_aa_4R_1470_0030,1470,conseiller_des_orfevres,Heinrich Bisinger,heinrich,bisinger,,,,echevinat,corporation_des_orfevres,,201,1,33
-31,aves_aa_4R_1470_0031,1470,conseiller_des_marchands_de_grains,Syfrit Bietenheim,sifrit,bietenheim,,,,echevinat,corporation_des_marchands_de_grains,,201,1,34
-32,aves_aa_4R_1470_0032,1470,conseiller_des_jardiniers,Ffriderich Wolff,friedrich,wolff,,,,echevinat,corporation_des_jardiniers,,201,1,35
-33,aves_aa_4R_1470_0033,1470,conseiller_des_pêcheurs,Martin Leheman,martin,lehmann,,,,echevinat,corporation_des_pêcheurs,,201,1,36
-34,aves_aa_4R_1470_0034,1470,conseiller_des_barbiers_et_baigneurs,Hans Schedeler,johanns,schedeler,,,,echevinat,corporation_des_barbiers_et_baigneurs,,201,2,1
-35,aves_aa_4R_1470_0035,1470,conseiller_des_sauniers,Mattern Drachenfeils,mattern,trachenfeils,,,,echevinat,corporation_des_sauniers,,201,2,2
-36,aves_aa_4R_1470_0036,1470,conseiller_des_tisserands,Hans Umb und Umb,johanns,umb und umb,,,,echevinat,corporation_des_tisserands,,201,2,3
-37,aves_aa_4R_1470_0037,1470,conseiller_des_gourmets_et_courtiers,Hans von Odratzheim,johanns,"odratzheim, von",,,,echevinat,corporation_des_gourmets_et_courtiers,,201,2,5
-38,aves_aa_4R_1470_0038,1470,conseiller_des_charrons,Hanns Voltz,johanns,voltz,,,,echevinat,corporation_des_charrons,,201,2,7
-39,aves_aa_4R_1470_0039,1470,conseiller_des_regrattiers_cordiers_et_fruitiers,Lorentz von Gemer,laurentz,"gemersheim, von",,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,201,2,9
-40,aves_aa_4R_1470_0040,1470,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,Hylarius Spieß,hilarius,spiess,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,201,2,11
+id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+aves_aa_4R_1470_0001,1470,stettmeister,her Hanns ruͦdolff von Endingen ritter,johanns-rudolff,"endingen, von",,,"['her', 'ritter']",constoffeler,,,201,,1
+aves_aa_4R_1470_0002,1470,stettmeister,her Hanns Boͤckel ritter,johanns,böckel,,,"['her', 'ritter']",constoffeler,,,201,,2
+aves_aa_4R_1470_0003,1470,stettmeister,her Philips von Mùlnheim ritter,philipp,"müllenheim, von",,,"['her', 'ritter']",constoffeler,,,201,,3
+aves_aa_4R_1470_0004,1470,stettmeister,her Dietrich Burggrafe,dietrich,burggraf,,,['her'],constoffeler,,,201,,4
+aves_aa_4R_1470_0005,1470,ammeister,her Peter Schott der ammeister,peter,schott,,,"['her', 'ammeister']",echevinat,,,201,,5
+aves_aa_4R_1470_0006,1470,conseiller_des_constaffel,her Ffriderich Bock ritter,friedrich,bock,,,"['her', 'ritter']",constoffeler,,,201,,6
+aves_aa_4R_1470_0007,1470,conseiller_des_constaffel,her Hanns Conrat Bock,johanns-konrat,bock,,,['her'],constoffeler,,,201,,7
+aves_aa_4R_1470_0008,1470,conseiller_des_constaffel,Claus Spender,claus,spender,,,,constoffeler,,,201,,8
+aves_aa_4R_1470_0009,1470,conseiller_des_constaffel,Hanns Adolff Elnhart,johanns-adolff,ellenhart,,,,constoffeler,,,201,,9
+aves_aa_4R_1470_0010,1470,conseiller_des_constaffel,Bernhart Bock,bernhart,bock,,,,constoffeler,,,201,,10
+aves_aa_4R_1470_0011,1470,conseiller_des_constaffel,Hanns Voltsche,johanns,völtsch,,,,constoffeler,,,201,,11
+aves_aa_4R_1470_0012,1470,conseiller_des_constaffel,Caspar von Mùlnheim genant Hiltebrant,caspar,"müllenheim, von",hiltebrant,,,constoffeler,,,201,,12
+aves_aa_4R_1470_0013,1470,conseiller_des_constaffel,Ulrich Bock,ulrich,bock,,,,constoffeler,,,201,,13
+aves_aa_4R_1470_0014,1470,conseiller_des_constaffel,Bernhart Vener,bernhart,vener,,,,constoffeler,,,201,,14
+aves_aa_4R_1470_0015,1470,conseiller_des_marchands,her Conrat Riff altammeister,konrat,riffe,,,"['her', 'altammeister']",echevinat,corporation_des_marchands,,201,,15
+aves_aa_4R_1470_0016,1470,conseiller_des_boulangers,Diebolt Otman,diebolt,ottemann,,,,echevinat,corporation_des_boulangers,,201,,16
+aves_aa_4R_1470_0017,1470,conseiller_des_bouchers,Bechtolt Offenburg,bechtolt,offenburg,,,,echevinat,corporation_des_bouchers,,201,,17
+aves_aa_4R_1470_0018,1470,conseiller_des_tonneliers,Anthonie Sansselman,anthenie,sanselmann,,,,echevinat,corporation_des_tonneliers,,201,,18
+aves_aa_4R_1470_0019,1470,conseiller_des_drapiers,Hanns von Seckingen,johanns,"säckingen, von",,,,echevinat,corporation_des_drapiers,,201,,19
+aves_aa_4R_1470_0020,1470,conseiller_des_tanneurs,Claus Bitsche,claus,bitsch,,,,echevinat,corporation_des_tanneurs,,201,,20
+aves_aa_4R_1470_0021,1470,conseiller_des_cabaretiers,her Claus Boͧmgarter altammeister,claus,baumgarter,,,"['her', 'altammeister']",echevinat,corporation_des_cabaretiers,,201,,21
+aves_aa_4R_1470_0022,1470,conseiller_des_maçons,Hans Kacheler,johanns,kacheler,,,,echevinat,corporation_des_maçons,,201,,22
+aves_aa_4R_1470_0023,1470,conseiller_des_forgerons,Hanns Holnyet,johanns,holniet,,,,echevinat,corporation_des_forgerons,,201,,23
+aves_aa_4R_1470_0024,1470,conseiller_des_tailleurs,Andres Volck,andres,volk,,,,echevinat,corporation_des_tailleurs,,201,,24
+aves_aa_4R_1470_0025,1470,conseiller_des_bateliers,her Hans von Berse altammeister,johanns,"berse, von",,,"['her', 'altammeister']",echevinat,corporation_des_bateliers,,201,,25
+aves_aa_4R_1470_0026,1470,conseiller_des_pelletiers,Peter von Sarburg,peter,"sarburg, von",,,,echevinat,corporation_des_pelletiers,,201,,26
+aves_aa_4R_1470_0027,1470,conseiller_des_charpentiers,Claus Bosche,claus,bösch,,,,echevinat,corporation_des_charpentiers,,201,,28
+aves_aa_4R_1470_0028,1470,conseiller_des_crieurs_et_mesureurs_de_vin,Claus Beingewant,claus,beingewant,,,,echevinat,corporation_des_crieurs_et_mesureurs_de_vin,,201,,30
+aves_aa_4R_1470_0029,1470,conseiller_des_cordonniers,Claus Weidelich,claus,weidlich,,,,echevinat,corporation_des_cordonniers,,201,,31
+aves_aa_4R_1470_0030,1470,conseiller_des_orfevres,Heinrich Bisinger,heinrich,bisinger,,,,echevinat,corporation_des_orfevres,,201,,33
+aves_aa_4R_1470_0031,1470,conseiller_des_marchands_de_grains,Syfrit Bietenheim,sifrit,bietenheim,,,,echevinat,corporation_des_marchands_de_grains,,201,,34
+aves_aa_4R_1470_0032,1470,conseiller_des_jardiniers,Ffriderich Wolff,friedrich,wolff,,,,echevinat,corporation_des_jardiniers,,201,,35
+aves_aa_4R_1470_0033,1470,conseiller_des_pêcheurs,Martin Leheman,martin,lehmann,,,,echevinat,corporation_des_pêcheurs,,201,,36
+aves_aa_4R_1470_0034,1470,conseiller_des_barbiers_et_baigneurs,Hans Schedeler,johanns,schedeler,,,,echevinat,corporation_des_barbiers_et_baigneurs,,201,,1
+aves_aa_4R_1470_0035,1470,conseiller_des_sauniers,Mattern Drachenfeils,mattern,trachenfeils,,,,echevinat,corporation_des_sauniers,,201,,2
+aves_aa_4R_1470_0036,1470,conseiller_des_tisserands,Hans Umb und Umb,johanns,umb und umb,,,,echevinat,corporation_des_tisserands,,201,,3
+aves_aa_4R_1470_0037,1470,conseiller_des_gourmets_et_courtiers,Hans von Odratzheim,johanns,"odratzheim, von",,,,echevinat,corporation_des_gourmets_et_courtiers,,201,,5
+aves_aa_4R_1470_0038,1470,conseiller_des_charrons,Hanns Voltz,johanns,voltz,,,,echevinat,corporation_des_charrons,,201,,7
+aves_aa_4R_1470_0039,1470,conseiller_des_regrattiers_cordiers_et_fruitiers,Lorentz von Gemer,laurentz,"gemersheim, von",,,,echevinat,corporation_des_regrattiers_cordiers_et_fruitiers,,201,,9
+aves_aa_4R_1470_0040,1470,conseiller_des_huiliers_meuniers_et_tondeurs_de_draps,Hylarius Spieß,hilarius,spiess,,,,echevinat,corporation_des_huiliers_meuniers_et_tondeurs_de_draps,,201,,11
