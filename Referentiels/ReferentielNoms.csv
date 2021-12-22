@@ -4,7 +4,7 @@ achenheim,['toponymic'],['achenheim'],Achenheim
 "achenheim, von",['toponymic'],"['von achenheim', 'achenheim, von']",Achenheim
 achtjahre,['cognominal'],"['acht jore', 'achtjahre']",
 acker,['cognominal'],"['acker', 'ackel']",
-ackerfuss,['cognominal'],"['ackenfüs', 'ackerfuss', 'ackenfͦuͦs', 'ackenfuss', 'ockenfüß']",
+ackerfuss,['cognominal'],"['ackenfüs', 'ackerfuss', 'ackenfͦuͦs', 'ackenfuss', 'ockenfüß', 'ackenfuͦs']",
 ackerpferd,['cognominal'],"['acker pfert', 'ackerpferd']",
 adam,['patronymic'],['adam'],
 adolff,['patronymic'],['adolff'],
@@ -577,7 +577,7 @@ heischer,[],['heischer'],
 "heitersheim, von",['toponymic'],"['von heiterßheim', 'heitersheim, von']",Heitersheim
 helbeling,['cognominal'],"['helbelings', 'helbeling']",
 hell,['cognominal'],"['hell', 'helle']",
-"hellen, zur",['toponymic'],"['zͦuͦr hellen', 'hellen, zur', 'zuͤr hellen', 'zür hellen', 'hellen, zür']",
+"hellen, zur",['toponymic'],"['zͦuͦr hellen', 'hellen, zur', 'zuͤr hellen', 'zür hellen', 'hellen, zür', 'zuͦr hellen']",
 helwig,[],"['helwig', 'helwigen']",
 hemmerlin,['cognominal'],['hemmerlin'],
 henneckin,['patronymic'],"['henckin', 'henneckin', 'hennickin', 'heinnckin', 'henckins']",
@@ -714,7 +714,7 @@ keinne,[],"['kynne', 'keinne']",
 keller,['occupational'],['keller'],
 kember,['toponymic'],['kember'],Kembs
 kempf,[],"['kempff', 'kempf', 'kempffe', 'kempfe']",
-"kenen, zur",['toponymic'],"['kenen', 'kenen, zur', 'zur kenen', 'zͦuͦr kenen', 'zͦuͦr kennen', 'zuͤr kenen']",
+"kenen, zur",['toponymic'],"['kenen', 'kenen, zur', 'zur kenen', 'zͦuͦr kenen', 'zͦuͦr kennen', 'zuͤr kenen', 'zuͦr kenen', 'zuͦr kennen']",
 kentzinger,['toponymic'],['kentzinger'],Kenzingen
 kepfel,['cognominal'],['kepfel'],
 kerb,[],"['kerbe', 'kerb', 'kerwe']",
@@ -945,7 +945,7 @@ marx,['patronymic'],['marx'],
 meck,['cognominal'],"['mecke', 'meck']",
 medinger,[],"['medinger', 'meͣdinger', 'mëdinger']",
 meffart,['cognominal'],['meffart'],
-"megde, zur",['toponymic'],"['zür megde', 'megde, zur', 'zü der megde', 'zuͦr megde', 'zͦuͦr megde', 'zͦuͦr meͣgde']",
+"megde, zur",['toponymic'],"['zür megde', 'megde, zur', 'zü der megde', 'zuͦr megde', 'zͦuͦr megde', 'zͦuͦr meͣgde', 'zuͦr meͣgde']",
 meger,['occupational'],['meger'],
 megerlin,['cognominal'],['megerlin'],
 megetag,['cognominal'],['megetag'],
@@ -1252,6 +1252,7 @@ sankt-arbogast,['toponymic'],"['von sant arbogast', 'sant-arbogast', 'sankt-arbo
 "sankt-arbogast, von",['toponymic'],"['von sant arbgast', 'sant-arbogast, von', 'sankt-arbogast, von']",
 "sankt-fides, von",['toponymic'],"['von sant före', 'sankt-fides, von']",
 sankt-johanns,['toponymic'],"['von sant johann', 'sankt-johanns']",
+sankt-martin,['toponymic'],"['sant martin', 'sankt-martin']",
 "sankt-martin, zu",['toponymic'],"['zü sant martin', 'sankt-martin, zu']",
 sankt-stefan,['toponymic'],"['sant steffan', 'sankt-stefan']",
 "sankt-stefan, zu",['toponymic'],"['zü sant steffan', 'sankt-stefan, zu']",
@@ -1631,11 +1632,12 @@ wigang,[],"['wigang', 'wyganden']",
 wild,['cognominal'],"['wilde', 'wild']",
 wildersinn,['cognominal'],"['wyldersynn', 'wildersinn', 'wildersin']",
 "wile, von",['toponymic'],"['von wile', 'wile, von']",
-"wilgen, zur",['toponymic'],"['zͦuͦr wilgen', 'wilgen, zur']",
+"wilgen, zur",['toponymic'],"['zͦuͦr wilgen', 'wilgen, zur', 'zuͦr wilgen']",
 wilhelm,['patronymic'],"['wilhelm', 'wilhelms']",
 willekin,['patronymic'],"['willekin', 'wilkin']",
 willgottheim,['toponymic'],"['wilgottheim', 'willgottheim', 'wilgotheim']",Willgottheim
 "willgottheim, von",['toponymic'],"['von wilgotheim', 'willgottheim, von']",Willgottheim
+windeck,['toponymic'],['windeck'],
 "windschläg, von",['toponymic'],"['von windeslege', 'windschläg, von']",Windschläg
 wingersheim,['toponymic'],"['wyngersheim', 'wingersheim', 'wynngersheim', 'wingerßheim']",Wingersheim
 "wingersheim, von",['toponymic'],"['von wingerßheym', 'wingersheim, von', 'von wingersheim']",Wingersheim
