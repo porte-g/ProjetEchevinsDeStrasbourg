@@ -369,7 +369,7 @@
                      <lb n="26"/><persName><forename>Walther</forename>
                         <surname>Buman</surname></persName>
                      <lb n="27"/><persName><forename>Rüdolff</forename>
-                        <surname>Swenninger</surname></persName>
+                        <addName>Swenninger</addName></persName>
                      <lb n="28"/><persName><forename>Werlin</forename>
                         <surname>Leiterberg</surname></persName>
                   </p>
@@ -1465,7 +1465,7 @@
                      <lb n="27"/><persName><forename>Walther</forename>
                         <surname>Buman</surname></persName>
                      <lb n="28"/><persName><forename>Rüdolff</forename>
-                        <surname>Sweinniger</surname></persName>
+                        <addName>Sweinniger</addName></persName>
                      <lb n="29"/><persName><forename>Johanns</forename>
                         <surname>Hesse</surname>, Hesseman Hessen sun</persName>
                   </p>
