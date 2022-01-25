@@ -316,6 +316,7 @@ Analyser une éventuelle rupture entre représentant des patriciens au conseil a
 ### Monographies et articles scientifiques<a name="Mono"></a>
 - ALIOTH Martin, *Gruppen an der Macht : Zünfte und Patriziat in Strassburg im 14. und 15. Jahrhundert : Untersuchungen zu Verfassung, Wirtschaftsgefüge und Sozialstruktur*, Helbing Lichtenhahn, Basel, 1988.
 - ALVAREZ-ALTMAN Grace, « Literary Onomastics Typology : Analytic Guidelines to Literary Onomastics Studies », dans *Literary Onomastics Studies*, 8, art. 21, 1981, URL : https://digitalcommons.brockport.edu/los/vol8/iss1/21/?utm_source=digitalcommons.brockport.edu (page consultée le 7 mai 2021).
+- BOUTE, Bruno, « Towards Uniform Database Structures in Prosopographical Research: Work in Progress in University History. The Example of the Lovanienses Database», dans KEATS-ROHAN K.S.B. (ed.), *Resourcing Sources (Prosopographia et Genealogica 7)*, Oxford, 2002, pp. 35-48.
 - BUCHHOLZER Laurence & LACHAUD Frédérique, « Le serment dans les villes du bas Moyen Âge », dans *Histoire urbaine*, 39 1, mai 2014, pp. 7-27.
 - BRADLEY John, « Documents and Data : Modelling Materials for Humanities Research in XML and Relational Databases », dans *Literary and Linguistic Computing*, 20 1, mars 2005, pp. 133-151, URL : https://doi.org/10.1093/llc/fqh048.
 - CORNELL Jackson, « Use of Social Network Analysis to Explore the People of Medieval Scotland », dans *Digital Scholarship in the Humanities*, 32 2, 2016, DOI : https://doi.org/10.1093/llc/fqv070 (page consultée le 25 avril 2021).
@@ -338,9 +339,11 @@ Ludwig Spach, Heitz F. C.*, Strasbourg, 1856.
 - KINTZ Jean-Pierre, *Regards sur l’histoire de l’Alsace : XVIe - XXe siècle*, Fédération des Sociétés d’Histoire et d’Archéologie d’Alsace, Strasbourg, 2008.
 - LANGENDONCK Willy van, *Theory and typology of proper names*, Mouton de Gruyter, Berlin ; New York, 2007.
 - LEONARDO Isabella di, BARMAN Raphaël, DESCOMBES Albane & KAPLAN Frédéric, « Repopulating Paris : massive extraction of 4 Million addresses from city directories between 1839 and 1922. », dans *Digital Humanities conference DH2019*, Utrecht, 2019, URL : https://dev.clariah.nl/files/dh2019/boa/0878.html (page consultée le 8 avril).
+- MARTINDALE John Robert, *The prosopography of the Late Roman Empire, 3; A.D. 527-641*, Cambridge, Cambridge University Press, 1992.
 - METZ Bernard, « Ammeister », dans *Dictionnaire historique des institutions de l’Alsace du Moyen Àge à 1815* [en ligne], URL : https://dhialsace.bnu.fr/wiki (page consultée le 3 juin 2021).
 - PADGETT John F. & ANSELL Christopher K., « Robust Action and the Rise of the Medici, 1400-1434 », dans *American Journal of Sociology*, 98 6, 1993, pp. 1259-1319.
 - PASIN Michele & BRADLEY John, « Factoid-based prosopography and computer ontologies : towards an integrated approach », dans *Digital Scholarship in the Humanities*, 30 1, juin 2013, pp. 86-97, URL : https://doi.org/10.1093/llc/fqt037.
+- PASIN Michele, « Prosopography and Computer Ontologies: The ‘Factoid’ Model and CIDOC-CRM », dans *Representing Knowledge in the Digital Humanities*, University of Kansas, 24 septembre 2011, Institute for Digital Research in the Humanities.
 - PINOL Jean-Luc, « Les atouts des systèmes d’information géographique – (SIG) pour « faire de l’histoire »(urbaine) », dans *Histoire urbaine*, 26 3, 2009, pp. 139-158, URL : https://www.cairn.info/revue-histoire-urbaine-2009-3-page-139.html.
 - PIRENNE Henri, *Les villes du Moyen Âge*, Paris, Nouveau Monde édition, 2017.
 - PLANITZ Hans, *Die deutsche Stadt im Mittelalter : von der Römerzeit bis zu den Zunftkämpfen*, Wiesbaden, VMA-Verl, 1997.
