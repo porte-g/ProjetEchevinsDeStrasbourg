@@ -343,7 +343,7 @@ Ludwig Spach, Heitz F. C.*, Strasbourg, 1856.
 - METZ Bernard, « Ammeister », dans *Dictionnaire historique des institutions de l’Alsace du Moyen Àge à 1815* [en ligne], URL : https://dhialsace.bnu.fr/wiki (page consultée le 3 juin 2021).
 - PADGETT John F. & ANSELL Christopher K., « Robust Action and the Rise of the Medici, 1400-1434 », dans *American Journal of Sociology*, 98 6, 1993, pp. 1259-1319.
 - PASIN Michele & BRADLEY John, « Factoid-based prosopography and computer ontologies : towards an integrated approach », dans *Digital Scholarship in the Humanities*, 30 1, juin 2013, pp. 86-97, URL : https://doi.org/10.1093/llc/fqt037.
-- PASIN Michele, « Prosopography and Computer Ontologies: The ‘Factoid’ Model and CIDOC-CRM », dans *Representing Knowledge in the Digital Humanities*, University of Kansas, 24 septembre 2011, Institute for Digital Research in the Humanities.
+- PASIN Michele, « Prosopography and Computer Ontologies: The ‘Factoid’ Model and CIDOC-CRM », dans *Representing Knowledge in the Digital Humanities*, University of Kansas, 24 septembre 2011, Institute for Digital Research in the Humanities, URL : http://hdl.handle.net/1808/30371.
 - PINOL Jean-Luc, « Les atouts des systèmes d’information géographique – (SIG) pour « faire de l’histoire »(urbaine) », dans *Histoire urbaine*, 26 3, 2009, pp. 139-158, URL : https://www.cairn.info/revue-histoire-urbaine-2009-3-page-139.html.
 - PIRENNE Henri, *Les villes du Moyen Âge*, Paris, Nouveau Monde édition, 2017.
 - PLANITZ Hans, *Die deutsche Stadt im Mittelalter : von der Römerzeit bis zu den Zunftkämpfen*, Wiesbaden, VMA-Verl, 1997.
