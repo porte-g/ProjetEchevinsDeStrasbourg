@@ -107,7 +107,7 @@
                         <surname>Völtsche</surname></persName>
                      <lb n="27"/><persName><forename>Claus</forename>
                         <surname>von Wintertur</surname>, Walthers sun</persName>
-                     <lb n="28"/><persName><forename>Hegel</forename>
+                     <lb n="28"/><persName><forename>Hetzel</forename>
                         <surname>Rebstock</surname></persName>
                      <lb n="29"/><persName><forename>Cüneman</forename>
                         <surname>Nope</surname></persName>
@@ -632,7 +632,7 @@
                      <lb n="18"/><persName><forename>Peter</forename>
                         <surname>Bock</surname></persName>
                      <lb n="19"/><persName><forename>Johanns</forename>
-                        <addName>Dutschman</addName>
+                        <surname>Dutschman</surname>
                         <genName>der eilter</genName></persName>
                      <lb n="20"/><persName><forename>Walther</forename>
                         <surname>Swab</surname></persName>
@@ -1191,7 +1191,7 @@
                         <surname>Vörster</surname></persName>
                      <lb n="26"/><persName><forename>Henselin</forename>
                         <surname>von Wintertur</surname>, laulins seligen sun</persName>
-                     <lb n="27"/><persName><forename>Hegel</forename>
+                     <lb n="27"/><persName><forename>Hetzel</forename>
                         <surname>Rebstock</surname></persName>
                      <lb n="28"/><persName><forename>Cüntz</forename>
                         <surname>züm Trübel</surname></persName>
@@ -1693,11 +1693,11 @@
                         <surname>Clobelouch</surname></persName>
                      <lb n="10"/><persName><roleName>her</roleName>
                         <forename>Claus</forename>
-                        <surname>von Bülach</surname></persName>
+                        <addName>von Bülach</addName></persName>
                      <lb n="11"/><persName><forename>Dietterich</forename>
                         <surname>Burggrofe</surname></persName>
-                     <lb n="12"/><persName><forename>Wetzel</forename>
-                        <surname>Reimbolt</surname></persName>
+                     <lb n="12"/><persName><surname>Wetzel</surname>
+                        <forename>Reimbolt</forename></persName>
                      <lb n="13"/><persName><forename>Wilhelm</forename>
                         <surname>von Mülnheim</surname></persName>
                      <lb n="14"/><persName><forename>Andres</forename>
@@ -2017,7 +2017,7 @@
                         <surname>Pfaffenlapp</surname>
                         <addName>züm Rüst</addName></persName>
                      <lb n="21"/><persName><forename>Fridrich</forename>
-                        <surname>von Epffich</surname></persName>
+                        <addName>von Epffich</addName></persName>
                      <lb n="22"/><persName><forename>Johanns</forename>
                         <surname>Mansse</surname>, Cüne Manssen sun</persName>
                      <lb n="23"/><persName><forename>Hamman</forename>
@@ -2524,10 +2524,10 @@
                         <surname>von Endingen</surname></persName>
                      <lb n="7"/><persName><roleName>her</roleName>
                         <forename>Reimbolt</forename>
-                        <surname>Lappe</surname></persName>
+                        <addName>Lappe</addName></persName>
                      <lb n="8"/><persName><roleName>her</roleName>
                         <forename>Claus</forename>
-                        <surname>Schultheiss</surname></persName>
+                        <addName>Schultheiss</addName></persName>
                      <lb n="9"/><persName><roleName>her</roleName>
                         <forename>Lütoltz Hanns</forename>
                         <surname>von Mülnheim</surname></persName>
@@ -2553,7 +2553,7 @@
                      <lb n="17"/><persName><forename>Claus</forename>
                         <surname>Gnipping</surname></persName>
                      <lb n="18"/><persName><forename>Fridrich</forename>
-                        <surname>von Epffich</surname></persName>
+                        <addName>von Epffich</addName></persName>
                      <lb n="19"/><persName><forename>Conrat</forename>
                         <addName>züm Rüst</addName></persName>
                      <lb n="20"/><persName><forename>Ülrich</forename>
@@ -2564,7 +2564,7 @@
                      <lb n="22"/><persName><forename>Hanns</forename>
                         <surname>Ingelbreht</surname></persName>
                      <lb n="23"/><persName><forename>Peter</forename>
-                        <surname>züm Rete</surname></persName>
+                        <addName>züm Rete</addName></persName>
                      <lb n="24"/><persName><forename>Johanns</forename>
                         <surname>Mansse</surname></persName>
                      <lb n="25"/><persName><forename>Hanman</forename>
@@ -2842,7 +2842,7 @@
                         <surname>Pfaffenlap</surname></persName>
                      <lb n="24"/><persName><forename>Peter</forename>
                         <surname>Blumelin</surname></persName>
-                     <lb n="25/><persName><forename>Johanns</forename>
+                     <lb n="25"/><persName><forename>Johanns</forename>
                         <surname>Ellehart</surname></persName>
                      <lb n="26"/><persName><forename>Johanns</forename>
                         <surname>Hesse</surname> des elter Hesseman Hessen
@@ -3052,7 +3052,7 @@
                         <genName>der jung</genName></persName>
                      <lb n="3"/><persName><roleName>her</roleName>
                         <forename>Conrat</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Claus</forename>
                         <surname>Merswin</surname></persName>
@@ -3070,7 +3070,7 @@
                <div type="magistrature" n="conseiller_des_constaffel">
                   <p><lb n="6"/><persName><roleName>her</roleName>
                         <forename>Reimbolt</forename>
-                        <surname>Lappe</surname>
+                        <addName>Lappe</addName>
                         <roleName>ritter</roleName></persName>
                      <lb n="7"/><persName><roleName>her</roleName>
                         <forename>Wilhelm</forename>
@@ -3659,7 +3659,7 @@
                         <surname>Rebstock</surname>
                         <addName>Inn mùnstergasse</addName></persName>
                      <lb n="21"/><persName><forename>Hanman</forename>
-                        <surname>von Goͤndertheim</surname></persName>
+                        <surname>von Goͤudertheim</surname></persName>
                      <lb n="22"/><persName><forename>Claus</forename>
                         <surname>von Heiligenstein</surname></persName>
                      <lb n="23"/><persName><forename>Hanns</forename>
@@ -4195,13 +4195,13 @@
                      <lb n="18"/><persName><forename>Claus</forename>
                         <surname>Merswin</surname></persName>
                      <lb n="19"/><persName><forename>Conrat</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                      <lb n="20"/><persName><forename>Gotze</forename>
                         <surname>von Heiligenstein</surname></persName>
                      <lb n="21"/><persName><forename>Hanns</forename>
                         <surname>Peterlin</surname></persName>
                      <lb n="22"/><persName><forename>Fridrich</forename>
-                        <surname>von Epffich</surname></persName>
+                        <addName>von Epffich</addName></persName>
                      <lb n="23"/><persName><forename>Hanns</forename>
                         <surname>von Wintertur</surname></persName>
                      <lb n="24"/><persName><forename>Peter</forename>
@@ -4441,7 +4441,7 @@
                <div type="magistrature" n="conseiller_des_constaffel">
                   <p><lb n="8"/><persName><roleName>her</roleName>
                         <forename>Johanns</forename>
-                        <surname>Eckerich</surname>
+                        <addName>Eckerich</addName>
                         <roleName>ritter</roleName></persName>
                      <lb n="9"/><persName><roleName>her</roleName>
                         <forename>Heinrich</forename>
@@ -4737,11 +4737,11 @@
                      <lb n="14"/><persName><forename>Cuͦne</forename>
                         <surname>von Kageneck</surname></persName>
                      <lb n="15"/><persName><forename>Cuͦnrat</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                      <lb n="16"/><persName><forename>Hug</forename>
                         <surname>Voͤltsche</surname></persName>
                      <lb n="17"/><persName><forename>Fridrich</forename>
-                        <surname>von Epffich</surname></persName>
+                        <addName>von Epffich</addName></persName>
                      <lb n="18"/><persName><forename>Hanns</forename>
                         <surname>von Heiligenstein</surname></persName>
                      <lb n="19"/><persName><forename>Dietrich</forename>
@@ -5237,7 +5237,7 @@
                         <surname>Bock</surname>, Peter Bocks sun</persName>
                      <lb n="2"/><persName><roleName>her</roleName>
                         <forename>Conrat</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                      <lb n="3"/><persName><roleName>her</roleName>
                         <forename>Peter</forename>
                         <surname>Rebstock</surname></persName>
@@ -9946,7 +9946,7 @@
                      <lb n="12"/><persName><forename>Joͤrg</forename>
                         <surname>Berer</surname></persName>
                      <lb n="13"/><persName><forename>Fridrich</forename>
-                        <surname>zuͦm Rust</surname></persName>
+                        <addName>zuͦm Rust</addName></persName>
                      <lb n="14"/><persName><forename>Hanns</forename>
                         <surname>von Wintertur</surname>
                         <genName>der jung</genName></persName>
@@ -10413,7 +10413,7 @@
                         <genName>der eilter</genName></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                   </p>
                </div>
             </div>
@@ -10704,7 +10704,7 @@
                      <lb n="14"/><persName><forename>Hanns</forename>
                         <surname>Boͤckel</surname></persName>
                      <lb n="15"/><persName><forename>Hanns</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                   </p>
                </div>
             </div>
@@ -10947,7 +10947,7 @@
                         <surname>Bock</surname>, Peter Box seligen sun</persName>
                      <lb n="10"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                      <lb n="11"/><persName><forename>Andres</forename>
                         <surname>Wirich</surname></persName>
                      <lb n="12"/><persName><forename>Hanns</forename>
@@ -11216,7 +11216,7 @@
                         <forename>Dietrich</forename>
                         <surname>Burggraf</surname></persName>
                      <lb n="17"/><persName><forename>Hanns</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                   </p>
                </div>
             </div>
@@ -11426,7 +11426,7 @@
                         <surname>von Rosheim</surname></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                   </p>
                </div>
             </div>
@@ -11914,7 +11914,7 @@
                         <genName>der eilter</genName></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                   </p>
                </div>
             </div>
@@ -12426,7 +12426,7 @@
                         <surname>Nope</surname></persName>
                      <lb n="10"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                      <lb n="11"/><persName><forename>Berhtolt</forename>
                         <surname>Zorn</surname>
                         <addName>zuͦm Riet</addName></persName>
@@ -12905,7 +12905,7 @@
                <div type="magistrature" n="conseiller_des_constaffel">
                   <p><lb n="6"/><persName><roleName>her</roleName>
                         <forename>Fritsch</forename>
-                        <surname>zuͦm Ruͦst</surname>
+                        <addName>zuͦm Ruͦst</addName>
                         <roleName>ritter</roleName></persName>
                      <lb n="7"/><persName><roleName>her</roleName>
                         <forename>Ludwig</forename>
@@ -13167,7 +13167,7 @@
                         <surname>Elhart</surname>
                         <genName>der jung</genName></persName>
                      <lb n="13"/><persName><forename>Hanns</forename>
-                        <surname>zuͦm Ruͦst</surname></persName>
+                        <addName>zuͦm Ruͦst</addName></persName>
                      <lb n="14"/><persName><forename>Reimbolt</forename>
                         <surname>zuͦm Trùbel</surname></persName>
                      <lb n="15"/><persName><forename>Bernhart</forename>
@@ -13379,7 +13379,7 @@
                         <roleName>ritter</roleName></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname>
+                        <addName>zuͦm Ruͦst</addName>
                         <roleName>ritter</roleName></persName>
                   </p>
                </div>
@@ -13873,7 +13873,7 @@
                         <roleName>ritter</roleName></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Rust</surname>
+                        <addName>zuͦm Rust</addName>
                         <roleName>ritter</roleName></persName>
                   </p>
                </div>
@@ -14361,7 +14361,7 @@
                         <roleName>ritter</roleName></persName>
                      <lb n="2"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname>
+                        <addName>zuͦm Ruͦst</addName>
                         <roleName>ritter</roleName></persName>
                      <lb n="3"/><persName><roleName>her</roleName>
                         <forename>Heinrich</forename>
@@ -14611,7 +14611,7 @@
                         <roleName>ritter</roleName></persName>
                      <lb n="3"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname>
+                        <addName>zuͦm Ruͦst</addName>
                         <roleName>ritter</roleName></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Philipps</forename>
@@ -15087,7 +15087,7 @@
                         <surname>Burggraf</surname></persName>
                      <lb n="2"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname>
+                        <addName>zuͦm Ruͦst</addName>
                         <roleName>ritter</roleName></persName>
                      <lb n="3"/><persName><roleName>her</roleName>
                         <forename>Ludwig</forename>
@@ -15335,7 +15335,7 @@
                         <roleName>ritter</roleName></persName>
                      <lb n="3"/><persName><roleName>her</roleName>
                         <forename>Fridrich</forename>
-                        <surname>zuͦm Ruͦst</surname>
+                        <addName>zuͦm Ruͦst</addName>
                         <roleName>ritter</roleName></persName>
                      <lb n="4"/><persName><roleName>her</roleName>
                         <forename>Ludwig</forename>

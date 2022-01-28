@@ -1,32 +1,32 @@
-id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
-aves_aa_4R_1496_0001,1496,stettmeister,her Wilhelm Böcklin ritter,wilhelm,böckel,,,"['her', 'ritter']",constoffeler,,,219,,1
-aves_aa_4R_1496_0002,1496,stettmeister,her Friderich Bock ritter,friedrich,bock,,,"['her', 'ritter']",constoffeler,,,219,,2
-aves_aa_4R_1496_0003,1496,stettmeister,her Ott Sturm ritter,ottemann,sturm,,,"['her', 'ritter']",constoffeler,,,219,,3
-aves_aa_4R_1496_0004,1496,stettmeister,her Peter Völtsch ritter,peter,völtsch,,,"['her', 'ritter']",constoffeler,,,219,,4
-aves_aa_4R_1496_0005,1496,ammeister,her Jacob Wisebach der ammeister,jacob,wisebach,,,"['her', 'ammeister']",echevinat,,,219,,5
-aves_aa_4R_1496_0006,1496,conseiller_des_constaffel,Jörge Berer,jerge,berer,,,,constoffeler,,,219,,6
-aves_aa_4R_1496_0007,1496,conseiller_des_constaffel,Caspar Clobeloch,caspar,klobelouch,,,,constoffeler,,,219,,7
-aves_aa_4R_1496_0008,1496,conseiller_des_constaffel,Jacob Wormsser,jacob,wormser,,,,constoffeler,,,219,,8
-aves_aa_4R_1496_0009,1496,conseiller_des_constaffel,Ludwig von Mùlnheim,ludwig,"müllenheim, von",,,,constoffeler,,,219,,9
-aves_aa_4R_1496_0010,1496,conseiller_des_constaffel,Eucharius Völtsch,eucharius,völtsch,,,,constoffeler,,,219,,10
-aves_aa_4R_1496_0011,1496,conseiller_des_constaffel,Wendeling zùm Trùbel,wendeling,"trübel, zum",,,,constoffeler,,,219,,11
-aves_aa_4R_1496_0012,1496,conseiller_des_bateliers,Peter Museler,peter,müseler,,,,echevinat,corporation_des_bateliers,,219,,12
-aves_aa_4R_1496_0013,1496,conseiller_des_marchands,Hans Ingolt,johanns,ingolt,,,,echevinat,corporation_des_marchands,,219,,13
-aves_aa_4R_1496_0014,1496,conseiller_des_bouchers,Diebolt Betscholt,diebolt,bechtolt,,,,echevinat,corporation_des_bouchers,,219,,14
-aves_aa_4R_1496_0015,1496,conseiller_des_cabaretiers,Claus Werlin,claus,wernlin,,,,echevinat,corporation_des_cabaretiers,,219,,15
-aves_aa_4R_1496_0016,1496,conseiller_des_drapiers,Diebolt Wingersheim,diebolt,wingersheim,,,,echevinat,corporation_des_drapiers,,219,,16
-aves_aa_4R_1496_0017,1496,conseiller_des_marchands_de_grains,Claus Jörger,claus,jerger,,,,echevinat,corporation_des_marchands_de_grains,,219,,17
-aves_aa_4R_1496_0018,1496,conseiller_des_sauniers,Lienhart Trachenfelß,lienhart,trachenfeils,,,,echevinat,corporation_des_sauniers,,219,,18
-aves_aa_4R_1496_0019,1496,conseiller_des_orfevres,Lampreht Sebolt,lamprecht,seebott,,,,echevinat,corporation_des_orfevres,,219,,20
-aves_aa_4R_1496_0020,1496,conseiller_des_boulangers,Hans Gùnther,johanns,gunther,,,,echevinat,corporation_des_boulangers,,219,,21
-aves_aa_4R_1496_0021,1496,conseiller_des_pelletiers,Bernhart Slapp,bernhart,slapp,,,,echevinat,corporation_des_pelletiers,,219,,22
-aves_aa_4R_1496_0022,1496,conseiller_des_tonneliers,Hans Franck,johanns,frank,,,,echevinat,corporation_des_tonneliers,,219,,23
-aves_aa_4R_1496_0023,1496,conseiller_des_tanneurs,Lorentz Vendenheim,laurentz,vendenheim,,,,echevinat,corporation_des_tanneurs,,219,,24
-aves_aa_4R_1496_0024,1496,conseiller_des_gourmets_et_courtiers,Hans Hungerstein,johanns,hungerstein,,,,echevinat,corporation_des_gourmets_et_courtiers,,219,,25
-aves_aa_4R_1496_0025,1496,conseiller_des_tailleurs,Michel Dietrich,michel,dietrich,,,,echevinat,corporation_des_tailleurs,,219,,27
-aves_aa_4R_1496_0026,1496,conseiller_des_forgerons,Jost von Friburg,jost,"freiburg, von",,,,echevinat,corporation_des_forgerons,,219,,28
-aves_aa_4R_1496_0027,1496,conseiller_des_cordonniers,Rùdolff Hüseler,rudolff,hüseler,,,,echevinat,corporation_des_cordonniers,,219,,29
-aves_aa_4R_1496_0028,1496,conseiller_des_pêcheurs,Claus Ülrich,claus,ulrich,,,,echevinat,corporation_des_pêcheurs,,219,,30
-aves_aa_4R_1496_0029,1496,conseiller_des_charrons,Hans Claus,johanns,claus,,,,echevinat,corporation_des_charrons,,219,,32
-aves_aa_4R_1496_0030,1496,conseiller_des_jardiniers,Andres Trense,andres,trense,,,,echevinat,corporation_des_jardiniers,,219,,33
-aves_aa_4R_1496_0031,1496,conseiller_des_maçons,Hans Kupffer,johanns,kupfer,,,,echevinat,corporation_des_maçons,,219,,34
+,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+1,aves_aa_4R_1496_0001,1496,stettmeister,her Wilhelm Böcklin ritter,wilhelm,böckel,,,"['her', 'ritter']",constoffeler,,,219,1,1
+2,aves_aa_4R_1496_0002,1496,stettmeister,her Friderich Bock ritter,friedrich,bock,,,"['her', 'ritter']",constoffeler,,,219,1,2
+3,aves_aa_4R_1496_0003,1496,stettmeister,her Ott Sturm ritter,ottemann,sturm,,,"['her', 'ritter']",constoffeler,,,219,1,3
+4,aves_aa_4R_1496_0004,1496,stettmeister,her Peter Völtsch ritter,peter,völtsch,,,"['her', 'ritter']",constoffeler,,,219,1,4
+5,aves_aa_4R_1496_0005,1496,ammeister,her Jacob Wisebach der                      ammeister,jacob,wisebach,,,"['her', 'ammeister']",echevinat,,,219,1,5
+6,aves_aa_4R_1496_0006,1496,conseiller_des_constaffel,Jörge Berer,jerge,berer,,,,constoffeler,,,219,1,6
+7,aves_aa_4R_1496_0007,1496,conseiller_des_constaffel,Caspar Clobeloch,caspar,klobelouch,,,,constoffeler,,,219,1,7
+8,aves_aa_4R_1496_0008,1496,conseiller_des_constaffel,Jacob Wormsser,jacob,wormser,,,,constoffeler,,,219,1,8
+9,aves_aa_4R_1496_0009,1496,conseiller_des_constaffel,Ludwig von Mùlnheim,ludwig,"müllenheim, von",,,,constoffeler,,,219,1,9
+10,aves_aa_4R_1496_0010,1496,conseiller_des_constaffel,Eucharius Völtsch,eucharius,völtsch,,,,constoffeler,,,219,1,10
+11,aves_aa_4R_1496_0011,1496,conseiller_des_constaffel,Wendeling zùm Trùbel,wendeling,"trübel, zum",,,,constoffeler,,,219,1,11
+12,aves_aa_4R_1496_0012,1496,conseiller_des_bateliers,Peter Museler,peter,müseler,,,,echevinat,corporation_des_bateliers,,219,1,12
+13,aves_aa_4R_1496_0013,1496,conseiller_des_marchands,Hans Ingolt,johanns,ingolt,,,,echevinat,corporation_des_marchands,,219,1,13
+14,aves_aa_4R_1496_0014,1496,conseiller_des_bouchers,Diebolt Betscholt,diebolt,bechtolt,,,,echevinat,corporation_des_bouchers,,219,1,14
+15,aves_aa_4R_1496_0015,1496,conseiller_des_cabaretiers,Claus Werlin,claus,wernlin,,,,echevinat,corporation_des_cabaretiers,,219,1,15
+16,aves_aa_4R_1496_0016,1496,conseiller_des_drapiers,Diebolt Wingersheim,diebolt,wingersheim,,,,echevinat,corporation_des_drapiers,,219,1,16
+17,aves_aa_4R_1496_0017,1496,conseiller_des_marchands_de_grains,Claus Jörger,claus,jerger,,,,echevinat,corporation_des_marchands_de_grains,,219,1,17
+18,aves_aa_4R_1496_0018,1496,conseiller_des_sauniers,Lienhart Trachenfelß,lienhart,trachenfeils,,,,echevinat,corporation_des_sauniers,,219,1,18
+19,aves_aa_4R_1496_0019,1496,conseiller_des_orfevres,Lampreht Sebolt,lamprecht,seebott,,,,echevinat,corporation_des_orfevres,,219,1,20
+20,aves_aa_4R_1496_0020,1496,conseiller_des_boulangers,Hans Gùnther,johanns,gunther,,,,echevinat,corporation_des_boulangers,,219,1,21
+21,aves_aa_4R_1496_0021,1496,conseiller_des_pelletiers,Bernhart Slapp,bernhart,slapp,,,,echevinat,corporation_des_pelletiers,,219,1,22
+22,aves_aa_4R_1496_0022,1496,conseiller_des_tonneliers,Hans Franck,johanns,frank,,,,echevinat,corporation_des_tonneliers,,219,1,23
+23,aves_aa_4R_1496_0023,1496,conseiller_des_tanneurs,Lorentz Vendenheim,laurentz,vendenheim,,,,echevinat,corporation_des_tanneurs,,219,1,24
+24,aves_aa_4R_1496_0024,1496,conseiller_des_gourmets_et_courtiers,Hans Hungerstein,johanns,hungerstein,,,,echevinat,corporation_des_gourmets_et_courtiers,,219,1,25
+25,aves_aa_4R_1496_0025,1496,conseiller_des_tailleurs,Michel Dietrich,michel,dietrich,,,,echevinat,corporation_des_tailleurs,,219,1,27
+26,aves_aa_4R_1496_0026,1496,conseiller_des_forgerons,Jost von Friburg,jost,"freiburg, von",,,,echevinat,corporation_des_forgerons,,219,1,28
+27,aves_aa_4R_1496_0027,1496,conseiller_des_cordonniers,Rùdolff Hüseler,rudolff,hüseler,,,,echevinat,corporation_des_cordonniers,,219,1,29
+28,aves_aa_4R_1496_0028,1496,conseiller_des_pêcheurs,Claus Ülrich,claus,ulrich,,,,echevinat,corporation_des_pêcheurs,,219,1,30
+29,aves_aa_4R_1496_0029,1496,conseiller_des_charrons,Hans Claus,johanns,claus,,,,echevinat,corporation_des_charrons,,219,1,32
+30,aves_aa_4R_1496_0030,1496,conseiller_des_jardiniers,Andres Trense,andres,trense,,,,echevinat,corporation_des_jardiniers,,219,1,33
+31,aves_aa_4R_1496_0031,1496,conseiller_des_maçons,Hans Kupffer,johanns,kupfer,,,,echevinat,corporation_des_maçons,,219,1,34

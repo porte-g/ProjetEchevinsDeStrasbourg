@@ -1,6 +1,6 @@
-id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
-aves_aa_4R_1407_0001,1407,stettmeister,her Reimbolt Hüffel,reimbolt,hüffelin,,,['her'],constoffeler,,,138,,1
-aves_aa_4R_1407_0002,1407,stettmeister,her Heinrich von Mülnheim,heinrich,"müllenheim, von",,,['her'],constoffeler,,,138,,2
-aves_aa_4R_1407_0003,1407,stettmeister,her Hanns Rüdolff von Endingen ritter,johanns-rudolff,"endingen, von",,,"['her', 'ritter']",constoffeler,,,138,,3
-aves_aa_4R_1407_0004,1407,stettmeister,her Behtolt von Rosheim,bechtolt,"rosheim, von",,,['her'],constoffeler,,,138,,4
-aves_aa_4R_1407_0005,1407,ammeister,her Johanns Heilman der ammeister,johanns,heilmann,,,"['her', 'ammeister']",echevinat,,,138,,5
+,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+1,aves_aa_4R_1407_0001,1407,stettmeister,her Reimbolt Hüffel,reimbolt,hüffelin,,,['her'],constoffeler,,,138,1,1
+2,aves_aa_4R_1407_0002,1407,stettmeister,her Heinrich von Mülnheim,heinrich,"müllenheim, von",,,['her'],constoffeler,,,138,1,2
+3,aves_aa_4R_1407_0003,1407,stettmeister,her Hanns Rüdolff von Endingen ritter,johanns-rudolff,"endingen, von",,,"['her', 'ritter']",constoffeler,,,138,1,3
+4,aves_aa_4R_1407_0004,1407,stettmeister,her Behtolt von Rosheim,bechtolt,"rosheim, von",,,['her'],constoffeler,,,138,1,4
+5,aves_aa_4R_1407_0005,1407,ammeister,her Johanns Heilman der ammeister,johanns,heilmann,,,"['her', 'ammeister']",echevinat,,,138,1,5

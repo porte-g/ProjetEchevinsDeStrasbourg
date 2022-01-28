@@ -1,6 +1,6 @@
-id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
-aves_aa_4R_1432_0001,1432,stettmeister,her Burckart von Mùlnheim,burkhart,"müllenheim, von",,,['her'],constoffeler,,,163,,1
-aves_aa_4R_1432_0002,1432,stettmeister,her Hanns Elhart,johanns,ellenhart,,,['her'],constoffeler,,,163,,2
-aves_aa_4R_1432_0003,1432,stettmeister,her Cuͦne zuͦm Trùbel,kühne,"trübel, zum",,,['her'],constoffeler,,,163,,3
-aves_aa_4R_1432_0004,1432,stettmeister,Hesseman Hesse,hessemann,hesse,,,,constoffeler,,,163,,4
-aves_aa_4R_1432_0005,1432,ammeister,her Obreht Schalck der ammeister,obrecht,schalk,,,"['her', 'ammeister']",echevinat,,,163,,5
+,id,anneeMagistrature,magistrature,occurence,prenom,nom,surnom,genName,titres_roles,corps civique,corporation,poele,page,colonne,ligne
+1,aves_aa_4R_1432_0001,1432,stettmeister,her Burckart von Mùlnheim,burkhart,"müllenheim, von",,,['her'],constoffeler,,,163,1,1
+2,aves_aa_4R_1432_0002,1432,stettmeister,her Hanns Elhart,johanns,ellenhart,,,['her'],constoffeler,,,163,1,2
+3,aves_aa_4R_1432_0003,1432,stettmeister,her Cuͦne zuͦm Trùbel,kühne,"trübel, zum",,,['her'],constoffeler,,,163,1,3
+4,aves_aa_4R_1432_0004,1432,stettmeister,Hesseman Hesse,hessemann,hesse,,,,constoffeler,,,163,1,4
+5,aves_aa_4R_1432_0005,1432,ammeister,her Obreht Schalck der ammeister,obrecht,schalk,,,"['her', 'ammeister']",echevinat,,,163,1,5
