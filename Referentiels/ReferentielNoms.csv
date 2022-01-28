@@ -1617,10 +1617,10 @@ wernlin,['patronymic'],"['wernlin', 'werlin', 'wernlins']",
 wester,['toponymic'],['wester'],
 westermann,['toponymic'],"['westerman', 'westermann', 'westermennin']",
 westerwind,['cognominal'],['westerwind'],
-"westhausen, von",['toponymic'],"['von westhusen', 'westhausen, von']",Westhouse
+"westhus, von",['toponymic'],"['von westhusen', 'westhausen, von', 'von westhus']",Westhouse
 westhoffen,['toponymic'],"['westhofen', 'westhoffen']",Westhoffen
 "westhoffen, von",['toponymic'],"['von westhoven', 'westhoffen, von']",Westhoffen
-westhus,['toponymic'],"['von westhus', 'westhus']",Westhouse
+westhus,['toponymic'],['westhus'],Westhouse
 wetzel,[],['wetzel'],
 wibolsheim,['toponymic'],"['wybelsheim', 'wibolsheim']",Wibolsheim
 "wickersheim, von",['toponymic'],"['von wickersheim', 'wickersheim, von', 'von wickerßheim']",Wickersheim-Wilshausen
