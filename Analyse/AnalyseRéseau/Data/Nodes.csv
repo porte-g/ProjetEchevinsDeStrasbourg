@@ -1,1086 +1,1033 @@
 Id,Label,type,corporation
-1400,1400,annee,
-1401,1401,annee,
-1402,1402,annee,
-1403,1403,annee,
-1404,1404,annee,
-1405,1405,annee,
-1406,1406,annee,
-1407,1407,annee,
-1408,1408,annee,
-1409,1409,annee,
-1410,1410,annee,
-1411,1411,annee,
-1412,1412,annee,
-1413,1413,annee,
-1414,1414,annee,
-1415,1415,annee,
-1416,1416,annee,
-1417,1417,annee,
-1418,1418,annee,
-1419,1419,annee,
-1420,1420,annee,
-1421,1421,annee,
-1422,1422,annee,
-1423,1423,annee,
-1424,1424,annee,
-1425,1425,annee,
-1426,1426,annee,
-1427,1427,annee,
-1428,1428,annee,
-1429,1429,annee,
-1430,1430,annee,
-1431,1431,annee,
-1432,1432,annee,
-1433,1433,annee,
-1434,1434,annee,
-1435,1435,annee,
-1436,1436,annee,
-1437,1437,annee,
-1438,1438,annee,
-1439,1439,annee,
-1440,1440,annee,
-1441,1441,annee,
-1442,1442,annee,
-1443,1443,annee,
-1444,1444,annee,
-1445,1445,annee,
-1446,1446,annee,
-1447,1447,annee,
-1448,1448,annee,
-1449,1449,annee,
-1450,1450,annee,
-1451,1451,annee,
-1452,1452,annee,
-1453,1453,annee,
-1454,1454,annee,
-1455,1455,annee,
-1456,1456,annee,
-1457,1457,annee,
-1458,1458,annee,
-1459,1459,annee,
-1460,1460,annee,
-1461,1461,annee,
-1462,1462,annee,
-1463,1463,annee,
-1464,1464,annee,
-1465,1465,annee,
-1466,1466,annee,
-1467,1467,annee,
-1468,1468,annee,
-1469,1469,annee,
-1470,1470,annee,
-1471,1471,annee,
-1472,1472,annee,
-1473,1473,annee,
-1474,1474,annee,
-1475,1475,annee,
-1476,1476,annee,
-1477,1477,annee,
-1478,1478,annee,
-1479,1479,annee,
-1480,1480,annee,
-1481,1481,annee,
-1482,1482,annee,
-1483,1483,annee,
-1484,1484,annee,
-1485,1485,annee,
-1486,1486,annee,
-1487,1487,annee,
-1488,1488,annee,
-1489,1489,annee,
-1490,1490,annee,
-1491,1491,annee,
-1492,1492,annee,
-1493,1493,annee,
-1494,1494,annee,
-1495,1495,annee,
-1496,1496,annee,
-1497,1497,annee,
-1498,1498,annee,
-1499,1499,annee,
-aves_aa_4R_auth_0001,"metziger, wilhelm",personne,corporation_des_bouchers
-aves_aa_4R_auth_0002,"colmar, von, hannemann",personne,corporation_des_marchands
-aves_aa_4R_auth_0003,"gerung, ",personne,corporation_des_boulangers
-aves_aa_4R_auth_0004,"rotschilt, wilhelm",personne,corporation_des_bouchers
-aves_aa_4R_auth_0005,"spielmann, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0006,"schott, claus",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0007,"issenhausen, ulrich",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0008,sigel,personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0009,"kindelin, erhart",personne,corporation_des_maçons
-aves_aa_4R_auth_0010,andres,personne,corporation_des_forgerons
-aves_aa_4R_auth_0011,"gumbrecht, von, diebolt",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0012,"boppe, küntz",personne,corporation_des_bateliers
-aves_aa_4R_auth_0013,"tummeler, dietrich",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0014,"westermann, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0015,"heischer, lienhart",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0016,"laubeck, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0017,"honau, peter",personne,corporation_des_orfevres
-aves_aa_4R_auth_0018,"hühnerer, ulrich",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0019,"nattener, andres",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0020,"schwicker, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0021,heintz,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0022,"gosse, ulrich",personne,corporation_des_sauniers
-aves_aa_4R_auth_0023,"ingenheim, von, claus",personne,corporation_des_tisserands
-aves_aa_4R_auth_0024,"diether, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0025,"dingsheim, claus",personne,corporation_des_charrons
-aves_aa_4R_auth_0026,"hagenau, von, peter",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0027,"stachel, küntz",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0028,"klige, hug",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0029,"rhinau, walther",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0030,"sünner, peter",personne,corporation_des_bateliers
-aves_aa_4R_auth_0031,"barpfennig, ruhlemann",personne,corporation_des_marchands
-aves_aa_4R_auth_0032,johanns,personne,corporation_des_boulangers
-aves_aa_4R_auth_0033,"berse, von, wilhelm",personne,corporation_des_bouchers
-aves_aa_4R_auth_0034,"herbst, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0035,"langneffe, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0036,"hanseler, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0037,"kranich, heinrich",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0038,"gans, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0039,"trüchtersheim, von, eberhart",personne,corporation_des_forgerons
-aves_aa_4R_auth_0040,heilmann,personne,corporation_des_tailleurs
-aves_aa_4R_auth_0041,"nellesheim, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0042,"seelose, heintz",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0043,"münch, ottemann",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0044,"beildeck, fritsch",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0045,christian,personne,corporation_des_cordonniers
-aves_aa_4R_auth_0046,"henneckin, claus",personne,corporation_des_orfevres
-aves_aa_4R_auth_0047,"rhinau, andres",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0048,"stacheler, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0049,stoffelus,personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0050,"pfennigmann, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0051,"saltzmütter, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0052,"dolde, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0053,"schrotbanck, walther",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0054,"wigang, ",personne,corporation_des_charrons
-aves_aa_4R_auth_0055,"kleinhanns, diethmar",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0056,"kornbick, claus",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0057,"bobst, lienhart",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0058,"ölmann, walther",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0059,"barpfennig, johanns",personne,corporation_des_marchands
-aves_aa_4R_auth_0060,küntz,personne,corporation_des_boulangers
-aves_aa_4R_auth_0061,"färber, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0062,"heinrich, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0063,"stumpf, heintz",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0064,"bergheim, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0065,"sporer, stefan",personne,corporation_des_forgerons
-aves_aa_4R_auth_0066,"schön, heintz",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0067,obrecht,personne,corporation_des_charpentiers
-aves_aa_4R_auth_0068,"schultheiss, küntz",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0069,"klammann, andres",personne,corporation_des_orfevres
-aves_aa_4R_auth_0070,"rickersheim, küntz",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0071,"bock, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0072,"lamb, hensel",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0073,"obrecht, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0074,"schmied, lienhart",personne,corporation_des_sauniers
-aves_aa_4R_auth_0075,"ingenheim, claus",personne,corporation_des_tisserands
-aves_aa_4R_auth_0076,"schenck, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0077,"steck, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0078,"steingewerck, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0079,"mörlin, johanns",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0080,"altheim, claus",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0081,"heilmann, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0082,"geispoltzheim, von, jacob",personne,corporation_des_boulangers
-aves_aa_4R_auth_0083,"müseler, peter",personne,corporation_des_bouchers
-aves_aa_4R_auth_0084,"armbruster, obrecht",personne,corporation_des_drapiers
-aves_aa_4R_auth_0085,"küntzlin, diethmar",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0086,"kirwiller, von, gerbot",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0087,"wassicher, heilmann",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0088,"ruhlmann, lauwel",personne,corporation_des_maçons
-aves_aa_4R_auth_0089,"lorer, hermann",personne,corporation_des_forgerons
-aves_aa_4R_auth_0090,"miltenberg, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0091,"vogt, johanns",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0092,"beildeck, jacob",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0093,"herring, oberlin",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0094,"waltenheim, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0095,"melbrühe, michel",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0096,"martin, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0097,"mönchelin, küntz",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0098,"rohrer, marx",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0099,"rüllin, claus",personne,corporation_des_sauniers
-aves_aa_4R_auth_0100,"wecker, jeckel",personne,corporation_des_tisserands
-aves_aa_4R_auth_0101,"nesselbach, erhart",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0102,"hühnerer, lauwel",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0103,"altheim, jacob",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0104,"friedel, lauwel",personne,corporation_des_bouchers
-aves_aa_4R_auth_0105,"wingersheim, peter",personne,corporation_des_drapiers
-aves_aa_4R_auth_0106,"kammerer, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0107,"spirer, anshelm",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0108,"lorer, johanns",personne,corporation_des_forgerons
-aves_aa_4R_auth_0109,"menniger, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0110,"kacheler, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0111,"mönchelin, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0112,"oberkirch, von, lauwel",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0113,"pfau, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0114,"berner, johanns",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0115,"natteler, andres",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0116,"albrecht, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0117,"messinger, heintz",personne,corporation_des_tisserands
-aves_aa_4R_auth_0118,"girbaden, hensel",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0119,reinhart,personne,corporation_des_charrons
-aves_aa_4R_auth_0120,"willgottheim, claus",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0121,"rottweil, von, erhart",personne,corporation_des_marchands
-aves_aa_4R_auth_0122,"hagenau, von, wernher",personne,corporation_des_boulangers
-aves_aa_4R_auth_0123,"schanlit, walther",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0124,"weissgerber, fritsch",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0125,"wormser, claus",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0126,"hagenau, von, erhart",personne,corporation_des_maçons
-aves_aa_4R_auth_0127,"stegemann, eberhart",personne,corporation_des_forgerons
-aves_aa_4R_auth_0128,"seelose, heintz",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0129,"hechde, claus",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0130,"arge, claus",personne,corporation_des_orfevres
-aves_aa_4R_auth_0131,"melbrühe, claus",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0132,"wintzler, peter",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0133,"lamb, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0134,"messerer, claus",personne,corporation_des_sauniers
-aves_aa_4R_auth_0135,"frei, uhlmann",personne,corporation_des_tisserands
-aves_aa_4R_auth_0136,"fritschmann, hug",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0137,"riffe, peter",personne,corporation_des_marchands
-aves_aa_4R_auth_0138,"gerter, küntz",personne,corporation_des_boulangers
-aves_aa_4R_auth_0139,"schanlit, claus",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0140,"kraft, johanns",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0141,"kindelin, mewus",personne,corporation_des_maçons
-aves_aa_4R_auth_0142,"überhang, zum, hermann",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0143,"meiger, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0144,"hagenau, von, götze",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0145,"lamb, heitz",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0146,"seifenmacher, hug",personne,corporation_des_orfevres
-aves_aa_4R_auth_0147,"grossstein, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0148,"stollhofen, hensel",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0149,"frei, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0150,"gosse, peter",personne,corporation_des_charrons
-aves_aa_4R_auth_0151,"seiler, peter",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0152,"dürningen, von, johanns",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0153,"leimer, heinrich",personne,corporation_des_marchands
-aves_aa_4R_auth_0154,"kücheler, peter",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0155,"bergheim, von, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0156,"gast, ludwig",personne,corporation_des_forgerons
-aves_aa_4R_auth_0157,"schrotbanck, konrat",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0158,"lumbart, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0159,"vogt, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0160,"oberkirch, von, claus",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0161,"rhinau, ottemann",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0162,"rotenschilt, zum, wolff",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0163,walther,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0164,"marlen, peter",personne,corporation_des_tisserands
-aves_aa_4R_auth_0165,"pfaffenhoffen, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0166,"kistner, reinhart",personne,corporation_des_charrons
-aves_aa_4R_auth_0167,"voltz, claus",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0168,"nordhausen, johanns",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0169,"colmar, von, bechtolt",personne,corporation_des_marchands
-aves_aa_4R_auth_0170,"werde, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0171,"michelin, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0172,"beildeck, jeckel",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0173,"düpigheim, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0174,schweicker,personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0175,johanns,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0176,"dreitzehn, hug",personne,corporation_des_charrons
-aves_aa_4R_auth_0177,"hohenhaus, zum, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0178,"dürninger, johanns",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0179,"herrhorn, zum, thoman",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0180,"mommenheim, von, johanns",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0181,"seltz, von, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0182,"armbruster, konrat",personne,corporation_des_bateliers
-aves_aa_4R_auth_0183,"mahler, hermann",personne,corporation_des_orfevres
-aves_aa_4R_auth_0184,"bere, hensel",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0185,"hertzog, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0186,"gauch, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0187,"scherer, rudolff",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0188,"renner, diebolt",personne,corporation_des_tisserands
-aves_aa_4R_auth_0189,"wachsmann, zum, fritsch",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0190,"dreitzehn, reimbolt",personne,corporation_des_charrons
-aves_aa_4R_auth_0191,"burkhart, riffe",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0192,"martin, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0193,"meister, heintz",personne,corporation_des_bouchers
-aves_aa_4R_auth_0194,"zirtzer, ulrich",personne,corporation_des_drapiers
-aves_aa_4R_auth_0195,"bidermann, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0196,"sturm, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0197,"ammeister, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0198,"villinger, peter",personne,corporation_des_forgerons
-aves_aa_4R_auth_0199,"schwert, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0200,"wasselnheim, von, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0201,"haslach von, peter",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0202,"merckwiller, küntz",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0203,"frankenheim, ottemann",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0204,"müntzer, burkhart",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0205,"brüchelin, hansekint",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0206,"flach, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0207,"blumenstein, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0208,"burkhart, heintz",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0209,"spitznagel, johanns",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0210,"wibolsheim, johanns",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0211,"hermann, jacob",personne,corporation_des_boulangers
-aves_aa_4R_auth_0212,"berse, johanns",personne,corporation_des_bouchers
-aves_aa_4R_auth_0213,"sprenger, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0214,"mommenheim, johanns",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0215,"kacheler, anthenie",personne,corporation_des_maçons
-aves_aa_4R_auth_0216,"armbruster, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0217,"kerb, johanns",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0218,"kenen, zur, jeckel",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0219,"schmalriem, andres",personne,corporation_des_orfevres
-aves_aa_4R_auth_0220,"zender, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0221,"scherer, walther",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0222,"mannertrieb, diebolt",personne,corporation_des_tisserands
-aves_aa_4R_auth_0223,"mentzer, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0224,"seiler, ruhlemann",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0225,"tuchscherer, ottemann",personne,corporation_des_drapiers
-aves_aa_4R_auth_0226,"voltz, ",personne,corporation_des_marchands
-aves_aa_4R_auth_0227,"willgottheim, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0228,"epfig, von, hannemann",personne,corporation_des_forgerons
-aves_aa_4R_auth_0229,"meiger, claus",personne,corporation_des_bateliers
-aves_aa_4R_auth_0230,"jeckelin, symont",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0231,"rawensburg, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0232,"kriegsheim, von, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0233,"brüchelin, claus",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0234,"saltzmütter, dietrich",personne,corporation_des_sauniers
-aves_aa_4R_auth_0235,"wurant, rudolff",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0236,"lampertheim, von, peter",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0237,"brucker, peter",personne,corporation_des_marchands
-aves_aa_4R_auth_0238,"nussmann, peter",personne,corporation_des_drapiers
-aves_aa_4R_auth_0239,"heimburg, küntz",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0240,"gerbot, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0241,"dannenfels, johanns",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0242,"stoltz, peter",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0243,"spirer, claus",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0244,"kenen, zur, jacob",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0245,"harnescher, blesin",personne,corporation_des_orfevres
-aves_aa_4R_auth_0246,"bock, ludwig",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0247,"hug, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0248,"pfluger, ottemann",personne,corporation_des_charrons
-aves_aa_4R_auth_0249,"kutteltzheim, michel",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0250,"bechtolt, johanns",personne,corporation_des_bouchers
-aves_aa_4R_auth_0251,"rüllin, ",personne,corporation_des_marchands
-aves_aa_4R_auth_0252,"meiger, jeckel",personne,corporation_des_boulangers
-aves_aa_4R_auth_0253,"göffde, von, claus",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0254,"arner, heinrich",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0255,"wild, küntz",personne,corporation_des_maçons
-aves_aa_4R_auth_0256,"meiger, heinrich",personne,corporation_des_bateliers
-aves_aa_4R_auth_0257,"wilgen, zur, jacob",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0258,"flöss, heintz",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0259,"roser, heintz",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0260,"ingenheim, küntz",personne,corporation_des_tisserands
-aves_aa_4R_auth_0261,"dolde, bechtolt",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0262,"wernher, claus",personne,corporation_des_charrons
-aves_aa_4R_auth_0263,"giger, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0264,"reichwein, walther",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0265,"gerter, konrat",personne,corporation_des_boulangers
-aves_aa_4R_auth_0266,"kerling, claus",personne,corporation_des_bouchers
-aves_aa_4R_auth_0267,"renner, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0268,"vetter, claus",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0269,"schnipper, claus",personne,corporation_des_forgerons
-aves_aa_4R_auth_0270,"arnolt, konrat",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0271,"siffermann, riffe",personne,corporation_des_bateliers
-aves_aa_4R_auth_0272,"rhinau, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0273,"klein, dietrich",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0274,"müntzenberg, heinrich",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0275,"spete, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0276,"schluch, im, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0277,"nothalden, von, heinrich",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0278,"buchswiller, von, burkhart",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0279,"schwob, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0280,"lampertheim, von, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0281,"müntzenberg, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0282,"dossenheim, von, hug",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0283,"kacheler, sifrit",personne,corporation_des_maçons
-aves_aa_4R_auth_0284,"waldeck, konrat",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0285,"schnell, johanns",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0286,"risser, claus",personne,corporation_des_orfevres
-aves_aa_4R_auth_0287,"peter, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0288,"bader, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0289,diebolt,personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0290,"obrecht, johanns",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0291,"voltz, claus",personne,corporation_des_bouchers
-aves_aa_4R_auth_0292,"gerbot, küntz",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0293,"honau, von, claus",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0294,"spirer, ",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0295,adam,personne,corporation_des_charpentiers
-aves_aa_4R_auth_0296,"pfluger, heintz",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0297,"kilwart, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0298,"würtzel, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0299,rudolff,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0300,"basel, von, diebolt",personne,corporation_des_tisserands
-aves_aa_4R_auth_0301,"hüter, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0302,"kride, heintz",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0303,"krapp, johanns",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0304,"pfettisheim, johanns",personne,corporation_des_marchands
-aves_aa_4R_auth_0305,"eckboltzheim, von, claus",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0306,"leistmann, ",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0307,"lang, fritsch",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0308,"beildeck, adam",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0309,"pfluger, oberlin",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0310,"stacheler, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0311,"götze, bechtolt",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0312,"risser, konrat",personne,corporation_des_sauniers
-aves_aa_4R_auth_0313,"ingenheim, konrat",personne,corporation_des_tisserands
-aves_aa_4R_auth_0314,"kutteltzheim, michel",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0315,"giger, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0316,"meiger, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0317,"gerbot, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0318,"dossenheim, hug",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0319,"lauwelin, ruhlemann",personne,corporation_des_maçons
-aves_aa_4R_auth_0320,"bülle, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0321,"hugelin, ",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0322,"stacheler, claus",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0323,"dreitzehn, diebolt",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0324,"brüchelin, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0325,"träger, oberlin",personne,corporation_des_charrons
-aves_aa_4R_auth_0326,"dürr, claus",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0327,"landolff, jacob",personne,corporation_des_marchands
-aves_aa_4R_auth_0328,"scheubelin, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0329,"kalt, johanns",personne,corporation_des_bouchers
-aves_aa_4R_auth_0330,"willgottheim, von, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0331,"dentener, johanns",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0332,"trüchtersheim, von, ruhlemann",personne,corporation_des_forgerons
-aves_aa_4R_auth_0333,"zoller, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0334,"ettenheim, von, claus",personne,corporation_des_bateliers
-aves_aa_4R_auth_0335,fritsch,personne,corporation_des_charpentiers
-aves_aa_4R_auth_0336,"üsenberg, heintz",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0337,"stefan, heinrich",personne,corporation_des_orfevres
-aves_aa_4R_auth_0338,"nüffer, behremann",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0339,"spete, claus",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0340,oswalt,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0341,"schmerwer, andres",personne,corporation_des_sauniers
-aves_aa_4R_auth_0342,"lichtenberg, heinrich",personne,corporation_des_tisserands
-aves_aa_4R_auth_0343,"harrer, oberlin",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0344,"dettwiller, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0345,"mentzer, adam",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0346,"klige, johanns",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0347,bechtolt,personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0348,"duntzenheim, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0349,"eckboltzheim, von, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0350,"welsch, lienhart",personne,corporation_des_forgerons
-aves_aa_4R_auth_0351,"phye, heintz",personne,corporation_des_bateliers
-aves_aa_4R_auth_0352,"bergheim, von, claus",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0353,"heide, küntz",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0354,"gotzgans, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0355,"frankenheim, von, ottemann",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0356,,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0357,"trachenfeils, lienhart",personne,corporation_des_sauniers
-aves_aa_4R_auth_0358,"rheinstett, von, fritsch",personne,corporation_des_charrons
-aves_aa_4R_auth_0359,konrat,personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0360,"schultheiss, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0361,"kerling, jacob",personne,corporation_des_bouchers
-aves_aa_4R_auth_0362,"sturmel, peter",personne,corporation_des_maçons
-aves_aa_4R_auth_0363,"breitthor, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0364,"phye, reimbolt",personne,corporation_des_bateliers
-aves_aa_4R_auth_0365,"hirtzfelder, heinrich",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0366,"kühn, johanns",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0367,"missbach, peter",personne,corporation_des_orfevres
-aves_aa_4R_auth_0368,marx,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0369,"wissemburg, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0370,"kint, heintz",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0371,"linzer, claus",personne,corporation_des_boulangers
-aves_aa_4R_auth_0372,"armbruster, konrat",personne,corporation_des_drapiers
-aves_aa_4R_auth_0373,"rosemberg, küntz",personne,corporation_des_forgerons
-aves_aa_4R_auth_0374,"monschein, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0375,"schalk, obrecht",personne,corporation_des_bateliers
-aves_aa_4R_auth_0376,"hellen, zur, claus",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0377,"scheubelin, johanns",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0378,"grünwalt, jacob",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0379,"neuwiller, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0380,"armbruster, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0381,"kesselring, johanns",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0382,"giger, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0383,"heiligenstein, von, behremann",personne,[nan]
-aves_aa_4R_auth_0384,"bauman, walther",personne,[nan]
-aves_aa_4R_auth_0385,"lumbart, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0386,"riffe, adam",personne,corporation_des_marchands
-aves_aa_4R_auth_0387,"rotschilt, wilhelm",personne,corporation_des_bouchers
-aves_aa_4R_auth_0388,"bischoff, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0389,"gerbot, konrat",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0390,"siffermann, ",personne,corporation_des_maçons
-aves_aa_4R_auth_0391,"rotgebe, jacob",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0392,"ammelung, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0393,"hellen, zur, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0394,"egen, claus",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0395,"büttener, claus",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0396,"rohrer, peter",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0397,"messer, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0398,"hochfelden, von, walther",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0399,"voltz, küntz",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0400,gebhart,personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0401,"ruhlmann, claus",personne,corporation_des_maçons
-aves_aa_4R_auth_0402,"wingersheim, dielmann",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0403,michel,personne,corporation_des_charpentiers
-aves_aa_4R_auth_0404,"volmar, fritsch",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0405,"reimbolt, ",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0406,"müsinger, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0407,"villinger, bertsch",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0408,"peter, ",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0409,"voltz, peter",personne,corporation_des_marchands
-aves_aa_4R_auth_0410,"berse, von, johanns",personne,corporation_des_bouchers
-aves_aa_4R_auth_0411,"wangen, von, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0412,"kücheler, bartholomeus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0413,"messner, andres",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0414,"meiger, johanns",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0415,"regisheim, claus",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0416,"hüter, marx",personne,corporation_des_orfevres
-aves_aa_4R_auth_0417,"bader, oswalt",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0418,walther,personne,corporation_des_sauniers
-aves_aa_4R_auth_0419,"schindeler, küntz",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0420,"herde, von, andres",personne,corporation_des_charrons
-aves_aa_4R_auth_0421,"bergheim, von, hug",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0422,"altheim, küntz",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0423,"müller, thoman",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0424,"happmacher, jacob",personne,corporation_des_marchands
-aves_aa_4R_auth_0425,"leimer, heinrich",personne,corporation_des_drapiers
-aves_aa_4R_auth_0426,"lahr, von, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0427,"dreitzehn, reimbolt",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0428,"morsmünster, von, claus",personne,corporation_des_maçons
-aves_aa_4R_auth_0429,"gerlach, ",personne,corporation_des_forgerons
-aves_aa_4R_auth_0430,"diener, claus",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0431,"dusche, fritsch",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0432,bernhart,personne,corporation_des_cordonniers
-aves_aa_4R_auth_0433,"hühnerer, küntz",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0434,"henneckin, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0435,"schertzheim, jerge",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0436,johanns,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0437,"messner, wernher",personne,corporation_des_sauniers
-aves_aa_4R_auth_0438,"ricker, claus",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0439,"dreitzehn, jerge",personne,corporation_des_charrons
-aves_aa_4R_auth_0440,"weipolt, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0441,"mentz, von, küntz",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0442,"seltz, von, johanns",personne,corporation_des_marchands
-aves_aa_4R_auth_0443,"berse, von, lexius",personne,corporation_des_bouchers
-aves_aa_4R_auth_0444,"meiger, heinrich",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0445,"ludemann, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0446,"bleiweger, diebolt",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0447,sifrit,personne,corporation_des_charpentiers
-aves_aa_4R_auth_0448,"brant, lauwel",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0449,"rohrer, marx",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0450,"koch, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0451,"haffener, sixt",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0452,"hettemann, johanns",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0453,"kempf, claus",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0454,"bitsch, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0455,"klein, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0456,"weinbeck, heinrich",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0457,"desche, heinrich",personne,corporation_des_bateliers
-aves_aa_4R_auth_0458,"kiebel, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0459,"speich, andres",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0460,"pfaffe, claus",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0461,konrat,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0462,"binnting, walther",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0463,gabriel,personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0464,"meister, johanns",personne,corporation_des_bouchers
-aves_aa_4R_auth_0465,"dahlheim, heinrich",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0466,"bergheim, von, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0467,"leutesheim, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0468,"hüter, johanns-marx",personne,corporation_des_orfevres
-aves_aa_4R_auth_0469,"wolff, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0470,"mentz, von, ",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0471,"barpfennig, marx",personne,corporation_des_marchands
-aves_aa_4R_auth_0472,"lamperter, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0473,"kücheler, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0474,"rohr, von, claus",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0475,"wild, ",personne,corporation_des_maçons
-aves_aa_4R_auth_0476,"klaue, jacob",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0477,"diebolt, peter",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0478,"schüffel, heintz",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0479,"girbaden, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0480,"schindeler, konrat",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0481,"lang, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0482,"paulus, johanns",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0483,"kress, konrat",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0484,"bidermann, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0485,"winsticher, erhart",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0486,"altheim, ",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0487,"schlempe, heinrich",personne,corporation_des_marchands
-aves_aa_4R_auth_0488,"sporer, jacob",personne,corporation_des_boulangers
-aves_aa_4R_auth_0489,"lang, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0490,"eckboltzheim, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0491,"wile, von, sifrit",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0492,"rippel, michel",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0493,"reimbolt, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0494,"peter, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0495,"siffermann, burkhart",personne,corporation_des_sauniers
-aves_aa_4R_auth_0496,"hebnagel, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0497,"haffener, jacob",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0498,"herbst, peter",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0499,"fuchs, oberlin",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0500,ulrich,personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0501,"dingsheim, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0502,"bösch, bechtolt",personne,corporation_des_maçons
-aves_aa_4R_auth_0503,"flöss, heinrich",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0504,"altzheim, von, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0505,"rohr, von, peter",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0506,michel,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0507,"rhinau, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0508,"freund, claus",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0509,"brechter, bechtolt",personne,corporation_des_drapiers
-aves_aa_4R_auth_0510,"leistmann, dietrich",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0511,götze,personne,corporation_des_pelletiers
-aves_aa_4R_auth_0512,"hechde, johanns",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0513,"duntzenheim, claus",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0514,"diebolt, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0515,"hirtzfelder, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0516,"träger, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0517,"sturm, erhart",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0518,sigel,personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0519,"herrenstein, johanns",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0520,jacob,personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0521,wernher,personne,corporation_des_tonneliers
-aves_aa_4R_auth_0522,"bösch, friedrich",personne,corporation_des_maçons
-aves_aa_4R_auth_0523,"rippel, michel",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0524,johanns,personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0525,"schnabel, heinrich",personne,corporation_des_orfevres
-aves_aa_4R_auth_0526,"lamprecht, peter",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0527,"oberkirch, von, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0528,"trachenfeils, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0529,"könig, claus",personne,corporation_des_tisserands
-aves_aa_4R_auth_0530,"seger, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0531,"liebkint, oberlin",personne,corporation_des_charrons
-aves_aa_4R_auth_0532,"ernoltzheim, von, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0533,"böschwiller, claus",personne,corporation_des_marchands
-aves_aa_4R_auth_0534,"ettenheim, von, mathis",personne,corporation_des_boulangers
-aves_aa_4R_auth_0535,"meiger, heinrich",personne,corporation_des_forgerons
-aves_aa_4R_auth_0536,"berner, frantz",personne,corporation_des_bateliers
-aves_aa_4R_auth_0537,"birbaum, heinrich",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0538,"steinstrasse, an der, khurin",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0539,"graff, anshelm",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0540,"spiegel, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0541,"brant, diebolt",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0542,"gerbot, peter",personne,corporation_des_charrons
-aves_aa_4R_auth_0543,"klein, johanns",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0544,"bechtolt, wilhelm",personne,corporation_des_bouchers
-aves_aa_4R_auth_0545,"baumgarter, erhart",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0546,"zerig, sifrit",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0547,"lahr, von, mathis",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0548,"ott, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0549,"stumpf, johanns",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0550,"fachmann, claus",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0551,"molsheim, von, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0552,"klaumann, claus",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0553,"spielmann, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0554,"schwencker, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0555,"dürningen, von, sigel",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0556,"klige, küntz",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0557,"wormser, jacob",personne,corporation_des_marchands
-aves_aa_4R_auth_0558,"berse, von, konrat",personne,corporation_des_bouchers
-aves_aa_4R_auth_0559,"brettler, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0560,"odratzheim, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0561,"issenhausen, von, erhart",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0562,"zabern, von, sifrit",personne,corporation_des_maçons
-aves_aa_4R_auth_0563,"spirer, diebolt",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0564,"freiburger, jacob",personne,corporation_des_orfevres
-aves_aa_4R_auth_0565,"hage, walther",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0566,"kork, von, peter",personne,corporation_des_tisserands
-aves_aa_4R_auth_0567,"schuttern, von, wilhelm",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0568,"gemersheim, von, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0569,"meistersheim, johanns",personne,corporation_des_bouchers
-aves_aa_4R_auth_0570,"wormser, völtz",personne,corporation_des_bouchers
-aves_aa_4R_auth_0571,"walt, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0572,"schmalriem, adolff",personne,corporation_des_orfevres
-aves_aa_4R_auth_0573,"hirt, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0574,"brümath, von, peter",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0575,"sasbach, konrat",personne,corporation_des_charrons
-aves_aa_4R_auth_0576,"hesse, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0577,"hügeler, bechtolt",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0578,"happmacher, andres",personne,corporation_des_marchands
-aves_aa_4R_auth_0579,"haslach von, mathis",personne,corporation_des_bouchers
-aves_aa_4R_auth_0580,"holtzhauser, heintz",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0581,"minner, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0582,"lumbart, stefan",personne,corporation_des_bateliers
-aves_aa_4R_auth_0583,"wissensee, claus",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0584,"melbrühe, johanns",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0585,andres,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0586,"seidenfaden, friedrich",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0587,"claus, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0588,"gottfriet, fritsch",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0589,"baumgarter, claus",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0590,"weidemann, johanns",personne,corporation_des_forgerons
-aves_aa_4R_auth_0591,"armbruster, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0592,"studel, johanns",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0593,"schlettstadt, von, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0594,"sankt-thoman, walther",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0595,"trachenfeils, diebolt",personne,corporation_des_sauniers
-aves_aa_4R_auth_0596,"lampertheim, von, ulrich",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0597,"barpfennig, rudolff",personne,corporation_des_marchands
-aves_aa_4R_auth_0598,"reimbolt, diebolt",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0599,"bellheim, von, claus",personne,corporation_des_forgerons
-aves_aa_4R_auth_0600,"brettler, heinrich",personne,corporation_des_bateliers
-aves_aa_4R_auth_0601,"kriegsheim, claus",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0602,"pfaffe, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0603,"wile, von, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0604,johanns,personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0605,"förster, symont",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0606,"sachsen, stefan",personne,corporation_des_marchands
-aves_aa_4R_auth_0607,"dürr, walther",personne,corporation_des_boulangers
-aves_aa_4R_auth_0608,"vendenheim, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0609,"trüchtersheim, von, eberhart",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0610,"molsheim, von, michel",personne,corporation_des_maçons
-aves_aa_4R_auth_0611,"spirer, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0612,"griffe, heinrich",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0613,"lusche, claus",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0614,"wurtzgarten, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0615,"seiler, zum, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0616,"bellheim, von, jacob",personne,corporation_des_drapiers
-aves_aa_4R_auth_0617,"schnabel, heinrich",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0618,"bisinger, heinrich",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0619,"ganser, michel",personne,corporation_des_maçons
-aves_aa_4R_auth_0620,"müseler, reimbolt",personne,corporation_des_bateliers
-aves_aa_4R_auth_0621,"götze, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0622,"ross, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0623,khurin,personne,corporation_des_jardiniers
-aves_aa_4R_auth_0624,"mönchelin, bernhart",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0625,"thann, von, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0626,"klammann, oswalt",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0627,"rhein, zum, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0628,"kiebel, ulrich",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0629,"riffe, konrat",personne,corporation_des_marchands
-aves_aa_4R_auth_0630,"erfurt, von, claus",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0631,"geispoltzheim, von, wilhelm",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0632,"zweibrücken, von, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0633,"ernst, martin",personne,corporation_des_orfevres
-aves_aa_4R_auth_0634,"trense, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0635,"sundheim, michel",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0636,"hettemann, diebolt",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0637,"wormser, bernhart",personne,corporation_des_marchands
-aves_aa_4R_auth_0638,"bruder, stoffelus",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0639,"kacheler, friedrich",personne,corporation_des_maçons
-aves_aa_4R_auth_0640,"hüss, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0641,"doppeler, caspar",personne,corporation_des_bateliers
-aves_aa_4R_auth_0642,"bosterer, johanns",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0643,"löwe, jacob",personne,corporation_des_orfevres
-aves_aa_4R_auth_0644,"schiltigheim, von, andres",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0645,"dreitzehn, claus",personne,corporation_des_charrons
-aves_aa_4R_auth_0646,"hartung, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0647,"ersam, johanns",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0648,"marckoltzheim, von, johanns",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0649,"waldener, jacob",personne,corporation_des_boulangers
-aves_aa_4R_auth_0650,"ackerfuss, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0651,"hage, jacob",personne,corporation_des_bateliers
-aves_aa_4R_auth_0652,"heiligenstein, von, anthenie",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0653,"joham, konrat",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0654,"hertzog, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0655,"ersam, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0656,"ammeler, ebelin",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0657,"voltz, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0658,"nüger, claus",personne,corporation_des_bouchers
-aves_aa_4R_auth_0659,"kacheler, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0660,"holniet, johanns",personne,corporation_des_forgerons
-aves_aa_4R_auth_0661,"doppeler, johanns-jerge",personne,corporation_des_bateliers
-aves_aa_4R_auth_0662,"münster, heinrich",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0663,"wentscher, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0664,"berner, peter",personne,corporation_des_orfevres
-aves_aa_4R_auth_0665,"dossenheim, claus",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0666,"bülher, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0667,"schiltigheim, andres",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0668,"ostertag, völtz",personne,corporation_des_sauniers
-aves_aa_4R_auth_0669,"neuenburg, von der, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0670,"frank, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0671,"pfaffenheim, sifrit",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0672,"odratzheim, von, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0673,"bitsch, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0674,"barpfennig, rudolff",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0675,"messerschmit, johanns-erhart",personne,corporation_des_forgerons
-aves_aa_4R_auth_0676,"krosswiller, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0677,"lohel, burkhart",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0678,"metziger, heinrich",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0679,"wolff, jerge",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0680,"gengenbach, von, claus",personne,corporation_des_sauniers
-aves_aa_4R_auth_0681,"nordhausen, von, johanns",personne,corporation_des_marchands
-aves_aa_4R_auth_0682,"berse, von, claus",personne,corporation_des_bouchers
-aves_aa_4R_auth_0683,"vetter, ",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0684,"beingewant, claus",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0685,"lahr, von, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0686,"lamb, bechtolt",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0687,"scheubelin, peter",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0688,"umb und umb, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0689,"recker, ulrich",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0690,"gemersheim, von, andres",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0691,"keinne, bechtolt",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0692,"stange, erhart",personne,corporation_des_marchands
-aves_aa_4R_auth_0693,"diebolt, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0694,"barre, von, claus",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0695,"renner, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0696,"jungeling, heinrich",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0697,"reimbolt, oberlin",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0698,"vendenheim, claus",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0699,"sankt-arbogast, ulrich",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0700,"herbst, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0701,"arge, peter",personne,corporation_des_marchands
-aves_aa_4R_auth_0702,"burer, ulrich",personne,corporation_des_boulangers
-aves_aa_4R_auth_0703,"offenburg, götze",personne,corporation_des_bouchers
-aves_aa_4R_auth_0704,"wingersheim, stefan",personne,corporation_des_drapiers
-aves_aa_4R_auth_0705,"freiburger, jacob",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0706,"bösch, engelhart",personne,corporation_des_maçons
-aves_aa_4R_auth_0707,"ammelung, jacob",personne,corporation_des_bateliers
-aves_aa_4R_auth_0708,"weinsacher, erhart",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0709,"wolff, claus",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0710,"fergesheim, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0711,"wolff, friedrich",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0712,"brüchelin, ",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0713,"ernoltzheim, von, claus",personne,corporation_des_sauniers
-aves_aa_4R_auth_0714,"bergheim, von, johanns",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0715,"bechtolt, friedrich",personne,corporation_des_bouchers
-aves_aa_4R_auth_0716,"rippel, michel",personne,corporation_des_drapiers
-aves_aa_4R_auth_0717,"vogt, walther",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0718,"schultheiss, claus",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0719,"graff, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0720,"worms, von, claus",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0721,"dürningen, von, wernher",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0722,"steinhart, johanns",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0723,"desche, johanns-heinrich",personne,corporation_des_marchands
-aves_aa_4R_auth_0724,"rippel, bernhart",personne,corporation_des_drapiers
-aves_aa_4R_auth_0725,"dolle, bechtolt",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0726,"vetter, jerge",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0727,"helwig, sifrit",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0728,"wolle, claus",personne,corporation_des_tisserands
-aves_aa_4R_auth_0729,wernher,personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0730,"lot, peter",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0731,"ehenheim, von, veltin",personne,corporation_des_drapiers
-aves_aa_4R_auth_0732,"ziegler, claus",personne,corporation_des_maçons
-aves_aa_4R_auth_0733,"hennenberg, diebolt",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0734,"schiesel, peter",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0735,"herbst, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0736,"dalheim, von, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0737,"klige, konrat",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0738,"duntzenheim, konrat",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0739,"schlecht, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0740,"brant, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0741,"scholle, bernhart",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0742,"bintz, claus",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0743,"schertzheim, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0744,"illkirch, von, laurentz",personne,corporation_des_coltineurs_de_tonneaux
-aves_aa_4R_auth_0745,"ingolt, claus",personne,corporation_des_marchands
-aves_aa_4R_auth_0746,"schnell, peter",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0747,"leitgast, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0748,"frankenheim, ludwig",personne,corporation_des_forgerons
-aves_aa_4R_auth_0749,"scherer, bernhart",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0750,"volmar, thoman",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0751,"leitgast, claus",personne,corporation_des_maçons
-aves_aa_4R_auth_0752,"volk, andres",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0753,"arge, heinrich",personne,corporation_des_orfevres
-aves_aa_4R_auth_0754,"brüchelin, johanns-diebolt",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0755,"gries, peter",personne,corporation_des_charrons
-aves_aa_4R_auth_0756,"dalheim, von, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0757,"armbruster, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0758,"kannengiesser, ludwig",personne,corporation_des_forgerons
-aves_aa_4R_auth_0759,"bisinger, heinrich",personne,corporation_des_bateliers
-aves_aa_4R_auth_0760,"bitsch, konrat",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0761,"schoffmeiger, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0762,"spitznagel, lienhart",personne,corporation_des_constructeurs_de_bateaux
-aves_aa_4R_auth_0763,"ammelung, jacob",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0764,"messner, adam",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0765,"bösch, claus",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0766,"weipolt, adam",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0767,"gisebrecht, jacob",personne,corporation_des_orfevres
-aves_aa_4R_auth_0768,"habermüller, claus",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0769,"seelig, andres",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0770,"kniebes, claus",personne,corporation_des_forgerons
-aves_aa_4R_auth_0771,"weidlich, claus",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0772,"wirich, claus",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0773,"molsheim, von, konrat",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0774,"medinger, heinrich",personne,corporation_des_sauniers
-aves_aa_4R_auth_0775,"odratzheim, von, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0776,"renner, claus",personne,corporation_des_marchands
-aves_aa_4R_auth_0777,"rohr, von, walther",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0778,"brümath, von, marx",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0779,"meiger, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0780,"hüss, johanns",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0781,"schott, peter",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0782,"baltener, diebolt",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0783,peter,personne,corporation_des_tisserands
-aves_aa_4R_auth_0784,marx,personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0785,"rotschilt, wilhelm",personne,corporation_des_bouchers
-aves_aa_4R_auth_0786,"allewelt, bernhart",personne,corporation_des_forgerons
-aves_aa_4R_auth_0787,"lamprecht, jacob",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0788,ulrich,personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0789,johanns,personne,corporation_des_sauniers
-aves_aa_4R_auth_0790,"olwisheim, von, peter",personne,corporation_des_tisserands
-aves_aa_4R_auth_0791,"rörich, claus",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0792,"riber, claus",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0793,"rastetten, von, marx",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0794,"ganther, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0795,"issenhausen, von, claus",personne,corporation_des_drapiers
-aves_aa_4R_auth_0796,"brant, johanns",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0797,"stange, gilge",personne,corporation_des_bateliers
-aves_aa_4R_auth_0798,"gosse, johanns",personne,corporation_des_crieurs_et_mesureurs_de_vin
-aves_aa_4R_auth_0799,"hage, jacob",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0800,"ruhlmann, kühne",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0801,"berse, von, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0802,"kerling, marx",personne,corporation_des_bouchers
-aves_aa_4R_auth_0803,"bir, claus",personne,corporation_des_forgerons
-aves_aa_4R_auth_0804,"hage, frantz",personne,corporation_des_bateliers
-aves_aa_4R_auth_0805,"bitsch, von, konrat",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0806,"ersam, andres",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0807,"brachenheim, von, peter",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0808,"bisinger, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0809,"hegel, heinrich",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0810,"sarburg, von, peter",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0811,"bisinger, heinrich",personne,corporation_des_orfevres
-aves_aa_4R_auth_0812,"bietenheim, sifrit",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0813,"lehmann, martin",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0814,"spiess, hilarius",personne,corporation_des_huiliers_meuniers_et_tondeurs_de_draps
-aves_aa_4R_auth_0815,"ottemann, diebolt",personne,corporation_des_boulangers
-aves_aa_4R_auth_0816,"offenburg, bechtolt",personne,corporation_des_bouchers
-aves_aa_4R_auth_0817,"sanselmann, anthenie",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0818,"säckingen, von, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0819,"schedeler, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0820,"trachenfeils, mattern",personne,corporation_des_sauniers
-aves_aa_4R_auth_0821,"gemersheim, von, laurentz",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0822,"villinger, erhart",personne,corporation_des_marchands
-aves_aa_4R_auth_0823,"duntzenheim, von, symont",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0824,"hug, burkhart",personne,corporation_des_forgerons
-aves_aa_4R_auth_0825,"weldel, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0826,"meiger, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0827,"berlin, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0828,"renner, claus",personne,corporation_des_sauniers
-aves_aa_4R_auth_0829,"zabern, von, ulrich",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0830,"ammeister, lienhart",personne,corporation_des_forgerons
-aves_aa_4R_auth_0831,"wolffach, konrat",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0832,"hüss, jerge",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0833,"sivester, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0834,"müge, jacob",personne,corporation_des_marchands
-aves_aa_4R_auth_0835,"westhoffen, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0836,"grewalt, michel",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0837,"raubel, martin",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0838,"pfeffinger, bernhart",personne,corporation_des_drapiers
-aves_aa_4R_auth_0839,"slapp, johanns",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0840,"kochersberg, erhart",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0841,"reck, diebolt",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0842,"burkhart, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0843,"rebestock, fritsch",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0844,"olwisheim, peter",personne,corporation_des_tisserands
-aves_aa_4R_auth_0845,"scholle, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0846,"andlau, von, peter",personne,corporation_des_orfevres
-aves_aa_4R_auth_0847,"duntzenheim, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0848,"hungerstein, konrat",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0849,"vogelsberg, bechtolt",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0850,"büre, claus",personne,corporation_des_forgerons
-aves_aa_4R_auth_0851,"peter, mathis",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0852,"meiger, johanns",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0853,"ersam, claus",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0854,"molsheim, von, peter",personne,corporation_des_maçons
-aves_aa_4R_auth_0855,"riffe, johanns",personne,corporation_des_marchands
-aves_aa_4R_auth_0856,"brun, claus",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0857,"schott, heinrich",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0858,"büre, von, oberlin",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0859,"mennichin, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0860,"ducheler, johanns",personne,corporation_des_charrons
-aves_aa_4R_auth_0861,"ruhlmann, johanns",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0862,"armbruster, konrat",personne,corporation_des_drapiers
-aves_aa_4R_auth_0863,"seebott, ulrich",personne,corporation_des_orfevres
-aves_aa_4R_auth_0864,"trüchtersheim, von, johanns",personne,corporation_des_forgerons
-aves_aa_4R_auth_0865,"wachenheimer, peter",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0866,"ulrich, wilhelm",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0867,"seelig, khurin",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0868,"scholle, konrat",personne,corporation_des_maçons
-aves_aa_4R_auth_0869,"rottweil, von, johanns-erhart",personne,corporation_des_marchands
-aves_aa_4R_auth_0870,"hohenburg, von, götze",personne,corporation_des_drapiers
-aves_aa_4R_auth_0871,"frankfurt, von, johanns",personne,corporation_des_orfevres
-aves_aa_4R_auth_0872,"odratzheim, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0873,"müller, heinrich",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0874,"wehel, johanns",personne,corporation_des_forgerons
-aves_aa_4R_auth_0875,"gisebrecht, erhart",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0876,"bülle, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0877,"rohrbosch, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0878,"wile, von, konrat",personne,corporation_des_tisserands
-aves_aa_4R_auth_0879,"morsmünster, von, peter",personne,corporation_des_charpentiers
-aves_aa_4R_auth_0880,"waldener, johanns",personne,corporation_des_boulangers
-aves_aa_4R_auth_0881,"dahlheim, anthenie",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0882,"beger, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0883,"schwencker, heinrich",personne,corporation_des_regrattiers_cordiers_et_fruitiers
-aves_aa_4R_auth_0884,"morsmünster, von, gangolff",personne,corporation_des_maçons
-aves_aa_4R_auth_0885,"happmacher, andres",personne,corporation_des_orfevres
-aves_aa_4R_auth_0886,"burggraf, wirich",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0887,"rebestock, marx",personne,corporation_des_charrons
-aves_aa_4R_auth_0888,"mornhinweg, johanns",personne,corporation_des_tisserands
-aves_aa_4R_auth_0889,"hohenburg, von, götze",personne,corporation_des_bateliers
-aves_aa_4R_auth_0890,"trüchtersheim, von, ruhlemann",personne,corporation_des_forgerons
-aves_aa_4R_auth_0891,"meiger, jacob",personne,corporation_des_barbiers_et_baigneurs
-aves_aa_4R_auth_0892,"flöss, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0893,"trense, andres",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0894,"duntzenheim, von, konrat",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0895,"armbruster, obrecht",personne,corporation_des_drapiers
-aves_aa_4R_auth_0896,"pfarrer, heinrich",personne,corporation_des_orfevres
-aves_aa_4R_auth_0897,"vendenheim, laurentz",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0898,"esslinger, matheus",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0899,"ulrich, claus",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0900,"jerger, johanns",personne,corporation_des_bateliers
-aves_aa_4R_auth_0901,"wisebach, jacob",personne,corporation_des_bouchers
-aves_aa_4R_auth_0902,"armbruster, konrat",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0903,"trachenfeils, lienhart",personne,corporation_des_sauniers
-aves_aa_4R_auth_0904,"storck, konrat",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0905,"württemberg, johanns",personne,corporation_des_forgerons
-aves_aa_4R_auth_0906,"fallwehenne, konrat",personne,corporation_des_maçons
-aves_aa_4R_auth_0907,"meiger, johanns",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0908,"renner, peter",personne,corporation_des_drapiers
-aves_aa_4R_auth_0909,"pfutzer, claus",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0910,"hug, peter",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0911,"dolde, blesin",personne,corporation_des_bateliers
-aves_aa_4R_auth_0912,"bechtolt, claus",personne,corporation_des_bouchers
-aves_aa_4R_auth_0913,"vetter, claus",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0914,"rörich, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0915,"dachstein, von, johanns",personne,corporation_des_forgerons
-aves_aa_4R_auth_0916,"lötschel, claus",personne,corporation_des_maçons
-aves_aa_4R_auth_0917,"jerger, claus",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0918,"rotschilt, stefan",personne,corporation_des_orfevres
-aves_aa_4R_auth_0919,"burnherr, arbogast",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0920,"volk, diebolt",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0921,"müge, florentz",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0922,"frank, johanns",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0923,"friedrich, blesin",personne,corporation_des_maçons
-aves_aa_4R_auth_0924,"happmacher, andres",personne,corporation_des_marchands
-aves_aa_4R_auth_0925,"brümath, von, johanns",personne,corporation_des_drapiers
-aves_aa_4R_auth_0926,"rummeler, florentz",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0927,"pfutzer, mattern",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0928,"missbach, johanns",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0929,"dietrich, michel",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0930,"krebs, peter",personne,corporation_des_charrons
-aves_aa_4R_auth_0931,"minner, veltin",personne,corporation_des_maçons
-aves_aa_4R_auth_0932,"gerbot, jacob",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0933,"trachenfeils, andres",personne,corporation_des_sauniers
-aves_aa_4R_auth_0934,"hannemann, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0935,"heinrich, johanns",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0936,"bilger, johanns",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0937,"ingolt, heinrich",personne,corporation_des_marchands
-aves_aa_4R_auth_0938,"hohenburg, von, jerge",personne,corporation_des_drapiers
-aves_aa_4R_auth_0939,"krug, claus",personne,corporation_des_tanneurs
-aves_aa_4R_auth_0940,"meiger, lexius",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0941,"ebel, jerge",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0942,"wangen, von, konrat",personne,corporation_des_charrons
-aves_aa_4R_auth_0943,"müseler, peter",personne,corporation_des_bateliers
-aves_aa_4R_auth_0944,"wurm, jacob",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0945,"hohenburg, jerge",personne,corporation_des_drapiers
-aves_aa_4R_auth_0946,"wolff, lienhart",personne,corporation_des_boulangers
-aves_aa_4R_auth_0947,"frank, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0948,"freiburg, von, jost",personne,corporation_des_forgerons
-aves_aa_4R_auth_0949,martin,personne,corporation_des_cordonniers
-aves_aa_4R_auth_0950,"grimmel, kühne",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0951,"heil, peter",personne,corporation_des_maçons
-aves_aa_4R_auth_0952,"rottweil, von, johanns",personne,corporation_des_marchands
-aves_aa_4R_auth_0953,"hochstett, von, johanns",personne,corporation_des_sauniers
-aves_aa_4R_auth_0954,"löwe, konrat",personne,corporation_des_orfevres
-aves_aa_4R_auth_0955,"russer, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0956,"strubel, symont",personne,corporation_des_charrons
-aves_aa_4R_auth_0957,"rottweil, von, johanns-wilhelm",personne,corporation_des_marchands
-aves_aa_4R_auth_0958,"konrat, johanns",personne,corporation_des_tonneliers
-aves_aa_4R_auth_0959,"stösser, konrat",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0960,"merckel, jost",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0961,"wolff, claus",personne,corporation_des_jardiniers
-aves_aa_4R_auth_0962,"ingolt, johanns",personne,corporation_des_marchands
-aves_aa_4R_auth_0963,"wernlin, claus",personne,corporation_des_cabaretiers
-aves_aa_4R_auth_0964,"wingersheim, diebolt",personne,corporation_des_drapiers
-aves_aa_4R_auth_0965,"slapp, bernhart",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0966,"stösser, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0967,"bechtolt, diebolt",personne,corporation_des_bouchers
-aves_aa_4R_auth_0968,"seebott, lamprecht",personne,corporation_des_orfevres
-aves_aa_4R_auth_0969,"hungerstein, johanns",personne,corporation_des_gourmets_et_courtiers
-aves_aa_4R_auth_0970,"hüseler, rudolff",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0971,"kupfer, johanns",personne,corporation_des_maçons
-aves_aa_4R_auth_0972,"riffe, jeronimus",personne,corporation_des_marchands
-aves_aa_4R_auth_0973,"küller, jacob",personne,corporation_des_drapiers
-aves_aa_4R_auth_0974,"molsheim, von, jacob",personne,corporation_des_marchands_de_grains
-aves_aa_4R_auth_0975,"büre, von, oberlin",personne,corporation_des_orfevres
-aves_aa_4R_auth_0976,"kornman, thoman",personne,corporation_des_pelletiers
-aves_aa_4R_auth_0977,"lume, konrat",personne,corporation_des_tailleurs
-aves_aa_4R_auth_0978,"schwende, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0979,"schwende, johanns",personne,corporation_des_pêcheurs
-aves_aa_4R_auth_0980,"rüttel, jerge",personne,corporation_des_charrons
-aves_aa_4R_auth_0981,"arge, peter",personne,corporation_des_bateliers
-aves_aa_4R_auth_0982,"riffe, jerge",personne,corporation_des_sauniers
-aves_aa_4R_auth_0983,"schultheiss, martin",personne,corporation_des_cordonniers
-aves_aa_4R_auth_0984,"arbogast, johanns-claus",personne,corporation_des_charrons
-aves_aa_4R_auth_0985,"barpfennig, bartholomeus",personne,corporation_des_cabaretiers
+1400,1400,conseil,
+1401,1401,conseil,
+1402,1402,conseil,
+1403,1403,conseil,
+1404,1404,conseil,
+1405,1405,conseil,
+1406,1406,conseil,
+1407,1407,conseil,
+1408,1408,conseil,
+1409,1409,conseil,
+1410,1410,conseil,
+1411,1411,conseil,
+1412,1412,conseil,
+1413,1413,conseil,
+1414,1414,conseil,
+1415,1415,conseil,
+1416,1416,conseil,
+1417,1417,conseil,
+1418,1418,conseil,
+1419,1419,conseil,
+1420,1420,conseil,
+1421,1421,conseil,
+1422,1422,conseil,
+1423,1423,conseil,
+1424,1424,conseil,
+1425,1425,conseil,
+1426,1426,conseil,
+1427,1427,conseil,
+1428,1428,conseil,
+1429,1429,conseil,
+1430,1430,conseil,
+1431,1431,conseil,
+1432,1432,conseil,
+1433,1433,conseil,
+1434,1434,conseil,
+1435,1435,conseil,
+1436,1436,conseil,
+1437,1437,conseil,
+1438,1438,conseil,
+1439,1439,conseil,
+1440,1440,conseil,
+1441,1441,conseil,
+1442,1442,conseil,
+1443,1443,conseil,
+1444,1444,conseil,
+1445,1445,conseil,
+1446,1446,conseil,
+1447,1447,conseil,
+1448,1448,conseil,
+1449,1449,conseil,
+1450,1450,conseil,
+1451,1451,conseil,
+1452,1452,conseil,
+1453,1453,conseil,
+1454,1454,conseil,
+1455,1455,conseil,
+1456,1456,conseil,
+1457,1457,conseil,
+1458,1458,conseil,
+1459,1459,conseil,
+1460,1460,conseil,
+1461,1461,conseil,
+1462,1462,conseil,
+1463,1463,conseil,
+1464,1464,conseil,
+1465,1465,conseil,
+1466,1466,conseil,
+1467,1467,conseil,
+1468,1468,conseil,
+1469,1469,conseil,
+1470,1470,conseil,
+1471,1471,conseil,
+1472,1472,conseil,
+1473,1473,conseil,
+1474,1474,conseil,
+1475,1475,conseil,
+1476,1476,conseil,
+1477,1477,conseil,
+1478,1478,conseil,
+1479,1479,conseil,
+1480,1480,conseil,
+1481,1481,conseil,
+1482,1482,conseil,
+1483,1483,conseil,
+1484,1484,conseil,
+1485,1485,conseil,
+1486,1486,conseil,
+1487,1487,conseil,
+1488,1488,conseil,
+1489,1489,conseil,
+1490,1490,conseil,
+1491,1491,conseil,
+1492,1492,conseil,
+1493,1493,conseil,
+1494,1494,conseil,
+1495,1495,conseil,
+1496,1496,conseil,
+1497,1497,conseil,
+1498,1498,conseil,
+1499,1499,conseil,
+aves_aa_4R_auth_0001,"metziger, wilhelm",personne,bouchers
+aves_aa_4R_auth_0002,"colmar, von, hannemann",personne,marchands
+aves_aa_4R_auth_0003,"gerung, ",personne,boulangers
+aves_aa_4R_auth_0004,"rotschilt, wilhelm",personne,bouchers
+aves_aa_4R_auth_0005,"spielmann, claus",personne,drapiers
+aves_aa_4R_auth_0006,"schott, claus",personne,tonneliers
+aves_aa_4R_auth_0007,"issenhausen, ulrich",personne,tanneurs
+aves_aa_4R_auth_0008,", sigel",personne,cabaretiers
+aves_aa_4R_auth_0009,"kindelin, erhart",personne,maçons
+aves_aa_4R_auth_0010,", andres",personne,forgerons
+aves_aa_4R_auth_0011,"gumbrecht, von, diebolt",personne,tailleurs
+aves_aa_4R_auth_0012,"boppe, küntz",personne,bateliers
+aves_aa_4R_auth_0013,"tummeler, dietrich",personne,charpentiers
+aves_aa_4R_auth_0014,"westermann, johanns",personne,pelletiers
+aves_aa_4R_auth_0015,"heischer, lienhart",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0016,"laubeck, johanns",personne,cordonniers
+aves_aa_4R_auth_0017,"honau, peter",personne,orfevres
+aves_aa_4R_auth_0018,"hühnerer, ulrich",personne,marchands_de_grains
+aves_aa_4R_auth_0019,"nattener, andres",personne,jardiniers
+aves_aa_4R_auth_0020,"schwicker, johanns",personne,pêcheurs
+aves_aa_4R_auth_0021,"aler, heintz",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0022,"gosse, ulrich",personne,sauniers
+aves_aa_4R_auth_0023,"ingenheim, von, claus",personne,tisserands
+aves_aa_4R_auth_0024,"diether, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0025,"dingsheim, claus",personne,charrons
+aves_aa_4R_auth_0026,"hagenau, von, peter",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0027,"stachel, küntz",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0028,"klige, hug",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0029,"rhinau, walther",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0030,"sünner, peter",personne,bateliers
+aves_aa_4R_auth_0031,"barpfennig, ruhlemann",personne,marchands
+aves_aa_4R_auth_0032,", johanns",personne,boulangers
+aves_aa_4R_auth_0033,"berse, von, wilhelm",personne,bouchers
+aves_aa_4R_auth_0034,"herbst, johanns",personne,drapiers
+aves_aa_4R_auth_0035,"langneffe, johanns",personne,tonneliers
+aves_aa_4R_auth_0036,"hanseler, johanns",personne,tanneurs
+aves_aa_4R_auth_0037,"kranich, heinrich",personne,cabaretiers
+aves_aa_4R_auth_0038,"gans, johanns",personne,maçons
+aves_aa_4R_auth_0039,"trüchtersheim, von, eberhart",personne,forgerons
+aves_aa_4R_auth_0040,", heilmann",personne,tailleurs
+aves_aa_4R_auth_0041,"nellesheim, johanns",personne,bateliers
+aves_aa_4R_auth_0042,"seelose, heintz",personne,pelletiers
+aves_aa_4R_auth_0043,"münch, ottemann",personne,charpentiers
+aves_aa_4R_auth_0044,"beildeck, fritsch",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0045,", christian",personne,cordonniers
+aves_aa_4R_auth_0046,"henneckin, claus",personne,orfevres
+aves_aa_4R_auth_0047,"rhinau, andres",personne,marchands_de_grains
+aves_aa_4R_auth_0048,"stacheler, johanns",personne,jardiniers
+aves_aa_4R_auth_0049,", stoffelus",personne,pêcheurs
+aves_aa_4R_auth_0050,"pfennigmann, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0051,"saltzmütter, johanns",personne,sauniers
+aves_aa_4R_auth_0052,"dolde, johanns",personne,tisserands
+aves_aa_4R_auth_0053,"schrotbanck, walther",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0054,"wigang, ",personne,charrons
+aves_aa_4R_auth_0055,"kleinhanns, diethmar",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0056,"kornbick, claus",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0057,"bobst, lienhart",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0058,"ölmann, walther",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0059,"barpfennig, johanns",personne,marchands
+aves_aa_4R_auth_0060,", küntz",personne,boulangers
+aves_aa_4R_auth_0061,"färber, johanns",personne,drapiers
+aves_aa_4R_auth_0062,"heinrich, johanns",personne,tonneliers
+aves_aa_4R_auth_0063,"stumpf, heintz",personne,tanneurs
+aves_aa_4R_auth_0064,"bergheim, johanns",personne,maçons
+aves_aa_4R_auth_0065,"sporer, stefan",personne,forgerons
+aves_aa_4R_auth_0066,"schön, heintz",personne,tailleurs
+aves_aa_4R_auth_0067,", obrecht",personne,charpentiers
+aves_aa_4R_auth_0068,"schultheiss, küntz",personne,cordonniers
+aves_aa_4R_auth_0069,"klammann, andres",personne,orfevres
+aves_aa_4R_auth_0070,"rickersheim, küntz",personne,marchands_de_grains
+aves_aa_4R_auth_0071,"bock, johanns",personne,jardiniers
+aves_aa_4R_auth_0072,"lamb, hensel",personne,pêcheurs
+aves_aa_4R_auth_0073,"obrecht, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0074,"schmied, lienhart",personne,sauniers
+aves_aa_4R_auth_0075,"schenck, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0076,"steck, johanns",personne,charrons
+aves_aa_4R_auth_0077,"steingewerck, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0078,"mörlin, johanns",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0079,"altheim, claus",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0080,"heilmann, johanns",personne,drapiers
+aves_aa_4R_auth_0081,"geispoltzheim, von, jacob",personne,boulangers
+aves_aa_4R_auth_0082,"müseler, peter",personne,bouchers
+aves_aa_4R_auth_0083,"armbruster, obrecht",personne,drapiers
+aves_aa_4R_auth_0084,"küntzlin, diethmar",personne,tonneliers
+aves_aa_4R_auth_0085,"kirwiller, von, gerbot",personne,tanneurs
+aves_aa_4R_auth_0086,"wassicher, heilmann",personne,cabaretiers
+aves_aa_4R_auth_0087,"ruhlmann, lauwel",personne,maçons
+aves_aa_4R_auth_0088,"lorer, hermann",personne,forgerons
+aves_aa_4R_auth_0089,"miltenberg, johanns",personne,tailleurs
+aves_aa_4R_auth_0090,"vogt, johanns",personne,pelletiers
+aves_aa_4R_auth_0091,"beildeck, jacob",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0092,"herring, oberlin",personne,cordonniers
+aves_aa_4R_auth_0093,"waltenheim, johanns",personne,orfevres
+aves_aa_4R_auth_0094,"melbrühe, michel",personne,marchands_de_grains
+aves_aa_4R_auth_0095,"martin, johanns",personne,jardiniers
+aves_aa_4R_auth_0096,"mönchelin, küntz",personne,pêcheurs
+aves_aa_4R_auth_0097,"rohrer, marx",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0098,"rüllin, claus",personne,sauniers
+aves_aa_4R_auth_0099,"wecker, jeckel",personne,tisserands
+aves_aa_4R_auth_0100,"nesselbach, erhart",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0101,"hühnerer, lauwel",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0102,"altheim, jacob",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0103,"friedel, lauwel",personne,bouchers
+aves_aa_4R_auth_0104,"wingersheim, peter",personne,drapiers
+aves_aa_4R_auth_0105,"kammerer, johanns",personne,tonneliers
+aves_aa_4R_auth_0106,"spirer, anshelm",personne,cabaretiers
+aves_aa_4R_auth_0107,"lorer, johanns",personne,forgerons
+aves_aa_4R_auth_0108,"menniger, johanns",personne,tailleurs
+aves_aa_4R_auth_0109,"kacheler, johanns",personne,bateliers
+aves_aa_4R_auth_0110,"mönchelin, johanns",personne,pelletiers
+aves_aa_4R_auth_0111,"oberkirch, von, lauwel",personne,charpentiers
+aves_aa_4R_auth_0112,"pfau, johanns",personne,cordonniers
+aves_aa_4R_auth_0113,"berner, johanns",personne,marchands_de_grains
+aves_aa_4R_auth_0114,"albrecht, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0115,"messinger, heintz",personne,tisserands
+aves_aa_4R_auth_0116,"girbaden, hensel",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0117,", reinhart",personne,charrons
+aves_aa_4R_auth_0118,"willgottheim, claus",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0119,"rottweil, von, erhart",personne,marchands
+aves_aa_4R_auth_0120,"hagenau, von, wernher",personne,boulangers
+aves_aa_4R_auth_0121,"schanlit, walther",personne,tonneliers
+aves_aa_4R_auth_0122,"weissgerber, fritsch",personne,tanneurs
+aves_aa_4R_auth_0123,"wormser, claus",personne,cabaretiers
+aves_aa_4R_auth_0124,"hagenau, von, erhart",personne,maçons
+aves_aa_4R_auth_0125,"stegemann, eberhart",personne,forgerons
+aves_aa_4R_auth_0126,"hechde, claus",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0127,"arge, claus",personne,orfevres
+aves_aa_4R_auth_0128,"melbrühe, claus",personne,marchands_de_grains
+aves_aa_4R_auth_0129,"wintzler, peter",personne,jardiniers
+aves_aa_4R_auth_0130,"lamb, johanns",personne,pêcheurs
+aves_aa_4R_auth_0131,"messerer, claus",personne,sauniers
+aves_aa_4R_auth_0132,"frei, uhlmann",personne,tisserands
+aves_aa_4R_auth_0133,"fritschmann, hug",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0134,"riffe, peter",personne,marchands
+aves_aa_4R_auth_0135,"gerter, küntz",personne,boulangers
+aves_aa_4R_auth_0136,"schanlit, claus",personne,tonneliers
+aves_aa_4R_auth_0137,"kraft, johanns",personne,cabaretiers
+aves_aa_4R_auth_0138,"kindelin, mewus",personne,maçons
+aves_aa_4R_auth_0139,"überhang, zum, hermann",personne,tailleurs
+aves_aa_4R_auth_0140,"meiger, johanns",personne,bateliers
+aves_aa_4R_auth_0141,"hagenau, von, götze",personne,pelletiers
+aves_aa_4R_auth_0142,"lamb, heitz",personne,charpentiers
+aves_aa_4R_auth_0143,"seifenmacher, hug",personne,orfevres
+aves_aa_4R_auth_0144,"grossstein, johanns",personne,jardiniers
+aves_aa_4R_auth_0145,"stollhofen, hensel",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0146,"frei, johanns",personne,tisserands
+aves_aa_4R_auth_0147,"gosse, peter",personne,charrons
+aves_aa_4R_auth_0148,"dürningen, von, johanns",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0149,"leimer, heinrich",personne,marchands
+aves_aa_4R_auth_0150,"kücheler, peter",personne,tanneurs
+aves_aa_4R_auth_0151,"gast, ludwig",personne,forgerons
+aves_aa_4R_auth_0152,"schrotbanck, konrat",personne,tailleurs
+aves_aa_4R_auth_0153,"lumbart, johanns",personne,bateliers
+aves_aa_4R_auth_0154,"oberkirch, von, claus",personne,charpentiers
+aves_aa_4R_auth_0155,"rhinau, ottemann",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0156,"rotenschilt, zum, wolff",personne,marchands_de_grains
+aves_aa_4R_auth_0157,", walther",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0158,"marlen, peter",personne,tisserands
+aves_aa_4R_auth_0159,"pfaffenhoffen, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0160,"voltz, claus",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0161,"nordhausen, johanns",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0162,"colmar, von, bechtolt",personne,marchands
+aves_aa_4R_auth_0163,"werde, claus",personne,tanneurs
+aves_aa_4R_auth_0164,"beildeck, jeckel",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0165,"düpigheim, johanns",personne,jardiniers
+aves_aa_4R_auth_0166,", schweicker",personne,pêcheurs
+aves_aa_4R_auth_0167,", johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0168,"dreitzehn, hug",personne,charrons
+aves_aa_4R_auth_0169,"hohenhaus, zum, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0170,"herrhorn, zum, thoman",personne,tonneliers
+aves_aa_4R_auth_0171,"mommenheim, von, johanns",personne,cabaretiers
+aves_aa_4R_auth_0172,"seltz, von, johanns",personne,tailleurs
+aves_aa_4R_auth_0173,"armbruster, konrat",personne,bateliers
+aves_aa_4R_auth_0174,"mahler, hermann",personne,orfevres
+aves_aa_4R_auth_0175,"bere, hensel",personne,marchands_de_grains
+aves_aa_4R_auth_0176,"hertzog, johanns",personne,jardiniers
+aves_aa_4R_auth_0177,"gauch, johanns",personne,pêcheurs
+aves_aa_4R_auth_0178,"scherer, rudolff",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0179,"renner, diebolt",personne,tisserands
+aves_aa_4R_auth_0180,"wachsmann, zum, fritsch",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0181,"dreitzehn, reimbolt",personne,charrons
+aves_aa_4R_auth_0182,"burkhart, riffe",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0183,"martin, johanns",personne,boulangers
+aves_aa_4R_auth_0184,"meister, heintz",personne,bouchers
+aves_aa_4R_auth_0185,"zirtzer, ulrich",personne,drapiers
+aves_aa_4R_auth_0186,"bidermann, johanns",personne,tonneliers
+aves_aa_4R_auth_0187,"sturm, johanns",personne,tanneurs
+aves_aa_4R_auth_0188,"villinger, peter",personne,forgerons
+aves_aa_4R_auth_0189,"schwert, johanns",personne,tailleurs
+aves_aa_4R_auth_0190,"wasselnheim, von, johanns",personne,pelletiers
+aves_aa_4R_auth_0191,"haslach von, peter",personne,charpentiers
+aves_aa_4R_auth_0192,"merckwiller, küntz",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0193,"frankenheim, ottemann",personne,marchands_de_grains
+aves_aa_4R_auth_0194,"müntzer, burkhart",personne,jardiniers
+aves_aa_4R_auth_0195,"brüchelin, hansekint",personne,pêcheurs
+aves_aa_4R_auth_0196,"flach, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0197,"blumenstein, johanns",personne,sauniers
+aves_aa_4R_auth_0198,"burkhart, heintz",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0199,"spitznagel, johanns",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0200,"wibolsheim, johanns",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0201,"hermann, jacob",personne,boulangers
+aves_aa_4R_auth_0202,"berse, johanns",personne,bouchers
+aves_aa_4R_auth_0203,"sprenger, claus",personne,drapiers
+aves_aa_4R_auth_0204,"kacheler, anthenie",personne,maçons
+aves_aa_4R_auth_0205,"armbruster, johanns",personne,bateliers
+aves_aa_4R_auth_0206,"kerb, johanns",personne,charpentiers
+aves_aa_4R_auth_0207,"kenen, zur, jeckel",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0208,"schmalriem, andres",personne,orfevres
+aves_aa_4R_auth_0209,"zender, johanns",personne,jardiniers
+aves_aa_4R_auth_0210,"mannertrieb, diebolt",personne,tisserands
+aves_aa_4R_auth_0211,"mentzer, johanns",personne,charrons
+aves_aa_4R_auth_0212,"seiler, ruhlemann",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0213,"tuchscherer, ottemann",personne,drapiers
+aves_aa_4R_auth_0214,"voltz, ",personne,marchands
+aves_aa_4R_auth_0215,"willgottheim, johanns",personne,tonneliers
+aves_aa_4R_auth_0216,"epfig, von, hannemann",personne,forgerons
+aves_aa_4R_auth_0217,"meiger, claus",personne,bateliers
+aves_aa_4R_auth_0218,"jeckelin, symont",personne,charpentiers
+aves_aa_4R_auth_0219,"rawensburg, johanns",personne,cordonniers
+aves_aa_4R_auth_0220,"kriegsheim, von, johanns",personne,orfevres
+aves_aa_4R_auth_0221,"brüchelin, claus",personne,pêcheurs
+aves_aa_4R_auth_0222,"saltzmütter, dietrich",personne,sauniers
+aves_aa_4R_auth_0223,"wurant, rudolff",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0224,"lampertheim, von, peter",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0225,"brucker, peter",personne,marchands
+aves_aa_4R_auth_0226,"nussmann, peter",personne,drapiers
+aves_aa_4R_auth_0227,"heimburg, küntz",personne,tonneliers
+aves_aa_4R_auth_0228,"gerbot, claus",personne,tanneurs
+aves_aa_4R_auth_0229,"dannenfels, johanns",personne,cabaretiers
+aves_aa_4R_auth_0230,"stoltz, peter",personne,tailleurs
+aves_aa_4R_auth_0231,"spirer, claus",personne,pelletiers
+aves_aa_4R_auth_0232,"kenen, zur, jacob",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0233,"harnescher, blesin",personne,orfevres
+aves_aa_4R_auth_0234,"bock, ludwig",personne,jardiniers
+aves_aa_4R_auth_0235,"hug, johanns",personne,pêcheurs
+aves_aa_4R_auth_0236,"pfluger, ottemann",personne,charrons
+aves_aa_4R_auth_0237,"kutteltzheim, michel",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0238,"bechtolt, johanns",personne,bouchers
+aves_aa_4R_auth_0239,"meiger, jeckel",personne,boulangers
+aves_aa_4R_auth_0240,"göffde, von, claus",personne,tonneliers
+aves_aa_4R_auth_0241,"arner, heinrich",personne,cabaretiers
+aves_aa_4R_auth_0242,"wild, küntz",personne,maçons
+aves_aa_4R_auth_0243,"meiger, heinrich",personne,bateliers
+aves_aa_4R_auth_0244,"wilgen, zur, jacob",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0245,"flöss, heintz",personne,cordonniers
+aves_aa_4R_auth_0246,"roser, heintz",personne,pêcheurs
+aves_aa_4R_auth_0247,"ingenheim, küntz",personne,tisserands
+aves_aa_4R_auth_0248,"dolde, bechtolt",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0249,"wernher, claus",personne,charrons
+aves_aa_4R_auth_0250,"giger, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0251,"reichwein, walther",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0252,"kerling, claus",personne,bouchers
+aves_aa_4R_auth_0253,"renner, johanns",personne,drapiers
+aves_aa_4R_auth_0254,"vetter, claus",personne,tonneliers
+aves_aa_4R_auth_0255,"schnipper, claus",personne,forgerons
+aves_aa_4R_auth_0256,"arnolt, konrat",personne,tailleurs
+aves_aa_4R_auth_0257,"siffermann, riffe",personne,bateliers
+aves_aa_4R_auth_0258,"rhinau, johanns",personne,pelletiers
+aves_aa_4R_auth_0259,"klein, dietrich",personne,charpentiers
+aves_aa_4R_auth_0260,"müntzenberg, heinrich",personne,cordonniers
+aves_aa_4R_auth_0261,"spete, johanns",personne,jardiniers
+aves_aa_4R_auth_0262,"schluch, im, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0263,"nothalden, von, heinrich",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0264,"buchswiller, von, burkhart",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0265,"schwob, johanns",personne,boulangers
+aves_aa_4R_auth_0266,"lampertheim, von, johanns",personne,tonneliers
+aves_aa_4R_auth_0267,"müntzenberg, johanns",personne,tanneurs
+aves_aa_4R_auth_0268,"dossenheim, von, hug",personne,cabaretiers
+aves_aa_4R_auth_0269,"kacheler, sifrit",personne,maçons
+aves_aa_4R_auth_0270,"waldeck, konrat",personne,tailleurs
+aves_aa_4R_auth_0271,"schnell, johanns",personne,charpentiers
+aves_aa_4R_auth_0272,"risser, claus",personne,orfevres
+aves_aa_4R_auth_0273,"peter, johanns",personne,pêcheurs
+aves_aa_4R_auth_0274,", diebolt",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0275,"obrecht, johanns",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0276,"voltz, claus",personne,bouchers
+aves_aa_4R_auth_0277,"gerbot, küntz",personne,tanneurs
+aves_aa_4R_auth_0278,"honau, von, claus",personne,tailleurs
+aves_aa_4R_auth_0279,", adam",personne,charpentiers
+aves_aa_4R_auth_0280,"pfluger, heintz",personne,cordonniers
+aves_aa_4R_auth_0281,"kilwart, johanns",personne,jardiniers
+aves_aa_4R_auth_0282,"würtzel, johanns",personne,pêcheurs
+aves_aa_4R_auth_0283,"basel, von, diebolt",personne,tisserands
+aves_aa_4R_auth_0284,"hüter, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0285,"kride, heintz",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0286,"krapp, johanns",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0287,"pfettisheim, johanns",personne,marchands
+aves_aa_4R_auth_0288,"eckboltzheim, von, claus",personne,cabaretiers
+aves_aa_4R_auth_0289,"leistmann, ",personne,tailleurs
+aves_aa_4R_auth_0290,"lang, fritsch",personne,charpentiers
+aves_aa_4R_auth_0291,"beildeck, adam",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0292,"pfluger, oberlin",personne,cordonniers
+aves_aa_4R_auth_0293,"stacheler, johanns",personne,orfevres
+aves_aa_4R_auth_0294,"götze, bechtolt",personne,jardiniers
+aves_aa_4R_auth_0295,"risser, konrat",personne,sauniers
+aves_aa_4R_auth_0296,"kutteltzheim, michel",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0297,"giger, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0298,"meiger, claus",personne,drapiers
+aves_aa_4R_auth_0299,"gerbot, johanns",personne,tanneurs
+aves_aa_4R_auth_0300,"bülle, johanns",personne,bateliers
+aves_aa_4R_auth_0301,"hugelin, ",personne,charpentiers
+aves_aa_4R_auth_0302,"stacheler, claus",personne,marchands_de_grains
+aves_aa_4R_auth_0303,"dreitzehn, diebolt",personne,jardiniers
+aves_aa_4R_auth_0304,"brüchelin, johanns",personne,pêcheurs
+aves_aa_4R_auth_0305,"träger, oberlin",personne,charrons
+aves_aa_4R_auth_0306,"dürr, claus",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0307,"landolff, jacob",personne,marchands
+aves_aa_4R_auth_0308,"scheubelin, johanns",personne,boulangers
+aves_aa_4R_auth_0309,"kalt, johanns",personne,bouchers
+aves_aa_4R_auth_0310,"dentener, johanns",personne,cabaretiers
+aves_aa_4R_auth_0311,"trüchtersheim, von, ruhlemann",personne,forgerons
+aves_aa_4R_auth_0312,"zoller, johanns",personne,tailleurs
+aves_aa_4R_auth_0313,"ettenheim, von, claus",personne,bateliers
+aves_aa_4R_auth_0314,", fritsch",personne,charpentiers
+aves_aa_4R_auth_0315,"üsenberg, heintz",personne,cordonniers
+aves_aa_4R_auth_0316,"stefan, heinrich",personne,orfevres
+aves_aa_4R_auth_0317,"nüffer, behremann",personne,marchands_de_grains
+aves_aa_4R_auth_0318,"spete, claus",personne,jardiniers
+aves_aa_4R_auth_0319,", oswalt",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0320,"schmerwer, andres",personne,sauniers
+aves_aa_4R_auth_0321,"lichtenberg, heinrich",personne,tisserands
+aves_aa_4R_auth_0322,"harrer, oberlin",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0323,"dettwiller, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0324,"mentzer, adam",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0325,"klige, johanns",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0326,", bechtolt",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0327,"duntzenheim, claus",personne,tanneurs
+aves_aa_4R_auth_0328,"eckboltzheim, von, johanns",personne,maçons
+aves_aa_4R_auth_0329,"welsch, lienhart",personne,forgerons
+aves_aa_4R_auth_0330,"phye, heintz",personne,bateliers
+aves_aa_4R_auth_0331,"bergheim, von, claus",personne,charpentiers
+aves_aa_4R_auth_0332,"heide, küntz",personne,cordonniers
+aves_aa_4R_auth_0333,"gotzgans, johanns",personne,orfevres
+aves_aa_4R_auth_0334,"trachenfeils, lienhart",personne,sauniers
+aves_aa_4R_auth_0335,"rheinstett, von, fritsch",personne,charrons
+aves_aa_4R_auth_0336,", konrat",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0337,"schultheiss, johanns",personne,boulangers
+aves_aa_4R_auth_0338,"kerling, jacob",personne,bouchers
+aves_aa_4R_auth_0339,"sturmel, peter",personne,maçons
+aves_aa_4R_auth_0340,"breitthor, johanns",personne,tailleurs
+aves_aa_4R_auth_0341,"phye, reimbolt",personne,bateliers
+aves_aa_4R_auth_0342,"hirtzfelder, heinrich",personne,pelletiers
+aves_aa_4R_auth_0343,"kühn, johanns",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0344,"missbach, peter",personne,orfevres
+aves_aa_4R_auth_0345,", marx",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0346,"wissemburg, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0347,"kint, heintz",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0348,"linzer, claus",personne,boulangers
+aves_aa_4R_auth_0349,"armbruster, konrat",personne,drapiers
+aves_aa_4R_auth_0350,"rosemberg, küntz",personne,forgerons
+aves_aa_4R_auth_0351,"monschein, johanns",personne,tailleurs
+aves_aa_4R_auth_0352,"schalk, obrecht",personne,bateliers
+aves_aa_4R_auth_0353,"hellen, zur, claus",personne,pelletiers
+aves_aa_4R_auth_0354,"scheubelin, johanns",personne,charpentiers
+aves_aa_4R_auth_0355,"grünwalt, jacob",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0356,"neuwiller, johanns",personne,cordonniers
+aves_aa_4R_auth_0357,"armbruster, johanns",personne,orfevres
+aves_aa_4R_auth_0358,"kesselring, johanns",personne,marchands_de_grains
+aves_aa_4R_auth_0359,"giger, johanns",personne,charrons
+aves_aa_4R_auth_0360,"lumbart, johanns",personne,bateliers
+aves_aa_4R_auth_0361,"riffe, adam",personne,marchands
+aves_aa_4R_auth_0362,"bischoff, johanns",personne,tonneliers
+aves_aa_4R_auth_0363,"siffermann, ",personne,maçons
+aves_aa_4R_auth_0364,"rotgebe, jacob",personne,tailleurs
+aves_aa_4R_auth_0365,"ammelung, johanns",personne,bateliers
+aves_aa_4R_auth_0366,"hellen, zur, johanns",personne,pelletiers
+aves_aa_4R_auth_0367,"egen, claus",personne,jardiniers
+aves_aa_4R_auth_0368,"büttener, claus",personne,pêcheurs
+aves_aa_4R_auth_0369,"rohrer, peter",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0370,"messer, johanns",personne,sauniers
+aves_aa_4R_auth_0371,"hochfelden, von, walther",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0372,"voltz, küntz",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0373,", gebhart",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0374,"ruhlmann, claus",personne,maçons
+aves_aa_4R_auth_0375,"wingersheim, dielmann",personne,pelletiers
+aves_aa_4R_auth_0376,", michel",personne,charpentiers
+aves_aa_4R_auth_0377,"volmar, fritsch",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0378,"reimbolt, ",personne,cordonniers
+aves_aa_4R_auth_0379,"müsinger, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0380,"messerer, johanns",personne,sauniers
+aves_aa_4R_auth_0381,"villinger, bertsch",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0382,"peter, ",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0383,"voltz, peter",personne,marchands
+aves_aa_4R_auth_0384,"berse, von, johanns",personne,bouchers
+aves_aa_4R_auth_0385,"wangen, von, johanns",personne,drapiers
+aves_aa_4R_auth_0386,"kücheler, bartholomeus",personne,tanneurs
+aves_aa_4R_auth_0387,"messner, andres",personne,cabaretiers
+aves_aa_4R_auth_0388,"meiger, johanns",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0389,"regisheim, claus",personne,cordonniers
+aves_aa_4R_auth_0390,"hüter, marx",personne,orfevres
+aves_aa_4R_auth_0391,"grünwalt, walther",personne,sauniers
+aves_aa_4R_auth_0392,"schindeler, küntz",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0393,"herde, von, andres",personne,charrons
+aves_aa_4R_auth_0394,"bergheim, von, hug",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0395,"altheim, küntz",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0396,"müller, thoman",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0397,"happmacher, jacob",personne,marchands
+aves_aa_4R_auth_0398,"leimer, heinrich",personne,drapiers
+aves_aa_4R_auth_0399,"lahr, von, johanns",personne,tanneurs
+aves_aa_4R_auth_0400,"dreitzehn, reimbolt",personne,cabaretiers
+aves_aa_4R_auth_0401,"morsmünster, von, claus",personne,maçons
+aves_aa_4R_auth_0402,"gerlach, ",personne,forgerons
+aves_aa_4R_auth_0403,"diener, claus",personne,tailleurs
+aves_aa_4R_auth_0404,"dusche, fritsch",personne,charpentiers
+aves_aa_4R_auth_0405,", bernhart",personne,cordonniers
+aves_aa_4R_auth_0406,"hühnerer, küntz",personne,marchands_de_grains
+aves_aa_4R_auth_0407,"henneckin, johanns",personne,jardiniers
+aves_aa_4R_auth_0408,"schertzheim, jerge",personne,pêcheurs
+aves_aa_4R_auth_0409,"messner, wernher",personne,sauniers
+aves_aa_4R_auth_0410,"ricker, claus",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0411,"dreitzehn, jerge",personne,charrons
+aves_aa_4R_auth_0412,"weipolt, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0413,"mentz, von, küntz",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0414,"seltz, von, johanns",personne,marchands
+aves_aa_4R_auth_0415,"berse, von, lexius",personne,bouchers
+aves_aa_4R_auth_0416,"meiger, heinrich",personne,tonneliers
+aves_aa_4R_auth_0417,"ludemann, claus",personne,drapiers
+aves_aa_4R_auth_0418,"bleiweger, diebolt",personne,pelletiers
+aves_aa_4R_auth_0419,", sifrit",personne,charpentiers
+aves_aa_4R_auth_0420,"brant, lauwel",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0421,"rohrer, marx",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0422,"koch, johanns",personne,tisserands
+aves_aa_4R_auth_0423,"haffener, sixt",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0424,"hettemann, johanns",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0425,"kempf, claus",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0426,"bitsch, johanns",personne,tanneurs
+aves_aa_4R_auth_0427,"klein, johanns",personne,maçons
+aves_aa_4R_auth_0428,"windeck, heinrich",personne,tailleurs
+aves_aa_4R_auth_0429,"desche, heinrich",personne,bateliers
+aves_aa_4R_auth_0430,"kiebel, johanns",personne,orfevres
+aves_aa_4R_auth_0431,"speich, andres",personne,marchands_de_grains
+aves_aa_4R_auth_0432,"pfaffe, claus",personne,pêcheurs
+aves_aa_4R_auth_0433,", konrat",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0434,"binnting, walther",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0435,", gabriel",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0436,"meister, johanns",personne,bouchers
+aves_aa_4R_auth_0437,"dahlheim, heinrich",personne,tonneliers
+aves_aa_4R_auth_0438,"bergheim, von, johanns",personne,maçons
+aves_aa_4R_auth_0439,"leutesheim, johanns",personne,bateliers
+aves_aa_4R_auth_0440,"wolff, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0441,"barpfennig, marx",personne,marchands
+aves_aa_4R_auth_0442,"lamperter, johanns",personne,tonneliers
+aves_aa_4R_auth_0443,"kücheler, claus",personne,tanneurs
+aves_aa_4R_auth_0444,"rohr, von, claus",personne,cabaretiers
+aves_aa_4R_auth_0445,"klaue, jacob",personne,jardiniers
+aves_aa_4R_auth_0446,"diebolt, peter",personne,pêcheurs
+aves_aa_4R_auth_0447,"schüffel, heintz",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0448,"girbaden, johanns",personne,tisserands
+aves_aa_4R_auth_0449,"lang, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0450,"paulus, johanns",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0451,"kress, konrat",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0452,"bidermann, claus",personne,drapiers
+aves_aa_4R_auth_0453,"winsticher, erhart",personne,charpentiers
+aves_aa_4R_auth_0454,"schlempe, heinrich",personne,marchands
+aves_aa_4R_auth_0455,"sporer, jacob",personne,boulangers
+aves_aa_4R_auth_0456,"lang, claus",personne,tanneurs
+aves_aa_4R_auth_0457,"wile, von, sifrit",personne,tailleurs
+aves_aa_4R_auth_0458,"rippel, michel",personne,charpentiers
+aves_aa_4R_auth_0459,"reimbolt, johanns",personne,cordonniers
+aves_aa_4R_auth_0460,"peter, johanns",personne,jardiniers
+aves_aa_4R_auth_0461,"siffermann, burkhart",personne,sauniers
+aves_aa_4R_auth_0462,"hebnagel, johanns",personne,tisserands
+aves_aa_4R_auth_0463,"haffener, jacob",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0464,"herbst, peter",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0465,"fuchs, oberlin",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0466,"lampertheim, von, ulrich",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0467,"dingsheim, johanns",personne,tonneliers
+aves_aa_4R_auth_0468,"bösch, bechtolt",personne,maçons
+aves_aa_4R_auth_0469,"altzheim, von, johanns",personne,orfevres
+aves_aa_4R_auth_0470,"rohr, von, peter",personne,marchands_de_grains
+aves_aa_4R_auth_0471,", michel",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0472,"rhinau, johanns",personne,tisserands
+aves_aa_4R_auth_0473,"freund, claus",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0474,"brechter, bechtolt",personne,drapiers
+aves_aa_4R_auth_0475,"leistmann, dietrich",personne,tailleurs
+aves_aa_4R_auth_0476,", götze",personne,pelletiers
+aves_aa_4R_auth_0477,"hechde, johanns",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0478,"duntzenheim, claus",personne,jardiniers
+aves_aa_4R_auth_0479,"diebolt, johanns",personne,pêcheurs
+aves_aa_4R_auth_0480,"hirtzfelder, johanns",personne,sauniers
+aves_aa_4R_auth_0481,"träger, johanns",personne,charrons
+aves_aa_4R_auth_0482,"sturm, erhart",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0483,", sigel",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0484,"herrenstein, johanns",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0485,"mommenheim, von, jacob",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0486,", wernher",personne,tonneliers
+aves_aa_4R_auth_0487,"bösch, friedrich",personne,maçons
+aves_aa_4R_auth_0488,"rippel, michel",personne,charpentiers
+aves_aa_4R_auth_0489,", johanns",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0490,"schnabel, heinrich",personne,orfevres
+aves_aa_4R_auth_0491,"lamprecht, peter",personne,jardiniers
+aves_aa_4R_auth_0492,"oberkirch, von, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0493,"trachenfeils, johanns",personne,sauniers
+aves_aa_4R_auth_0494,"könig, claus",personne,tisserands
+aves_aa_4R_auth_0495,"seger, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0496,"liebkint, oberlin",personne,charrons
+aves_aa_4R_auth_0497,"ernoltzheim, von, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0498,"böschwiller, claus",personne,marchands
+aves_aa_4R_auth_0499,"ettenheim, von, mathis",personne,boulangers
+aves_aa_4R_auth_0500,"meiger, heinrich",personne,forgerons
+aves_aa_4R_auth_0501,"berner, frantz",personne,bateliers
+aves_aa_4R_auth_0502,"birbaum, heinrich",personne,marchands_de_grains
+aves_aa_4R_auth_0503,"steinstrasse, an der, khurin",personne,jardiniers
+aves_aa_4R_auth_0504,"graff, anshelm",personne,pêcheurs
+aves_aa_4R_auth_0505,"spiegel, johanns",personne,tisserands
+aves_aa_4R_auth_0506,"brant, diebolt",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0507,"gerbot, peter",personne,charrons
+aves_aa_4R_auth_0508,"klein, johanns",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0509,"bechtolt, wilhelm",personne,bouchers
+aves_aa_4R_auth_0510,"baumgarter, erhart",personne,cabaretiers
+aves_aa_4R_auth_0511,"zerig, sifrit",personne,tailleurs
+aves_aa_4R_auth_0512,"lahr, von, mathis",personne,cordonniers
+aves_aa_4R_auth_0513,"ott, johanns",personne,orfevres
+aves_aa_4R_auth_0514,"stumpf, johanns",personne,marchands_de_grains
+aves_aa_4R_auth_0515,"fachmann, claus",personne,pêcheurs
+aves_aa_4R_auth_0516,"molsheim, von, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0517,"klaumann, claus",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0518,"spielmann, johanns",personne,charrons
+aves_aa_4R_auth_0519,"schwencker, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0520,"dürningen, von, sigel",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0521,"klige, küntz",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0522,"wormser, jacob",personne,marchands
+aves_aa_4R_auth_0523,"berse, von, konrat",personne,bouchers
+aves_aa_4R_auth_0524,"brettler, johanns",personne,tonneliers
+aves_aa_4R_auth_0525,"odratzheim, johanns",personne,drapiers
+aves_aa_4R_auth_0526,"issenhausen, von, erhart",personne,tanneurs
+aves_aa_4R_auth_0527,"zabern, von, sifrit",personne,maçons
+aves_aa_4R_auth_0528,"spirer, diebolt",personne,pelletiers
+aves_aa_4R_auth_0529,"freiburger, jacob",personne,orfevres
+aves_aa_4R_auth_0530,"hage, walther",personne,pêcheurs
+aves_aa_4R_auth_0531,"kork, von, peter",personne,tisserands
+aves_aa_4R_auth_0532,"schuttern, von, wilhelm",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0533,"gemersheim, von, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0534,"meistersheim, johanns",personne,bouchers
+aves_aa_4R_auth_0535,"wormser, völtz",personne,bouchers
+aves_aa_4R_auth_0536,"walt, johanns",personne,maçons
+aves_aa_4R_auth_0537,"schmalriem, adolff",personne,orfevres
+aves_aa_4R_auth_0538,"hirt, johanns",personne,jardiniers
+aves_aa_4R_auth_0539,"brümath, von, peter",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0540,"sasbach, konrat",personne,charrons
+aves_aa_4R_auth_0541,"hesse, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0542,"hügeler, bechtolt",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0543,"happmacher, andres",personne,marchands
+aves_aa_4R_auth_0544,"haslach von, mathis",personne,bouchers
+aves_aa_4R_auth_0545,"holtzhauser, heintz",personne,tonneliers
+aves_aa_4R_auth_0546,"minner, johanns",personne,tanneurs
+aves_aa_4R_auth_0547,"lumbart, stefan",personne,bateliers
+aves_aa_4R_auth_0548,"wissensee, claus",personne,pelletiers
+aves_aa_4R_auth_0549,"melbrühe, johanns",personne,marchands_de_grains
+aves_aa_4R_auth_0550,", andres",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0551,"seidenfaden, friedrich",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0552,"claus, johanns",personne,charrons
+aves_aa_4R_auth_0553,"gottfriet, fritsch",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0554,"baumgarter, claus",personne,cabaretiers
+aves_aa_4R_auth_0555,"weidemann, johanns",personne,forgerons
+aves_aa_4R_auth_0556,"armbruster, johanns",personne,bateliers
+aves_aa_4R_auth_0557,"studel, johanns",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0558,"schlettstadt, von, johanns",personne,orfevres
+aves_aa_4R_auth_0559,"trachenfeils, diebolt",personne,sauniers
+aves_aa_4R_auth_0560,"barpfennig, rudolff",personne,marchands
+aves_aa_4R_auth_0561,"reimbolt, diebolt",personne,tanneurs
+aves_aa_4R_auth_0562,"bellheim, von, claus",personne,forgerons
+aves_aa_4R_auth_0563,"brettler, heinrich",personne,bateliers
+aves_aa_4R_auth_0564,"kriegsheim, claus",personne,marchands_de_grains
+aves_aa_4R_auth_0565,"pfaffe, johanns",personne,pêcheurs
+aves_aa_4R_auth_0566,"wile, von, johanns",personne,tisserands
+aves_aa_4R_auth_0567,"molsheim, von, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0568,"förster, symont",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0569,"sachsen, stefan",personne,marchands
+aves_aa_4R_auth_0570,"dürr, walther",personne,boulangers
+aves_aa_4R_auth_0571,"vendenheim, johanns",personne,tanneurs
+aves_aa_4R_auth_0572,"trüchtersheim, von, eberhart",personne,cabaretiers
+aves_aa_4R_auth_0573,"molsheim, von, michel",personne,maçons
+aves_aa_4R_auth_0574,"spirer, johanns",personne,pelletiers
+aves_aa_4R_auth_0575,"griffe, heinrich",personne,marchands_de_grains
+aves_aa_4R_auth_0576,"lusche, claus",personne,pêcheurs
+aves_aa_4R_auth_0577,"wurtzgarten, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0578,"seiler, zum, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0579,"bellheim, von, jacob",personne,drapiers
+aves_aa_4R_auth_0580,"schnabel, heinrich",personne,tanneurs
+aves_aa_4R_auth_0581,"bisinger, heinrich",personne,cabaretiers
+aves_aa_4R_auth_0582,"ganser, michel",personne,maçons
+aves_aa_4R_auth_0583,"müseler, reimbolt",personne,bateliers
+aves_aa_4R_auth_0584,"götze, johanns",personne,cordonniers
+aves_aa_4R_auth_0585,"ross, johanns",personne,orfevres
+aves_aa_4R_auth_0586,"mönchelin, bernhart",personne,pêcheurs
+aves_aa_4R_auth_0587,"thann, von, johanns",personne,tisserands
+aves_aa_4R_auth_0588,"klammann, oswalt",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0589,"rhein, zum, johanns",personne,charrons
+aves_aa_4R_auth_0590,"kiebel, ulrich",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0591,"riffe, konrat",personne,marchands
+aves_aa_4R_auth_0592,"erfurt, von, claus",personne,pelletiers
+aves_aa_4R_auth_0593,"geispoltzheim, von, wilhelm",personne,charpentiers
+aves_aa_4R_auth_0594,"zweibrücken, von, johanns",personne,cordonniers
+aves_aa_4R_auth_0595,"ernst, martin",personne,orfevres
+aves_aa_4R_auth_0596,"trense, johanns",personne,jardiniers
+aves_aa_4R_auth_0597,"sundheim, michel",personne,pêcheurs
+aves_aa_4R_auth_0598,"hettemann, diebolt",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0599,"wormser, bernhart",personne,marchands
+aves_aa_4R_auth_0600,"bruder, stoffelus",personne,cabaretiers
+aves_aa_4R_auth_0601,"kacheler, friedrich",personne,maçons
+aves_aa_4R_auth_0602,"hüss, johanns",personne,tailleurs
+aves_aa_4R_auth_0603,"doppeler, caspar",personne,bateliers
+aves_aa_4R_auth_0604,"bosterer, johanns",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0605,"löwe, jacob",personne,orfevres
+aves_aa_4R_auth_0606,"schiltigheim, von, andres",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0607,"dreitzehn, claus",personne,charrons
+aves_aa_4R_auth_0608,"hartung, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0609,"ersam, johanns",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0610,"marckoltzheim, von, johanns",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0611,"waldener, jacob",personne,boulangers
+aves_aa_4R_auth_0612,"ackerfuss, claus",personne,drapiers
+aves_aa_4R_auth_0613,"hage, jacob",personne,bateliers
+aves_aa_4R_auth_0614,"heiligenstein, von, anthenie",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0615,"joham, konrat",personne,cordonniers
+aves_aa_4R_auth_0616,"hertzog, johanns",personne,orfevres
+aves_aa_4R_auth_0617,"ersam, johanns",personne,jardiniers
+aves_aa_4R_auth_0618,"ammeler, ebelin",personne,pêcheurs
+aves_aa_4R_auth_0619,"voltz, johanns",personne,charrons
+aves_aa_4R_auth_0620,"nüger, claus",personne,bouchers
+aves_aa_4R_auth_0621,"kacheler, johanns",personne,maçons
+aves_aa_4R_auth_0622,"holniet, johanns",personne,forgerons
+aves_aa_4R_auth_0623,"doppeler, johanns-jerge",personne,bateliers
+aves_aa_4R_auth_0624,"münster, heinrich",personne,charpentiers
+aves_aa_4R_auth_0625,"wentscher, johanns",personne,cordonniers
+aves_aa_4R_auth_0626,"berner, peter",personne,orfevres
+aves_aa_4R_auth_0627,"dossenheim, claus",personne,marchands_de_grains
+aves_aa_4R_auth_0628,"bülher, johanns",personne,jardiniers
+aves_aa_4R_auth_0629,"ostertag, völtz",personne,sauniers
+aves_aa_4R_auth_0630,"neuenburg, von der, johanns",personne,charrons
+aves_aa_4R_auth_0631,"frank, johanns",personne,boulangers
+aves_aa_4R_auth_0632,"pfaffenheim, sifrit",personne,tonneliers
+aves_aa_4R_auth_0633,"bitsch, claus",personne,tanneurs
+aves_aa_4R_auth_0634,"barpfennig, rudolff",personne,cabaretiers
+aves_aa_4R_auth_0635,"messerschmit, johanns-erhart",personne,forgerons
+aves_aa_4R_auth_0636,"krosswiller, johanns",personne,tailleurs
+aves_aa_4R_auth_0637,"lohel, burkhart",personne,cordonniers
+aves_aa_4R_auth_0638,"metziger, heinrich",personne,pêcheurs
+aves_aa_4R_auth_0639,"wolff, jerge",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0640,"gengenbach, von, claus",personne,sauniers
+aves_aa_4R_auth_0641,"nordhausen, von, johanns",personne,marchands
+aves_aa_4R_auth_0642,"berse, von, claus",personne,bouchers
+aves_aa_4R_auth_0643,"vetter, jerge",personne,charpentiers
+aves_aa_4R_auth_0644,"beingewant, claus",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0645,"lahr, von, johanns",personne,cordonniers
+aves_aa_4R_auth_0646,"lamb, bechtolt",personne,pêcheurs
+aves_aa_4R_auth_0647,"scheubelin, peter",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0648,"umb und umb, johanns",personne,tisserands
+aves_aa_4R_auth_0649,"recker, ulrich",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0650,"gemersheim, von, andres",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0651,"keinne, bechtolt",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0652,"stange, erhart",personne,marchands
+aves_aa_4R_auth_0653,"diebolt, johanns",personne,boulangers
+aves_aa_4R_auth_0654,"barre, von, claus",personne,tonneliers
+aves_aa_4R_auth_0655,"renner, claus",personne,drapiers
+aves_aa_4R_auth_0656,"jungeling, heinrich",personne,tailleurs
+aves_aa_4R_auth_0657,"reimbolt, oberlin",personne,cordonniers
+aves_aa_4R_auth_0658,"vendenheim, claus",personne,marchands_de_grains
+aves_aa_4R_auth_0659,"sankt-arbogast, ulrich",personne,pêcheurs
+aves_aa_4R_auth_0660,"herbst, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0661,"arge, peter",personne,marchands
+aves_aa_4R_auth_0662,"burer, ulrich",personne,boulangers
+aves_aa_4R_auth_0663,"offenburg, götze",personne,bouchers
+aves_aa_4R_auth_0664,"wingersheim, stefan",personne,drapiers
+aves_aa_4R_auth_0665,"freiburger, jacob",personne,cabaretiers
+aves_aa_4R_auth_0666,"bösch, engelhart",personne,maçons
+aves_aa_4R_auth_0667,"ammelung, jacob",personne,bateliers
+aves_aa_4R_auth_0668,"wolff, claus",personne,cordonniers
+aves_aa_4R_auth_0669,"fergesheim, johanns",personne,orfevres
+aves_aa_4R_auth_0670,"wolff, friedrich",personne,jardiniers
+aves_aa_4R_auth_0671,"brüchelin, johanns-diebolt",personne,pêcheurs
+aves_aa_4R_auth_0672,"ernoltzheim, von, claus",personne,sauniers
+aves_aa_4R_auth_0673,"bergheim, von, johanns",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0674,"bechtolt, friedrich",personne,bouchers
+aves_aa_4R_auth_0675,"rippel, michel",personne,drapiers
+aves_aa_4R_auth_0676,"vogt, walther",personne,pelletiers
+aves_aa_4R_auth_0677,"schultheiss, claus",personne,cordonniers
+aves_aa_4R_auth_0678,"graff, johanns",personne,orfevres
+aves_aa_4R_auth_0679,"worms, von, claus",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0680,"dürningen, von, wernher",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0681,"steinhart, johanns",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0682,"desche, johanns-heinrich",personne,marchands
+aves_aa_4R_auth_0683,"rippel, bernhart",personne,drapiers
+aves_aa_4R_auth_0684,"dolle, bechtolt",personne,tailleurs
+aves_aa_4R_auth_0685,"helwig, sifrit",personne,pêcheurs
+aves_aa_4R_auth_0686,"wolle, claus",personne,tisserands
+aves_aa_4R_auth_0687,"lot, peter",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0688,"ehenheim, von, veltin",personne,drapiers
+aves_aa_4R_auth_0689,"ziegler, claus",personne,maçons
+aves_aa_4R_auth_0690,"hennenberg, diebolt",personne,cordonniers
+aves_aa_4R_auth_0691,"schiesel, peter",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0692,"herbst, johanns",personne,sauniers
+aves_aa_4R_auth_0693,"dalheim, von, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0694,"klige, konrat",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0695,"duntzenheim, konrat",personne,cabaretiers
+aves_aa_4R_auth_0696,"schlecht, johanns",personne,tailleurs
+aves_aa_4R_auth_0697,"brant, johanns",personne,pelletiers
+aves_aa_4R_auth_0698,"scholle, bernhart",personne,charpentiers
+aves_aa_4R_auth_0699,"bintz, claus",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0700,"schertzheim, johanns",personne,charrons
+aves_aa_4R_auth_0701,"illkirch, von, laurentz",personne,coltineurs_de_tonneaux
+aves_aa_4R_auth_0702,"ingolt, claus",personne,marchands
+aves_aa_4R_auth_0703,"schnell, peter",personne,tonneliers
+aves_aa_4R_auth_0704,"leitgast, johanns",personne,maçons
+aves_aa_4R_auth_0705,"frankenheim, ludwig",personne,forgerons
+aves_aa_4R_auth_0706,"scherer, bernhart",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0707,"volmar, thoman",personne,tanneurs
+aves_aa_4R_auth_0708,"leitgast, claus",personne,maçons
+aves_aa_4R_auth_0709,"volk, andres",personne,tailleurs
+aves_aa_4R_auth_0710,"arge, heinrich",personne,orfevres
+aves_aa_4R_auth_0711,"gries, peter",personne,charrons
+aves_aa_4R_auth_0712,"dalheim, von, johanns",personne,tonneliers
+aves_aa_4R_auth_0713,"armbruster, johanns",personne,drapiers
+aves_aa_4R_auth_0714,"kannengiesser, ludwig",personne,forgerons
+aves_aa_4R_auth_0715,"bisinger, heinrich",personne,bateliers
+aves_aa_4R_auth_0716,"bitsch, konrat",personne,cordonniers
+aves_aa_4R_auth_0717,"schoffmeiger, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0718,"spitznagel, lienhart",personne,constructeurs_de_bateaux
+aves_aa_4R_auth_0719,"ammelung, jacob",personne,tonneliers
+aves_aa_4R_auth_0720,"messner, adam",personne,cabaretiers
+aves_aa_4R_auth_0721,"bösch, claus",personne,charpentiers
+aves_aa_4R_auth_0722,"weipolt, adam",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0723,"gisebrecht, jacob",personne,orfevres
+aves_aa_4R_auth_0724,"habermüller, claus",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0725,"seelig, andres",personne,tonneliers
+aves_aa_4R_auth_0726,"kniebes, claus",personne,forgerons
+aves_aa_4R_auth_0727,"weidlich, claus",personne,cordonniers
+aves_aa_4R_auth_0728,"wirich, claus",personne,jardiniers
+aves_aa_4R_auth_0729,"molsheim, von, konrat",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0730,"medinger, heinrich",personne,sauniers
+aves_aa_4R_auth_0731,"odratzheim, von, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0732,"rohr, von, walther",personne,cabaretiers
+aves_aa_4R_auth_0733,"brümath, von, marx",personne,tailleurs
+aves_aa_4R_auth_0734,"meiger, johanns",personne,pelletiers
+aves_aa_4R_auth_0735,"hüss, johanns",personne,charpentiers
+aves_aa_4R_auth_0736,"schott, peter",personne,marchands_de_grains
+aves_aa_4R_auth_0737,"baltener, diebolt",personne,pêcheurs
+aves_aa_4R_auth_0738,"olwisheim, von, peter",personne,tisserands
+aves_aa_4R_auth_0739,"rastetten, von, marx",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0740,"rotschilt, wilhelm",personne,bouchers
+aves_aa_4R_auth_0741,"allewelt, bernhart",personne,forgerons
+aves_aa_4R_auth_0742,"lamprecht, jacob",personne,cordonniers
+aves_aa_4R_auth_0743,"morsmünster, von, ulrich",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0744,"olwisheim, von, peter",personne,tisserands
+aves_aa_4R_auth_0745,"rörich, claus",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0746,"riber, claus",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0747,"ganther, johanns",personne,boulangers
+aves_aa_4R_auth_0748,"issenhausen, von, claus",personne,drapiers
+aves_aa_4R_auth_0749,"brant, johanns",personne,cabaretiers
+aves_aa_4R_auth_0750,"stange, gilge",personne,bateliers
+aves_aa_4R_auth_0751,"gosse, johanns",personne,crieurs_et_mesureurs_de_vin
+aves_aa_4R_auth_0752,"hage, jacob",personne,marchands_de_grains
+aves_aa_4R_auth_0753,"ruhlmann, kühne",personne,pêcheurs
+aves_aa_4R_auth_0754,"berse, von, johanns",personne,bateliers
+aves_aa_4R_auth_0755,"kerling, marx",personne,bouchers
+aves_aa_4R_auth_0756,"bir, claus",personne,forgerons
+aves_aa_4R_auth_0757,"hage, frantz",personne,bateliers
+aves_aa_4R_auth_0758,"bitsch, von, konrat",personne,cordonniers
+aves_aa_4R_auth_0759,"ersam, andres",personne,jardiniers
+aves_aa_4R_auth_0760,"brachenheim, von, peter",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0761,"bisinger, johanns",personne,sauniers
+aves_aa_4R_auth_0762,"hegel, heinrich",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0763,"sarburg, von, peter",personne,pelletiers
+aves_aa_4R_auth_0764,"bisinger, heinrich",personne,orfevres
+aves_aa_4R_auth_0765,"bietenheim, sifrit",personne,marchands_de_grains
+aves_aa_4R_auth_0766,"lehmann, martin",personne,pêcheurs
+aves_aa_4R_auth_0767,"spiess, hilarius",personne,huiliers_meuniers_et_tondeurs_de_draps
+aves_aa_4R_auth_0768,"ottemann, diebolt",personne,boulangers
+aves_aa_4R_auth_0769,"offenburg, bechtolt",personne,bouchers
+aves_aa_4R_auth_0770,"sanselmann, anthenie",personne,tonneliers
+aves_aa_4R_auth_0771,"säckingen, von, johanns",personne,drapiers
+aves_aa_4R_auth_0772,"schedeler, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0773,"trachenfeils, mattern",personne,sauniers
+aves_aa_4R_auth_0774,"gemersheim, von, laurentz",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0775,"villinger, erhart",personne,marchands
+aves_aa_4R_auth_0776,"duntzenheim, von, symont",personne,tailleurs
+aves_aa_4R_auth_0777,"hug, burkhart",personne,forgerons
+aves_aa_4R_auth_0778,"weldel, johanns",personne,pêcheurs
+aves_aa_4R_auth_0779,"meiger, johanns",personne,charrons
+aves_aa_4R_auth_0780,"berlin, johanns",personne,bateliers
+aves_aa_4R_auth_0781,"renner, claus",personne,sauniers
+aves_aa_4R_auth_0782,"zabern, von, ulrich",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0783,"ammeister, lienhart",personne,forgerons
+aves_aa_4R_auth_0784,"wolffach, konrat",personne,cordonniers
+aves_aa_4R_auth_0785,"hüss, jerge",personne,charpentiers
+aves_aa_4R_auth_0786,"sivester, johanns",personne,maçons
+aves_aa_4R_auth_0787,"müge, jacob",personne,marchands
+aves_aa_4R_auth_0788,"westhoffen, claus",personne,tanneurs
+aves_aa_4R_auth_0789,"grewalt, michel",personne,tailleurs
+aves_aa_4R_auth_0790,"raubel, martin",personne,charpentiers
+aves_aa_4R_auth_0791,"pfeffinger, bernhart",personne,drapiers
+aves_aa_4R_auth_0792,"slapp, johanns",personne,pelletiers
+aves_aa_4R_auth_0793,"kochersberg, erhart",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0794,"reck, diebolt",personne,tailleurs
+aves_aa_4R_auth_0795,"burkhart, johanns",personne,cordonniers
+aves_aa_4R_auth_0796,"rebestock, fritsch",personne,jardiniers
+aves_aa_4R_auth_0797,"scholle, johanns",personne,maçons
+aves_aa_4R_auth_0798,"andlau, von, peter",personne,orfevres
+aves_aa_4R_auth_0799,"duntzenheim, claus",personne,tanneurs
+aves_aa_4R_auth_0800,"hungerstein, konrat",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0801,"vogelsberg, bechtolt",personne,tailleurs
+aves_aa_4R_auth_0802,"peter, mathis",personne,pêcheurs
+aves_aa_4R_auth_0803,"meiger, johanns",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0804,"ersam, claus",personne,jardiniers
+aves_aa_4R_auth_0805,"molsheim, von, peter",personne,maçons
+aves_aa_4R_auth_0806,"riffe, johanns",personne,marchands
+aves_aa_4R_auth_0807,"brun, claus",personne,marchands_de_grains
+aves_aa_4R_auth_0808,"schott, heinrich",personne,pelletiers
+aves_aa_4R_auth_0809,"büre, von, oberlin",personne,tanneurs
+aves_aa_4R_auth_0810,"mennichin, johanns",personne,pêcheurs
+aves_aa_4R_auth_0811,"ducheler, johanns",personne,charrons
+aves_aa_4R_auth_0812,"ruhlmann, johanns",personne,charpentiers
+aves_aa_4R_auth_0813,"armbruster, konrat",personne,drapiers
+aves_aa_4R_auth_0814,"seebott, ulrich",personne,orfevres
+aves_aa_4R_auth_0815,"trüchtersheim, von, johanns",personne,forgerons
+aves_aa_4R_auth_0816,"wachenheimer, peter",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0817,"ulrich, wilhelm",personne,cordonniers
+aves_aa_4R_auth_0818,"seelig, khurin",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0819,"scholle, konrat",personne,maçons
+aves_aa_4R_auth_0820,"rottweil, von, johanns-erhart",personne,marchands
+aves_aa_4R_auth_0821,"hohenburg, von, götze",personne,drapiers
+aves_aa_4R_auth_0822,"frankfurt, von, johanns",personne,orfevres
+aves_aa_4R_auth_0823,"müller, heinrich",personne,tailleurs
+aves_aa_4R_auth_0824,"wehel, johanns",personne,forgerons
+aves_aa_4R_auth_0825,"gisebrecht, erhart",personne,cordonniers
+aves_aa_4R_auth_0826,"bülle, johanns",personne,pêcheurs
+aves_aa_4R_auth_0827,"rohrbosch, johanns",personne,jardiniers
+aves_aa_4R_auth_0828,"wile, von, konrat",personne,tisserands
+aves_aa_4R_auth_0829,"morsmünster, von, peter",personne,charpentiers
+aves_aa_4R_auth_0830,"waldener, johanns",personne,boulangers
+aves_aa_4R_auth_0831,"dahlheim, anthenie",personne,tonneliers
+aves_aa_4R_auth_0832,"beger, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0833,"schwencker, heinrich",personne,regrattiers_cordiers_et_fruitiers
+aves_aa_4R_auth_0834,"morsmünster, von, gangolff",personne,maçons
+aves_aa_4R_auth_0835,"happmacher, andres",personne,orfevres
+aves_aa_4R_auth_0836,"burggraf, wirich",personne,pêcheurs
+aves_aa_4R_auth_0837,"rebestock, marx",personne,charrons
+aves_aa_4R_auth_0838,"mornhinweg, johanns",personne,tisserands
+aves_aa_4R_auth_0839,"hohenburg, von, götze",personne,bateliers
+aves_aa_4R_auth_0840,"trüchtersheim, von, ruhlemann",personne,forgerons
+aves_aa_4R_auth_0841,"meiger, jacob",personne,barbiers_et_baigneurs
+aves_aa_4R_auth_0842,"flöss, johanns",personne,cordonniers
+aves_aa_4R_auth_0843,"trense, andres",personne,jardiniers
+aves_aa_4R_auth_0844,"duntzenheim, von, konrat",personne,cabaretiers
+aves_aa_4R_auth_0845,"armbruster, obrecht",personne,drapiers
+aves_aa_4R_auth_0846,"pfarrer, heinrich",personne,orfevres
+aves_aa_4R_auth_0847,"vendenheim, laurentz",personne,tanneurs
+aves_aa_4R_auth_0848,"esslinger, matheus",personne,tailleurs
+aves_aa_4R_auth_0849,"ulrich, claus",personne,pêcheurs
+aves_aa_4R_auth_0850,"jerger, johanns",personne,bateliers
+aves_aa_4R_auth_0851,"wisebach, jacob",personne,bouchers
+aves_aa_4R_auth_0852,"armbruster, konrat",personne,cabaretiers
+aves_aa_4R_auth_0853,"trachenfeils, lienhart",personne,sauniers
+aves_aa_4R_auth_0854,"storck, konrat",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0855,"württemberg, johanns",personne,forgerons
+aves_aa_4R_auth_0856,"fallwehenne, konrat",personne,maçons
+aves_aa_4R_auth_0857,"meiger, johanns",personne,cabaretiers
+aves_aa_4R_auth_0858,"renner, peter",personne,drapiers
+aves_aa_4R_auth_0859,"pfutzer, claus",personne,pelletiers
+aves_aa_4R_auth_0860,"hug, peter",personne,tailleurs
+aves_aa_4R_auth_0861,"dolde, blesin",personne,bateliers
+aves_aa_4R_auth_0862,"bechtolt, claus",personne,bouchers
+aves_aa_4R_auth_0863,"vetter, claus",personne,tonneliers
+aves_aa_4R_auth_0864,"rörich, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0865,"dachstein, von, johanns",personne,forgerons
+aves_aa_4R_auth_0866,"lötschel, claus",personne,maçons
+aves_aa_4R_auth_0867,"jerger, claus",personne,marchands_de_grains
+aves_aa_4R_auth_0868,"rotschilt, stefan",personne,orfevres
+aves_aa_4R_auth_0869,"burnherr, arbogast",personne,pelletiers
+aves_aa_4R_auth_0870,"volk, diebolt",personne,pêcheurs
+aves_aa_4R_auth_0871,"müge, florentz",personne,tonneliers
+aves_aa_4R_auth_0872,"frank, johanns",personne,tailleurs
+aves_aa_4R_auth_0873,"friedrich, blesin",personne,maçons
+aves_aa_4R_auth_0874,"happmacher, andres",personne,marchands
+aves_aa_4R_auth_0875,"brümath, von, johanns",personne,drapiers
+aves_aa_4R_auth_0876,"rummeler, florentz",personne,marchands_de_grains
+aves_aa_4R_auth_0877,"pfutzer, mattern",personne,pelletiers
+aves_aa_4R_auth_0878,"missbach, johanns",personne,tanneurs
+aves_aa_4R_auth_0879,"dietrich, michel",personne,tailleurs
+aves_aa_4R_auth_0880,"krebs, peter",personne,charrons
+aves_aa_4R_auth_0881,"minner, veltin",personne,maçons
+aves_aa_4R_auth_0882,"gerbot, jacob",personne,cabaretiers
+aves_aa_4R_auth_0883,"trachenfeils, andres",personne,sauniers
+aves_aa_4R_auth_0884,"hannemann, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0885,"heinrich, johanns",personne,cordonniers
+aves_aa_4R_auth_0886,"bilger, johanns",personne,jardiniers
+aves_aa_4R_auth_0887,"ingolt, heinrich",personne,marchands
+aves_aa_4R_auth_0888,"hohenburg, von, jerge",personne,drapiers
+aves_aa_4R_auth_0889,"krug, claus",personne,tanneurs
+aves_aa_4R_auth_0890,"meiger, lexius",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0891,"ebel, jerge",personne,pêcheurs
+aves_aa_4R_auth_0892,"wangen, von, konrat",personne,charrons
+aves_aa_4R_auth_0893,"müseler, peter",personne,bateliers
+aves_aa_4R_auth_0894,"wurm, jacob",personne,cabaretiers
+aves_aa_4R_auth_0895,"wolff, lienhart",personne,boulangers
+aves_aa_4R_auth_0896,"frank, johanns",personne,tonneliers
+aves_aa_4R_auth_0897,"freiburg, von, jost",personne,forgerons
+aves_aa_4R_auth_0898,", martin",personne,cordonniers
+aves_aa_4R_auth_0899,"grimmel, kühne",personne,jardiniers
+aves_aa_4R_auth_0900,"heil, peter",personne,maçons
+aves_aa_4R_auth_0901,"rottweil, von, johanns",personne,marchands
+aves_aa_4R_auth_0902,"hochstett, von, johanns",personne,sauniers
+aves_aa_4R_auth_0903,"löwe, konrat",personne,orfevres
+aves_aa_4R_auth_0904,"russer, johanns",personne,pêcheurs
+aves_aa_4R_auth_0905,"strubel, symont",personne,charrons
+aves_aa_4R_auth_0906,"konrat, johanns",personne,tonneliers
+aves_aa_4R_auth_0907,"stösser, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0908,"merckel, jost",personne,cordonniers
+aves_aa_4R_auth_0909,"wolff, claus",personne,jardiniers
+aves_aa_4R_auth_0910,"ingolt, johanns",personne,marchands
+aves_aa_4R_auth_0911,"wernlin, claus",personne,cabaretiers
+aves_aa_4R_auth_0912,"wingersheim, diebolt",personne,drapiers
+aves_aa_4R_auth_0913,"slapp, bernhart",personne,pelletiers
+aves_aa_4R_auth_0914,"bechtolt, diebolt",personne,bouchers
+aves_aa_4R_auth_0915,"seebott, lamprecht",personne,orfevres
+aves_aa_4R_auth_0916,"hungerstein, johanns",personne,gourmets_et_courtiers
+aves_aa_4R_auth_0917,"hüseler, rudolff",personne,cordonniers
+aves_aa_4R_auth_0918,"kupfer, johanns",personne,maçons
+aves_aa_4R_auth_0919,"riffe, jeronimus",personne,marchands
+aves_aa_4R_auth_0920,"küller, jacob",personne,drapiers
+aves_aa_4R_auth_0921,"molsheim, von, jacob",personne,marchands_de_grains
+aves_aa_4R_auth_0922,"büre, von, oberlin",personne,orfevres
+aves_aa_4R_auth_0923,"kornman, thoman",personne,pelletiers
+aves_aa_4R_auth_0924,"lume, konrat",personne,tailleurs
+aves_aa_4R_auth_0925,"schwende, johanns",personne,pêcheurs
+aves_aa_4R_auth_0926,"schwende, johanns",personne,pêcheurs
+aves_aa_4R_auth_0927,"rüttel, jerge",personne,charrons
+aves_aa_4R_auth_0928,"arge, peter",personne,bateliers
+aves_aa_4R_auth_0929,"riffe, jerge",personne,sauniers
+aves_aa_4R_auth_0930,"schultheiss, martin",personne,cordonniers
+aves_aa_4R_auth_0931,"arbogast, johanns-claus",personne,charrons
+aves_aa_4R_auth_0932,"barpfennig, bartholomeus",personne,cabaretiers
