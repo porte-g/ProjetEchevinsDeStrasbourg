@@ -61,7 +61,7 @@
             <div type="Ordre" n="Metiers">
                <div type="magistrature" n="echevin">
                   <div type="corporation" n="corporation_des_bateliers">
-                     <lb<div type="Poele" n="Zum_Encker">
+                     <lb<div type="poele" n="Zum_Encker">
                         <p>
                            <lb n="1"/>Die schöffele Zum encker
                            <lb n="2"/>Item <persName><roleName>her</roleName>
@@ -97,7 +97,7 @@
                               <surname>Amlung</surname></persName>
                            <lb n="17"/>Item <persName>der <roleName>zinsmeister</roleName></persName></p>
                      </div>
-                     <div type="Poele" n="Zum_Schiff">
+                     <div type="poele" n="Zum_Schiff">
                         <p>
                            <lb n="18"/>Züm schiff
                            <lb n="19"/>Item <persName><forename>Laulin</forename>
@@ -117,7 +117,7 @@
                               <surname>Lise</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Zum_Hirtzhorn">
+                     <div type="poele" n="Zum_Hirtzhorn">
                         <p>
                            <lb n="27"/>Züm hirtzhorn
                            <lb n="28"/>Item <persName><forename>Peter</forename>
@@ -127,7 +127,7 @@
                            <lb n="30"/>Item <persName><forename>Hanseman</forename>
                               <surname>Jeger</surname></persName></p>
                      </div>
-                     <div type="Poele" n="Zum_Holtzapfel">
+                     <div type="poele" n="Zum_Holtzapfel">
                         <p>
                            <lb n="31"/>Züm holtzappfel
                            <lb n="32"/>Item <persName><forename>Heintz</forename>
@@ -137,7 +137,7 @@
                   </div>
                   <pb n="69v"/>
                   <div type="corporation" n="corporation_des_marchands">
-                     <div type="Poele" n="Zum_Spiegel">
+                     <div type="poele" n="Zum_Spiegel">
                         <p>
                            <lb n="1"/>Die schöffele Züm Spiegel
                            <lb n="2"/>Item <persName><roleName>her</roleName>
@@ -197,7 +197,7 @@
                   </div>
                   <pb n="70r"/>
                   <div type="corporation" n="corporation_des_bouchers">
-                     <div type="Poele" n="Zur_Blume">
+                     <div type="poele" n="Zur_Blume">
                         <p>
                            <lb n="1"/>Die Schöffele Zür Blümen
                            <lb n="2"/>Item <persName><roleName>her</roleName>
@@ -233,7 +233,7 @@
                   </div>
                   <pb n="70v"/>
                   <div type="corporation" n="corporation_des_cabarretiers">
-                     <div type="Poele" n="Zum_Freiburger">
+                     <div type="poele" n="Zum_Freiburger">
                         <p>
                            <lb n="1"/>Die schöffele züm friburg
                            <lb n="2"/>Item <persName><roleName
@@ -372,7 +372,7 @@
                      <p>
                         <lb n="16"/>Der schilter und goltsmyde schöffel
                      </p>
-                     <div type="Poele" n="orfevre">
+                     <div type="poele" n="orfevre">
                         <p>
                            <lb/>Goltsmid
                            <lb n="17"/>Item <persName><forename>Jerge</forename>
@@ -398,7 +398,7 @@
                               <surname>Berner</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="peintres_de_boucliers">
+                     <div type="poele" n="peintres_de_boucliers">
                         <p>
                            <lb/>Schilter
                            <lb n="27"/>Item <persName><forename>Andres</forename>
@@ -653,7 +653,7 @@
                         <lb n="18"/>Der winmesser und
                         <lb n="19"/>winrüffer schöffele
                      </p>
-                     <div type="Poele" n="Mesureurs_de_vin">
+                     <div type="poele" n="Mesureurs_de_vin">
                         <p>
                            <lb/>Winmesser
                            <lb n="20"/>Item <persName><forename>Hanns</forename>
@@ -666,7 +666,7 @@
                               <surname>Lötysen</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Crieurs_de_vin">
+                     <div type="poele" n="Crieurs_de_vin">
                         <p>
                            <lb/>Winrüffer
                            <lb n="24"/>Item <persName><forename>Hanns</forename>
@@ -681,7 +681,7 @@
                   </div>
                   <pb n="74r"/>
                   <div type="corporation" n="corporation_des_barbiers_et_baigneurs">
-                     <div type="Poele" n="Barbiers">
+                     <div type="poele" n="Barbiers">
                         <p>
                            <lb n="1"/>Der scherer schöffele
                            <lb n="2"/>Item <persName><forename>Rüdolff</forename></persName>
@@ -706,7 +706,7 @@
                            <lb n="13"/>Item <persName><forename>Heinrich</forename>
                               <addName>by Sant Martin</addName></persName></p>
                      </div>
-                     <div type="Poele" n="Baigneurs">
+                     <div type="poele" n="Baigneurs">
                         <p>
                            <lb n="14"/>Der Bader schöffele
                            <lb n="15"/>Item <persName><forename>Andres</forename>
@@ -730,7 +730,7 @@
                      <p>
                         <lb n="22"/>Ollute düchscherer un müller schöffel
                      </p>
-                     <div type="Poele" n="Huiliers">
+                     <div type="poele" n="Huiliers">
                         <p>
                            <lb/>Olelüte
                            <lb n="23"/>Item <persName><forename>Peter</forename>
@@ -745,7 +745,7 @@
                               <addName>am Vischmercket</addName></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Tondeurs_de_draps">
+                     <div type="poele" n="Tondeurs_de_draps">
                         <p>
                            <lb/>Düchscherer
                            <lb n="28"/>Item <persName><forename>Cüntz</forename>
@@ -755,7 +755,7 @@
                               <surname>Schaffener</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Meuniers">
+                     <div type="poele" n="Meuniers">
                         <p>
                            <lb/>Müller
                            <lb n="31"/>Item <persName><forename>Behtolt</forename>
@@ -809,7 +809,7 @@
                      <p>
                         <lb n="18"/>Der vischer schöffele
                      </p>
-                     <div type="Poele" n="Am_Oberstaden">
+                     <div type="poele" n="Am_Oberstaden">
                         <p>
                            <lb/>Oberstaden
                            <lb n="19"/>Item <persName><forename>Claus</forename>
@@ -822,7 +822,7 @@
                               <surname>Röttel</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Hinter_Sankt-Kathrinen">
+                     <div type="poele" n="Hinter_Sankt-Kathrinen">
                         <p>
                            <lb/>Hinder Sant Katerinen
                            <lb n="23"/>Item <persName><forename>Hanns</forename>
@@ -833,7 +833,7 @@
                               <surname>Suntheim</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Am_Teich">
+                     <div type="poele" n="Am_Teich">
                         <p>
                            <lb/>Am Dich
                            <lb n="26"/>Item <persName><forename>Hanns</forename>
@@ -848,7 +848,7 @@
                               <surname>Münich</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Zur_Wasenecke">
+                     <div type="poele" n="Zur_Wasenecke">
                         <p>
                            <lb/>Zü Waseneck
                            <lb n="31"/>Item <persName><forename>Claus</forename>
@@ -908,7 +908,7 @@
                      <p>
                         <lb n="1"/>Der gartener schöffele
                      </p>
-                     <div type="Poele" n="Unter_Wagener">
+                     <div type="poele" n="Unter_Wagener">
                         <p>
                            <lb n="2"/>Under wagener
                            <lb n="3"/>Item <persName><forename>Hanns</forename>
@@ -926,7 +926,7 @@
                               <surname>Drens</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="An_der_Steinstraße">
+                     <div type="poele" n="An_der_Steinstraße">
                         <p>
                             <lb n="9"/>An steinstrosse
                             <lb n="10"/>Item <persName><forename>Hanns</forename>
@@ -934,7 +934,7 @@
                            <lb n="11"/>Item <persName><forename>Kürin</forename></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="In_der_Krutenau">
+                     <div type="poele" n="In_der_Krutenau">
                         <p>
                            <lb n="12"/>Crutenouwe
                            <lb n="13"/>Item <persName><forename>Peter</forename>
@@ -948,7 +948,7 @@
                               <genName>der junge</genName></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="In_der_Ruprechtsau">
+                     <div type="poele" n="In_der_Ruprechtsau">
                         <p>
                            <lb n="17"/>Rüprehtzowe
                            <lb n="18"/>Item <persName><forename>Mennel</forename></persName>
@@ -997,7 +997,7 @@
                      <p>
                         <lb n="16"/>Der seiler obsser und altgewender schöffele
                      </p>
-                     <div type="Poele" n="Cordiers">
+                     <div type="poele" n="Cordiers">
                         <p>
                            <lb/>Seiler
                            <lb n="17"/>Item <persName><forename>Hanns</forename>
@@ -1010,7 +1010,7 @@
                               <surname>Swencker</surname></persName>
                         </p>
                      </div>
-                     <div type="Poele" n="Fruitiers">
+                     <div type="poele" n="Fruitiers">
                         <p>
                            <lb/>Obesser
                            <lb n="21"/>Item <persName><forename>Fritsch</forename>
@@ -1029,7 +1029,7 @@
                            <lb n="28"/>Item <persName><forename>Hanns</forename>
                               <surname>von Bergheim</surname></persName></p>
                      </div>
-                     <div type="Poele" n="Regrattiers">
+                     <div type="poele" n="Regrattiers">
                         <p>
                            <lb/>Altgewender
                            <lb n="29"/>Item <persName><forename>Ülrich</forename>
