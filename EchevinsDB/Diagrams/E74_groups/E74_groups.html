@@ -1,0 +1,53 @@
+<html>
+<head>
+<meta charset='utf-8'>
+<style>
+  #mld .relation { font-variant: small-caps; font-weight: bold }
+  #mld .primary { text-decoration: underline }
+  #mld .foreign { font-style: oblique }
+  #mld .normal { }
+</style>
+</head>
+<body>
+<div id='mld'>
+<div>
+  <span class='relation'>E21_PERSON</span> (
+    <span class='primary'>id</span>,
+    <span class='normal'>surname</span>,
+    <span class='normal'>forename</span>,
+    <span class='normal'>addName</span>,
+    <span class='foreign'>id.1</span>,
+    <span class='foreign'>id.2</span>,
+    <span class='foreign'>id.3</span>,
+    <span class='foreign'>id.4</span>,
+    <span class='normal'>page</span>,
+    <span class='normal'>column</span>,
+    <span class='normal'>line</span>,
+    <span class='normal'>quote</span>,
+    <span class='normal'>date</span>
+  )
+</div>
+<div>
+  <span class='relation'>E31_DOCUMENT</span> (
+    <span class='primary'>id</span>,
+    <span class='normal'>quotation</span>,
+    <span class='normal'>storage_place</span>,
+    <span class='normal'>name</span>
+  )
+</div>
+<div>
+  <span class='relation'>E74_GROUP</span> (
+    <span class='primary'>id</span>,
+    <span class='normal'>type</span>,
+    <span class='normal'>name</span>
+  )
+</div>
+<div>
+  <span class='relation'>IS_PART_OF</span> (
+    <span class='foreign primary'>id</span>,
+    <span class='foreign primary'>id poele</span>
+  )
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+E21_PERSON : id, surname, forename, addName
+
+PERSON_OCCUPIES, 11 E21_PERSON, 11 E74_GROUP, 01 E74_GROUP, 11 E74_GROUP, 11 E31_DOCUMENT : page, column, line, quote, date
+E31_DOCUMENT : id, quotation, storage_place, name
+
+
+E74_GROUP : id, type, name
+IS_PART_OF, 0N E74_GROUP, 1N> [poele] E74_GROUP
