@@ -1652,8 +1652,7 @@ wisebach,['toponymic'],"['wisebach', 'wysebach']",
 wisemann,['cognominal'],"['wiseman', 'wisemann']",
 wissemburg,['toponymic'],"['wissemburg', 'wissenburg']",Wissembourg
 "wissemburg, von",['toponymic'],"['von wißenburg', 'wissemburg, von']",Wissembourg
-wissensee,[],['wissensee'],
-wissensel,['cognominal'],['wissensel'],
+wissensee,[],"['wissensee', 'wissensel']",
 "wiwersheim, von",['toponymic'],"['von wihersheim', 'wiwersheim, von', 'von wiferßheim']",Wiwersheim
 wo-er-tritt,['cognominal'],"['wohertritt', 'wo-er-tritt']",
 "wolfach, von",['toponymic'],"['von wolfach', 'wolfach, von']",Wolfach
