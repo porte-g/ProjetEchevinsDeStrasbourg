@@ -1,5 +1,5 @@
 # L'échevinat des métiers strasbourgeois
-Prosopographie numérique, extraction et réconciliation de données, analyse de classe.
+Prosopographie numérique, extraction et réconciliation de données, analyse de groupe.
 
 # Table des matières
 
