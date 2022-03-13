@@ -10,10 +10,8 @@ adam,['patronymic'],['adam'],
 adolff,['patronymic'],['adolff'],
 "alba, von",['toponymic'],"['von albe', 'alba, von']",Albe
 albrecht,['patronymic'],"['albreht', 'albrecht']",
-aler,[],['aler'],
-all-die-welt,['cognominal'],"['alle die welt', 'all-die-welt']",
-aller,[],"['aller', 'aller']",
-allewelt,['cognominal'],['allewelt'],
+aller,[],"['aller', 'aler']",
+allewelt,['cognominal'],"['allewelt', 'alle die welt', 'all-die-welt']",
 "alsheim, von",['toponymic'],"['von alsheim', 'alsheim, von']",Alsheim
 altensteig,['cognominal'],['altensteig'],
 altenstein,['toponymic'],['altenstein'],
@@ -55,15 +53,13 @@ baldorf,['toponymic'],"['baldorff', 'baldorf']",
 baltener,[],['baltener'],
 "barfüssern, vor den",['toponymic'],"['vor den barfüsser', 'barfüssern, vor den']",
 barpfennig,['cognominal'],"['barpfennig', 'barpfenning']",
-"barr, von",['toponymic'],"['von bach', 'barr, von', 'von barr']",Barr
-"barre, von",['toponymic'],"['von barre', 'barre, von']",Barr
+"barr, von",['toponymic'],"['von bach', 'barr, von', 'von barr', 'von barre', 'barre, von']",Barr
 "basel, von",['toponymic'],"['von basel', 'basel, von']",Basel
 baseler,['toponymic'],['baseler'],Bâle
 baudemer,['occupational'],"['bödemer', 'baudemer']",
 bauer,['occupational'],"['boüer', 'bauer', 'bür']",
 bauman,['occupational'],"['buman', 'bauman', 'büman', 'bümans']",
-baumber,[],"['boͧmber', 'baumber']",
-baumer,['occupational'],"['boͧmer', 'baumer', 'bömer']",
+baumer,['occupational'],"['boͧmer', 'baumer', 'bömer', 'boͧmber', 'baumber']",
 baumgarter,['occupational'],"['bömgarter', 'baumgarter', 'boͧmgarter', 'bomgarter']",
 baumhammer,['occupational'],"['bömhemmer', 'baumhammer']",
 becher,['occupational'],['becher'],
