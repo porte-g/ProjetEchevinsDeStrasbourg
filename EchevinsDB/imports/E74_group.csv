@@ -1,0 +1,74 @@
+id,name,type,sous-type,is_part_of
+group_01,conseil de la ville,institution,conseil,
+group_02,conseil des XIII,institution,conseil,
+group_03,conseil des XV,institution,conseil,
+group_04,conseil des XXI,institution,conseil,
+group_05,corporation des marchands,institution,corporation,
+group_06,corporation des boulangers,institution,corporation,
+group_07,corporation des bouchers,institution,corporation,
+group_08,corporation des tonneliers,institution,corporation,
+group_09,corporation des drapiers,institution,corporation,
+group_10,corporation des tanneurs,institution,corporation,
+group_11,corporation des cabaretiers,institution,corporation,
+group_12,corporation des maçons,institution,corporation,
+group_13,corporation des forgerons,institution,corporation,
+group_14,corporation des tailleurs,institution,corporation,
+group_15,corporation des bateliers,institution,corporation,
+group_16,corporation des pelletiers,institution,corporation,
+group_17,corporation des charpentiers,institution,corporation,
+group_18,corporation des crieurs et mesureurs de vin,institution,corporation,
+group_19,corporation des cordonniers,institution,corporation,
+group_20,corporation des orfevres,institution,corporation,
+group_21,corporation des marchands de grains,institution,corporation,
+group_22,corporation des jardiniers,institution,corporation,
+group_23,corporation des pêcheurs,institution,corporation,
+group_24,corporation des barbiers et baigneurs,institution,corporation,
+group_25,corporation des sauniers,institution,corporation,
+group_26,corporation des tisserands,institution,corporation,
+group_27,corporation des gourmets et courtiers,institution,corporation,
+group_28,corporation des charrons,institution,corporation,
+group_29,corporation des regrattiers cordiers et fruitiers,institution,corporation,
+group_30,corporation des coltineurs de tonneaux,institution,corporation,
+group_31,corporation des constructeurs de bateaux,institution,corporation,
+group_32,corporation des huiliers meuniers et tondeurs de draps,institution,corporation,
+group_33,poele am Oberstaden,institution,poele,group_23
+group_34,poele an der Steinstraße,institution,poele,group_22
+group_35,poele Hinter Sankt Kathrinen,institution,poele,group_23
+group_36,poele in der Krutenau,institution,poele,group_22
+group_37,poele in der Ruprechtsau,institution,poele,group_22
+group_38,poele Unter Wagener,institution,poele,group_22
+group_39,poele zum Anker,institution,poele,group_15
+group_40,poele zum Freiburger,institution,poele,group_11
+group_41,poele zum Hirtzhorn,institution,poele,group_15
+group_42,poele zum Holtzapfel,institution,poele,group_15
+group_43,poele zum Schiff,institution,poele,group_15
+group_44,poele zum Spiegel,institution,poele,group_05
+group_45,poele zum Teich,institution,poele,group_23
+group_46,poele zur Blume,institution,poele,group_07
+group_47,poele zur Waseneck,institution,poele,group_23
+group_48,ammeistre,fonction,magistrature,
+group_49,conseiller,fonction,magistrature,
+group_50,echevin,fonction,office,
+group_51,sire,fonction,dignite,
+group_52,ancien ammeistre,fonction,dignite,
+group_53,maître,fonction,dignite,
+group_54,arbalétrier,fonction,metier,
+group_55,carreleur,fonction,metier,
+group_56,maître de la douane,fonction,office,
+group_58,maître de la monnaie,fonction,office,
+group_59,économe,fonction,office,
+group_60,schultheiss,fonction,office,
+group_61,maître des écuries,fonction,office,
+group_62,maître de la taille,fonction,office,
+group_63,baigneur,fonction,metier,
+group_64,barbier,fonction,metier,
+group_65,cordier,fonction,metier,
+group_66,crieur de vin,fonction,metier,
+group_67,fruitier,fonction,metier,
+group_68,huilier,fonction,metier,
+group_69,mesureur de vin,fonction,metier,
+group_70,meunier,fonction,metier,
+group_71,orfevre,fonction,metier,
+group_72,peintre de bouclier,fonction,metier,
+group_73,regrattier,fonction,metier,
+group_74,tondeur de draps,fonction,metier,
