@@ -1,0 +1,19 @@
+% Copy this before \begin{document}
+
+\usepackage[normalem]{ulem}
+\newenvironment{mld}
+  {\par\begin{minipage}{\linewidth}\begin{tabular}{rp{0.7\linewidth}}}
+  {\end{tabular}\end{minipage}\par}
+\newcommand{\relat}[1]{\textsc{#1}}
+\newcommand{\attr}[1]{\emph{#1}}
+\newcommand{\prim}[1]{\uline{#1}}
+\newcommand{\foreign}[1]{\#\textsl{#1}}
+
+% Copy that after \begin{document}
+
+\begin{mld}
+  E21\_person & (\prim{id}, \attr{surname}, \attr{forename}, \attr{addName}, \foreign{id.1}, \foreign{id.2}, \foreign{id.3}, \foreign{id.4}, \attr{page}, \attr{column}, \attr{line}, \attr{quote}, \attr{date})\\
+  E31\_document & (\prim{id}, \attr{quotation}, \attr{storage\_place}, \attr{name})\\
+  E74\_group & (\prim{id}, \attr{type}, \attr{name})\\
+  Is\_part\_of & (\foreign{\prim{id}}, \foreign{\prim{id poele}})\\
+\end{mld}

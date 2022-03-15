@@ -1,0 +1,16 @@
+%%mocodo
+:
+E21_PERSON: id, surname, forename, addName, #id.1->E74_GROUP->id, #id.2->E74_GROUP->id, #id.3->E74_GROUP->id, #id.4->E31_DOCUMENT->id, page, column, line, quote, date
+:::
+
+
+:::
+E31_DOCUMENT: id, quotation, storage_place, name
+:
+
+
+:
+E74_GROUP: id, type, name
+:
+IS_PART_OF: #id->E74_GROUP->id, _#id poele->E74_GROUP->id
+:
