@@ -211,8 +211,8 @@ bürner,['occupational'],['bürner'],
 bürnheimer,['toponymic'],['bürnheimer'],
 büsch,['cognominal'],"['büsche', 'büsch']",
 büttener,[],"['bùttener', 'büttener', 'buttener', 'buttenerin']",
-cappel,['toponymic'],"['kappel', 'cappel']",
-"cappel, von",['toponymic'],"['von cappel', 'cappel, von']",
+cappel,['toponymic'],"['kappel', 'cappel']",Kappel
+"cappel, von",['toponymic'],"['von cappel', 'cappel, von']",Kappel
 carsex,[],['carsex'],
 claus,['patronymic'],"['claus', 'claüs']",
 "colle, von",['toponymic'],"['von colle', 'colle, von', 'von kolle', 'von kelle']",
